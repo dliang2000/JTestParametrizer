@@ -1,0 +1,1340 @@
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:37:324 NODE_KIND:153 nVARs:60 NUM_NODE:5277 TBID:130 TEID:2095
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:37:324 NODE_KIND:182 nVARs:60 NUM_NODE:5276 TBID:130 TEID:2095
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZxidRolloverTest.java LINE:43:404 NODE_KIND:153 nVARs:92 NUM_NODE:5507 TBID:168 TEID:1966
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZxidRolloverTest.java LINE:43:404 NODE_KIND:182 nVARs:92 NUM_NODE:5506 TBID:168 TEID:1966
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigLegacyTest.java LINE:41:271 NODE_KIND:153 nVARs:90 NUM_NODE:5482 TBID:162 TEID:1940
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigLegacyTest.java LINE:41:271 NODE_KIND:182 nVARs:90 NUM_NODE:5481 TBID:162 TEID:1940
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateContainerTest.java LINE:32:250 NODE_KIND:153 nVARs:122 NUM_NODE:5161 TBID:84 TEID:1967
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateContainerTest.java LINE:32:250 NODE_KIND:182 nVARs:122 NUM_NODE:5160 TBID:84 TEID:1967
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateTTLTest.java LINE:44:224 NODE_KIND:153 nVARs:118 NUM_NODE:5185 TBID:202 TEID:2000
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateTTLTest.java LINE:44:224 NODE_KIND:182 nVARs:118 NUM_NODE:5184 TBID:202 TEID:2000
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/HierarchicalQuorumTest.java LINE:40:280 NODE_KIND:153 nVARs:116 NUM_NODE:5247 TBID:165 TEID:1927
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/HierarchicalQuorumTest.java LINE:40:280 NODE_KIND:182 nVARs:116 NUM_NODE:5246 TBID:165 TEID:1927
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/JaasConfiguration.java LINE:37:39 NODE_KIND:153 nVARs:26 NUM_NODE:511 TBID:45 TEID:251
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/JaasConfiguration.java LINE:37:39 NODE_KIND:182 nVARs:26 NUM_NODE:510 TBID:45 TEID:251
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/InvalidSnapshotTest.java LINE:39:46 NODE_KIND:153 nVARs:37 NUM_NODE:520 TBID:94 TEID:297
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/InvalidSnapshotTest.java LINE:39:46 NODE_KIND:182 nVARs:37 NUM_NODE:519 TBID:94 TEID:297
+
+000000017	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperThreadTest.java LINE:28:58 NODE_KIND:153 nVARs:33 NUM_NODE:500 TBID:50 TEID:283
+000000018	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperThreadTest.java LINE:28:58 NODE_KIND:182 nVARs:33 NUM_NODE:499 TBID:50 TEID:283
+
+000000040	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:105:33 NODE_KIND:121 nVARs:22 NUM_NODE:488 TBID:474 TEID:653
+000000039	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:104:35 NODE_KIND:113 nVARs:23 NUM_NODE:495 TBID:468 TEID:654
+
+000000043	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:169:38 NODE_KIND:121 nVARs:28 NUM_NODE:496 TBID:844 TEID:1047
+000000044	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:170:36 NODE_KIND:121 nVARs:28 NUM_NODE:494 TBID:845 TEID:1046
+
+000000054	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientHammerTest.java LINE:156:30 NODE_KIND:121 nVARs:27 NUM_NODE:490 TBID:677 TEID:840
+000000053	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientHammerTest.java LINE:154:33 NODE_KIND:113 nVARs:29 NUM_NODE:503 TBID:667 TEID:841
+
+000000057	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/TestHammer.java LINE:28:34 NODE_KIND:182 nVARs:34 NUM_NODE:487 TBID:60 TEID:251
+000000056	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/TestHammer.java LINE:28:34 NODE_KIND:153 nVARs:34 NUM_NODE:488 TBID:60 TEID:251
+
+000000060	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ObserverLETest.java LINE:31:46 NODE_KIND:153 nVARs:41 NUM_NODE:501 TBID:82 TEID:292
+000000061	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ObserverLETest.java LINE:31:46 NODE_KIND:182 nVARs:41 NUM_NODE:500 TBID:82 TEID:292
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ByteBufferInputStreamTest.java LINE:29:115 NODE_KIND:153 nVARs:49 NUM_NODE:2706 TBID:72 TEID:1058
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ByteBufferInputStreamTest.java LINE:29:115 NODE_KIND:182 nVARs:49 NUM_NODE:2705 TBID:72 TEID:1058
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumKerberosHostBasedAuthTest.java LINE:42:143 NODE_KIND:153 nVARs:92 NUM_NODE:2621 TBID:177 TEID:1104
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumKerberosHostBasedAuthTest.java LINE:42:143 NODE_KIND:182 nVARs:92 NUM_NODE:2620 TBID:177 TEID:1104
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumDigestAuthTest.java LINE:41:182 NODE_KIND:153 nVARs:71 NUM_NODE:2569 TBID:193 TEID:1190
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumDigestAuthTest.java LINE:41:182 NODE_KIND:182 nVARs:71 NUM_NODE:2568 TBID:193 TEID:1190
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/MiniKdcTest.java LINE:47:139 NODE_KIND:153 nVARs:78 NUM_NODE:2520 TBID:168 TEID:1114
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/MiniKdcTest.java LINE:47:139 NODE_KIND:182 nVARs:78 NUM_NODE:2519 TBID:168 TEID:1114
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/RaceConditionTest.java LINE:51:201 NODE_KIND:153 nVARs:121 NUM_NODE:2696 TBID:233 TEID:1231
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/RaceConditionTest.java LINE:51:201 NODE_KIND:182 nVARs:121 NUM_NODE:2695 TBID:233 TEID:1231
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumRequestPipelineTest.java LINE:43:150 NODE_KIND:153 nVARs:90 NUM_NODE:2607 TBID:182 TEID:1083
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumRequestPipelineTest.java LINE:43:150 NODE_KIND:182 nVARs:90 NUM_NODE:2606 TBID:182 TEID:1083
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncHammerTest.java LINE:42:203 NODE_KIND:153 nVARs:86 NUM_NODE:2587 TBID:185 TEID:1243
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncHammerTest.java LINE:42:203 NODE_KIND:182 nVARs:86 NUM_NODE:2586 TBID:185 TEID:1243
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOps.java LINE:49:779 NODE_KIND:153 nVARs:160 NUM_NODE:10767 TBID:257 TEID:4400
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOps.java LINE:49:779 NODE_KIND:182 nVARs:160 NUM_NODE:10766 TBID:257 TEID:4400
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/TimeTest.java LINE:49:61 NODE_KIND:153 nVARs:60 NUM_NODE:1013 TBID:104 TEID:508
+000000002	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/TimeTest.java LINE:49:61 NODE_KIND:182 nVARs:60 NUM_NODE:1012 TBID:104 TEID:508
+
+000000014	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerTest.java LINE:36:52 NODE_KIND:153 nVARs:42 NUM_NODE:1007 TBID:120 TEID:445
+000000015	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerTest.java LINE:36:52 NODE_KIND:182 nVARs:42 NUM_NODE:1006 TBID:120 TEID:445
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/EphemeralTypeTest.java LINE:27:58 NODE_KIND:153 nVARs:45 NUM_NODE:971 TBID:46 TEID:425
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/EphemeralTypeTest.java LINE:27:58 NODE_KIND:182 nVARs:45 NUM_NODE:970 TBID:46 TEID:425
+
+000000021	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateModeTest.java LINE:30:62 NODE_KIND:153 nVARs:31 NUM_NODE:969 TBID:68 TEID:487
+000000022	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateModeTest.java LINE:30:62 NODE_KIND:182 nVARs:31 NUM_NODE:968 TBID:68 TEID:487
+
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatchedEventTest.java LINE:31:64 NODE_KIND:153 nVARs:32 NUM_NODE:983 TBID:85 TEID:465
+000000027	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatchedEventTest.java LINE:31:64 NODE_KIND:182 nVARs:32 NUM_NODE:982 TBID:85 TEID:465
+
+000000036	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DuplicateLocalSessionUpgradeTest.java LINE:40:74 NODE_KIND:153 nVARs:59 NUM_NODE:1030 TBID:111 TEID:489
+000000037	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DuplicateLocalSessionUpgradeTest.java LINE:40:74 NODE_KIND:182 nVARs:59 NUM_NODE:1029 TBID:111 TEID:489
+
+000000040	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLETest.java LINE:128:106 NODE_KIND:121 nVARs:41 NUM_NODE:983 TBID:622 TEID:1010
+000000041	dist:3.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLETest.java LINE:128:106 NODE_KIND:121 nVARs:41 NUM_NODE:969 TBID:626 TEID:1010
+
+000000048	dist:4.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZooKeeperQuotaTest.java LINE:37:42 NODE_KIND:113 nVARs:46 NUM_NODE:996 TBID:123 TEID:468
+000000046	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZooKeeperQuotaTest.java LINE:35:45 NODE_KIND:153 nVARs:48 NUM_NODE:1009 TBID:117 TEID:469
+000000047	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZooKeeperQuotaTest.java LINE:35:45 NODE_KIND:182 nVARs:48 NUM_NODE:1008 TBID:117 TEID:469
+
+000000049	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOps.java LINE:273:85 NODE_KIND:182 nVARs:41 NUM_NODE:1022 TBID:1269 TEID:1687
+000000050	dist:2.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOps.java LINE:359:85 NODE_KIND:182 nVARs:43 NUM_NODE:1026 TBID:1688 TEID:2109
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatcherTest.java LINE:44:367 NODE_KIND:153 nVARs:130 NUM_NODE:6271 TBID:202 TEID:2478
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatcherTest.java LINE:44:367 NODE_KIND:182 nVARs:130 NUM_NODE:6270 TBID:202 TEID:2478
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:56:815 NODE_KIND:153 nVARs:200 NUM_NODE:15490 TBID:331 TEID:5747
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:56:815 NODE_KIND:182 nVARs:200 NUM_NODE:15489 TBID:331 TEID:5747
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MultiTransactionTest.java LINE:58:749 NODE_KIND:153 nVARs:183 NUM_NODE:15741 TBID:318 TEID:5477
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MultiTransactionTest.java LINE:58:749 NODE_KIND:182 nVARs:183 NUM_NODE:15740 TBID:318 TEID:5477
+
+
+000000003	dist:8.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:446:27 NODE_KIND:113 nVARs:32 NUM_NODE:812 TBID:2944 TEID:3192
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:173:33 NODE_KIND:113 nVARs:39 NUM_NODE:828 TBID:1022 TEID:1281
+
+000000010	dist:7.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignmentTest.java LINE:42:14 NODE_KIND:121 nVARs:3 NUM_NODE:807 TBID:123 TEID:312
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignmentTest.java LINE:40:17 NODE_KIND:113 nVARs:6 NUM_NODE:828 TBID:109 TEID:313
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DatadirCleanupManagerTest.java LINE:35:58 NODE_KIND:153 nVARs:30 NUM_NODE:846 TBID:112 TEID:430
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DatadirCleanupManagerTest.java LINE:35:58 NODE_KIND:182 nVARs:30 NUM_NODE:845 TBID:112 TEID:430
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerConfigTest.java LINE:33:80 NODE_KIND:153 nVARs:32 NUM_NODE:843 TBID:95 TEID:432
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerConfigTest.java LINE:33:80 NODE_KIND:182 nVARs:32 NUM_NODE:842 TBID:95 TEID:432
+
+000000024	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RestoreCommittedLogTest.java LINE:41:43 NODE_KIND:153 nVARs:55 NUM_NODE:865 TBID:146 TEID:450
+000000025	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RestoreCommittedLogTest.java LINE:41:43 NODE_KIND:182 nVARs:55 NUM_NODE:864 TBID:146 TEID:450
+
+000000027	dist:8.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:203:37 NODE_KIND:121 nVARs:33 NUM_NODE:824 TBID:1348 TEID:1648
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:200:41 NODE_KIND:113 nVARs:37 NUM_NODE:855 TBID:1333 TEID:1649
+
+000000030	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthDesignatedServerTest.java LINE:39:66 NODE_KIND:153 nVARs:55 NUM_NODE:799 TBID:153 TEID:467
+000000031	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthDesignatedServerTest.java LINE:39:66 NODE_KIND:182 nVARs:55 NUM_NODE:798 TBID:153 TEID:467
+
+000000036	dist:4.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumQuotaTest.java LINE:33:26 NODE_KIND:113 nVARs:29 NUM_NODE:854 TBID:96 TEID:379
+000000034	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumQuotaTest.java LINE:31:29 NODE_KIND:153 nVARs:31 NUM_NODE:867 TBID:90 TEID:380
+000000035	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumQuotaTest.java LINE:31:29 NODE_KIND:182 nVARs:31 NUM_NODE:866 TBID:90 TEID:380
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignment.java LINE:30:181 NODE_KIND:153 nVARs:51 NUM_NODE:1566 TBID:53 TEID:598
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignment.java LINE:30:181 NODE_KIND:182 nVARs:51 NUM_NODE:1565 TBID:53 TEID:598
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/admin/JettyAdminServerTest.java LINE:39:124 NODE_KIND:153 nVARs:61 NUM_NODE:1518 TBID:149 TEID:718
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/admin/JettyAdminServerTest.java LINE:39:124 NODE_KIND:182 nVARs:61 NUM_NODE:1517 TBID:149 TEID:718
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/FileTxnLogTest.java LINE:37:75 NODE_KIND:153 nVARs:53 NUM_NODE:1471 TBID:135 TEID:636
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/FileTxnLogTest.java LINE:37:75 NODE_KIND:182 nVARs:53 NUM_NODE:1470 TBID:135 TEID:636
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/GetProposalFromTxnTest.java LINE:48:90 NODE_KIND:153 nVARs:84 NUM_NODE:1502 TBID:212 TEID:729
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/GetProposalFromTxnTest.java LINE:48:90 NODE_KIND:182 nVARs:84 NUM_NODE:1501 TBID:212 TEID:729
+
+000000014	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LocalSessionsOnlyTest.java LINE:43:95 NODE_KIND:153 nVARs:73 NUM_NODE:1461 TBID:125 TEID:677
+000000015	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LocalSessionsOnlyTest.java LINE:43:95 NODE_KIND:182 nVARs:73 NUM_NODE:1460 TBID:125 TEID:677
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslSuperUserTest.java LINE:41:96 NODE_KIND:153 nVARs:62 NUM_NODE:1579 TBID:171 TEID:722
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslSuperUserTest.java LINE:41:96 NODE_KIND:182 nVARs:62 NUM_NODE:1578 TBID:171 TEID:722
+
+000000018	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/StandaloneTest.java LINE:47:121 NODE_KIND:153 nVARs:71 NUM_NODE:1487 TBID:198 TEID:751
+000000019	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/StandaloneTest.java LINE:47:121 NODE_KIND:182 nVARs:71 NUM_NODE:1486 TBID:198 TEID:751
+
+000000021	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsTest.java LINE:50:67 NODE_KIND:113 nVARs:13 NUM_NODE:1468 TBID:186 TEID:582
+000000028	dist:2.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsWhiteListTest.java LINE:143:66 NODE_KIND:113 nVARs:13 NUM_NODE:1465 TBID:596 TEID:990
+
+000000024	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateTest.java LINE:31:85 NODE_KIND:153 nVARs:53 NUM_NODE:1475 TBID:79 TEID:629
+000000025	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateTest.java LINE:31:85 NODE_KIND:182 nVARs:53 NUM_NODE:1474 TBID:79 TEID:629
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignment.java LINE:30:181 NODE_KIND:153 nVARs:51 NUM_NODE:1566 TBID:53 TEID:598
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignment.java LINE:30:181 NODE_KIND:182 nVARs:51 NUM_NODE:1565 TBID:53 TEID:598
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LeaderBeanTest.java LINE:46:106 NODE_KIND:153 nVARs:75 NUM_NODE:1612 TBID:227 TEID:817
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LeaderBeanTest.java LINE:46:106 NODE_KIND:182 nVARs:75 NUM_NODE:1611 TBID:227 TEID:817
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SyncCallTest.java LINE:40:83 NODE_KIND:153 nVARs:61 NUM_NODE:1650 TBID:164 TEID:794
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SyncCallTest.java LINE:40:83 NODE_KIND:182 nVARs:61 NUM_NODE:1649 TBID:164 TEID:794
+
+000000011	dist:8.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:127:71 NODE_KIND:121 nVARs:41 NUM_NODE:1660 TBID:724 TEID:1331
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:124:75 NODE_KIND:113 nVARs:45 NUM_NODE:1691 TBID:709 TEID:1332
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslSuperUserTest.java LINE:41:96 NODE_KIND:153 nVARs:62 NUM_NODE:1579 TBID:171 TEID:722
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslSuperUserTest.java LINE:41:96 NODE_KIND:182 nVARs:62 NUM_NODE:1578 TBID:171 TEID:722
+
+000000015	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOpsTest.java LINE:40:232 NODE_KIND:153 nVARs:105 NUM_NODE:1683 TBID:186 TEID:1107
+000000016	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOpsTest.java LINE:40:232 NODE_KIND:182 nVARs:105 NUM_NODE:1682 TBID:186 TEID:1107
+
+000000018	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthDesignatedClientTest.java LINE:39:128 NODE_KIND:153 nVARs:78 NUM_NODE:1630 TBID:151 TEID:807
+000000019	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthDesignatedClientTest.java LINE:39:128 NODE_KIND:182 nVARs:78 NUM_NODE:1629 TBID:151 TEID:807
+
+000000025	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LeaderSessionTrackerTest.java LINE:49:115 NODE_KIND:153 nVARs:71 NUM_NODE:1668 TBID:187 TEID:775
+000000026	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LeaderSessionTrackerTest.java LINE:49:115 NODE_KIND:182 nVARs:71 NUM_NODE:1667 TBID:187 TEID:775
+
+000000027	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AtomicFileOutputStreamTest.java LINE:37:164 NODE_KIND:153 nVARs:52 NUM_NODE:1636 TBID:125 TEID:797
+000000028	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AtomicFileOutputStreamTest.java LINE:37:164 NODE_KIND:182 nVARs:52 NUM_NODE:1635 TBID:125 TEID:797
+
+000000029	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MultiAsyncTransactionTest.java LINE:40:96 NODE_KIND:153 nVARs:60 NUM_NODE:1677 TBID:164 TEID:803
+000000030	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MultiAsyncTransactionTest.java LINE:40:96 NODE_KIND:182 nVARs:60 NUM_NODE:1676 TBID:164 TEID:803
+
+
+000000001	dist:4.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:177:63 NODE_KIND:121 nVARs:34 NUM_NODE:1310 TBID:540 TEID:1012
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:175:66 NODE_KIND:113 nVARs:36 NUM_NODE:1320 TBID:532 TEID:1013
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerBeanTest.java LINE:38:107 NODE_KIND:153 nVARs:63 NUM_NODE:1400 TBID:145 TEID:631
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerBeanTest.java LINE:38:107 NODE_KIND:182 nVARs:63 NUM_NODE:1399 TBID:145 TEID:631
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/SessionTrackerTest.java LINE:38:119 NODE_KIND:153 nVARs:66 NUM_NODE:1372 TBID:108 TEID:612
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/SessionTrackerTest.java LINE:38:119 NODE_KIND:182 nVARs:66 NUM_NODE:1371 TBID:108 TEID:612
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SSLAuthTest.java LINE:33:69 NODE_KIND:153 nVARs:47 NUM_NODE:1293 TBID:104 TEID:572
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SSLAuthTest.java LINE:33:69 NODE_KIND:182 nVARs:47 NUM_NODE:1292 TBID:104 TEID:572
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/VerGenTest.java LINE:38:42 NODE_KIND:153 nVARs:36 NUM_NODE:1069 TBID:95 TEID:438
+000000002	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/VerGenTest.java LINE:38:42 NODE_KIND:182 nVARs:36 NUM_NODE:1068 TBID:95 TEID:438
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/TimeTest.java LINE:49:61 NODE_KIND:153 nVARs:60 NUM_NODE:1013 TBID:104 TEID:508
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/TimeTest.java LINE:49:61 NODE_KIND:182 nVARs:60 NUM_NODE:1012 TBID:104 TEID:508
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumServerTest.java LINE:27:60 NODE_KIND:153 nVARs:17 NUM_NODE:1072 TBID:74 TEID:420
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumServerTest.java LINE:27:60 NODE_KIND:182 nVARs:17 NUM_NODE:1071 TBID:74 TEID:420
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/StatResetCommandTest.java LINE:38:74 NODE_KIND:153 nVARs:41 NUM_NODE:1083 TBID:151 TEID:550
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/StatResetCommandTest.java LINE:38:74 NODE_KIND:182 nVARs:41 NUM_NODE:1082 TBID:151 TEID:550
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/CommitProcessorConcurrencyTest.java LINE:45:98 NODE_KIND:153 nVARs:70 NUM_NODE:1066 TBID:215 TEID:654
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/CommitProcessorConcurrencyTest.java LINE:45:98 NODE_KIND:182 nVARs:70 NUM_NODE:1065 TBID:215 TEID:654
+
+000000023	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SyncCallTest.java LINE:51:35 NODE_KIND:121 nVARs:38 NUM_NODE:1053 TBID:219 TEID:566
+000000022	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SyncCallTest.java LINE:49:38 NODE_KIND:113 nVARs:41 NUM_NODE:1066 TBID:209 TEID:567
+
+000000029	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLCountTest.java LINE:43:69 NODE_KIND:153 nVARs:66 NUM_NODE:1059 TBID:183 TEID:577
+000000030	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLCountTest.java LINE:43:69 NODE_KIND:182 nVARs:66 NUM_NODE:1058 TBID:183 TEID:577
+
+000000038	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DuplicateLocalSessionUpgradeTest.java LINE:40:74 NODE_KIND:153 nVARs:59 NUM_NODE:1030 TBID:111 TEID:489
+000000039	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DuplicateLocalSessionUpgradeTest.java LINE:40:74 NODE_KIND:182 nVARs:59 NUM_NODE:1029 TBID:111 TEID:489
+
+000000044	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLETest.java LINE:126:112 NODE_KIND:121 nVARs:47 NUM_NODE:1071 TBID:615 TEID:1042
+000000043	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLETest.java LINE:125:114 NODE_KIND:113 nVARs:48 NUM_NODE:1078 TBID:609 TEID:1043
+
+000000046	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEPredicateTest.java LINE:38:71 NODE_KIND:153 nVARs:44 NUM_NODE:1061 TBID:137 TEID:480
+000000047	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEPredicateTest.java LINE:38:71 NODE_KIND:182 nVARs:44 NUM_NODE:1060 TBID:137 TEID:480
+
+000000050	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOps.java LINE:273:85 NODE_KIND:182 nVARs:41 NUM_NODE:1022 TBID:1269 TEID:1687
+000000051	dist:2.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOps.java LINE:359:85 NODE_KIND:182 nVARs:43 NUM_NODE:1026 TBID:1688 TEID:2109
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZKParameterized.java LINE:32:27 NODE_KIND:153 nVARs:29 NUM_NODE:290 TBID:94 TEID:229
+000000002	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZKParameterized.java LINE:32:27 NODE_KIND:182 nVARs:29 NUM_NODE:289 TBID:94 TEID:229
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:293:12 NODE_KIND:121 nVARs:19 NUM_NODE:288 TBID:1989 TEID:2088
+000000017	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:319:12 NODE_KIND:121 nVARs:19 NUM_NODE:288 TBID:2209 TEID:2308
+
+000000027	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectableZooKeeper.java LINE:26:33 NODE_KIND:153 nVARs:23 NUM_NODE:276 TBID:34 TEID:162
+000000028	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectableZooKeeper.java LINE:26:33 NODE_KIND:182 nVARs:23 NUM_NODE:275 TBID:34 TEID:162
+
+000000032	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ChrootClientTest.java LINE:28:27 NODE_KIND:153 nVARs:28 NUM_NODE:283 TBID:59 TEID:176
+000000033	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ChrootClientTest.java LINE:28:27 NODE_KIND:182 nVARs:28 NUM_NODE:282 TBID:59 TEID:176
+
+000000037	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLTest.java LINE:120:12 NODE_KIND:121 nVARs:17 NUM_NODE:298 TBID:752 TEID:859
+000000038	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLTest.java LINE:150:12 NODE_KIND:121 nVARs:17 NUM_NODE:298 TBID:992 TEID:1099
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:251:27 NODE_KIND:113 nVARs:31 NUM_NODE:859 TBID:1561 TEID:1818
+000000002	dist:9.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:508:34 NODE_KIND:113 nVARs:35 NUM_NODE:866 TBID:3435 TEID:3706
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:917:56 NODE_KIND:113 nVARs:44 NUM_NODE:861 TBID:5948 TEID:6259
+000000004	dist:8.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:978:56 NODE_KIND:113 nVARs:45 NUM_NODE:893 TBID:6260 TEID:6583
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/PathUtilsTest.java LINE:24:106 NODE_KIND:153 nVARs:27 NUM_NODE:897 TBID:25 TEID:456
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/PathUtilsTest.java LINE:24:106 NODE_KIND:182 nVARs:27 NUM_NODE:896 TBID:25 TEID:456
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DatadirCleanupManagerTest.java LINE:35:58 NODE_KIND:153 nVARs:30 NUM_NODE:846 TBID:112 TEID:430
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DatadirCleanupManagerTest.java LINE:35:58 NODE_KIND:182 nVARs:30 NUM_NODE:845 TBID:112 TEID:430
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerConfigTest.java LINE:33:80 NODE_KIND:153 nVARs:32 NUM_NODE:843 TBID:95 TEID:432
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerConfigTest.java LINE:33:80 NODE_KIND:182 nVARs:32 NUM_NODE:842 TBID:95 TEID:432
+
+000000016	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:520:36 NODE_KIND:121 nVARs:41 NUM_NODE:870 TBID:2976 TEID:3273
+000000015	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:518:39 NODE_KIND:113 nVARs:43 NUM_NODE:883 TBID:2966 TEID:3274
+
+000000019	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/InvalidSnapCountTest.java LINE:42:82 NODE_KIND:153 nVARs:52 NUM_NODE:893 TBID:130 TEID:495
+000000020	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/InvalidSnapCountTest.java LINE:42:82 NODE_KIND:182 nVARs:52 NUM_NODE:892 TBID:130 TEID:495
+
+000000024	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RestoreCommittedLogTest.java LINE:41:43 NODE_KIND:153 nVARs:55 NUM_NODE:865 TBID:146 TEID:450
+000000025	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RestoreCommittedLogTest.java LINE:41:43 NODE_KIND:182 nVARs:55 NUM_NODE:864 TBID:146 TEID:450
+
+000000034	dist:4.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumQuotaTest.java LINE:33:26 NODE_KIND:113 nVARs:29 NUM_NODE:854 TBID:96 TEID:379
+000000032	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumQuotaTest.java LINE:31:29 NODE_KIND:153 nVARs:31 NUM_NODE:867 TBID:90 TEID:380
+000000033	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumQuotaTest.java LINE:31:29 NODE_KIND:182 nVARs:31 NUM_NODE:866 TBID:90 TEID:380
+
+000000040	dist:5.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:631:33 NODE_KIND:121 nVARs:24 NUM_NODE:902 TBID:3622 TEID:3937
+000000039	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:631:33 NODE_KIND:121 nVARs:25 NUM_NODE:922 TBID:3615 TEID:3937
+
+000000044	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientPortBindTest.java LINE:40:67 NODE_KIND:153 nVARs:56 NUM_NODE:870 TBID:142 TEID:480
+000000045	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientPortBindTest.java LINE:40:67 NODE_KIND:182 nVARs:56 NUM_NODE:869 TBID:142 TEID:480
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigDuringLeaderSyncTest.java LINE:47:223 NODE_KIND:153 nVARs:136 NUM_NODE:3239 TBID:240 TEID:1427
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigDuringLeaderSyncTest.java LINE:47:223 NODE_KIND:182 nVARs:136 NUM_NODE:3238 TBID:240 TEID:1427
+
+000000003	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:583:131 NODE_KIND:121 nVARs:113 NUM_NODE:3388 TBID:3365 TEID:4535
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:581:134 NODE_KIND:113 nVARs:115 NUM_NODE:3401 TBID:3355 TEID:4536
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/JMXEnv.java LINE:43:280 NODE_KIND:153 nVARs:81 NUM_NODE:3325 TBID:153 TEID:1435
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/JMXEnv.java LINE:43:280 NODE_KIND:182 nVARs:81 NUM_NODE:3324 TBID:153 TEID:1435
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/StatTest.java LINE:31:175 NODE_KIND:153 nVARs:61 NUM_NODE:3452 TBID:79 TEID:1416
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/StatTest.java LINE:31:175 NODE_KIND:182 nVARs:61 NUM_NODE:3451 TBID:79 TEID:1416
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatchEventWhenAutoResetTest.java LINE:40:178 NODE_KIND:153 nVARs:78 NUM_NODE:3212 TBID:149 TEID:1281
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatchEventWhenAutoResetTest.java LINE:40:178 NODE_KIND:182 nVARs:78 NUM_NODE:3211 TBID:149 TEID:1281
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LoadFromLogNoServerTest.java LINE:49:128 NODE_KIND:153 nVARs:96 NUM_NODE:3380 TBID:251 TEID:1326
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LoadFromLogNoServerTest.java LINE:49:128 NODE_KIND:182 nVARs:96 NUM_NODE:3379 TBID:251 TEID:1326
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:446:27 NODE_KIND:113 nVARs:32 NUM_NODE:812 TBID:2944 TEID:3192
+000000001	dist:7.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:478:25 NODE_KIND:113 nVARs:32 NUM_NODE:785 TBID:3193 TEID:3434
+
+000000017	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/MultiTransactionRecordTest.java LINE:31:38 NODE_KIND:153 nVARs:41 NUM_NODE:786 TBID:71 TEID:359
+000000018	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/MultiTransactionRecordTest.java LINE:31:38 NODE_KIND:182 nVARs:41 NUM_NODE:785 TBID:71 TEID:359
+
+000000025	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthDesignatedServerTest.java LINE:39:66 NODE_KIND:153 nVARs:55 NUM_NODE:799 TBID:153 TEID:467
+000000026	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthDesignatedServerTest.java LINE:39:66 NODE_KIND:182 nVARs:55 NUM_NODE:798 TBID:153 TEID:467
+
+000000029	dist:7.9	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumTest.java LINE:204:32 NODE_KIND:121 nVARs:41 NUM_NODE:763 TBID:1184 TEID:1460
+000000028	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTest.java LINE:253:33 NODE_KIND:121 nVARs:38 NUM_NODE:749 TBID:1168 TEID:1428
+
+000000042	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:110:36 NODE_KIND:121 nVARs:33 NUM_NODE:751 TBID:586 TEID:817
+000000041	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:109:38 NODE_KIND:113 nVARs:34 NUM_NODE:758 TBID:580 TEID:818
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ServerConfigTest.java LINE:31:44 NODE_KIND:153 nVARs:27 NUM_NODE:624 TBID:69 TEID:309
+000000002	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ServerConfigTest.java LINE:31:44 NODE_KIND:182 nVARs:27 NUM_NODE:623 TBID:69 TEID:309
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/CustomHostProviderTest.java LINE:29:51 NODE_KIND:153 nVARs:39 NUM_NODE:628 TBID:75 TEID:330
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/CustomHostProviderTest.java LINE:29:51 NODE_KIND:182 nVARs:39 NUM_NODE:627 TBID:75 TEID:330
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ClientReconnectTest.java LINE:36:43 NODE_KIND:153 nVARs:46 NUM_NODE:668 TBID:114 TEID:369
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ClientReconnectTest.java LINE:36:43 NODE_KIND:182 nVARs:46 NUM_NODE:667 TBID:114 TEID:369
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerTest.java LINE:33:20 NODE_KIND:113 nVARs:13 NUM_NODE:653 TBID:96 TEID:283
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerTest.java LINE:54:20 NODE_KIND:113 nVARs:13 NUM_NODE:653 TBID:284 TEID:471
+
+000000012	dist:3.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesPathReportTest.java LINE:28:33 NODE_KIND:182 nVARs:26 NUM_NODE:634 TBID:70 TEID:302
+000000011	dist:2.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesPathReportTest.java LINE:28:33 NODE_KIND:153 nVARs:26 NUM_NODE:635 TBID:70 TEID:302
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesReportTest.java LINE:28:33 NODE_KIND:153 nVARs:26 NUM_NODE:635 TBID:70 TEID:302
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesReportTest.java LINE:28:33 NODE_KIND:182 nVARs:26 NUM_NODE:634 TBID:70 TEID:302
+
+000000023	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/KerberosTestUtils.java LINE:26:51 NODE_KIND:153 nVARs:29 NUM_NODE:645 TBID:38 TEID:283
+000000024	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/KerberosTestUtils.java LINE:26:51 NODE_KIND:182 nVARs:29 NUM_NODE:644 TBID:38 TEID:283
+
+000000029	dist:3.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LocalPeerBeanTest.java LINE:37:44 NODE_KIND:113 nVARs:33 NUM_NODE:661 TBID:86 TEID:315
+000000027	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LocalPeerBeanTest.java LINE:32:51 NODE_KIND:153 nVARs:34 NUM_NODE:671 TBID:82 TEID:316
+000000028	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LocalPeerBeanTest.java LINE:32:51 NODE_KIND:182 nVARs:34 NUM_NODE:670 TBID:82 TEID:316
+
+000000036	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/JUnit4ZKTestRunner.java LINE:65:40 NODE_KIND:153 nVARs:34 NUM_NODE:645 TBID:109 TEID:363
+000000037	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/JUnit4ZKTestRunner.java LINE:65:40 NODE_KIND:182 nVARs:34 NUM_NODE:644 TBID:109 TEID:363
+
+000000041	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumUtilTest.java LINE:36:59 NODE_KIND:153 nVARs:30 NUM_NODE:665 TBID:95 TEID:334
+000000042	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumUtilTest.java LINE:36:59 NODE_KIND:182 nVARs:30 NUM_NODE:664 TBID:95 TEID:334
+
+000000044	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLERestartTest.java LINE:99:50 NODE_KIND:121 nVARs:26 NUM_NODE:671 TBID:483 TEID:720
+000000045	dist:3.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLERestartTest.java LINE:99:50 NODE_KIND:121 nVARs:26 NUM_NODE:657 TBID:487 TEID:720
+
+000000046	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailNotifyTest.java LINE:35:64 NODE_KIND:153 nVARs:43 NUM_NODE:624 TBID:115 TEID:376
+000000047	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailNotifyTest.java LINE:35:64 NODE_KIND:182 nVARs:43 NUM_NODE:623 TBID:115 TEID:376
+
+000000051	dist:6.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLENewEpochTest.java LINE:95:50 NODE_KIND:121 nVARs:30 NUM_NODE:644 TBID:455 TEID:692
+000000050	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLENewEpochTest.java LINE:94:54 NODE_KIND:121 nVARs:33 NUM_NODE:661 TBID:453 TEID:706
+
+000000052	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLENewEpochTest.java LINE:95:50 NODE_KIND:121 nVARs:30 NUM_NODE:630 TBID:459 TEID:692
+000000051	dist:3.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLENewEpochTest.java LINE:95:50 NODE_KIND:121 nVARs:30 NUM_NODE:644 TBID:455 TEID:692
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ReferenceCountedACLCacheTest.java LINE:38:250 NODE_KIND:153 nVARs:90 NUM_NODE:4880 TBID:128 TEID:1776
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ReferenceCountedACLCacheTest.java LINE:38:250 NODE_KIND:182 nVARs:90 NUM_NODE:4879 TBID:128 TEID:1776
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesCmdTest.java LINE:38:308 NODE_KIND:153 nVARs:100 NUM_NODE:4759 TBID:116 TEID:1889
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesCmdTest.java LINE:38:308 NODE_KIND:182 nVARs:100 NUM_NODE:4758 TBID:116 TEID:1889
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumTest.java LINE:50:320 NODE_KIND:153 nVARs:143 NUM_NODE:4969 TBID:261 TEID:2211
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumTest.java LINE:50:320 NODE_KIND:182 nVARs:143 NUM_NODE:4968 TBID:261 TEID:2211
+
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ServerIdTest.java LINE:38:82 NODE_KIND:153 nVARs:54 NUM_NODE:1117 TBID:136 TEID:589
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ServerIdTest.java LINE:38:82 NODE_KIND:182 nVARs:54 NUM_NODE:1116 TBID:136 TEID:589
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/StatResetCommandTest.java LINE:38:74 NODE_KIND:153 nVARs:41 NUM_NODE:1083 TBID:151 TEID:550
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/StatResetCommandTest.java LINE:38:74 NODE_KIND:182 nVARs:41 NUM_NODE:1082 TBID:151 TEID:550
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/StatCommandTest.java LINE:41:66 NODE_KIND:153 nVARs:52 NUM_NODE:1141 TBID:170 TEID:575
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/StatCommandTest.java LINE:41:66 NODE_KIND:182 nVARs:52 NUM_NODE:1140 TBID:170 TEID:575
+
+000000014	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:840:42 NODE_KIND:121 nVARs:39 NUM_NODE:1147 TBID:5629 TEID:6017
+000000013	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:838:45 NODE_KIND:113 nVARs:42 NUM_NODE:1160 TBID:5619 TEID:6018
+
+000000015	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/Emulate353TTLTest.java LINE:32:64 NODE_KIND:153 nVARs:59 NUM_NODE:1137 TBID:92 TEID:520
+000000016	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/Emulate353TTLTest.java LINE:32:64 NODE_KIND:182 nVARs:59 NUM_NODE:1136 TBID:92 TEID:520
+
+000000019	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SledgeHammer.java LINE:31:80 NODE_KIND:153 nVARs:57 NUM_NODE:1112 TBID:79 TEID:521
+000000020	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SledgeHammer.java LINE:31:80 NODE_KIND:182 nVARs:57 NUM_NODE:1111 TBID:79 TEID:521
+
+000000022	dist:9.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigTest.java LINE:265:55 NODE_KIND:121 nVARs:40 NUM_NODE:1128 TBID:1486 TEID:1812
+000000021	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigTest.java LINE:265:55 NODE_KIND:121 nVARs:41 NUM_NODE:1171 TBID:1472 TEID:1812
+
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTimeoutTest.java LINE:43:87 NODE_KIND:153 nVARs:57 NUM_NODE:1132 TBID:170 TEID:607
+000000027	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTimeoutTest.java LINE:43:87 NODE_KIND:182 nVARs:57 NUM_NODE:1131 TBID:170 TEID:607
+
+000000040	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ServerCnxnTest.java LINE:36:94 NODE_KIND:153 nVARs:66 NUM_NODE:1158 TBID:97 TEID:560
+000000041	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ServerCnxnTest.java LINE:36:94 NODE_KIND:182 nVARs:66 NUM_NODE:1157 TBID:97 TEID:560
+
+000000044	dist:4.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionInvalidationTest.java LINE:49:56 NODE_KIND:113 nVARs:57 NUM_NODE:1134 TBID:139 TEID:522
+000000042	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionInvalidationTest.java LINE:38:68 NODE_KIND:153 nVARs:59 NUM_NODE:1147 TBID:133 TEID:523
+000000043	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionInvalidationTest.java LINE:38:68 NODE_KIND:182 nVARs:59 NUM_NODE:1146 TBID:133 TEID:523
+
+000000048	dist:4.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLRootTest.java LINE:29:65 NODE_KIND:113 nVARs:24 NUM_NODE:1110 TBID:67 TEID:476
+000000046	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLRootTest.java LINE:28:67 NODE_KIND:153 nVARs:26 NUM_NODE:1123 TBID:61 TEID:477
+000000047	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLRootTest.java LINE:28:67 NODE_KIND:182 nVARs:26 NUM_NODE:1122 TBID:61 TEID:477
+
+000000049	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLRootTest.java LINE:32:61 NODE_KIND:121 nVARs:20 NUM_NODE:1077 TBID:84 TEID:475
+000000048	dist:9.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLRootTest.java LINE:29:65 NODE_KIND:113 nVARs:24 NUM_NODE:1110 TBID:67 TEID:476
+
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignment.java LINE:71:21 NODE_KIND:121 nVARs:16 NUM_NODE:322 TBID:149 TEID:260
+000000003	dist:1.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignment.java LINE:71:21 NODE_KIND:121 nVARs:16 NUM_NODE:319 TBID:154 TEID:260
+
+000000022	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthUpgradeTest.java LINE:81:14 NODE_KIND:113 nVARs:26 NUM_NODE:327 TBID:229 TEID:344
+000000023	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthUpgradeTest.java LINE:101:14 NODE_KIND:113 nVARs:26 NUM_NODE:327 TBID:345 TEID:460
+000000024	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthUpgradeTest.java LINE:121:14 NODE_KIND:113 nVARs:26 NUM_NODE:327 TBID:461 TEID:576
+
+000000038	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SledgeHammer.java LINE:59:22 NODE_KIND:121 nVARs:23 NUM_NODE:331 TBID:252 TEID:378
+000000039	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SledgeHammer.java LINE:60:20 NODE_KIND:121 nVARs:23 NUM_NODE:329 TBID:253 TEID:377
+
+000000048	dist:5.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigExceptionTest.java LINE:157:18 NODE_KIND:113 nVARs:26 NUM_NODE:325 TBID:733 TEID:864
+000000047	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigExceptionTest.java LINE:136:20 NODE_KIND:113 nVARs:28 NUM_NODE:337 TBID:595 TEID:732
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigBackupTest.java LINE:44:318 NODE_KIND:153 nVARs:111 NUM_NODE:6045 TBID:178 TEID:2085
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigBackupTest.java LINE:44:318 NODE_KIND:182 nVARs:111 NUM_NODE:6044 TBID:178 TEID:2085
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatcherTest.java LINE:44:367 NODE_KIND:153 nVARs:130 NUM_NODE:6271 TBID:202 TEID:2478
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatcherTest.java LINE:44:367 NODE_KIND:182 nVARs:130 NUM_NODE:6270 TBID:202 TEID:2478
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZxidRolloverTest.java LINE:43:404 NODE_KIND:153 nVARs:92 NUM_NODE:5507 TBID:168 TEID:1966
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZxidRolloverTest.java LINE:43:404 NODE_KIND:182 nVARs:92 NUM_NODE:5506 TBID:168 TEID:1966
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigLegacyTest.java LINE:41:271 NODE_KIND:153 nVARs:90 NUM_NODE:5482 TBID:162 TEID:1940
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigLegacyTest.java LINE:41:271 NODE_KIND:182 nVARs:90 NUM_NODE:5481 TBID:162 TEID:1940
+
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:166:26 NODE_KIND:113 nVARs:23 NUM_NODE:436 TBID:904 TEID:1063
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:112:26 NODE_KIND:113 nVARs:24 NUM_NODE:436 TBID:579 TEID:738
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:220:26 NODE_KIND:113 nVARs:24 NUM_NODE:436 TBID:1229 TEID:1388
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/NIOServerCnxnTest.java LINE:33:40 NODE_KIND:153 nVARs:40 NUM_NODE:436 TBID:93 TEID:271
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/NIOServerCnxnTest.java LINE:33:40 NODE_KIND:182 nVARs:40 NUM_NODE:435 TBID:93 TEID:271
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DataNodeTest.java LINE:26:40 NODE_KIND:153 nVARs:20 NUM_NODE:409 TBID:33 TEID:206
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DataNodeTest.java LINE:26:40 NODE_KIND:182 nVARs:20 NUM_NODE:408 TBID:33 TEID:206
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/VerifyingFileFactoryTest.java LINE:31:39 NODE_KIND:153 nVARs:26 NUM_NODE:434 TBID:65 TEID:254
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/VerifyingFileFactoryTest.java LINE:31:39 NODE_KIND:182 nVARs:26 NUM_NODE:433 TBID:65 TEID:254
+
+000000028	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:235:9 NODE_KIND:121 nVARs:8 NUM_NODE:430 TBID:1520 TEID:1638
+000000029	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:236:7 NODE_KIND:121 nVARs:8 NUM_NODE:428 TBID:1521 TEID:1637
+
+000000047	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncHammerTest.java LINE:85:30 NODE_KIND:121 nVARs:23 NUM_NODE:428 TBID:355 TEID:514
+000000046	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncHammerTest.java LINE:84:32 NODE_KIND:113 nVARs:24 NUM_NODE:435 TBID:349 TEID:515
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:76:1196 NODE_KIND:153 nVARs:312 NUM_NODE:23947 TBID:501 TEID:9027
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:76:1196 NODE_KIND:182 nVARs:312 NUM_NODE:23946 TBID:501 TEID:9027
+
+
+000000002	dist:3.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/jute/BinaryInputArchiveTest.java LINE:30:14 NODE_KIND:113 nVARs:19 NUM_NODE:262 TBID:39 TEID:139
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/jute/BinaryInputArchiveTest.java LINE:28:17 NODE_KIND:153 nVARs:20 NUM_NODE:272 TBID:35 TEID:140
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/jute/BinaryInputArchiveTest.java LINE:28:17 NODE_KIND:182 nVARs:20 NUM_NODE:271 TBID:35 TEID:140
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/admin/JettyAdminServerTest.java LINE:69:21 NODE_KIND:113 nVARs:20 NUM_NODE:268 TBID:264 TEID:364
+000000025	dist:4.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SSLTest.java LINE:118:12 NODE_KIND:113 nVARs:26 NUM_NODE:275 TBID:615 TEID:716
+
+000000018	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectableZooKeeper.java LINE:26:33 NODE_KIND:153 nVARs:23 NUM_NODE:276 TBID:34 TEID:162
+000000019	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectableZooKeeper.java LINE:26:33 NODE_KIND:182 nVARs:23 NUM_NODE:275 TBID:34 TEID:162
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigRecoveryTest.java LINE:34:551 NODE_KIND:153 nVARs:73 NUM_NODE:11633 TBID:100 TEID:3694
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigRecoveryTest.java LINE:34:551 NODE_KIND:182 nVARs:73 NUM_NODE:11632 TBID:100 TEID:3694
+
+
+000000004	dist:4.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:267:18 NODE_KIND:113 nVARs:19 NUM_NODE:317 TBID:1505 TEID:1626
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:249:17 NODE_KIND:113 nVARs:20 NUM_NODE:301 TBID:1389 TEID:1504
+
+000000023	dist:3.3	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZooKeeperTest.java LINE:344:14 NODE_KIND:113 nVARs:18 NUM_NODE:300 TBID:2183 TEID:2294
+000000022	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZooKeeperTest.java LINE:324:14 NODE_KIND:113 nVARs:19 NUM_NODE:311 TBID:2051 TEID:2164
+
+000000047	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLTest.java LINE:120:12 NODE_KIND:121 nVARs:17 NUM_NODE:298 TBID:752 TEID:859
+000000048	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLTest.java LINE:150:12 NODE_KIND:121 nVARs:17 NUM_NODE:298 TBID:992 TEID:1099
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ClientReconnectTest.java LINE:36:43 NODE_KIND:153 nVARs:46 NUM_NODE:668 TBID:114 TEID:369
+000000002	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ClientReconnectTest.java LINE:36:43 NODE_KIND:182 nVARs:46 NUM_NODE:667 TBID:114 TEID:369
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/MultiResponseTest.java LINE:31:42 NODE_KIND:153 nVARs:42 NUM_NODE:701 TBID:82 TEID:355
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/MultiResponseTest.java LINE:31:42 NODE_KIND:182 nVARs:42 NUM_NODE:700 TBID:82 TEID:355
+
+000000018	dist:3.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LocalPeerBeanTest.java LINE:37:44 NODE_KIND:113 nVARs:33 NUM_NODE:661 TBID:86 TEID:315
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LocalPeerBeanTest.java LINE:32:51 NODE_KIND:153 nVARs:34 NUM_NODE:671 TBID:82 TEID:316
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LocalPeerBeanTest.java LINE:32:51 NODE_KIND:182 nVARs:34 NUM_NODE:670 TBID:82 TEID:316
+
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumUtilTest.java LINE:36:59 NODE_KIND:153 nVARs:30 NUM_NODE:665 TBID:95 TEID:334
+000000027	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumUtilTest.java LINE:36:59 NODE_KIND:182 nVARs:30 NUM_NODE:664 TBID:95 TEID:334
+
+000000029	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLERestartTest.java LINE:97:55 NODE_KIND:121 nVARs:30 NUM_NODE:706 TBID:476 TEID:734
+000000028	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLERestartTest.java LINE:96:57 NODE_KIND:113 nVARs:31 NUM_NODE:713 TBID:470 TEID:735
+
+000000031	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ConnectStringParserTest.java LINE:26:43 NODE_KIND:153 nVARs:21 NUM_NODE:705 TBID:43 TEID:316
+000000032	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ConnectStringParserTest.java LINE:26:43 NODE_KIND:182 nVARs:21 NUM_NODE:704 TBID:43 TEID:316
+
+000000039	dist:5.3	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLENewEpochTest.java LINE:94:54 NODE_KIND:121 nVARs:33 NUM_NODE:661 TBID:453 TEID:706
+000000038	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLENewEpochTest.java LINE:92:57 NODE_KIND:113 nVARs:34 NUM_NODE:685 TBID:442 TEID:707
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:1153:48 NODE_KIND:153 nVARs:35 NUM_NODE:589 TBID:7095 TEID:7335
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:1153:48 NODE_KIND:182 nVARs:35 NUM_NODE:588 TBID:7095 TEID:7335
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/FLETestUtils.java LINE:33:53 NODE_KIND:153 nVARs:39 NUM_NODE:568 TBID:102 TEID:328
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/FLETestUtils.java LINE:33:53 NODE_KIND:182 nVARs:39 NUM_NODE:567 TBID:102 TEID:328
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/KerberosSecurityTestcase.java LINE:49:72 NODE_KIND:153 nVARs:38 NUM_NODE:575 TBID:80 TEID:334
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/KerberosSecurityTestcase.java LINE:49:72 NODE_KIND:182 nVARs:38 NUM_NODE:574 TBID:80 TEID:334
+
+000000028	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/admin/CommandResponseTest.java LINE:27:28 NODE_KIND:153 nVARs:26 NUM_NODE:587 TBID:58 TEID:270
+000000029	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/admin/CommandResponseTest.java LINE:27:28 NODE_KIND:182 nVARs:26 NUM_NODE:586 TBID:58 TEID:270
+
+000000034	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/OSMXBeanTest.java LINE:30:42 NODE_KIND:182 nVARs:25 NUM_NODE:572 TBID:66 TEID:285
+000000033	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/OSMXBeanTest.java LINE:30:42 NODE_KIND:153 nVARs:25 NUM_NODE:573 TBID:66 TEID:285
+
+000000057	dist:6.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MaxCnxnsTest.java LINE:53:54 NODE_KIND:121 nVARs:38 NUM_NODE:548 TBID:172 TEID:393
+000000056	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MaxCnxnsTest.java LINE:51:57 NODE_KIND:113 nVARs:39 NUM_NODE:573 TBID:161 TEID:394
+
+000000058	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:382:22 NODE_KIND:121 nVARs:21 NUM_NODE:572 TBID:2372 TEID:2538
+000000059	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:383:20 NODE_KIND:121 nVARs:21 NUM_NODE:570 TBID:2373 TEID:2537
+
+000000060	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NullDataTest.java LINE:34:42 NODE_KIND:153 nVARs:43 NUM_NODE:547 TBID:108 TEID:327
+000000061	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NullDataTest.java LINE:34:42 NODE_KIND:182 nVARs:43 NUM_NODE:546 TBID:108 TEID:327
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLETest.java LINE:44:493 NODE_KIND:153 nVARs:132 NUM_NODE:6843 TBID:196 TEID:2717
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLETest.java LINE:44:493 NODE_KIND:182 nVARs:132 NUM_NODE:6842 TBID:196 TEID:2717
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:283:49 NODE_KIND:113 nVARs:42 NUM_NODE:1227 TBID:1819 TEID:2211
+000000001	dist:6.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:337:48 NODE_KIND:113 nVARs:43 NUM_NODE:1216 TBID:2212 TEID:2603
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignmentTest.java LINE:31:50 NODE_KIND:153 nVARs:29 NUM_NODE:1264 TBID:67 TEID:433
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/PortAssignmentTest.java LINE:31:50 NODE_KIND:182 nVARs:29 NUM_NODE:1263 TBID:67 TEID:433
+
+000000007	dist:4.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:177:63 NODE_KIND:121 nVARs:34 NUM_NODE:1310 TBID:540 TEID:1012
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:175:66 NODE_KIND:113 nVARs:36 NUM_NODE:1320 TBID:532 TEID:1013
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DeserializationPerfTest.java LINE:34:86 NODE_KIND:153 nVARs:57 NUM_NODE:1243 TBID:94 TEID:603
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DeserializationPerfTest.java LINE:34:86 NODE_KIND:182 nVARs:57 NUM_NODE:1242 TBID:94 TEID:603
+
+000000013	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumKerberosAuthTest.java LINE:38:73 NODE_KIND:153 nVARs:63 NUM_NODE:1218 TBID:152 TEID:595
+000000014	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumKerberosAuthTest.java LINE:38:73 NODE_KIND:182 nVARs:63 NUM_NODE:1217 TBID:152 TEID:595
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/FLELostMessageTest.java LINE:41:65 NODE_KIND:153 nVARs:59 NUM_NODE:1234 TBID:179 TEID:595
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/FLELostMessageTest.java LINE:41:65 NODE_KIND:182 nVARs:59 NUM_NODE:1233 TBID:179 TEID:595
+
+000000018	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LocalSessionRequestTest.java LINE:40:109 NODE_KIND:153 nVARs:77 NUM_NODE:1272 TBID:132 TEID:621
+000000019	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LocalSessionRequestTest.java LINE:40:109 NODE_KIND:182 nVARs:77 NUM_NODE:1271 TBID:132 TEID:621
+
+000000021	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumMajorityTest.java LINE:31:76 NODE_KIND:153 nVARs:45 NUM_NODE:1241 TBID:98 TEID:534
+000000022	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumMajorityTest.java LINE:31:76 NODE_KIND:182 nVARs:45 NUM_NODE:1240 TBID:98 TEID:534
+
+000000023	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/EmptiedSnapshotRecoveryTest.java LINE:47:87 NODE_KIND:153 nVARs:74 NUM_NODE:1279 TBID:193 TEID:677
+000000024	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/EmptiedSnapshotRecoveryTest.java LINE:47:87 NODE_KIND:182 nVARs:74 NUM_NODE:1278 TBID:193 TEID:677
+
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SSLAuthTest.java LINE:33:69 NODE_KIND:153 nVARs:47 NUM_NODE:1293 TBID:104 TEID:572
+000000027	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SSLAuthTest.java LINE:33:69 NODE_KIND:182 nVARs:47 NUM_NODE:1292 TBID:104 TEID:572
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/PrepRequestProcessorTest.java LINE:56:230 NODE_KIND:153 nVARs:142 NUM_NODE:3175 TBID:294 TEID:1470
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/PrepRequestProcessorTest.java LINE:56:230 NODE_KIND:182 nVARs:142 NUM_NODE:3174 TBID:294 TEID:1470
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthUpgradeTest.java LINE:54:186 NODE_KIND:153 nVARs:61 NUM_NODE:3047 TBID:159 TEID:1184
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthUpgradeTest.java LINE:54:186 NODE_KIND:182 nVARs:61 NUM_NODE:3046 TBID:159 TEID:1184
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigDuringLeaderSyncTest.java LINE:47:223 NODE_KIND:153 nVARs:136 NUM_NODE:3239 TBID:240 TEID:1427
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigDuringLeaderSyncTest.java LINE:47:223 NODE_KIND:182 nVARs:136 NUM_NODE:3238 TBID:240 TEID:1427
+
+000000007	dist:10.9	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:380:128 NODE_KIND:121 nVARs:67 NUM_NODE:3051 TBID:2649 TEID:3712
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:376:133 NODE_KIND:113 nVARs:71 NUM_NODE:3086 TBID:2630 TEID:3713
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatchEventWhenAutoResetTest.java LINE:40:178 NODE_KIND:153 nVARs:78 NUM_NODE:3212 TBID:149 TEID:1281
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatchEventWhenAutoResetTest.java LINE:40:178 NODE_KIND:182 nVARs:78 NUM_NODE:3211 TBID:149 TEID:1281
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RecoveryTest.java LINE:44:166 NODE_KIND:153 nVARs:74 NUM_NODE:3093 TBID:198 TEID:1217
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RecoveryTest.java LINE:44:166 NODE_KIND:182 nVARs:74 NUM_NODE:3092 TBID:198 TEID:1217
+
+000000014	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionUpgradeTest.java LINE:41:192 NODE_KIND:153 nVARs:71 NUM_NODE:3006 TBID:100 TEID:1158
+000000015	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionUpgradeTest.java LINE:41:192 NODE_KIND:182 nVARs:71 NUM_NODE:3005 TBID:100 TEID:1158
+
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/SaslAuthTest.java LINE:124:19 NODE_KIND:113 nVARs:20 NUM_NODE:360 TBID:590 TEID:721
+000000003	dist:5.3	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/SaslAuthTest.java LINE:144:25 NODE_KIND:113 nVARs:25 NUM_NODE:356 TBID:722 TEID:861
+
+000000006	dist:4.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:66:18 NODE_KIND:113 nVARs:20 NUM_NODE:344 TBID:292 TEID:413
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:47:18 NODE_KIND:113 nVARs:21 NUM_NODE:360 TBID:165 TEID:291
+
+000000031	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateContainerTest.java LINE:270:11 NODE_KIND:113 nVARs:19 NUM_NODE:350 TBID:1822 TEID:1966
+000000055	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateTest.java LINE:104:11 NODE_KIND:113 nVARs:19 NUM_NODE:350 TBID:484 TEID:628
+
+000000040	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/JMXEnv.java LINE:104:24 NODE_KIND:121 nVARs:24 NUM_NODE:355 TBID:385 TEID:521
+000000042	dist:3.3	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/JMXEnv.java LINE:233:24 NODE_KIND:121 nVARs:24 NUM_NODE:348 TBID:1012 TEID:1144
+
+000000043	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/JMXEnv.java LINE:284:19 NODE_KIND:121 nVARs:21 NUM_NODE:355 TBID:1237 TEID:1362
+000000044	dist:5.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/JMXEnv.java LINE:284:19 NODE_KIND:121 nVARs:21 NUM_NODE:332 TBID:1238 TEID:1355
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumBase.java LINE:43:393 NODE_KIND:153 nVARs:140 NUM_NODE:7936 TBID:188 TEID:2863
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumBase.java LINE:43:393 NODE_KIND:182 nVARs:140 NUM_NODE:7935 TBID:188 TEID:2863
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:52:472 NODE_KIND:153 nVARs:169 NUM_NODE:8357 TBID:276 TEID:3175
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:52:472 NODE_KIND:182 nVARs:169 NUM_NODE:8356 TBID:276 TEID:3175
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumBase.java LINE:43:393 NODE_KIND:153 nVARs:140 NUM_NODE:7936 TBID:188 TEID:2863
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumBase.java LINE:43:393 NODE_KIND:182 nVARs:140 NUM_NODE:7935 TBID:188 TEID:2863
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/client/ZKClientConfigTest.java LINE:49:143 NODE_KIND:153 nVARs:77 NUM_NODE:2371 TBID:261 TEID:1108
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/client/ZKClientConfigTest.java LINE:49:143 NODE_KIND:182 nVARs:77 NUM_NODE:2370 TBID:261 TEID:1108
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/SaslAuthTest.java LINE:42:172 NODE_KIND:153 nVARs:101 NUM_NODE:2432 TBID:168 TEID:1105
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/SaslAuthTest.java LINE:42:172 NODE_KIND:182 nVARs:101 NUM_NODE:2431 TBID:168 TEID:1105
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerTest.java LINE:32:106 NODE_KIND:153 nVARs:43 NUM_NODE:2432 TBID:90 TEID:844
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerTest.java LINE:32:106 NODE_KIND:182 nVARs:43 NUM_NODE:2431 TBID:90 TEID:844
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:88:169 NODE_KIND:153 nVARs:66 NUM_NODE:2425 TBID:108 TEID:1093
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:88:169 NODE_KIND:182 nVARs:66 NUM_NODE:2424 TBID:108 TEID:1093
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/EphemeralNodeDeletionTest.java LINE:43:186 NODE_KIND:153 nVARs:96 NUM_NODE:2481 TBID:200 TEID:1075
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/EphemeralNodeDeletionTest.java LINE:43:186 NODE_KIND:182 nVARs:96 NUM_NODE:2480 TBID:200 TEID:1075
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumDigestAuthTest.java LINE:41:182 NODE_KIND:153 nVARs:71 NUM_NODE:2569 TBID:193 TEID:1190
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumDigestAuthTest.java LINE:41:182 NODE_KIND:182 nVARs:71 NUM_NODE:2568 TBID:193 TEID:1190
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/MiniKdcTest.java LINE:47:139 NODE_KIND:153 nVARs:78 NUM_NODE:2520 TBID:168 TEID:1114
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/MiniKdcTest.java LINE:47:139 NODE_KIND:182 nVARs:78 NUM_NODE:2519 TBID:168 TEID:1114
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumZxidSyncTest.java LINE:34:138 NODE_KIND:153 nVARs:61 NUM_NODE:2414 TBID:98 TEID:1097
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumZxidSyncTest.java LINE:34:138 NODE_KIND:182 nVARs:61 NUM_NODE:2413 TBID:98 TEID:1097
+
+000000018	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLENewEpochTest.java LINE:41:153 NODE_KIND:153 nVARs:77 NUM_NODE:2482 TBID:175 TEID:1051
+000000019	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLENewEpochTest.java LINE:41:153 NODE_KIND:182 nVARs:77 NUM_NODE:2481 TBID:175 TEID:1051
+
+
+000000004	dist:4.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:166:26 NODE_KIND:113 nVARs:23 NUM_NODE:436 TBID:904 TEID:1063
+000000002	dist:4.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:112:26 NODE_KIND:113 nVARs:24 NUM_NODE:436 TBID:579 TEID:738
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:139:26 NODE_KIND:113 nVARs:24 NUM_NODE:452 TBID:739 TEID:903
+000000006	dist:4.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:220:26 NODE_KIND:113 nVARs:24 NUM_NODE:436 TBID:1229 TEID:1388
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:85:26 NODE_KIND:113 nVARs:25 NUM_NODE:452 TBID:414 TEID:578
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:193:26 NODE_KIND:113 nVARs:25 NUM_NODE:452 TBID:1064 TEID:1228
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/NIOServerCnxnTest.java LINE:33:40 NODE_KIND:153 nVARs:40 NUM_NODE:436 TBID:93 TEID:271
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/NIOServerCnxnTest.java LINE:33:40 NODE_KIND:182 nVARs:40 NUM_NODE:435 TBID:93 TEID:271
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/VerifyingFileFactoryTest.java LINE:31:39 NODE_KIND:153 nVARs:26 NUM_NODE:434 TBID:65 TEID:254
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/VerifyingFileFactoryTest.java LINE:31:39 NODE_KIND:182 nVARs:26 NUM_NODE:433 TBID:65 TEID:254
+
+000000025	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumDigestAuthTest.java LINE:75:18 NODE_KIND:113 nVARs:29 NUM_NODE:444 TBID:292 TEID:447
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumDigestAuthTest.java LINE:99:17 NODE_KIND:113 nVARs:29 NUM_NODE:444 TBID:448 TEID:603
+
+000000029	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:235:9 NODE_KIND:121 nVARs:8 NUM_NODE:430 TBID:1520 TEID:1638
+000000030	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:236:7 NODE_KIND:121 nVARs:8 NUM_NODE:428 TBID:1521 TEID:1637
+
+000000035	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesSummaryTest.java LINE:25:18 NODE_KIND:153 nVARs:25 NUM_NODE:449 TBID:49 TEID:213
+000000036	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesSummaryTest.java LINE:25:18 NODE_KIND:182 nVARs:25 NUM_NODE:448 TBID:49 TEID:213
+
+000000043	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslClientTest.java LINE:30:40 NODE_KIND:153 nVARs:23 NUM_NODE:456 TBID:64 TEID:244
+000000044	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslClientTest.java LINE:30:40 NODE_KIND:182 nVARs:23 NUM_NODE:455 TBID:64 TEID:244
+
+000000045	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigTest.java LINE:157:30 NODE_KIND:121 nVARs:21 NUM_NODE:445 TBID:855 TEID:1006
+000000046	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigTest.java LINE:158:28 NODE_KIND:121 nVARs:21 NUM_NODE:443 TBID:856 TEID:1005
+
+000000050	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncHammerTest.java LINE:85:30 NODE_KIND:121 nVARs:23 NUM_NODE:428 TBID:355 TEID:514
+000000049	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncHammerTest.java LINE:84:32 NODE_KIND:113 nVARs:24 NUM_NODE:435 TBID:349 TEID:515
+
+000000051	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientRetryTest.java LINE:28:45 NODE_KIND:153 nVARs:31 NUM_NODE:464 TBID:59 TEID:255
+000000052	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientRetryTest.java LINE:28:45 NODE_KIND:182 nVARs:31 NUM_NODE:463 TBID:59 TEID:255
+
+000000054	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NIOConnectionFactoryFdLeakTest.java LINE:36:34 NODE_KIND:153 nVARs:29 NUM_NODE:459 TBID:86 TEID:262
+000000055	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NIOConnectionFactoryFdLeakTest.java LINE:36:34 NODE_KIND:182 nVARs:29 NUM_NODE:458 TBID:86 TEID:262
+
+000000070	dist:4.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailTest.java LINE:35:42 NODE_KIND:182 nVARs:30 NUM_NODE:454 TBID:115 TEID:295
+000000069	dist:4.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailTest.java LINE:35:42 NODE_KIND:153 nVARs:30 NUM_NODE:455 TBID:115 TEID:295
+000000067	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthMissingClientConfigTest.java LINE:33:49 NODE_KIND:153 nVARs:33 NUM_NODE:452 TBID:93 TEID:273
+000000068	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthMissingClientConfigTest.java LINE:33:49 NODE_KIND:182 nVARs:33 NUM_NODE:451 TBID:93 TEID:273
+
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:326:16 NODE_KIND:121 nVARs:25 NUM_NODE:211 TBID:1788 TEID:1889
+000000006	dist:1.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:496:17 NODE_KIND:121 nVARs:25 NUM_NODE:210 TBID:2698 TEID:2799
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:53:1099 NODE_KIND:153 nVARs:170 NUM_NODE:20584 TBID:248 TEID:7094
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:53:1099 NODE_KIND:182 nVARs:170 NUM_NODE:20583 TBID:248 TEID:7094
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/MultiResponseTest.java LINE:31:42 NODE_KIND:153 nVARs:42 NUM_NODE:701 TBID:82 TEID:355
+000000002	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/MultiResponseTest.java LINE:31:42 NODE_KIND:182 nVARs:42 NUM_NODE:700 TBID:82 TEID:355
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ProposalStatsTest.java LINE:25:34 NODE_KIND:153 nVARs:12 NUM_NODE:737 TBID:28 TEID:304
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ProposalStatsTest.java LINE:25:34 NODE_KIND:182 nVARs:12 NUM_NODE:736 TBID:28 TEID:304
+
+000000027	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SledgeHammer.java LINE:46:44 NODE_KIND:121 nVARs:39 NUM_NODE:725 TBID:139 TEID:432
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SledgeHammer.java LINE:45:46 NODE_KIND:113 nVARs:40 NUM_NODE:732 TBID:133 TEID:433
+
+000000030	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLERestartTest.java LINE:97:55 NODE_KIND:121 nVARs:30 NUM_NODE:706 TBID:476 TEID:734
+000000029	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLERestartTest.java LINE:96:57 NODE_KIND:113 nVARs:31 NUM_NODE:713 TBID:470 TEID:735
+
+000000032	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ConnectStringParserTest.java LINE:26:43 NODE_KIND:153 nVARs:21 NUM_NODE:705 TBID:43 TEID:316
+000000033	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ConnectStringParserTest.java LINE:26:43 NODE_KIND:182 nVARs:21 NUM_NODE:704 TBID:43 TEID:316
+
+000000035	dist:7.9	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumTest.java LINE:204:32 NODE_KIND:121 nVARs:41 NUM_NODE:763 TBID:1184 TEID:1460
+000000034	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTest.java LINE:253:33 NODE_KIND:121 nVARs:38 NUM_NODE:749 TBID:1168 TEID:1428
+
+000000042	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigMisconfigTest.java LINE:39:75 NODE_KIND:153 nVARs:47 NUM_NODE:730 TBID:143 TEID:480
+000000043	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigMisconfigTest.java LINE:39:75 NODE_KIND:182 nVARs:47 NUM_NODE:729 TBID:143 TEID:480
+
+000000045	dist:5.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LeaderSessionTrackerTest.java LINE:126:37 NODE_KIND:113 nVARs:53 NUM_NODE:730 TBID:530 TEID:774
+000000044	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LeaderSessionTrackerTest.java LINE:84:37 NODE_KIND:113 nVARs:54 NUM_NODE:748 TBID:279 TEID:529
+
+000000048	dist:6.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectedWatcherTest.java LINE:98:38 NODE_KIND:113 nVARs:34 NUM_NODE:725 TBID:479 TEID:725
+000000047	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectedWatcherTest.java LINE:58:39 NODE_KIND:113 nVARs:35 NUM_NODE:745 TBID:224 TEID:478
+
+000000050	dist:5.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectedWatcherTest.java LINE:226:26 NODE_KIND:121 nVARs:26 NUM_NODE:740 TBID:1252 TEID:1503
+000000051	dist:7.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectedWatcherTest.java LINE:227:22 NODE_KIND:121 nVARs:26 NUM_NODE:732 TBID:1253 TEID:1499
+000000049	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectedWatcherTest.java LINE:226:26 NODE_KIND:121 nVARs:28 NUM_NODE:760 TBID:1245 TEID:1503
+
+000000053	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:110:36 NODE_KIND:121 nVARs:33 NUM_NODE:751 TBID:586 TEID:817
+000000052	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:109:38 NODE_KIND:113 nVARs:34 NUM_NODE:758 TBID:580 TEID:818
+
+000000057	dist:4.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RepeatStartupTest.java LINE:37:32 NODE_KIND:113 nVARs:47 NUM_NODE:723 TBID:89 TEID:360
+000000055	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RepeatStartupTest.java LINE:30:40 NODE_KIND:153 nVARs:49 NUM_NODE:736 TBID:83 TEID:361
+000000056	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RepeatStartupTest.java LINE:30:40 NODE_KIND:182 nVARs:49 NUM_NODE:735 TBID:83 TEID:361
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ZabUtils.java LINE:37:128 NODE_KIND:153 nVARs:79 NUM_NODE:1735 TBID:141 TEID:838
+000000002	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ZabUtils.java LINE:37:128 NODE_KIND:182 nVARs:79 NUM_NODE:1734 TBID:141 TEID:838
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthTestBase.java LINE:41:106 NODE_KIND:153 nVARs:71 NUM_NODE:1732 TBID:131 TEID:805
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthTestBase.java LINE:41:106 NODE_KIND:182 nVARs:71 NUM_NODE:1731 TBID:131 TEID:805
+
+000000010	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:886:63 NODE_KIND:121 nVARs:67 NUM_NODE:1755 TBID:6029 TEID:6624
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:884:66 NODE_KIND:113 nVARs:70 NUM_NODE:1768 TBID:6019 TEID:6625
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncTest.java LINE:41:103 NODE_KIND:153 nVARs:65 NUM_NODE:1708 TBID:160 TEID:832
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncTest.java LINE:41:103 NODE_KIND:182 nVARs:65 NUM_NODE:1707 TBID:160 TEID:832
+
+000000013	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SyncCallTest.java LINE:40:83 NODE_KIND:153 nVARs:61 NUM_NODE:1650 TBID:164 TEID:794
+000000014	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SyncCallTest.java LINE:40:83 NODE_KIND:182 nVARs:61 NUM_NODE:1649 TBID:164 TEID:794
+
+000000017	dist:8.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:127:71 NODE_KIND:121 nVARs:41 NUM_NODE:1660 TBID:724 TEID:1331
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:124:75 NODE_KIND:113 nVARs:45 NUM_NODE:1691 TBID:709 TEID:1332
+
+000000020	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOpsTest.java LINE:40:232 NODE_KIND:153 nVARs:105 NUM_NODE:1683 TBID:186 TEID:1107
+000000021	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOpsTest.java LINE:40:232 NODE_KIND:182 nVARs:105 NUM_NODE:1682 TBID:186 TEID:1107
+
+000000022	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigExceptionTest.java LINE:43:156 NODE_KIND:153 nVARs:70 NUM_NODE:1774 TBID:181 TEID:965
+000000023	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigExceptionTest.java LINE:43:156 NODE_KIND:182 nVARs:70 NUM_NODE:1773 TBID:181 TEID:965
+
+000000024	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AuthTest.java LINE:35:140 NODE_KIND:153 nVARs:54 NUM_NODE:1745 TBID:117 TEID:819
+000000025	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AuthTest.java LINE:35:140 NODE_KIND:182 nVARs:54 NUM_NODE:1744 TBID:117 TEID:819
+
+000000029	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LeaderSessionTrackerTest.java LINE:49:115 NODE_KIND:153 nVARs:71 NUM_NODE:1668 TBID:187 TEID:775
+000000030	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LeaderSessionTrackerTest.java LINE:49:115 NODE_KIND:182 nVARs:71 NUM_NODE:1667 TBID:187 TEID:775
+
+000000033	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SSLTest.java LINE:38:93 NODE_KIND:153 nVARs:64 NUM_NODE:1718 TBID:119 TEID:717
+000000034	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SSLTest.java LINE:38:93 NODE_KIND:182 nVARs:64 NUM_NODE:1717 TBID:119 TEID:717
+
+000000035	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MultiAsyncTransactionTest.java LINE:40:96 NODE_KIND:153 nVARs:60 NUM_NODE:1677 TBID:164 TEID:803
+000000036	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MultiAsyncTransactionTest.java LINE:40:96 NODE_KIND:182 nVARs:60 NUM_NODE:1676 TBID:164 TEID:803
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:53:1099 NODE_KIND:153 nVARs:170 NUM_NODE:20584 TBID:248 TEID:7094
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:53:1099 NODE_KIND:182 nVARs:170 NUM_NODE:20583 TBID:248 TEID:7094
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:56:815 NODE_KIND:153 nVARs:200 NUM_NODE:15490 TBID:331 TEID:5747
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:56:815 NODE_KIND:182 nVARs:200 NUM_NODE:15489 TBID:331 TEID:5747
+
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/PathUtilsTest.java LINE:24:106 NODE_KIND:153 nVARs:27 NUM_NODE:897 TBID:25 TEID:456
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/PathUtilsTest.java LINE:24:106 NODE_KIND:182 nVARs:27 NUM_NODE:896 TBID:25 TEID:456
+
+000000012	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:1116:32 NODE_KIND:121 nVARs:36 NUM_NODE:946 TBID:7969 TEID:8274
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:1114:35 NODE_KIND:113 nVARs:39 NUM_NODE:959 TBID:7959 TEID:8275
+
+000000014	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/EphemeralTypeTest.java LINE:27:58 NODE_KIND:153 nVARs:45 NUM_NODE:971 TBID:46 TEID:425
+000000015	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/EphemeralTypeTest.java LINE:27:58 NODE_KIND:182 nVARs:45 NUM_NODE:970 TBID:46 TEID:425
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerConfTest.java LINE:25:28 NODE_KIND:153 nVARs:36 NUM_NODE:942 TBID:49 TEID:363
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerConfTest.java LINE:25:28 NODE_KIND:182 nVARs:36 NUM_NODE:941 TBID:49 TEID:363
+
+000000020	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateModeTest.java LINE:30:62 NODE_KIND:153 nVARs:31 NUM_NODE:969 TBID:68 TEID:487
+000000021	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateModeTest.java LINE:30:62 NODE_KIND:182 nVARs:31 NUM_NODE:968 TBID:68 TEID:487
+
+000000029	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumBase.java LINE:302:29 NODE_KIND:121 nVARs:25 NUM_NODE:940 TBID:1920 TEID:2169
+000000030	dist:5.9	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumBase.java LINE:302:29 NODE_KIND:121 nVARs:25 NUM_NODE:917 TBID:1926 TEID:2169
+
+000000039	dist:5.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:631:33 NODE_KIND:121 nVARs:24 NUM_NODE:902 TBID:3622 TEID:3937
+000000038	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:631:33 NODE_KIND:121 nVARs:25 NUM_NODE:922 TBID:3615 TEID:3937
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerMainTest.java LINE:52:516 NODE_KIND:153 nVARs:151 NUM_NODE:7206 TBID:237 TEID:2882
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerMainTest.java LINE:52:516 NODE_KIND:182 nVARs:151 NUM_NODE:7205 TBID:237 TEID:2882
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZooKeeperTestClient.java LINE:42:426 NODE_KIND:153 nVARs:108 NUM_NODE:7369 TBID:188 TEID:2930
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZooKeeperTestClient.java LINE:42:426 NODE_KIND:182 nVARs:108 NUM_NODE:7368 TBID:188 TEID:2930
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigRollingRestartCompatibilityTest.java LINE:51:208 NODE_KIND:153 nVARs:93 NUM_NODE:4415 TBID:153 TEID:1687
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigRollingRestartCompatibilityTest.java LINE:51:208 NODE_KIND:182 nVARs:93 NUM_NODE:4414 TBID:153 TEID:1687
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerTestBase.java LINE:50:344 NODE_KIND:153 nVARs:127 NUM_NODE:4472 TBID:185 TEID:1961
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerTestBase.java LINE:50:344 NODE_KIND:182 nVARs:127 NUM_NODE:4471 TBID:185 TEID:1961
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/CommitProcessorTest.java LINE:73:353 NODE_KIND:153 nVARs:150 NUM_NODE:4315 TBID:291 TEID:2007
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/CommitProcessorTest.java LINE:73:353 NODE_KIND:182 nVARs:150 NUM_NODE:4314 TBID:291 TEID:2007
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumUtil.java LINE:46:281 NODE_KIND:153 nVARs:107 NUM_NODE:4385 TBID:178 TEID:1831
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumUtil.java LINE:46:281 NODE_KIND:182 nVARs:107 NUM_NODE:4384 TBID:178 TEID:1831
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTest.java LINE:51:343 NODE_KIND:153 nVARs:141 NUM_NODE:4367 TBID:253 TEID:1947
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTest.java LINE:51:343 NODE_KIND:182 nVARs:141 NUM_NODE:4366 TBID:253 TEID:1947
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:52:327 NODE_KIND:153 nVARs:165 NUM_NODE:4485 TBID:286 TEID:1995
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:52:327 NODE_KIND:182 nVARs:165 NUM_NODE:4484 TBID:286 TEID:1995
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LearnerSnapshotThrottlerTest.java LINE:35:185 NODE_KIND:153 nVARs:62 NUM_NODE:2161 TBID:107 TEID:1017
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LearnerSnapshotThrottlerTest.java LINE:35:185 NODE_KIND:182 nVARs:62 NUM_NODE:2160 TBID:107 TEID:1017
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LearnerTest.java LINE:44:146 NODE_KIND:153 nVARs:100 NUM_NODE:2211 TBID:192 TEID:1018
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LearnerTest.java LINE:44:146 NODE_KIND:182 nVARs:100 NUM_NODE:2210 TBID:192 TEID:1018
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LeaderWithObserverTest.java LINE:36:150 NODE_KIND:153 nVARs:74 NUM_NODE:2266 TBID:119 TEID:1001
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LeaderWithObserverTest.java LINE:36:150 NODE_KIND:182 nVARs:74 NUM_NODE:2265 TBID:119 TEID:1001
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/TxnLogToolkitTest.java LINE:42:114 NODE_KIND:153 nVARs:60 NUM_NODE:2209 TBID:156 TEID:882
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/TxnLogToolkitTest.java LINE:42:114 NODE_KIND:182 nVARs:60 NUM_NODE:2208 TBID:156 TEID:882
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/FileTxnSnapLogTest.java LINE:36:155 NODE_KIND:153 nVARs:79 NUM_NODE:2162 TBID:126 TEID:930
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/FileTxnSnapLogTest.java LINE:36:155 NODE_KIND:182 nVARs:79 NUM_NODE:2161 TBID:126 TEID:930
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLERestartTest.java LINE:42:146 NODE_KIND:153 nVARs:76 NUM_NODE:2171 TBID:182 TEID:988
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLERestartTest.java LINE:42:146 NODE_KIND:182 nVARs:76 NUM_NODE:2170 TBID:182 TEID:988
+
+000000014	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTrackerCheckTest.java LINE:41:190 NODE_KIND:153 nVARs:49 NUM_NODE:2119 TBID:143 TEID:964
+000000015	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTrackerCheckTest.java LINE:41:190 NODE_KIND:182 nVARs:49 NUM_NODE:2118 TBID:143 TEID:964
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:41:134 NODE_KIND:153 nVARs:85 NUM_NODE:2241 TBID:195 TEID:998
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:41:134 NODE_KIND:182 nVARs:85 NUM_NODE:2240 TBID:195 TEID:998
+
+000000018	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZkDatabaseCorruptionTest.java LINE:45:126 NODE_KIND:153 nVARs:96 NUM_NODE:2241 TBID:197 TEID:1065
+000000019	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZkDatabaseCorruptionTest.java LINE:45:126 NODE_KIND:182 nVARs:96 NUM_NODE:2240 TBID:197 TEID:1065
+
+000000020	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsQuorumTest.java LINE:33:87 NODE_KIND:153 nVARs:39 NUM_NODE:2251 TBID:80 TEID:684
+000000021	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsQuorumTest.java LINE:33:87 NODE_KIND:182 nVARs:39 NUM_NODE:2250 TBID:80 TEID:684
+
+000000022	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NonRecoverableErrorTest.java LINE:44:142 NODE_KIND:153 nVARs:87 NUM_NODE:2188 TBID:197 TEID:967
+000000023	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NonRecoverableErrorTest.java LINE:44:142 NODE_KIND:182 nVARs:87 NUM_NODE:2187 TBID:197 TEID:967
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:37:324 NODE_KIND:153 nVARs:60 NUM_NODE:5277 TBID:130 TEID:2095
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:37:324 NODE_KIND:182 nVARs:60 NUM_NODE:5276 TBID:130 TEID:2095
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateContainerTest.java LINE:32:250 NODE_KIND:153 nVARs:122 NUM_NODE:5161 TBID:84 TEID:1967
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateContainerTest.java LINE:32:250 NODE_KIND:182 nVARs:122 NUM_NODE:5160 TBID:84 TEID:1967
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ReferenceCountedACLCacheTest.java LINE:38:250 NODE_KIND:153 nVARs:90 NUM_NODE:4880 TBID:128 TEID:1776
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ReferenceCountedACLCacheTest.java LINE:38:250 NODE_KIND:182 nVARs:90 NUM_NODE:4879 TBID:128 TEID:1776
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateTTLTest.java LINE:44:224 NODE_KIND:153 nVARs:118 NUM_NODE:5185 TBID:202 TEID:2000
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateTTLTest.java LINE:44:224 NODE_KIND:182 nVARs:118 NUM_NODE:5184 TBID:202 TEID:2000
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumTest.java LINE:50:320 NODE_KIND:153 nVARs:143 NUM_NODE:4969 TBID:261 TEID:2211
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumTest.java LINE:50:320 NODE_KIND:182 nVARs:143 NUM_NODE:4968 TBID:261 TEID:2211
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/HierarchicalQuorumTest.java LINE:40:280 NODE_KIND:153 nVARs:116 NUM_NODE:5247 TBID:165 TEID:1927
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/HierarchicalQuorumTest.java LINE:40:280 NODE_KIND:182 nVARs:116 NUM_NODE:5246 TBID:165 TEID:1927
+
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerBeanTest.java LINE:38:107 NODE_KIND:153 nVARs:63 NUM_NODE:1400 TBID:145 TEID:631
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerBeanTest.java LINE:38:107 NODE_KIND:182 nVARs:63 NUM_NODE:1399 TBID:145 TEID:631
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/SerializationPerfTest.java LINE:31:95 NODE_KIND:153 nVARs:55 NUM_NODE:1448 TBID:71 TEID:645
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/SerializationPerfTest.java LINE:31:95 NODE_KIND:182 nVARs:55 NUM_NODE:1447 TBID:71 TEID:645
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/SessionTrackerTest.java LINE:38:119 NODE_KIND:153 nVARs:66 NUM_NODE:1372 TBID:108 TEID:612
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/SessionTrackerTest.java LINE:38:119 NODE_KIND:182 nVARs:66 NUM_NODE:1371 TBID:108 TEID:612
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/FileTxnLogTest.java LINE:37:75 NODE_KIND:153 nVARs:53 NUM_NODE:1471 TBID:135 TEID:636
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/FileTxnLogTest.java LINE:37:75 NODE_KIND:182 nVARs:53 NUM_NODE:1470 TBID:135 TEID:636
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LocalSessionsOnlyTest.java LINE:43:95 NODE_KIND:153 nVARs:73 NUM_NODE:1461 TBID:125 TEID:677
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LocalSessionsOnlyTest.java LINE:43:95 NODE_KIND:182 nVARs:73 NUM_NODE:1460 TBID:125 TEID:677
+
+000000018	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/StandaloneTest.java LINE:47:121 NODE_KIND:153 nVARs:71 NUM_NODE:1487 TBID:198 TEID:751
+000000019	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/StandaloneTest.java LINE:47:121 NODE_KIND:182 nVARs:71 NUM_NODE:1486 TBID:198 TEID:751
+
+000000020	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsTest.java LINE:50:67 NODE_KIND:113 nVARs:13 NUM_NODE:1468 TBID:186 TEID:582
+000000027	dist:2.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsWhiteListTest.java LINE:143:66 NODE_KIND:113 nVARs:13 NUM_NODE:1465 TBID:596 TEID:990
+
+000000023	dist:4.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:91:118 NODE_KIND:121 nVARs:75 NUM_NODE:1428 TBID:476 TEID:1055
+000000022	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:91:118 NODE_KIND:121 nVARs:76 NUM_NODE:1447 TBID:468 TEID:1055
+
+000000024	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateTest.java LINE:31:85 NODE_KIND:153 nVARs:53 NUM_NODE:1475 TBID:79 TEID:629
+000000025	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CreateTest.java LINE:31:85 NODE_KIND:182 nVARs:53 NUM_NODE:1474 TBID:79 TEID:629
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:326:16 NODE_KIND:121 nVARs:25 NUM_NODE:211 TBID:1788 TEID:1889
+000000002	dist:1.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:496:17 NODE_KIND:121 nVARs:25 NUM_NODE:210 TBID:2698 TEID:2799
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthUpgradeTest.java LINE:54:186 NODE_KIND:153 nVARs:61 NUM_NODE:3047 TBID:159 TEID:1184
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthUpgradeTest.java LINE:54:186 NODE_KIND:182 nVARs:61 NUM_NODE:3046 TBID:159 TEID:1184
+
+000000003	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:718:118 NODE_KIND:121 nVARs:116 NUM_NODE:2983 TBID:4547 TEID:5617
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:716:121 NODE_KIND:113 nVARs:118 NUM_NODE:2996 TBID:4537 TEID:5618
+
+000000005	dist:10.9	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:380:128 NODE_KIND:121 nVARs:67 NUM_NODE:3051 TBID:2649 TEID:3712
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientTest.java LINE:376:133 NODE_KIND:113 nVARs:71 NUM_NODE:3086 TBID:2630 TEID:3713
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLTest.java LINE:46:147 NODE_KIND:153 nVARs:86 NUM_NODE:2860 TBID:220 TEID:1255
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLTest.java LINE:46:147 NODE_KIND:182 nVARs:86 NUM_NODE:2859 TBID:220 TEID:1255
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionUpgradeTest.java LINE:41:192 NODE_KIND:153 nVARs:71 NUM_NODE:3006 TBID:100 TEID:1158
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionUpgradeTest.java LINE:41:192 NODE_KIND:182 nVARs:71 NUM_NODE:3005 TBID:100 TEID:1158
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientHammerTest.java LINE:35:212 NODE_KIND:153 nVARs:65 NUM_NODE:2970 TBID:107 TEID:1253
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientHammerTest.java LINE:35:212 NODE_KIND:182 nVARs:65 NUM_NODE:2969 TBID:107 TEID:1253
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CRCTest.java LINE:51:125 NODE_KIND:153 nVARs:102 NUM_NODE:1859 TBID:251 TEID:927
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CRCTest.java LINE:51:125 NODE_KIND:182 nVARs:102 NUM_NODE:1858 TBID:251 TEID:927
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/SerializeUtilsTest.java LINE:45:84 NODE_KIND:153 nVARs:48 NUM_NODE:1805 TBID:206 TEID:804
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/SerializeUtilsTest.java LINE:45:84 NODE_KIND:182 nVARs:48 NUM_NODE:1804 TBID:206 TEID:804
+
+000000007	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:886:63 NODE_KIND:121 nVARs:67 NUM_NODE:1755 TBID:6029 TEID:6624
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:884:66 NODE_KIND:113 nVARs:70 NUM_NODE:1768 TBID:6019 TEID:6625
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/FLEBackwardElectionRoundTest.java LINE:41:115 NODE_KIND:153 nVARs:59 NUM_NODE:1815 TBID:186 TEID:750
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/FLEBackwardElectionRoundTest.java LINE:41:115 NODE_KIND:182 nVARs:59 NUM_NODE:1814 TBID:186 TEID:750
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigExceptionTest.java LINE:43:156 NODE_KIND:153 nVARs:70 NUM_NODE:1774 TBID:181 TEID:965
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigExceptionTest.java LINE:43:156 NODE_KIND:182 nVARs:70 NUM_NODE:1773 TBID:181 TEID:965
+
+000000014	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ChrootTest.java LINE:35:102 NODE_KIND:153 nVARs:59 NUM_NODE:1852 TBID:111 TEID:774
+000000015	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ChrootTest.java LINE:35:102 NODE_KIND:182 nVARs:59 NUM_NODE:1851 TBID:111 TEID:774
+
+000000017	dist:12.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsQuorumTest.java LINE:41:62 NODE_KIND:121 nVARs:12 NUM_NODE:1848 TBID:123 TEID:573
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsQuorumTest.java LINE:38:66 NODE_KIND:113 nVARs:17 NUM_NODE:1897 TBID:101 TEID:574
+
+000000018	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsQuorumTest.java LINE:41:62 NODE_KIND:121 nVARs:11 NUM_NODE:1828 TBID:130 TEID:573
+000000017	dist:5.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsQuorumTest.java LINE:41:62 NODE_KIND:121 nVARs:12 NUM_NODE:1848 TBID:123 TEID:573
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:1202:35 NODE_KIND:153 nVARs:25 NUM_NODE:375 TBID:7336 TEID:7488
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:1202:35 NODE_KIND:182 nVARs:25 NUM_NODE:374 TBID:7336 TEID:7488
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/SaslAuthTest.java LINE:124:19 NODE_KIND:113 nVARs:20 NUM_NODE:360 TBID:590 TEID:721
+000000003	dist:5.3	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/SaslAuthTest.java LINE:144:25 NODE_KIND:113 nVARs:25 NUM_NODE:356 TBID:722 TEID:861
+
+000000014	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/MockServerCnxn.java LINE:28:86 NODE_KIND:153 nVARs:40 NUM_NODE:376 TBID:68 TEID:290
+000000015	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/MockServerCnxn.java LINE:28:86 NODE_KIND:182 nVARs:40 NUM_NODE:375 TBID:68 TEID:290
+
+000000022	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:236:7 NODE_KIND:121 nVARs:7 NUM_NODE:385 TBID:1535 TEID:1637
+000000023	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:237:5 NODE_KIND:121 nVARs:7 NUM_NODE:383 TBID:1536 TEID:1636
+
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigFailureCasesTest.java LINE:112:22 NODE_KIND:113 nVARs:26 NUM_NODE:376 TBID:539 TEID:682
+000000027	dist:4.9	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigFailureCasesTest.java LINE:139:21 NODE_KIND:113 nVARs:26 NUM_NODE:356 TBID:683 TEID:818
+
+000000035	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateTTLTest.java LINE:63:16 NODE_KIND:113 nVARs:26 NUM_NODE:380 TBID:306 TEID:435
+000000033	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/Emulate353TTLTest.java LINE:51:16 NODE_KIND:113 nVARs:26 NUM_NODE:380 TBID:188 TEID:317
+
+000000062	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientHammerTest.java LINE:50:29 NODE_KIND:182 nVARs:27 NUM_NODE:357 TBID:178 TEID:333
+000000063	dist:3.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientHammerTest.java LINE:80:32 NODE_KIND:182 nVARs:27 NUM_NODE:364 TBID:334 TEID:494
+
+000000065	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/KeeperStateTest.java LINE:29:48 NODE_KIND:153 nVARs:25 NUM_NODE:369 TBID:63 TEID:226
+000000066	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/KeeperStateTest.java LINE:29:48 NODE_KIND:182 nVARs:25 NUM_NODE:368 TBID:63 TEID:226
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigFailureCasesTest.java LINE:41:246 NODE_KIND:153 nVARs:92 NUM_NODE:3962 TBID:165 TEID:1546
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigFailureCasesTest.java LINE:41:246 NODE_KIND:182 nVARs:92 NUM_NODE:3961 TBID:165 TEID:1546
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DataTreeTest.java LINE:54:231 NODE_KIND:153 nVARs:137 NUM_NODE:4125 TBID:272 TEID:1704
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DataTreeTest.java LINE:54:231 NODE_KIND:182 nVARs:137 NUM_NODE:4124 TBID:272 TEID:1704
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LoadFromLogTest.java LINE:43:268 NODE_KIND:153 nVARs:111 NUM_NODE:4017 TBID:211 TEID:1690
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LoadFromLogTest.java LINE:43:268 NODE_KIND:182 nVARs:111 NUM_NODE:4016 TBID:211 TEID:1690
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsWhiteListTest.java LINE:34:218 NODE_KIND:153 nVARs:57 NUM_NODE:3918 TBID:93 TEID:1323
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsWhiteListTest.java LINE:34:218 NODE_KIND:182 nVARs:57 NUM_NODE:3917 TBID:93 TEID:1323
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/TruncateTest.java LINE:52:194 NODE_KIND:153 nVARs:123 NUM_NODE:4022 TBID:288 TEID:1644
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/TruncateTest.java LINE:52:194 NODE_KIND:182 nVARs:123 NUM_NODE:4021 TBID:288 TEID:1644
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReadOnlyModeTest.java LINE:52:258 NODE_KIND:153 nVARs:119 NUM_NODE:3886 TBID:255 TEID:1665
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReadOnlyModeTest.java LINE:52:258 NODE_KIND:182 nVARs:119 NUM_NODE:3885 TBID:255 TEID:1665
+
+000000013	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectedWatcherTest.java LINE:36:219 NODE_KIND:153 nVARs:67 NUM_NODE:3992 TBID:120 TEID:1505
+000000014	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/DisconnectedWatcherTest.java LINE:36:219 NODE_KIND:182 nVARs:67 NUM_NODE:3991 TBID:120 TEID:1505
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerStartupTest.java LINE:43:228 NODE_KIND:153 nVARs:98 NUM_NODE:2761 TBID:170 TEID:1201
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerStartupTest.java LINE:43:228 NODE_KIND:182 nVARs:98 NUM_NODE:2760 TBID:170 TEID:1201
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ByteBufferInputStreamTest.java LINE:29:115 NODE_KIND:153 nVARs:49 NUM_NODE:2706 TBID:72 TEID:1058
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ByteBufferInputStreamTest.java LINE:29:115 NODE_KIND:182 nVARs:49 NUM_NODE:2705 TBID:72 TEID:1058
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/RaceConditionTest.java LINE:51:201 NODE_KIND:153 nVARs:121 NUM_NODE:2696 TBID:233 TEID:1231
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/RaceConditionTest.java LINE:51:201 NODE_KIND:182 nVARs:121 NUM_NODE:2695 TBID:233 TEID:1231
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ObserverTest.java LINE:40:193 NODE_KIND:153 nVARs:74 NUM_NODE:2757 TBID:164 TEID:1143
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ObserverTest.java LINE:40:193 NODE_KIND:182 nVARs:74 NUM_NODE:2756 TBID:164 TEID:1143
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLTest.java LINE:46:147 NODE_KIND:153 nVARs:86 NUM_NODE:2860 TBID:220 TEID:1255
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ACLTest.java LINE:46:147 NODE_KIND:182 nVARs:86 NUM_NODE:2859 TBID:220 TEID:1255
+
+
+000000001	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:583:131 NODE_KIND:121 nVARs:113 NUM_NODE:3388 TBID:3365 TEID:4535
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:581:134 NODE_KIND:113 nVARs:115 NUM_NODE:3401 TBID:3355 TEID:4536
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/StatTest.java LINE:31:175 NODE_KIND:153 nVARs:61 NUM_NODE:3452 TBID:79 TEID:1416
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/StatTest.java LINE:31:175 NODE_KIND:182 nVARs:61 NUM_NODE:3451 TBID:79 TEID:1416
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigRollingRestartCompatibilityTest.java LINE:51:208 NODE_KIND:153 nVARs:93 NUM_NODE:4415 TBID:153 TEID:1687
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/ReconfigRollingRestartCompatibilityTest.java LINE:51:208 NODE_KIND:182 nVARs:93 NUM_NODE:4414 TBID:153 TEID:1687
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/CommitProcessorTest.java LINE:73:353 NODE_KIND:153 nVARs:150 NUM_NODE:4315 TBID:291 TEID:2007
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/CommitProcessorTest.java LINE:73:353 NODE_KIND:182 nVARs:150 NUM_NODE:4314 TBID:291 TEID:2007
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DataTreeTest.java LINE:54:231 NODE_KIND:153 nVARs:137 NUM_NODE:4125 TBID:272 TEID:1704
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DataTreeTest.java LINE:54:231 NODE_KIND:182 nVARs:137 NUM_NODE:4124 TBID:272 TEID:1704
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumUtil.java LINE:46:281 NODE_KIND:153 nVARs:107 NUM_NODE:4385 TBID:178 TEID:1831
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumUtil.java LINE:46:281 NODE_KIND:182 nVARs:107 NUM_NODE:4384 TBID:178 TEID:1831
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTest.java LINE:51:343 NODE_KIND:153 nVARs:141 NUM_NODE:4367 TBID:253 TEID:1947
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTest.java LINE:51:343 NODE_KIND:182 nVARs:141 NUM_NODE:4366 TBID:253 TEID:1947
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigTest.java LINE:58:1055 NODE_KIND:153 nVARs:229 NUM_NODE:18536 TBID:334 TEID:6527
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigTest.java LINE:58:1055 NODE_KIND:182 nVARs:229 NUM_NODE:18535 TBID:334 TEID:6527
+
+
+000000002	dist:4.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:312:25 NODE_KIND:113 nVARs:21 NUM_NODE:393 TBID:1787 TEID:1941
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/common/AtomicFileWritingIdiomTest.java LINE:286:25 NODE_KIND:113 nVARs:22 NUM_NODE:409 TBID:1627 TEID:1786
+
+000000005	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DataNodeTest.java LINE:26:40 NODE_KIND:153 nVARs:20 NUM_NODE:409 TBID:33 TEID:206
+000000006	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DataNodeTest.java LINE:26:40 NODE_KIND:182 nVARs:20 NUM_NODE:408 TBID:33 TEID:206
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/MockServerCnxn.java LINE:28:86 NODE_KIND:153 nVARs:40 NUM_NODE:376 TBID:68 TEID:290
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/MockServerCnxn.java LINE:28:86 NODE_KIND:182 nVARs:40 NUM_NODE:375 TBID:68 TEID:290
+
+000000019	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:236:7 NODE_KIND:121 nVARs:7 NUM_NODE:385 TBID:1535 TEID:1637
+000000020	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:237:5 NODE_KIND:121 nVARs:7 NUM_NODE:383 TBID:1536 TEID:1636
+
+000000036	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CreateTTLTest.java LINE:63:16 NODE_KIND:113 nVARs:26 NUM_NODE:380 TBID:306 TEID:435
+000000033	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/Emulate353TTLTest.java LINE:51:16 NODE_KIND:113 nVARs:26 NUM_NODE:380 TBID:188 TEID:317
+
+000000040	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZKTestCase.java LINE:35:44 NODE_KIND:153 nVARs:28 NUM_NODE:397 TBID:66 TEID:235
+000000041	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZKTestCase.java LINE:35:44 NODE_KIND:182 nVARs:28 NUM_NODE:396 TBID:66 TEID:235
+
+000000044	dist:5.3	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZooKeeperTest.java LINE:212:12 NODE_KIND:113 nVARs:16 NUM_NODE:395 TBID:1443 TEID:1573
+000000042	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZooKeeperTest.java LINE:170:13 NODE_KIND:113 nVARs:18 NUM_NODE:411 TBID:1022 TEID:1158
+
+000000055	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:108:26 NODE_KIND:121 nVARs:17 NUM_NODE:400 TBID:485 TEID:626
+000000056	dist:3.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:108:26 NODE_KIND:121 nVARs:17 NUM_NODE:386 TBID:489 TEID:626
+
+000000061	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LETest.java LINE:57:28 NODE_KIND:121 nVARs:21 NUM_NODE:404 TBID:253 TEID:410
+000000062	dist:3.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LETest.java LINE:57:28 NODE_KIND:121 nVARs:21 NUM_NODE:390 TBID:257 TEID:410
+
+000000065	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/TestUtils.java LINE:27:34 NODE_KIND:153 nVARs:17 NUM_NODE:399 TBID:23 TEID:166
+000000066	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/TestUtils.java LINE:27:34 NODE_KIND:182 nVARs:17 NUM_NODE:398 TBID:23 TEID:166
+
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumHammerTest.java LINE:27:25 NODE_KIND:153 nVARs:23 NUM_NODE:237 TBID:53 TEID:175
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumHammerTest.java LINE:27:25 NODE_KIND:182 nVARs:23 NUM_NODE:236 TBID:53 TEID:175
+
+
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ClientCnxnSocketTest.java LINE:29:25 NODE_KIND:153 nVARs:18 NUM_NODE:247 TBID:63 TEID:170
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ClientCnxnSocketTest.java LINE:29:25 NODE_KIND:182 nVARs:18 NUM_NODE:246 TBID:63 TEID:170
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:113:26 NODE_KIND:121 nVARs:17 NUM_NODE:257 TBID:240 TEID:357
+000000005	dist:3.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:113:26 NODE_KIND:121 nVARs:17 NUM_NODE:243 TBID:244 TEID:357
+
+000000024	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientHammerTest.java LINE:60:18 NODE_KIND:113 nVARs:22 NUM_NODE:240 TBID:230 TEID:332
+000000025	dist:3.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientHammerTest.java LINE:92:19 NODE_KIND:113 nVARs:22 NUM_NODE:247 TBID:386 TEID:493
+
+
+000000001	dist:7.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/VerGenTest.java LINE:43:9 NODE_KIND:121 nVARs:3 NUM_NODE:534 TBID:133 TEID:272
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/VerGenTest.java LINE:41:12 NODE_KIND:113 nVARs:6 NUM_NODE:555 TBID:119 TEID:273
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/InvalidSnapshotTest.java LINE:39:46 NODE_KIND:153 nVARs:37 NUM_NODE:520 TBID:94 TEID:297
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/InvalidSnapshotTest.java LINE:39:46 NODE_KIND:182 nVARs:37 NUM_NODE:519 TBID:94 TEID:297
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumKerberosAuthTest.java LINE:92:18 NODE_KIND:113 nVARs:35 NUM_NODE:559 TBID:403 TEID:594
+000000011	dist:5.7	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumKerberosHostBasedAuthTest.java LINE:117:17 NODE_KIND:113 nVARs:34 NUM_NODE:538 TBID:537 TEID:720
+
+000000020	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:1158:22 NODE_KIND:121 nVARs:38 NUM_NODE:539 TBID:8286 TEID:8480
+000000019	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:1156:25 NODE_KIND:113 nVARs:41 NUM_NODE:552 TBID:8276 TEID:8481
+
+000000053	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NullDataTest.java LINE:34:42 NODE_KIND:153 nVARs:43 NUM_NODE:547 TBID:108 TEID:327
+000000054	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NullDataTest.java LINE:34:42 NODE_KIND:182 nVARs:43 NUM_NODE:546 TBID:108 TEID:327
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CRCTest.java LINE:51:125 NODE_KIND:153 nVARs:102 NUM_NODE:1859 TBID:251 TEID:927
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/CRCTest.java LINE:51:125 NODE_KIND:182 nVARs:102 NUM_NODE:1858 TBID:251 TEID:927
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/OOMTest.java LINE:41:121 NODE_KIND:153 nVARs:69 NUM_NODE:2012 TBID:165 TEID:984
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/OOMTest.java LINE:41:121 NODE_KIND:182 nVARs:69 NUM_NODE:2011 TBID:165 TEID:984
+
+000000012	dist:10.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:69:142 NODE_KIND:113 nVARs:90 NUM_NODE:1883 TBID:317 TEID:1059
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:54:158 NODE_KIND:182 nVARs:93 NUM_NODE:1918 TBID:297 TEID:1060
+
+
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:1153:48 NODE_KIND:153 nVARs:35 NUM_NODE:589 TBID:7095 TEID:7335
+000000002	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:1153:48 NODE_KIND:182 nVARs:35 NUM_NODE:588 TBID:7095 TEID:7335
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ServerConfigTest.java LINE:31:44 NODE_KIND:153 nVARs:27 NUM_NODE:624 TBID:69 TEID:309
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ServerConfigTest.java LINE:31:44 NODE_KIND:182 nVARs:27 NUM_NODE:623 TBID:69 TEID:309
+
+000000007	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/CustomHostProviderTest.java LINE:29:51 NODE_KIND:153 nVARs:39 NUM_NODE:628 TBID:75 TEID:330
+000000008	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/CustomHostProviderTest.java LINE:29:51 NODE_KIND:182 nVARs:39 NUM_NODE:627 TBID:75 TEID:330
+
+000000012	dist:3.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesPathReportTest.java LINE:28:33 NODE_KIND:182 nVARs:26 NUM_NODE:634 TBID:70 TEID:302
+000000011	dist:2.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesPathReportTest.java LINE:28:33 NODE_KIND:153 nVARs:26 NUM_NODE:635 TBID:70 TEID:302
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesReportTest.java LINE:28:33 NODE_KIND:153 nVARs:26 NUM_NODE:635 TBID:70 TEID:302
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/WatchesReportTest.java LINE:28:33 NODE_KIND:182 nVARs:26 NUM_NODE:634 TBID:70 TEID:302
+
+000000025	dist:7.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LeaderBeanTest.java LINE:128:23 NODE_KIND:113 nVARs:25 NUM_NODE:584 TBID:619 TEID:816
+000000013	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/SerializeUtilsTest.java LINE:60:27 NODE_KIND:113 nVARs:39 NUM_NODE:593 TBID:281 TEID:477
+
+000000016	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/NettyServerCnxnTest.java LINE:35:53 NODE_KIND:153 nVARs:47 NUM_NODE:604 TBID:77 TEID:310
+000000017	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/NettyServerCnxnTest.java LINE:35:53 NODE_KIND:182 nVARs:47 NUM_NODE:603 TBID:77 TEID:310
+
+000000023	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:832:38 NODE_KIND:113 nVARs:28 NUM_NODE:623 TBID:4904 TEID:5120
+000000024	dist:6.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:875:37 NODE_KIND:113 nVARs:29 NUM_NODE:613 TBID:5121 TEID:5335
+
+000000032	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/admin/CommandResponseTest.java LINE:27:28 NODE_KIND:153 nVARs:26 NUM_NODE:587 TBID:58 TEID:270
+000000033	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/admin/CommandResponseTest.java LINE:27:28 NODE_KIND:182 nVARs:26 NUM_NODE:586 TBID:58 TEID:270
+
+000000034	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/TestableZooKeeper.java LINE:32:97 NODE_KIND:153 nVARs:47 NUM_NODE:607 TBID:88 TEID:413
+000000035	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/TestableZooKeeper.java LINE:32:97 NODE_KIND:182 nVARs:47 NUM_NODE:606 TBID:88 TEID:413
+
+000000040	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailDesignatedClientTest.java LINE:34:59 NODE_KIND:153 nVARs:40 NUM_NODE:611 TBID:102 TEID:333
+000000041	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailDesignatedClientTest.java LINE:34:59 NODE_KIND:182 nVARs:40 NUM_NODE:610 TBID:102 TEID:333
+
+000000045	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailNotifyTest.java LINE:35:64 NODE_KIND:153 nVARs:43 NUM_NODE:624 TBID:115 TEID:376
+000000046	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailNotifyTest.java LINE:35:64 NODE_KIND:182 nVARs:43 NUM_NODE:623 TBID:115 TEID:376
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:67:1106 NODE_KIND:153 nVARs:266 NUM_NODE:18973 TBID:374 TEID:6992
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/QuorumPeerMainTest.java LINE:67:1106 NODE_KIND:182 nVARs:266 NUM_NODE:18972 TBID:374 TEID:6992
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigTest.java LINE:58:1055 NODE_KIND:153 nVARs:229 NUM_NODE:18536 TBID:334 TEID:6527
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReconfigTest.java LINE:58:1055 NODE_KIND:182 nVARs:229 NUM_NODE:18535 TBID:334 TEID:6527
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/client/ZKClientConfigTest.java LINE:49:143 NODE_KIND:153 nVARs:77 NUM_NODE:2371 TBID:261 TEID:1108
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/client/ZKClientConfigTest.java LINE:49:143 NODE_KIND:182 nVARs:77 NUM_NODE:2370 TBID:261 TEID:1108
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:88:169 NODE_KIND:153 nVARs:66 NUM_NODE:2425 TBID:108 TEID:1093
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:88:169 NODE_KIND:182 nVARs:66 NUM_NODE:2424 TBID:108 TEID:1093
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/MultiOpSessionUpgradeTest.java LINE:47:90 NODE_KIND:153 nVARs:87 NUM_NODE:2318 TBID:225 TEID:1017
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/MultiOpSessionUpgradeTest.java LINE:47:90 NODE_KIND:182 nVARs:87 NUM_NODE:2317 TBID:225 TEID:1017
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LeaderWithObserverTest.java LINE:36:150 NODE_KIND:153 nVARs:74 NUM_NODE:2266 TBID:119 TEID:1001
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LeaderWithObserverTest.java LINE:36:150 NODE_KIND:182 nVARs:74 NUM_NODE:2265 TBID:119 TEID:1001
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/X509AuthTest.java LINE:51:240 NODE_KIND:153 nVARs:111 NUM_NODE:2325 TBID:230 TEID:1278
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/X509AuthTest.java LINE:51:240 NODE_KIND:182 nVARs:111 NUM_NODE:2324 TBID:230 TEID:1278
+
+000000013	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumZxidSyncTest.java LINE:34:138 NODE_KIND:153 nVARs:61 NUM_NODE:2414 TBID:98 TEID:1097
+000000014	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumZxidSyncTest.java LINE:34:138 NODE_KIND:182 nVARs:61 NUM_NODE:2413 TBID:98 TEID:1097
+
+000000015	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/GetChildren2Test.java LINE:34:103 NODE_KIND:153 nVARs:59 NUM_NODE:2304 TBID:100 TEID:987
+000000016	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/GetChildren2Test.java LINE:34:103 NODE_KIND:182 nVARs:59 NUM_NODE:2303 TBID:100 TEID:987
+
+000000017	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:41:134 NODE_KIND:153 nVARs:85 NUM_NODE:2241 TBID:195 TEID:998
+000000018	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:41:134 NODE_KIND:182 nVARs:85 NUM_NODE:2240 TBID:195 TEID:998
+
+000000019	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZkDatabaseCorruptionTest.java LINE:45:126 NODE_KIND:153 nVARs:96 NUM_NODE:2241 TBID:197 TEID:1065
+000000020	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ZkDatabaseCorruptionTest.java LINE:45:126 NODE_KIND:182 nVARs:96 NUM_NODE:2240 TBID:197 TEID:1065
+
+000000021	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsQuorumTest.java LINE:33:87 NODE_KIND:153 nVARs:39 NUM_NODE:2251 TBID:80 TEID:684
+000000022	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsQuorumTest.java LINE:33:87 NODE_KIND:182 nVARs:39 NUM_NODE:2250 TBID:80 TEID:684
+
+
+000000003	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/IntegrityCheck.java LINE:47:173 NODE_KIND:153 nVARs:83 NUM_NODE:2092 TBID:106 TEID:1003
+000000004	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/IntegrityCheck.java LINE:47:173 NODE_KIND:182 nVARs:83 NUM_NODE:2091 TBID:106 TEID:1003
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTrackerCheckTest.java LINE:41:190 NODE_KIND:153 nVARs:49 NUM_NODE:2119 TBID:143 TEID:964
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionTrackerCheckTest.java LINE:41:190 NODE_KIND:182 nVARs:49 NUM_NODE:2118 TBID:143 TEID:964
+
+000000009	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/OOMTest.java LINE:41:121 NODE_KIND:153 nVARs:69 NUM_NODE:2012 TBID:165 TEID:984
+000000010	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/OOMTest.java LINE:41:121 NODE_KIND:182 nVARs:69 NUM_NODE:2011 TBID:165 TEID:984
+
+000000011	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LETest.java LINE:38:103 NODE_KIND:153 nVARs:67 NUM_NODE:2057 TBID:144 TEID:875
+000000012	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LETest.java LINE:38:103 NODE_KIND:182 nVARs:67 NUM_NODE:2056 TBID:144 TEID:875
+
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerMainTest.java LINE:251:33 NODE_KIND:113 nVARs:26 NUM_NODE:468 TBID:1204 TEID:1372
+000000001	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/ZooKeeperServerMainTest.java LINE:211:33 NODE_KIND:113 nVARs:27 NUM_NODE:468 TBID:1035 TEID:1203
+
+000000017	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/TxnLogToolkitTest.java LINE:112:21 NODE_KIND:113 nVARs:17 NUM_NODE:462 TBID:596 TEID:736
+000000018	dist:3.9	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/persistence/TxnLogToolkitTest.java LINE:134:21 NODE_KIND:113 nVARs:18 NUM_NODE:475 TBID:737 TEID:881
+
+000000025	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslClientTest.java LINE:30:40 NODE_KIND:153 nVARs:23 NUM_NODE:456 TBID:64 TEID:244
+000000026	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslClientTest.java LINE:30:40 NODE_KIND:182 nVARs:23 NUM_NODE:455 TBID:64 TEID:244
+
+000000036	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientRetryTest.java LINE:28:45 NODE_KIND:153 nVARs:31 NUM_NODE:464 TBID:59 TEID:255
+000000037	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ClientRetryTest.java LINE:28:45 NODE_KIND:182 nVARs:31 NUM_NODE:463 TBID:59 TEID:255
+
+000000039	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:105:33 NODE_KIND:121 nVARs:22 NUM_NODE:488 TBID:474 TEID:653
+000000038	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FLEZeroWeightTest.java LINE:104:35 NODE_KIND:113 nVARs:23 NUM_NODE:495 TBID:468 TEID:654
+
+000000040	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NIOConnectionFactoryFdLeakTest.java LINE:36:34 NODE_KIND:153 nVARs:29 NUM_NODE:459 TBID:86 TEID:262
+000000041	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/NIOConnectionFactoryFdLeakTest.java LINE:36:34 NODE_KIND:182 nVARs:29 NUM_NODE:458 TBID:86 TEID:262
+
+000000042	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:169:38 NODE_KIND:121 nVARs:28 NUM_NODE:496 TBID:844 TEID:1047
+000000043	dist:1.4	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java LINE:170:36 NODE_KIND:121 nVARs:28 NUM_NODE:494 TBID:845 TEID:1046
+
+000000046	dist:2.6	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LETest.java LINE:55:34 NODE_KIND:121 nVARs:24 NUM_NODE:476 TBID:246 TEID:437
+000000045	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/LETest.java LINE:54:36 NODE_KIND:113 nVARs:25 NUM_NODE:483 TBID:240 TEID:438
+
+000000051	dist:5.8	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RecoveryTest.java LINE:168:15 NODE_KIND:121 nVARs:12 NUM_NODE:478 TBID:957 TEID:1100
+000000050	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/RecoveryTest.java LINE:129:16 NODE_KIND:121 nVARs:14 NUM_NODE:460 TBID:693 TEID:831
+
+000000056	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/TestHammer.java LINE:28:34 NODE_KIND:182 nVARs:34 NUM_NODE:487 TBID:60 TEID:251
+000000055	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/TestHammer.java LINE:28:34 NODE_KIND:153 nVARs:34 NUM_NODE:488 TBID:60 TEID:251
+
+000000057	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailTest.java LINE:35:42 NODE_KIND:153 nVARs:30 NUM_NODE:455 TBID:115 TEID:295
+000000058	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SaslAuthFailTest.java LINE:35:42 NODE_KIND:182 nVARs:30 NUM_NODE:454 TBID:115 TEID:295
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/PurgeTxnTest.java LINE:52:546 NODE_KIND:153 nVARs:175 NUM_NODE:8936 TBID:268 TEID:3435
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/PurgeTxnTest.java LINE:52:546 NODE_KIND:182 nVARs:175 NUM_NODE:8935 TBID:268 TEID:3435
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZooKeeperTest.java LINE:43:527 NODE_KIND:153 nVARs:146 NUM_NODE:9300 TBID:143 TEID:3541
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/ZooKeeperTest.java LINE:43:527 NODE_KIND:182 nVARs:146 NUM_NODE:9299 TBID:143 TEID:3541
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatcherFuncTest.java LINE:39:440 NODE_KIND:153 nVARs:91 NUM_NODE:9007 TBID:153 TEID:3440
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatcherFuncTest.java LINE:39:440 NODE_KIND:182 nVARs:91 NUM_NODE:9006 TBID:153 TEID:3440
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LearnerHandlerTest.java LINE:50:542 NODE_KIND:153 nVARs:117 NUM_NODE:9763 TBID:246 TEID:3477
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/LearnerHandlerTest.java LINE:50:542 NODE_KIND:182 nVARs:117 NUM_NODE:9762 TBID:246 TEID:3477
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/PurgeTxnTest.java LINE:52:546 NODE_KIND:153 nVARs:175 NUM_NODE:8936 TBID:268 TEID:3435
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/PurgeTxnTest.java LINE:52:546 NODE_KIND:182 nVARs:175 NUM_NODE:8935 TBID:268 TEID:3435
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatcherFuncTest.java LINE:39:440 NODE_KIND:153 nVARs:91 NUM_NODE:9007 TBID:153 TEID:3440
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/WatcherFuncTest.java LINE:39:440 NODE_KIND:182 nVARs:91 NUM_NODE:9006 TBID:153 TEID:3440
+
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:52:472 NODE_KIND:153 nVARs:169 NUM_NODE:8357 TBID:276 TEID:3175
+000000005	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/CnxManagerTest.java LINE:52:472 NODE_KIND:182 nVARs:169 NUM_NODE:8356 TBID:276 TEID:3175
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:283:49 NODE_KIND:113 nVARs:42 NUM_NODE:1227 TBID:1819 TEID:2211
+000000001	dist:6.1	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/RemoveWatchesTest.java LINE:337:48 NODE_KIND:113 nVARs:43 NUM_NODE:1216 TBID:2212 TEID:2603
+
+000000005	dist:4.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:178:57 NODE_KIND:121 nVARs:31 NUM_NODE:1207 TBID:547 TEID:975
+000000006	dist:8.5	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:180:54 NODE_KIND:121 nVARs:31 NUM_NODE:1187 TBID:553 TEID:974
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/util/PortForwarder.java LINE:178:57 NODE_KIND:121 nVARs:32 NUM_NODE:1223 TBID:542 TEID:975
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DeserializationPerfTest.java LINE:34:86 NODE_KIND:153 nVARs:57 NUM_NODE:1243 TBID:94 TEID:603
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/DeserializationPerfTest.java LINE:34:86 NODE_KIND:182 nVARs:57 NUM_NODE:1242 TBID:94 TEID:603
+
+000000012	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumKerberosAuthTest.java LINE:38:73 NODE_KIND:153 nVARs:63 NUM_NODE:1218 TBID:152 TEID:595
+000000013	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumKerberosAuthTest.java LINE:38:73 NODE_KIND:182 nVARs:63 NUM_NODE:1217 TBID:152 TEID:595
+
+000000015	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/FLELostMessageTest.java LINE:41:65 NODE_KIND:153 nVARs:59 NUM_NODE:1234 TBID:179 TEID:595
+000000016	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/FLELostMessageTest.java LINE:41:65 NODE_KIND:182 nVARs:59 NUM_NODE:1233 TBID:179 TEID:595
+
+000000021	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:840:42 NODE_KIND:121 nVARs:39 NUM_NODE:1147 TBID:5629 TEID:6017
+000000020	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:838:45 NODE_KIND:113 nVARs:42 NUM_NODE:1160 TBID:5619 TEID:6018
+
+000000026	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/InvalidSnapshotTest.java LINE:38:73 NODE_KIND:153 nVARs:54 NUM_NODE:1186 TBID:140 TEID:555
+000000027	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/InvalidSnapshotTest.java LINE:38:73 NODE_KIND:182 nVARs:54 NUM_NODE:1185 TBID:140 TEID:555
+
+000000029	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumMajorityTest.java LINE:31:76 NODE_KIND:153 nVARs:45 NUM_NODE:1241 TBID:98 TEID:534
+000000030	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/QuorumMajorityTest.java LINE:31:76 NODE_KIND:182 nVARs:45 NUM_NODE:1240 TBID:98 TEID:534
+
+000000034	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ServerCnxnTest.java LINE:36:94 NODE_KIND:153 nVARs:66 NUM_NODE:1158 TBID:97 TEID:560
+000000035	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ServerCnxnTest.java LINE:36:94 NODE_KIND:182 nVARs:66 NUM_NODE:1157 TBID:97 TEID:560
+
+000000036	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionInvalidationTest.java LINE:38:68 NODE_KIND:153 nVARs:59 NUM_NODE:1147 TBID:133 TEID:523
+000000037	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/SessionInvalidationTest.java LINE:38:68 NODE_KIND:182 nVARs:59 NUM_NODE:1146 TBID:133 TEID:523
+
+000000040	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MaxCnxnsTest.java LINE:33:104 NODE_KIND:153 nVARs:64 NUM_NODE:1179 TBID:91 TEID:548
+000000041	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/MaxCnxnsTest.java LINE:33:104 NODE_KIND:182 nVARs:64 NUM_NODE:1178 TBID:91 TEID:548
+
+000000042	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/BufferSizeTest.java LINE:35:98 NODE_KIND:153 nVARs:53 NUM_NODE:1202 TBID:104 TEID:598
+000000043	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/BufferSizeTest.java LINE:35:98 NODE_KIND:182 nVARs:53 NUM_NODE:1201 TBID:104 TEID:598
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:58:691 NODE_KIND:153 nVARs:184 NUM_NODE:10876 TBID:310 TEID:4382
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FollowerResyncConcurrencyTest.java LINE:58:691 NODE_KIND:182 nVARs:184 NUM_NODE:10875 TBID:310 TEID:4382
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOps.java LINE:49:779 NODE_KIND:153 nVARs:160 NUM_NODE:10767 TBID:257 TEID:4400
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/AsyncOps.java LINE:49:779 NODE_KIND:182 nVARs:160 NUM_NODE:10766 TBID:257 TEID:4400
+
+
+000000000	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/WatchLeakTest.java LINE:74:290 NODE_KIND:153 nVARs:180 NUM_NODE:3812 TBID:431 TEID:1805
+000000001	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/WatchLeakTest.java LINE:74:290 NODE_KIND:182 nVARs:180 NUM_NODE:3811 TBID:431 TEID:1805
+
+000000002	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/StandaloneDisabledTest.java LINE:36:228 NODE_KIND:153 nVARs:88 NUM_NODE:3810 TBID:126 TEID:1432
+000000003	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/StandaloneDisabledTest.java LINE:36:228 NODE_KIND:182 nVARs:88 NUM_NODE:3809 TBID:126 TEID:1432
+
+000000005	dist:5.2	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:961:151 NODE_KIND:121 nVARs:111 NUM_NODE:3813 TBID:6680 TEID:7957
+000000004	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/server/quorum/Zab1_0Test.java LINE:959:154 NODE_KIND:113 nVARs:113 NUM_NODE:3826 TBID:6670 TEID:7958
+
+000000006	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsTest.java LINE:42:204 NODE_KIND:153 nVARs:75 NUM_NODE:3804 TBID:153 TEID:1378
+000000007	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsTest.java LINE:42:204 NODE_KIND:182 nVARs:75 NUM_NODE:3803 TBID:153 TEID:1378
+
+000000008	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsWhiteListTest.java LINE:34:218 NODE_KIND:153 nVARs:57 NUM_NODE:3918 TBID:93 TEID:1323
+000000009	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/FourLetterWordsWhiteListTest.java LINE:34:218 NODE_KIND:182 nVARs:57 NUM_NODE:3917 TBID:93 TEID:1323
+
+000000010	dist:0.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReadOnlyModeTest.java LINE:52:258 NODE_KIND:153 nVARs:119 NUM_NODE:3886 TBID:255 TEID:1665
+000000011	dist:1.0	FILE /home/daveroar/git/zookeeper/src/java/test/org/apache/zookeeper/test/ReadOnlyModeTest.java LINE:52:258 NODE_KIND:182 nVARs:119 NUM_NODE:3885 TBID:255 TEID:1665
+

@@ -391,7 +391,15 @@ public class ASTNodeUtil {
     }
 
     public static boolean isTestCase(MethodDeclaration method) {
-        return Modifier.isPublic(method.getModifiers()) && method.parameters().size() == 0 && isVoid(method.getReturnType2());
+    	List<IExtendedModifier> extendedModifiers = method.modifiers();   	
+    	for(IExtendedModifier extendedModifier : extendedModifiers) {
+			if(extendedModifier.isAnnotation()) {
+				Annotation annotation = (Annotation)extendedModifier;
+				return Modifier.isPublic(method.getModifiers()) && method.parameters().size() == 0 
+						&& isVoid(method.getReturnType2()) && annotation.getTypeName().getFullyQualifiedName().equals("Test");
+			}
+		}
+        return false;
     }
 
     public static TypePair getJavaLangClassCaptureBounds(TypePair pair) {

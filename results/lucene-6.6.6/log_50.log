@@ -1,0 +1,158 @@
+21:56:51.405 [main] INFO  - log file in /home/daveroar/Graduation_Studies/ThesisWork/JRefactoring/JRefactoring-Template/results/lucene-6.6.6/log.log
+21:56:51.415 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/Graduation_Studies/ThesisWork/JRefactoring/JRefactoring-Template/results/lucene-6.6.6/lucene-6.6.6-deckard-50-0.95-0-selected.xls
+21:56:57.508 [main] INFO  - 4%: Reading information from row 2 (Clone group ID 256, clone #1)
+21:57:01.487 [main] INFO  - 4%: Generating PDG for method "testSettingCtor" in "org.apache.lucene.util.TestSetOnce"
+21:57:01.641 [main] INFO  - 4%: Reading information from row 3 (Clone group ID 256, clone #2)
+21:57:01.642 [main] INFO  - 4%: Generating PDG for method "testSetOnce" in "org.apache.lucene.util.TestSetOnce"
+21:57:01.646 [main] INFO  - 4%: Analyzing Clone #1 (Group 256, Pair 1-2): org.apache.lucene.util.TestSetOnce#testSettingCtor (row 2) and org.apache.lucene.util.TestSetOnce#testSetOnce (row 3)
+21:57:01.683 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:57:01.684 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:57:01.914 [main] INFO  - start to refactor clone pair
+21:57:01.915 [main] INFO  - Non refactorable CloneType: Type 3
+21:57:01.915 [main] INFO  - 12%: Reading information from row 4 (Clone group ID 369, clone #1)
+21:57:02.096 [main] INFO  - 12%: Generating PDG for method "run" in "org.apache.lucene.index.TestAtomicUpdate"
+21:57:11.852 [main] INFO  - 12%: Reading information from row 5 (Clone group ID 369, clone #2)
+21:57:11.886 [main] INFO  - 12%: Generating PDG for method "run" in "org.apache.lucene.index.TestStressIndexing"
+21:57:12.802 [main] INFO  - 12%: Analyzing Clone #2 (Group 369, Pair 1-2): org.apache.lucene.index.TestAtomicUpdate#run (row 4) and org.apache.lucene.index.TestStressIndexing#run (row 5)
+21:57:12.868 [main] INFO  - CDT 1 depth = 3, CDT 2 depth = 3
+21:57:12.868 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:57:12.881 [main] INFO  - Start mapping
+21:57:12.945 [main] INFO  - End mapping
+21:57:12.946 [main] INFO  - start to refactor clone pair
+21:57:12.956 [main] ERROR - CloneStructure has PDG gap node.
+21:57:12.957 [main] INFO  - 20%: Reading information from row 6 (Clone group ID 416, clone #1)
+21:57:12.992 [main] INFO  - 20%: Generating PDG for method "testAllocateAndRecycle" in "org.apache.lucene.util.TestRecyclingByteBlockAllocator"
+21:57:13.311 [main] INFO  - 20%: Reading information from row 7 (Clone group ID 416, clone #2)
+21:57:13.337 [main] INFO  - 20%: Generating PDG for method "testAllocateAndRecycle" in "org.apache.lucene.util.TestRecyclingIntBlockAllocator"
+21:57:13.346 [main] INFO  - 20%: Analyzing Clone #3 (Group 416, Pair 1-2): org.apache.lucene.util.TestRecyclingByteBlockAllocator#testAllocateAndRecycle (row 6) and org.apache.lucene.util.TestRecyclingIntBlockAllocator#testAllocateAndRecycle (row 7)
+21:57:13.388 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+21:57:13.388 [main] INFO  - CDT 1 leaves = 3, CDT 2 leaves = 3
+21:57:13.401 [main] INFO  - Start mapping
+21:57:13.596 [main] INFO  - End mapping
+21:57:13.596 [main] INFO  - start to refactor clone pair
+21:57:13.599 [main] ERROR - CloneStructure has PDG gap node.
+21:57:13.600 [main] INFO  - 28%: Reading information from row 8 (Clone group ID 507, clone #1)
+21:57:13.698 [main] INFO  - 28%: Generating PDG for method "testInfiniteValues" in "org.apache.lucene.search.TestNumericRangeQuery32"
+21:58:22.894 [main] INFO  - 28%: Reading information from row 9 (Clone group ID 507, clone #2)
+21:58:22.949 [main] INFO  - 28%: Generating PDG for method "testInfiniteValues" in "org.apache.lucene.search.TestNumericRangeQuery64"
+21:58:23.075 [main] INFO  - 28%: Analyzing Clone #4 (Group 507, Pair 1-2): org.apache.lucene.search.TestNumericRangeQuery32#testInfiniteValues (row 8) and org.apache.lucene.search.TestNumericRangeQuery64#testInfiniteValues (row 9)
+21:58:23.182 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:58:23.182 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:58:23.202 [main] INFO  - Start mapping
+21:58:26.931 [main] INFO  - End mapping
+21:58:26.931 [main] INFO  - start to refactor clone pair
+21:58:26.938 [main] INFO  - get compatible primitive type
+21:58:26.940 [main] INFO  - get compatible primitive type
+21:58:26.940 [main] INFO  - get compatible primitive type
+21:58:26.941 [main] INFO  - get compatible primitive type
+21:58:26.941 [main] INFO  - get compatible primitive type
+21:58:26.942 [main] INFO  - get compatible primitive type
+21:58:26.943 [main] INFO  - get compatible primitive type
+21:58:26.946 [main] INFO  - get compatible primitive type
+21:58:26.947 [main] INFO  - get compatible primitive type
+21:58:26.947 [main] INFO  - get compatible primitive type
+21:58:26.947 [main] INFO  - get compatible primitive type
+21:58:26.949 [main] INFO  - get compatible primitive type
+21:58:26.949 [main] INFO  - get compatible primitive type
+21:58:26.949 [main] INFO  - get compatible primitive type
+21:58:26.949 [main] INFO  - get compatible primitive type
+21:58:26.950 [main] INFO  - get compatible primitive type
+21:58:26.950 [main] INFO  - get compatible primitive type
+21:58:26.951 [main] INFO  - 36%: Reading information from row 10 (Clone group ID 673, clone #1)
+21:58:26.952 [main] INFO  - 36%: Generating PDG for method "testEmptyEnums" in "org.apache.lucene.search.TestNumericRangeQuery32"
+21:58:26.973 [main] INFO  - 36%: Reading information from row 11 (Clone group ID 673, clone #2)
+21:58:26.973 [main] INFO  - 36%: Generating PDG for method "testEmptyEnums" in "org.apache.lucene.search.TestNumericRangeQuery64"
+21:58:26.974 [main] INFO  - 36%: Analyzing Clone #5 (Group 673, Pair 1-2): org.apache.lucene.search.TestNumericRangeQuery32#testEmptyEnums (row 10) and org.apache.lucene.search.TestNumericRangeQuery64#testEmptyEnums (row 11)
+21:58:27.081 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:58:27.081 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:58:52.187 [main] INFO  - start to refactor clone pair
+21:58:52.188 [main] ERROR - CloneStructure has PDG gap node.
+21:58:52.188 [main] INFO  - 44%: Reading information from row 12 (Clone group ID 675, clone #1)
+21:58:52.215 [main] INFO  - 44%: Generating PDG for method "setUp" in "org.apache.lucene.search.TestRegexpRandom"
+21:58:58.379 [main] INFO  - 44%: Reading information from row 13 (Clone group ID 675, clone #2)
+21:58:58.413 [main] INFO  - 44%: Generating PDG for method "setUp" in "org.apache.lucene.search.TestWildcardRandom"
+21:58:58.441 [main] INFO  - 44%: Analyzing Clone #6 (Group 675, Pair 1-2): org.apache.lucene.search.TestRegexpRandom#setUp (row 12) and org.apache.lucene.search.TestWildcardRandom#setUp (row 13)
+21:58:58.500 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:58:58.500 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 2
+21:58:58.501 [main] INFO  - Start mapping
+21:58:58.666 [main] INFO  - End mapping
+21:58:58.666 [main] INFO  - start to refactor clone pair
+21:58:58.666 [main] INFO  - Non refactorable CloneType: Type 3
+21:58:58.667 [main] INFO  - 52%: Reading information from row 14 (Clone group ID 845, clone #1)
+21:58:58.713 [main] INFO  - 52%: Generating PDG for method "testQueries07" in "org.apache.lucene.search.TestBoolean2"
+21:59:00.425 [main] INFO  - 52%: Reading information from row 15 (Clone group ID 845, clone #2)
+21:59:00.425 [main] INFO  - 52%: Generating PDG for method "testQueries06" in "org.apache.lucene.search.TestBoolean2"
+21:59:00.441 [main] INFO  - 52%: Analyzing Clone #7 (Group 845, Pair 1-2): org.apache.lucene.search.TestBoolean2#testQueries07 (row 14) and org.apache.lucene.search.TestBoolean2#testQueries06 (row 15)
+21:59:00.486 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:59:00.487 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:59:00.581 [main] INFO  - start to refactor clone pair
+21:59:00.581 [main] ERROR - CloneStructure has PDG gap node.
+21:59:00.582 [main] INFO  - 60%: Reading information from row 16 (Clone group ID 939, clone #1)
+21:59:00.603 [main] INFO  - 60%: Generating PDG for method "testAllocate" in "org.apache.lucene.util.TestRecyclingByteBlockAllocator"
+21:59:00.671 [main] INFO  - 60%: Reading information from row 17 (Clone group ID 939, clone #2)
+21:59:00.692 [main] INFO  - 60%: Generating PDG for method "testAllocate" in "org.apache.lucene.util.TestRecyclingIntBlockAllocator"
+21:59:00.698 [main] INFO  - 60%: Analyzing Clone #8 (Group 939, Pair 1-2): org.apache.lucene.util.TestRecyclingByteBlockAllocator#testAllocate (row 16) and org.apache.lucene.util.TestRecyclingIntBlockAllocator#testAllocate (row 17)
+21:59:00.738 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:59:00.738 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:59:00.738 [main] INFO  - Start mapping
+21:59:00.826 [main] INFO  - End mapping
+21:59:00.826 [main] INFO  - start to refactor clone pair
+21:59:00.827 [main] ERROR - CloneStructure has PDG gap node.
+21:59:00.827 [main] INFO  - 68%: Reading information from row 18 (Clone group ID 1031, clone #1)
+21:59:00.872 [main] INFO  - 68%: Generating PDG for method "testQueries03" in "org.apache.lucene.search.TestBoolean2"
+21:59:02.633 [main] INFO  - 68%: Reading information from row 19 (Clone group ID 1031, clone #2)
+21:59:02.633 [main] INFO  - 68%: Generating PDG for method "testQueries02" in "org.apache.lucene.search.TestBoolean2"
+21:59:02.649 [main] INFO  - 68%: Analyzing Clone #9 (Group 1031, Pair 1-2): org.apache.lucene.search.TestBoolean2#testQueries03 (row 18) and org.apache.lucene.search.TestBoolean2#testQueries02 (row 19)
+21:59:02.693 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:59:02.694 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:59:02.774 [main] INFO  - start to refactor clone pair
+21:59:02.776 [main] INFO  - 76%: Reading information from row 20 (Clone group ID 1294, clone #1)
+21:59:02.801 [main] INFO  - 76%: Generating PDG for method "testMethodsOverridden" in "org.apache.lucene.index.TestNoDeletionPolicy"
+21:59:02.802 [main] INFO  - 76%: Reading information from row 21 (Clone group ID 1294, clone #2)
+21:59:02.823 [main] INFO  - 76%: Generating PDG for method "testMethodsOverridden" in "org.apache.lucene.index.TestNoMergeScheduler"
+21:59:02.824 [main] INFO  - 76%: Analyzing Clone #10 (Group 1294, Pair 1-2): org.apache.lucene.index.TestNoDeletionPolicy#testMethodsOverridden (row 20) and org.apache.lucene.index.TestNoMergeScheduler#testMethodsOverridden (row 21)
+21:59:02.869 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+21:59:02.869 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:59:02.870 [main] INFO  - Start mapping
+21:59:02.871 [main] INFO  - End mapping
+21:59:02.872 [main] INFO  - start to refactor clone pair
+21:59:02.874 [main] INFO  - Same method found in common super class [java.lang.Class<org.apache.lucene.index.NoDeletionPolicy>]: getMethods
+21:59:02.874 [main] INFO  - 84%: Reading information from row 22 (Clone group ID 1331, clone #1)
+21:59:02.924 [main] INFO  - 84%: Generating PDG for method "testOneMatchQuery" in "org.apache.lucene.search.TestNumericRangeQuery32"
+21:59:04.505 [main] INFO  - 84%: Reading information from row 23 (Clone group ID 1331, clone #2)
+21:59:04.556 [main] INFO  - 84%: Generating PDG for method "testOneMatchQuery" in "org.apache.lucene.search.TestNumericRangeQuery64"
+21:59:04.580 [main] INFO  - 84%: Analyzing Clone #11 (Group 1331, Pair 1-2): org.apache.lucene.search.TestNumericRangeQuery32#testOneMatchQuery (row 22) and org.apache.lucene.search.TestNumericRangeQuery64#testOneMatchQuery (row 23)
+21:59:04.677 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:59:04.678 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:59:04.704 [main] INFO  - start to refactor clone pair
+21:59:04.705 [main] INFO  - get compatible primitive type
+21:59:04.705 [main] INFO  - get compatible primitive type
+21:59:04.706 [main] INFO  - Containing unrefactorable private field access: searcher
+21:59:04.706 [main] INFO  - Containing unrefactorable private field access: noDocs
+21:59:04.706 [main] INFO  - 92%: Reading information from row 24 (Clone group ID 1475, clone #1)
+21:59:04.747 [main] INFO  - 92%: Generating PDG for method "testFind" in "org.apache.lucene.util.TestBytesRefHash"
+21:59:05.002 [main] INFO  - 92%: Reading information from row 25 (Clone group ID 1475, clone #2)
+21:59:05.002 [main] INFO  - 92%: Generating PDG for method "testGet" in "org.apache.lucene.util.TestBytesRefHash"
+21:59:05.009 [main] INFO  - 92%: Analyzing Clone #12 (Group 1475, Pair 1-2): org.apache.lucene.util.TestBytesRefHash#testFind (row 24) and org.apache.lucene.util.TestBytesRefHash#testGet (row 25)
+21:59:05.060 [main] INFO  - CDT 1 depth = 3, CDT 2 depth = 3
+21:59:05.061 [main] INFO  - CDT 1 leaves = 3, CDT 2 leaves = 4
+21:59:05.062 [main] INFO  - Start mapping
+21:59:05.257 [main] INFO  - End mapping
+21:59:05.258 [main] INFO  - start to refactor clone pair
+21:59:05.258 [main] INFO  - Non refactorable CloneType: Type 3
+21:59:08.833 [main] INFO  - Applying changes to source files
+21:59:08.833 [main] INFO  - refactoring 3 clone method pairs.
+21:59:08.833 [main] INFO  - skipping 6 clone method pairs:
+21:59:08.833 [main] INFO  - 	0 not test cases
+21:59:08.833 [main] INFO  - 	5 containing gap nodes (type3)
+21:59:08.833 [main] INFO  - 	1 not refactorable
+21:59:08.833 [main] INFO  - 	0 repeated naming
+21:59:08.833 [main] INFO  - 	1 access issues
+21:59:08.833 [main] INFO  - type1 count: 0
+21:59:08.833 [main] INFO  - type2 count: 9
+21:59:08.833 [main] INFO  - type3 count: 3
+21:59:08.844 [main] INFO  - effective refactoring ratio: 3/4 = 75.0%
+21:59:08.845 [main] INFO  - refactoring method pair: org.apache.lucene.search.TestNumericRangeQuery32.java#testInfiniteValues <---> org.apache.lucene.search.TestNumericRangeQuery64.java#testInfiniteValues
+21:59:09.662 [main] INFO  - refactoring method pair: org.apache.lucene.search.TestBoolean2.java#testQueries03 <---> org.apache.lucene.search.TestBoolean2.java#testQueries02
+21:59:09.877 [main] INFO  - refactoring method pair: org.apache.lucene.index.TestNoDeletionPolicy.java#testMethodsOverridden <---> org.apache.lucene.index.TestNoMergeScheduler.java#testMethodsOverridden
+21:59:10.043 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/Graduation_Studies/ThesisWork/JRefactoring/JRefactoring-Template/results/lucene-6.6.6/lucene-6.6.6-deckard-50-0.95-0-selected.xls, output file: /home/daveroar/Graduation_Studies/ThesisWork/JRefactoring/JRefactoring-Template/results/lucene-6.6.6/lucene-6.6.6-deckard-50-0.95-0-selected-analyzed.xls

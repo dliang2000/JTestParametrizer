@@ -77,8 +77,14 @@ public class CloneRefactor {
                 if (root != null) {
 
                     // count clone types
-                    if (cloneType.equals(CloneType.TYPE_1)) countType1++;
-                    if (cloneType.equals(CloneType.TYPE_2)) countType2++;
+                    if (cloneType.equals(CloneType.TYPE_1)) {
+                    	countType1++;
+                    	log.info("CloneType: " + cloneType.toString());
+                    }
+                    if (cloneType.equals(CloneType.TYPE_2)) {
+                    	countType2++;
+                    	log.info("CloneType: " + cloneType.toString());
+                    }
 
                     // create the refactoring template
                     Statement stmt1 = getStmt1(root);

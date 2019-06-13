@@ -1,0 +1,45 @@
+16:25:24.116 [main] INFO  - log file in /home/daveroar/Graduation_Studies/ThesisWork/JRefactoring/JRefactoring-Template/results/commons-io-2.5-new/log.log
+16:25:24.121 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/Graduation_Studies/ThesisWork/JRefactoring/JRefactoring-Template/results/commons-io-2.5-new/commons-io-2.5-deckard-100-0.95-0-selected.xls
+16:25:24.820 [main] INFO  - 3%: Reading information from row 2 (Clone group ID 21, clone #1)
+16:25:24.831 [main] INFO  - 3%: Generating PDG for method "testReadByteArray" in "org.apache.commons.io.input.NullInputStreamTest"
+16:25:26.058 [main] INFO  - 3%: Reading information from row 3 (Clone group ID 21, clone #2)
+16:25:26.075 [main] INFO  - 3%: Generating PDG for method "testReadCharArray" in "org.apache.commons.io.input.NullReaderTest"
+16:25:26.410 [main] INFO  - 3%: Analyzing Clone #1 (Group 21, Pair 1-2): org.apache.commons.io.input.NullInputStreamTest#testReadByteArray (row 2) and org.apache.commons.io.input.NullReaderTest#testReadCharArray (row 3)
+16:25:26.427 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+16:25:26.427 [main] INFO  - CDT 1 leaves = 4, CDT 2 leaves = 4
+16:25:26.476 [main] INFO  - Start mapping
+16:25:26.616 [main] INFO  - End mapping
+16:25:26.622 [main] INFO  - start to refactor clone pair
+16:25:26.622 [main] INFO  - CloneType: Type 2
+16:25:26.633 [main] ERROR - CloneStructure has PDG gap node.
+16:25:26.633 [main] INFO  - 9%: Reading information from row 4 (Clone group ID 37, clone #1)
+16:25:26.660 [main] INFO  - 9%: Generating PDG for method "testFileCreate" in "org.apache.commons.io.monitor.FileAlterationObserverTestCase"
+16:25:28.401 [main] INFO  - 9%: Reading information from row 5 (Clone group ID 37, clone #2)
+16:25:28.402 [main] INFO  - 9%: Generating PDG for method "testFileDelete" in "org.apache.commons.io.monitor.FileAlterationObserverTestCase"
+16:25:28.564 [main] INFO  - 9%: Analyzing Clone #2 (Group 37, Pair 1-2): org.apache.commons.io.monitor.FileAlterationObserverTestCase#testFileCreate (row 4) and org.apache.commons.io.monitor.FileAlterationObserverTestCase#testFileDelete (row 5)
+16:25:28.584 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+16:25:28.585 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+16:25:28.586 [main] INFO  - Start mapping
+16:25:36.694 [main] INFO  - End mapping
+16:25:36.695 [main] INFO  - start to refactor clone pair
+16:25:36.695 [main] INFO  - CloneType: Type 2
+16:25:36.698 [main] ERROR - CloneStructure has PDG gap node.
+16:25:36.698 [main] INFO  - 15%: Reading information from row 6 (Clone group ID 72, clone #1)
+16:25:36.708 [main] INFO  - 15%: Generating PDG for method "testMarkAndReset" in "org.apache.commons.io.input.NullInputStreamTest"
+16:25:36.713 [main] INFO  - 15%: Reading information from row 7 (Clone group ID 72, clone #2)
+16:25:36.722 [main] INFO  - 15%: Generating PDG for method "testMarkAndReset" in "org.apache.commons.io.input.NullReaderTest"
+16:25:36.728 [main] INFO  - 15%: Analyzing Clone #3 (Group 72, Pair 1-2): org.apache.commons.io.input.NullInputStreamTest#testMarkAndReset (row 6) and org.apache.commons.io.input.NullReaderTest#testMarkAndReset (row 7)
+16:25:36.743 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+16:25:36.743 [main] INFO  - CDT 1 leaves = 5, CDT 2 leaves = 5
+16:25:36.753 [main] INFO  - Start mapping
+16:25:36.833 [main] INFO  - End mapping
+16:25:36.834 [main] INFO  - start to refactor clone pair
+16:25:36.834 [main] INFO  - CloneType: Type 2
+16:25:36.848 [main] INFO  - non-refactored node pair with SimpleName node: position  <--->  position + i  (TYPE_COMPATIBLE_REPLACEMENT)
+16:25:36.851 [main] INFO  - 21%: Reading information from row 8 (Clone group ID 75, clone #1)
+16:25:36.866 [main] INFO  - 21%: Generating PDG for method "setUpTestFilters" in "org.apache.commons.io.filefilter.AndFileFilterTestCase"
+16:25:41.653 [main] INFO  - 21%: Reading information from row 9 (Clone group ID 75, clone #2)
+16:25:41.662 [main] INFO  - 21%: Generating PDG for method "setUpTestFilters" in "org.apache.commons.io.filefilter.OrFileFilterTestCase"
+16:25:41.769 [main] INFO  - 21%: Analyzing Clone #4 (Group 75, Pair 1-2): org.apache.commons.io.filefilter.AndFileFilterTestCase#setUpTestFilters (row 8) and org.apache.commons.io.filefilter.OrFileFilterTestCase#setUpTestFilters (row 9)
+16:25:41.785 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+16:25:41.785 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
