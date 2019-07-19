@@ -1,0 +1,718 @@
+21:10:14.202 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/jmeter_5.1.1/log.log
+21:10:14.207 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/jmeter_5.1.1/jmeter-5.1.1-deckard-50-0.95-0-selected.xls
+21:10:15.190 [main] INFO  - 1%: Reading information from row 2 (Clone group ID 8, clone #1)
+21:10:15.207 [main] INFO  - 1%: Generating PDG for method "testPause2True" in "org.apache.jmeter.samplers.TestSampleResult"
+21:10:21.547 [main] INFO  - 1%: Reading information from row 3 (Clone group ID 8, clone #2)
+21:10:21.550 [main] INFO  - 1%: Generating PDG for method "testPause2False" in "org.apache.jmeter.samplers.TestSampleResult"
+21:10:21.555 [main] INFO  - 1%: Analyzing Clone #1 (Group 8, Pair 1-2): org.apache.jmeter.samplers.TestSampleResult#testPause2True (row 2) and org.apache.jmeter.samplers.TestSampleResult#testPause2False (row 3)
+21:10:21.573 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:10:21.573 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:10:21.616 [main] INFO  - start to refactor clone pair
+21:10:21.616 [main] INFO  - CloneType: Type 2
+21:10:21.628 [main] INFO  - 2%: Reading information from row 4 (Clone group ID 36, clone #1)
+21:10:21.650 [main] INFO  - 2%: Generating PDG for method "testFailSimpleParse2" in "org.apache.jmeter.protocol.http.modifier.TestAnchorModifier"
+21:10:22.297 [main] INFO  - 2%: Reading information from row 5 (Clone group ID 36, clone #2)
+21:10:22.299 [main] INFO  - 2%: Generating PDG for method "testSimpleParse3" in "org.apache.jmeter.protocol.http.modifier.TestAnchorModifier"
+21:10:22.303 [main] INFO  - 2%: Analyzing Clone #2 (Group 36, Pair 1-2): org.apache.jmeter.protocol.http.modifier.TestAnchorModifier#testFailSimpleParse2 (row 4) and org.apache.jmeter.protocol.http.modifier.TestAnchorModifier#testSimpleParse3 (row 5)
+21:10:22.320 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:10:22.320 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:10:22.400 [main] INFO  - start to refactor clone pair
+21:10:22.400 [main] INFO  - Non refactorable CloneType: Type 3
+21:10:22.400 [main] INFO  - 4%: Reading information from row 6 (Clone group ID 40, clone #1)
+21:10:22.408 [main] INFO  - 4%: Generating PDG for method "testGetResult_positive_regexp" in "org.apache.jmeter.assertions.TestJSONPathAssertion"
+21:10:22.468 [main] INFO  - 4%: Reading information from row 7 (Clone group ID 40, clone #2)
+21:10:22.469 [main] INFO  - 4%: Generating PDG for method "testGetResult_match_msg_problem" in "org.apache.jmeter.assertions.TestJSONPathAssertion"
+21:10:22.476 [main] INFO  - 4%: Analyzing Clone #3 (Group 40, Pair 1-2): org.apache.jmeter.assertions.TestJSONPathAssertion#testGetResult_positive_regexp (row 6) and org.apache.jmeter.assertions.TestJSONPathAssertion#testGetResult_match_msg_problem (row 7)
+21:10:22.485 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:10:22.486 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:10:22.509 [main] INFO  - start to refactor clone pair
+21:10:22.509 [main] INFO  - Non refactorable CloneType: Type 3
+21:10:22.510 [main] INFO  - 5%: Reading information from row 8 (Clone group ID 44, clone #1)
+21:10:22.521 [main] INFO  - 5%: Generating PDG for method "testProcessAllElementsSingleMatch" in "org.apache.jmeter.extractor.TestHtmlExtractorJSoup"
+21:10:24.246 [main] INFO  - 5%: Reading information from row 9 (Clone group ID 44, clone #2)
+21:10:24.261 [main] INFO  - 5%: Generating PDG for method "testProcessAllElementsSingleMatch" in "org.apache.jmeter.extractor.TestRegexExtractor"
+21:10:24.395 [main] INFO  - 5%: Analyzing Clone #4 (Group 44, Pair 1-2): org.apache.jmeter.extractor.TestHtmlExtractorJSoup#testProcessAllElementsSingleMatch (row 8) and org.apache.jmeter.extractor.TestRegexExtractor#testProcessAllElementsSingleMatch (row 9)
+21:10:24.411 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:10:24.411 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:10:24.567 [main] INFO  - start to refactor clone pair
+21:10:24.567 [main] INFO  - CloneType: Type 2
+21:10:24.571 [main] INFO  - non-refactored node pair with SimpleName field node: extractor  <--->  extractor  (SUBCLASS_TYPE_MISMATCH)
+21:10:24.575 [main] INFO  - 7%: Reading information from row 10 (Clone group ID 60, clone #1)
+21:10:24.747 [main] INFO  - 7%: Generating PDG for method "testVariable1" in "org.apache.jmeter.control.TestWhileController"
+21:10:42.429 [main] INFO  - 7%: Reading information from row 11 (Clone group ID 60, clone #2)
+21:10:42.431 [main] INFO  - 7%: Generating PDG for method "testVariable2" in "org.apache.jmeter.control.TestWhileController"
+21:10:42.481 [main] INFO  - 7%: Analyzing Clone #5 (Group 60, Pair 1-2): org.apache.jmeter.control.TestWhileController#testVariable1 (row 10) and org.apache.jmeter.control.TestWhileController#testVariable2 (row 11)
+21:10:42.492 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+21:10:42.493 [main] INFO  - CDT 1 leaves = 3, CDT 2 leaves = 3
+21:10:42.496 [main] INFO  - Start mapping
+21:10:48.981 [main] INFO  - End mapping
+21:10:48.982 [main] INFO  - start to refactor clone pair
+21:10:48.982 [main] INFO  - CloneType: Type 2
+21:10:48.984 [main] INFO  - non-refactored node pair with ClassInstanceCreation node: new TestSampler("one")  <--->  simple  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+21:10:48.986 [main] INFO  - 8%: Reading information from row 12 (Clone group ID 77, clone #1)
+21:10:48.991 [main] INFO  - 8%: Generating PDG for method "testParseArgumentsLF" in "org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest"
+21:10:49.080 [main] INFO  - 8%: Reading information from row 13 (Clone group ID 77, clone #2)
+21:10:49.080 [main] INFO  - 8%: Generating PDG for method "testParseArgumentsCRLF" in "org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest"
+21:10:49.082 [main] INFO  - 8%: Analyzing Clone #6 (Group 77, Pair 1-2): org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest#testParseArgumentsLF (row 12) and org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest#testParseArgumentsCRLF (row 13)
+21:10:49.087 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:10:49.087 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:10:49.164 [main] INFO  - start to refactor clone pair
+21:10:49.164 [main] INFO  - CloneType: Type 2
+21:10:49.168 [main] INFO  - 9%: Reading information from row 14 (Clone group ID 83, clone #1)
+21:10:49.181 [main] INFO  - 9%: Generating PDG for method "testOptionalArgWithSpace" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:10:49.397 [main] INFO  - 9%: Reading information from row 15 (Clone group ID 83, clone #2)
+21:10:49.398 [main] INFO  - 9%: Generating PDG for method "testOptionalArgLong" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:10:49.406 [main] INFO  - 9%: Analyzing Clone #7 (Group 83, Pair 1-2): org.apache.commons.cli.avalon.ClutilTestCase#testOptionalArgWithSpace (row 14) and org.apache.commons.cli.avalon.ClutilTestCase#testOptionalArgLong (row 15)
+21:10:49.416 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:10:49.417 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:10:49.465 [main] INFO  - start to refactor clone pair
+21:10:49.465 [main] INFO  - CloneType: Type 2
+21:10:49.466 [main] INFO  - non-refactored node pair with MethodInvocation node: option1.getDescriptor().getId()  <--->  CLOption.TEXT_ARGUMENT  (TYPE_COMPATIBLE_REPLACEMENT)
+21:10:49.467 [main] INFO  - 11%: Reading information from row 16 (Clone group ID 105, clone #1)
+21:10:49.477 [main] INFO  - 11%: Generating PDG for method "testProcessing" in "org.apache.jmeter.control.TestInterleaveControl"
+21:10:50.808 [main] INFO  - 11%: Reading information from row 17 (Clone group ID 105, clone #2)
+21:10:50.815 [main] INFO  - 11%: Generating PDG for method "testProcessing2" in "org.apache.jmeter.control.TestOnceOnlyController"
+21:10:50.848 [main] INFO  - 11%: Analyzing Clone #8 (Group 105, Pair 1-2): org.apache.jmeter.control.TestInterleaveControl#testProcessing (row 16) and org.apache.jmeter.control.TestOnceOnlyController#testProcessing2 (row 17)
+21:10:50.863 [main] INFO  - CDT 1 depth = 3, CDT 2 depth = 3
+21:10:50.863 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 3
+21:10:50.865 [main] INFO  - Start mapping
+21:10:51.134 [main] INFO  - End mapping
+21:10:51.135 [main] INFO  - start to refactor clone pair
+21:10:51.135 [main] INFO  - Non refactorable CloneType: Type 3
+21:10:51.135 [main] INFO  - 12%: Reading information from row 18 (Clone group ID 160, clone #1)
+21:10:51.146 [main] INFO  - 12%: Generating PDG for method "testProcessingTrue" in "org.apache.jmeter.control.TestIfController"
+21:10:58.852 [main] INFO  - 12%: Reading information from row 19 (Clone group ID 160, clone #2)
+21:10:58.852 [main] INFO  - 12%: Generating PDG for method "testProcessingTrueWithExpression" in "org.apache.jmeter.control.TestIfController"
+21:10:58.888 [main] INFO  - 12%: Analyzing Clone #9 (Group 160, Pair 1-2): org.apache.jmeter.control.TestIfController#testProcessingTrue (row 18) and org.apache.jmeter.control.TestIfController#testProcessingTrueWithExpression (row 19)
+21:10:58.899 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:10:58.899 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:10:58.899 [main] INFO  - Start mapping
+21:10:59.258 [main] INFO  - End mapping
+21:10:59.258 [main] INFO  - start to refactor clone pair
+21:10:59.258 [main] INFO  - Non refactorable CloneType: Type 3
+21:10:59.258 [main] INFO  - 14%: Reading information from row 20 (Clone group ID 163, clone #1)
+21:10:59.268 [main] INFO  - 14%: Generating PDG for method "testVariableExtraction7" in "org.apache.jmeter.extractor.TestRegexExtractor"
+21:11:00.331 [main] INFO  - 14%: Reading information from row 21 (Clone group ID 163, clone #2)
+21:11:00.332 [main] INFO  - 14%: Generating PDG for method "testVariableExtraction9" in "org.apache.jmeter.extractor.TestRegexExtractor"
+21:11:00.333 [main] INFO  - 14%: Analyzing Clone #10 (Group 163, Pair 1-2): org.apache.jmeter.extractor.TestRegexExtractor#testVariableExtraction7 (row 20) and org.apache.jmeter.extractor.TestRegexExtractor#testVariableExtraction9 (row 21)
+21:11:00.343 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:00.343 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:00.386 [main] INFO  - start to refactor clone pair
+21:11:00.386 [main] INFO  - CloneType: Type 2
+21:11:00.387 [main] ERROR - CloneStructure has PDG gap node.
+21:11:00.387 [main] INFO  - 15%: Reading information from row 22 (Clone group ID 165, clone #1)
+21:11:00.398 [main] INFO  - 15%: Generating PDG for method "testOptionalArgLongEquals" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:11:00.876 [main] INFO  - 15%: Reading information from row 23 (Clone group ID 165, clone #2)
+21:11:00.877 [main] INFO  - 15%: Generating PDG for method "testShortOptArgUnenteredBeforeOtherOpt" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:11:00.880 [main] INFO  - 15%: Analyzing Clone #11 (Group 165, Pair 1-2): org.apache.commons.cli.avalon.ClutilTestCase#testOptionalArgLongEquals (row 22) and org.apache.commons.cli.avalon.ClutilTestCase#testShortOptArgUnenteredBeforeOtherOpt (row 23)
+21:11:00.890 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:00.891 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:00.909 [main] INFO  - start to refactor clone pair
+21:11:00.909 [main] INFO  - CloneType: Type 2
+21:11:00.910 [main] ERROR - CloneStructure has PDG gap node.
+21:11:00.910 [main] INFO  - 17%: Reading information from row 24 (Clone group ID 180, clone #1)
+21:11:00.919 [main] INFO  - 17%: Generating PDG for method "setUp" in "org.apache.jmeter.functions.TestTimeRandomDateFunction"
+21:11:00.997 [main] INFO  - 17%: Reading information from row 25 (Clone group ID 180, clone #2)
+21:11:01.008 [main] INFO  - 17%: Generating PDG for method "setUp" in "org.apache.jmeter.functions.TestTimeShiftFunction"
+21:11:01.017 [main] INFO  - 17%: Analyzing Clone #12 (Group 180, Pair 1-2): org.apache.jmeter.functions.TestTimeRandomDateFunction#setUp (row 24) and org.apache.jmeter.functions.TestTimeShiftFunction#setUp (row 25)
+21:11:01.035 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:01.035 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:01.505 [main] INFO  - start to refactor clone pair
+21:11:01.505 [main] INFO  - CloneType: Type 2
+21:11:01.505 [main] INFO  - method pair are not test cases!
+21:11:01.505 [main] INFO  - 18%: Reading information from row 26 (Clone group ID 201, clone #1)
+21:11:01.514 [main] INFO  - 18%: Generating PDG for method "testisEqualOrMatches" in "org.apache.jmeter.protocol.http.parser.TestHtmlParsingUtils"
+21:11:01.549 [main] INFO  - 18%: Reading information from row 27 (Clone group ID 201, clone #2)
+21:11:01.550 [main] INFO  - 18%: Generating PDG for method "testisEqualOrMatchesCaseBlind" in "org.apache.jmeter.protocol.http.parser.TestHtmlParsingUtils"
+21:11:01.550 [main] INFO  - 18%: Analyzing Clone #13 (Group 201, Pair 1-2): org.apache.jmeter.protocol.http.parser.TestHtmlParsingUtils#testisEqualOrMatches (row 26) and org.apache.jmeter.protocol.http.parser.TestHtmlParsingUtils#testisEqualOrMatchesCaseBlind (row 27)
+21:11:01.558 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:01.559 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:01.575 [main] INFO  - start to refactor clone pair
+21:11:01.575 [main] INFO  - CloneType: Type 2
+21:11:01.576 [main] INFO  - 20%: Reading information from row 28 (Clone group ID 203, clone #1)
+21:11:01.588 [main] INFO  - 20%: Generating PDG for method "testSignerEmail" in "org.apache.jmeter.assertions.SMIMEAssertionTest"
+21:11:01.732 [main] INFO  - 20%: Reading information from row 29 (Clone group ID 203, clone #2)
+21:11:01.733 [main] INFO  - 20%: Generating PDG for method "testSignerSerial" in "org.apache.jmeter.assertions.SMIMEAssertionTest"
+21:11:01.734 [main] INFO  - 20%: Analyzing Clone #14 (Group 203, Pair 1-2): org.apache.jmeter.assertions.SMIMEAssertionTest#testSignerEmail (row 28) and org.apache.jmeter.assertions.SMIMEAssertionTest#testSignerSerial (row 29)
+21:11:01.744 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:01.744 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:01.754 [main] INFO  - start to refactor clone pair
+21:11:01.754 [main] INFO  - CloneType: Type 2
+21:11:01.756 [main] INFO  - 21%: Reading information from row 30 (Clone group ID 210, clone #1)
+21:11:01.762 [main] INFO  - 21%: Generating PDG for method "testDateConvertErrorFormat" in "org.apache.jmeter.functions.TestDateTimeConvertFunction"
+21:11:15.501 [main] INFO  - 21%: Reading information from row 31 (Clone group ID 210, clone #2)
+21:11:15.501 [main] INFO  - 21%: Generating PDG for method "testDateConvertDateError" in "org.apache.jmeter.functions.TestDateTimeConvertFunction"
+21:11:21.416 [main] INFO  - 21%: Analyzing Clone #15 (Group 210, Pair 1-2): org.apache.jmeter.functions.TestDateTimeConvertFunction#testDateConvertErrorFormat (row 30) and org.apache.jmeter.functions.TestDateTimeConvertFunction#testDateConvertDateError (row 31)
+21:11:21.423 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:21.423 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:21.459 [main] INFO  - start to refactor clone pair
+21:11:21.459 [main] INFO  - CloneType: Type 2
+21:11:21.460 [main] INFO  - 23%: Reading information from row 32 (Clone group ID 214, clone #1)
+21:11:21.468 [main] INFO  - 23%: Generating PDG for method "testSplitStringStringFalseTruncate" in "org.apache.jorphan.util.TestJorphanUtils"
+21:11:21.477 [main] INFO  - 23%: Reading information from row 33 (Clone group ID 214, clone #2)
+21:11:21.478 [main] INFO  - 23%: Generating PDG for method "testSplitStringStringFalseDoubledSplitChar" in "org.apache.jorphan.util.TestJorphanUtils"
+21:11:21.479 [main] INFO  - 23%: Analyzing Clone #16 (Group 214, Pair 1-2): org.apache.jorphan.util.TestJorphanUtils#testSplitStringStringFalseTruncate (row 32) and org.apache.jorphan.util.TestJorphanUtils#testSplitStringStringFalseDoubledSplitChar (row 33)
+21:11:21.485 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:21.486 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:21.487 [main] INFO  - start to refactor clone pair
+21:11:21.487 [main] INFO  - CloneType: Type 2
+21:11:21.488 [main] INFO  - 24%: Reading information from row 34 (Clone group ID 227, clone #1)
+21:11:21.492 [main] INFO  - 24%: Generating PDG for method "testGetCalendarObjectCalendarWithValidStringAndNullDefault" in "org.apache.jorphan.util.TestConverter"
+21:11:21.899 [main] INFO  - 24%: Reading information from row 35 (Clone group ID 227, clone #2)
+21:11:21.900 [main] INFO  - 24%: Generating PDG for method "testGetDateObjectDateWithValidStringAndNullDefault" in "org.apache.jorphan.util.TestConverter"
+21:11:21.902 [main] INFO  - 24%: Analyzing Clone #17 (Group 227, Pair 1-2): org.apache.jorphan.util.TestConverter#testGetCalendarObjectCalendarWithValidStringAndNullDefault (row 34) and org.apache.jorphan.util.TestConverter#testGetDateObjectDateWithValidStringAndNullDefault (row 35)
+21:11:21.905 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:11:21.905 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:21.906 [main] INFO  - Start mapping
+21:11:21.924 [main] INFO  - End mapping
+21:11:21.925 [main] INFO  - start to refactor clone pair
+21:11:21.925 [main] INFO  - CloneType: Type 2
+21:11:21.925 [main] ERROR - CloneStructure has PDG gap node.
+21:11:21.926 [main] INFO  - 26%: Reading information from row 36 (Clone group ID 233, clone #1)
+21:11:21.931 [main] INFO  - 26%: Generating PDG for method "checkResetOkAndAllStats" in "org.apache.jmeter.visualizers.backend.SamplerMetricTimedModeTest"
+21:11:22.795 [main] INFO  - 26%: Reading information from row 37 (Clone group ID 233, clone #2)
+21:11:22.795 [main] INFO  - 26%: Generating PDG for method "checkResetKoAndAllStats" in "org.apache.jmeter.visualizers.backend.SamplerMetricTimedModeTest"
+21:11:22.796 [main] INFO  - 26%: Analyzing Clone #18 (Group 233, Pair 1-2): org.apache.jmeter.visualizers.backend.SamplerMetricTimedModeTest#checkResetOkAndAllStats (row 36) and org.apache.jmeter.visualizers.backend.SamplerMetricTimedModeTest#checkResetKoAndAllStats (row 37)
+21:11:22.800 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:22.801 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:22.831 [main] INFO  - start to refactor clone pair
+21:11:22.831 [main] INFO  - CloneType: Type 2
+21:11:22.833 [main] INFO  - 27%: Reading information from row 38 (Clone group ID 234, clone #1)
+21:11:22.841 [main] INFO  - 27%: Generating PDG for method "testProcessing4" in "org.apache.jmeter.control.TestInterleaveControl"
+21:11:24.470 [main] INFO  - 27%: Reading information from row 39 (Clone group ID 234, clone #2)
+21:11:24.470 [main] INFO  - 27%: Generating PDG for method "testProcessing5" in "org.apache.jmeter.control.TestInterleaveControl"
+21:11:24.495 [main] INFO  - 27%: Analyzing Clone #19 (Group 234, Pair 1-2): org.apache.jmeter.control.TestInterleaveControl#testProcessing4 (row 38) and org.apache.jmeter.control.TestInterleaveControl#testProcessing5 (row 39)
+21:11:24.504 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+21:11:24.504 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:24.504 [main] INFO  - Start mapping
+21:11:24.550 [main] INFO  - End mapping
+21:11:24.551 [main] INFO  - start to refactor clone pair
+21:11:24.551 [main] INFO  - CloneType: Type 2
+21:11:24.553 [main] INFO  - 28%: Reading information from row 40 (Clone group ID 247, clone #1)
+21:11:24.558 [main] INFO  - 28%: Generating PDG for method "testGetQueryMapAmpInValue" in "org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest"
+21:11:24.610 [main] INFO  - 28%: Reading information from row 41 (Clone group ID 247, clone #2)
+21:11:24.610 [main] INFO  - 28%: Generating PDG for method "testGetQueryMapBug54055" in "org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest"
+21:11:24.616 [main] INFO  - 28%: Analyzing Clone #20 (Group 247, Pair 1-2): org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest#testGetQueryMapAmpInValue (row 40) and org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest#testGetQueryMapBug54055 (row 41)
+21:11:24.620 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:24.620 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:24.640 [main] INFO  - start to refactor clone pair
+21:11:24.641 [main] INFO  - CloneType: Type 2
+21:11:24.642 [main] INFO  - 30%: Reading information from row 42 (Clone group ID 254, clone #1)
+21:11:24.642 [main] INFO  - 30%: Generating PDG for method "testGetQueryMapValueContainingAmpersand" in "org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest"
+21:11:24.663 [main] INFO  - 30%: Reading information from row 43 (Clone group ID 254, clone #2)
+21:11:24.663 [main] INFO  - 30%: Generating PDG for method "testGetQueryMapWithEmptyValue" in "org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest"
+21:11:24.668 [main] INFO  - 30%: Analyzing Clone #21 (Group 254, Pair 1-2): org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest#testGetQueryMapValueContainingAmpersand (row 42) and org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest#testGetQueryMapWithEmptyValue (row 43)
+21:11:24.673 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:24.673 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:24.683 [main] INFO  - start to refactor clone pair
+21:11:24.683 [main] INFO  - CloneType: Type 2
+21:11:24.685 [main] INFO  - 31%: Reading information from row 44 (Clone group ID 255, clone #1)
+21:11:24.699 [main] INFO  - 31%: Generating PDG for method "testSimpleFormParse" in "org.apache.jmeter.protocol.http.modifier.TestAnchorModifier"
+21:11:24.851 [main] INFO  - 31%: Reading information from row 45 (Clone group ID 255, clone #2)
+21:11:24.852 [main] INFO  - 31%: Generating PDG for method "testBadCharParse" in "org.apache.jmeter.protocol.http.modifier.TestAnchorModifier"
+21:11:24.853 [main] INFO  - 31%: Analyzing Clone #22 (Group 255, Pair 1-2): org.apache.jmeter.protocol.http.modifier.TestAnchorModifier#testSimpleFormParse (row 44) and org.apache.jmeter.protocol.http.modifier.TestAnchorModifier#testBadCharParse (row 45)
+21:11:24.866 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:24.866 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:24.880 [main] INFO  - start to refactor clone pair
+21:11:24.880 [main] INFO  - CloneType: Type 2
+21:11:24.881 [main] INFO  - 33%: Reading information from row 46 (Clone group ID 260, clone #1)
+21:11:24.887 [main] INFO  - 33%: Generating PDG for method "SFFTest2" in "org.apache.jmeter.functions.StringFromFileFunctionTest"
+21:11:24.923 [main] INFO  - 33%: Reading information from row 47 (Clone group ID 260, clone #2)
+21:11:24.923 [main] INFO  - 33%: Generating PDG for method "SFFTest3" in "org.apache.jmeter.functions.StringFromFileFunctionTest"
+21:11:24.924 [main] INFO  - 33%: Analyzing Clone #23 (Group 260, Pair 1-2): org.apache.jmeter.functions.StringFromFileFunctionTest#SFFTest2 (row 46) and org.apache.jmeter.functions.StringFromFileFunctionTest#SFFTest3 (row 47)
+21:11:24.930 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:11:24.930 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:11:25.112 [main] INFO  - start to refactor clone pair
+21:11:25.112 [main] INFO  - CloneType: Type 2
+21:11:25.112 [main] INFO  - non-refactored node pair with NullLiteral node: null  <--->  ""  (TYPE_COMPATIBLE_REPLACEMENT)
+21:11:25.112 [main] INFO  - non-refactored node pair with NullLiteral node: null  <--->  ""  (TYPE_COMPATIBLE_REPLACEMENT)
+21:11:25.113 [main] INFO  - 34%: Reading information from row 48 (Clone group ID 261, clone #1)
+21:11:25.121 [main] INFO  - 34%: Generating PDG for method "testDefault" in "org.apache.jmeter.functions.TestTimeRandomDateFunction"
+21:13:38.548 [main] INFO  - 34%: Reading information from row 49 (Clone group ID 261, clone #2)
+21:13:38.549 [main] INFO  - 34%: Generating PDG for method "testFormatDate" in "org.apache.jmeter.functions.TestTimeRandomDateFunction"
+21:13:38.553 [main] INFO  - 34%: Analyzing Clone #24 (Group 261, Pair 1-2): org.apache.jmeter.functions.TestTimeRandomDateFunction#testDefault (row 48) and org.apache.jmeter.functions.TestTimeRandomDateFunction#testFormatDate (row 49)
+21:13:38.561 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:13:38.561 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:13:38.580 [main] INFO  - start to refactor clone pair
+21:13:38.580 [main] INFO  - CloneType: Type 2
+21:13:38.581 [main] INFO  - 36%: Reading information from row 50 (Clone group ID 262, clone #1)
+21:13:38.588 [main] INFO  - 36%: Generating PDG for method "testProcessAllElementsMultipleMatches" in "org.apache.jmeter.extractor.TestHtmlExtractorJSoup"
+21:13:38.707 [main] INFO  - 36%: Reading information from row 51 (Clone group ID 262, clone #2)
+21:13:38.715 [main] INFO  - 36%: Generating PDG for method "testProcessAllElementsMultipleMatches" in "org.apache.jmeter.extractor.TestRegexExtractor"
+21:13:38.765 [main] INFO  - 36%: Analyzing Clone #25 (Group 262, Pair 1-2): org.apache.jmeter.extractor.TestHtmlExtractorJSoup#testProcessAllElementsMultipleMatches (row 50) and org.apache.jmeter.extractor.TestRegexExtractor#testProcessAllElementsMultipleMatches (row 51)
+21:13:38.779 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:13:38.779 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:13:38.845 [main] INFO  - start to refactor clone pair
+21:13:38.845 [main] INFO  - CloneType: Type 2
+21:13:38.846 [main] INFO  - non-refactored node pair with SimpleName field node: extractor  <--->  extractor  (SUBCLASS_TYPE_MISMATCH)
+21:13:38.847 [main] INFO  - 37%: Reading information from row 52 (Clone group ID 280, clone #1)
+21:13:38.852 [main] INFO  - 37%: Generating PDG for method "testExcludeFiles" in "org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter"
+21:13:38.897 [main] INFO  - 37%: Reading information from row 53 (Clone group ID 280, clone #2)
+21:13:38.898 [main] INFO  - 37%: Generating PDG for method "testIncludeFiles" in "org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter"
+21:13:38.899 [main] INFO  - 37%: Analyzing Clone #26 (Group 280, Pair 1-2): org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter#testExcludeFiles (row 52) and org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter#testIncludeFiles (row 53)
+21:13:38.903 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+21:13:38.904 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+21:13:38.904 [main] INFO  - Start mapping
+21:13:38.913 [main] INFO  - End mapping
+21:13:38.914 [main] INFO  - start to refactor clone pair
+21:13:38.914 [main] INFO  - CloneType: Type 2
+21:13:38.915 [main] INFO  - 39%: Reading information from row 54 (Clone group ID 282, clone #1)
+21:13:38.930 [main] INFO  - 39%: Generating PDG for method "testParse1" in "org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr"
+21:13:38.999 [main] INFO  - 39%: Reading information from row 55 (Clone group ID 282, clone #2)
+21:13:38.999 [main] INFO  - 39%: Generating PDG for method "testParse2" in "org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr"
+21:13:39.000 [main] INFO  - 39%: Analyzing Clone #27 (Group 282, Pair 1-2): org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr#testParse1 (row 54) and org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr#testParse2 (row 55)
+21:13:39.015 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:13:39.015 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:13:39.021 [main] INFO  - start to refactor clone pair
+21:13:39.021 [main] INFO  - CloneType: Type 2
+21:13:39.022 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+21:13:39.022 [main] INFO  - 40%: Reading information from row 56 (Clone group ID 284, clone #1)
+21:13:39.033 [main] INFO  - 40%: Generating PDG for method "testAssertionNoResult" in "org.apache.jmeter.assertions.XPathAssertionTest"
+21:13:39.180 [main] INFO  - 40%: Reading information from row 57 (Clone group ID 284, clone #2)
+21:13:39.181 [main] INFO  - 40%: Generating PDG for method "testAssertionEmptyResult" in "org.apache.jmeter.assertions.XPathAssertionTest"
+21:13:39.182 [main] INFO  - 40%: Analyzing Clone #28 (Group 284, Pair 1-2): org.apache.jmeter.assertions.XPathAssertionTest#testAssertionNoResult (row 56) and org.apache.jmeter.assertions.XPathAssertionTest#testAssertionEmptyResult (row 57)
+21:13:39.195 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:13:39.195 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:13:39.206 [main] INFO  - start to refactor clone pair
+21:13:39.206 [main] INFO  - CloneType: Type 2
+21:13:39.207 [main] ERROR - CloneStructure has PDG gap node.
+21:13:39.207 [main] INFO  - 42%: Reading information from row 58 (Clone group ID 286, clone #1)
+21:13:39.215 [main] INFO  - 42%: Generating PDG for method "testAssertionEmptyResult" in "org.apache.jmeter.assertions.XMLSchemaAssertionTest"
+21:13:39.251 [main] INFO  - 42%: Reading information from row 59 (Clone group ID 286, clone #2)
+21:13:39.252 [main] INFO  - 42%: Generating PDG for method "testAssertionNoFile" in "org.apache.jmeter.assertions.XMLSchemaAssertionTest"
+21:13:39.253 [main] INFO  - 42%: Analyzing Clone #29 (Group 286, Pair 1-2): org.apache.jmeter.assertions.XMLSchemaAssertionTest#testAssertionEmptyResult (row 58) and org.apache.jmeter.assertions.XMLSchemaAssertionTest#testAssertionNoFile (row 59)
+21:13:39.261 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:13:39.261 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:13:39.290 [main] INFO  - start to refactor clone pair
+21:13:39.290 [main] INFO  - CloneType: Type 2
+21:13:39.291 [main] INFO  - non-refactored node pair with MethodInvocation node: result.setResponseData("",null)  <--->  result.setResponseData(readFile("testfiles/XMLSchematest.xml"))  (ARGUMENT_NUMBER_MISMATCH)
+21:13:39.291 [main] INFO  - 43%: Reading information from row 60 (Clone group ID 296, clone #1)
+21:13:39.304 [main] INFO  - 43%: Generating PDG for method "testFailSimpleParse1" in "org.apache.jmeter.protocol.http.modifier.TestAnchorModifier"
+21:13:39.430 [main] INFO  - 43%: Reading information from row 61 (Clone group ID 296, clone #2)
+21:13:39.431 [main] INFO  - 43%: Generating PDG for method "testFailSimpleParse3" in "org.apache.jmeter.protocol.http.modifier.TestAnchorModifier"
+21:13:39.432 [main] INFO  - 43%: Analyzing Clone #30 (Group 296, Pair 1-2): org.apache.jmeter.protocol.http.modifier.TestAnchorModifier#testFailSimpleParse1 (row 60) and org.apache.jmeter.protocol.http.modifier.TestAnchorModifier#testFailSimpleParse3 (row 61)
+21:13:39.445 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:13:39.445 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:13:39.452 [main] INFO  - start to refactor clone pair
+21:13:39.452 [main] INFO  - CloneType: Type 2
+21:13:39.453 [main] INFO  - non-refactored node pair with SimpleName node: newUrl  <--->  newUrl + "?param1=value1"  (TYPE_COMPATIBLE_REPLACEMENT)
+21:13:39.453 [main] INFO  - 45%: Reading information from row 62 (Clone group ID 299, clone #1)
+21:13:39.462 [main] INFO  - 45%: Generating PDG for method "testDefault" in "org.apache.jmeter.functions.TestTimeShiftFunction"
+21:15:42.726 [main] INFO  - 45%: Reading information from row 63 (Clone group ID 299, clone #2)
+21:15:42.727 [main] INFO  - 45%: Generating PDG for method "testWrongAmountToAdd" in "org.apache.jmeter.functions.TestTimeShiftFunction"
+21:15:42.730 [main] INFO  - 45%: Analyzing Clone #31 (Group 299, Pair 1-2): org.apache.jmeter.functions.TestTimeShiftFunction#testDefault (row 62) and org.apache.jmeter.functions.TestTimeShiftFunction#testWrongAmountToAdd (row 63)
+21:15:42.739 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:42.739 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:42.753 [main] INFO  - start to refactor clone pair
+21:15:42.753 [main] INFO  - CloneType: Type 2
+21:15:42.754 [main] INFO  - 46%: Reading information from row 64 (Clone group ID 300, clone #1)
+21:15:42.762 [main] INFO  - 46%: Generating PDG for method "testNonXmlDocument" in "org.apache.jmeter.extractor.TestXPathExtractor"
+21:15:44.143 [main] INFO  - 46%: Reading information from row 65 (Clone group ID 300, clone #2)
+21:15:44.143 [main] INFO  - 46%: Generating PDG for method "testInvalidDocument" in "org.apache.jmeter.extractor.TestXPathExtractor"
+21:15:44.144 [main] INFO  - 46%: Analyzing Clone #32 (Group 300, Pair 1-2): org.apache.jmeter.extractor.TestXPathExtractor#testNonXmlDocument (row 64) and org.apache.jmeter.extractor.TestXPathExtractor#testInvalidDocument (row 65)
+21:15:44.151 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:44.151 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:44.197 [main] INFO  - start to refactor clone pair
+21:15:44.197 [main] INFO  - CloneType: Type 2
+21:15:44.198 [main] INFO  - non-refactored node pair with MethodInvocation node: org.junit.Assert.assertTrue(result.getAssertionResults()[0].getFailureMessage().contains("Content is not allowed in prolog"))  <--->  org.junit.Assert.assertThat(result.getAssertionResults()[0].getFailureMessage(),CoreMatchers.containsString("XML document structures must start and end within the same entity"))  (ARGUMENT_NUMBER_MISMATCH)
+21:15:44.198 [main] INFO  - 47%: Reading information from row 66 (Clone group ID 312, clone #1)
+21:15:44.205 [main] INFO  - 47%: Generating PDG for method "testInsideInnerLoop" in "org.apache.jmeter.control.TestOnceOnlyController"
+21:15:45.299 [main] INFO  - 47%: Reading information from row 67 (Clone group ID 312, clone #2)
+21:15:45.300 [main] INFO  - 47%: Generating PDG for method "testInOuterLoop" in "org.apache.jmeter.control.TestOnceOnlyController"
+21:15:45.331 [main] INFO  - 47%: Analyzing Clone #33 (Group 312, Pair 1-2): org.apache.jmeter.control.TestOnceOnlyController#testInsideInnerLoop (row 66) and org.apache.jmeter.control.TestOnceOnlyController#testInOuterLoop (row 67)
+21:15:45.338 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:15:45.338 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+21:15:45.339 [main] INFO  - Start mapping
+21:15:45.448 [main] INFO  - End mapping
+21:15:45.448 [main] INFO  - start to refactor clone pair
+21:15:45.448 [main] INFO  - Non refactorable CloneType: Type 3
+21:15:45.448 [main] INFO  - 49%: Reading information from row 68 (Clone group ID 325, clone #1)
+21:15:45.465 [main] INFO  - 49%: Generating PDG for method "testBug56358" in "org.apache.jmeter.protocol.http.control.TestHC4CookieManager"
+21:15:45.628 [main] INFO  - 49%: Reading information from row 69 (Clone group ID 325, clone #2)
+21:15:45.629 [main] INFO  - 49%: Generating PDG for method "testAddCookieFromHeaderWithWildcard2" in "org.apache.jmeter.protocol.http.control.TestHC4CookieManager"
+21:15:45.630 [main] INFO  - 49%: Analyzing Clone #34 (Group 325, Pair 1-2): org.apache.jmeter.protocol.http.control.TestHC4CookieManager#testBug56358 (row 68) and org.apache.jmeter.protocol.http.control.TestHC4CookieManager#testAddCookieFromHeaderWithWildcard2 (row 69)
+21:15:45.646 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:15:45.646 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:45.647 [main] INFO  - Start mapping
+21:15:45.655 [main] INFO  - End mapping
+21:15:45.655 [main] INFO  - start to refactor clone pair
+21:15:45.655 [main] INFO  - Non refactorable CloneType: Type 3
+21:15:45.655 [main] INFO  - 50%: Reading information from row 70 (Clone group ID 328, clone #1)
+21:15:45.664 [main] INFO  - 50%: Generating PDG for method "checkMoveRow_from_5_11_to_0" in "org.apache.jorphan.gui.ObjectTableModelTest"
+21:15:45.890 [main] INFO  - 50%: Reading information from row 71 (Clone group ID 328, clone #2)
+21:15:45.891 [main] INFO  - 50%: Generating PDG for method "checkMoveRow_from_0_6_to_10" in "org.apache.jorphan.gui.ObjectTableModelTest"
+21:15:45.891 [main] INFO  - 50%: Analyzing Clone #35 (Group 328, Pair 1-2): org.apache.jorphan.gui.ObjectTableModelTest#checkMoveRow_from_5_11_to_0 (row 70) and org.apache.jorphan.gui.ObjectTableModelTest#checkMoveRow_from_0_6_to_10 (row 71)
+21:15:45.900 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:15:45.900 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:45.900 [main] INFO  - Start mapping
+21:15:45.912 [main] INFO  - End mapping
+21:15:45.912 [main] INFO  - start to refactor clone pair
+21:15:45.912 [main] INFO  - CloneType: Type 2
+21:15:45.913 [main] INFO  - 52%: Reading information from row 72 (Clone group ID 333, clone #1)
+21:15:45.925 [main] INFO  - 52%: Generating PDG for method "testExpiresBug59962" in "org.apache.jmeter.protocol.http.control.TestCacheManagerBase"
+21:15:46.155 [main] INFO  - 52%: Reading information from row 73 (Clone group ID 333, clone #2)
+21:15:46.156 [main] INFO  - 52%: Generating PDG for method "testExpires" in "org.apache.jmeter.protocol.http.control.TestCacheManagerBase"
+21:15:46.158 [main] INFO  - 52%: Analyzing Clone #36 (Group 333, Pair 1-2): org.apache.jmeter.protocol.http.control.TestCacheManagerBase#testExpiresBug59962 (row 72) and org.apache.jmeter.protocol.http.control.TestCacheManagerBase#testExpires (row 73)
+21:15:46.169 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:46.169 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:46.181 [main] INFO  - start to refactor clone pair
+21:15:46.182 [main] INFO  - CloneType: Type 2
+21:15:46.182 [main] ERROR - CloneStructure has PDG gap node.
+21:15:46.182 [main] INFO  - 53%: Reading information from row 74 (Clone group ID 337, clone #1)
+21:15:46.197 [main] INFO  - 53%: Generating PDG for method "testProcessAllElementsMultipleMatches" in "org.apache.jmeter.extractor.TestJSONPostProcessor"
+21:15:46.282 [main] INFO  - 53%: Reading information from row 75 (Clone group ID 337, clone #2)
+21:15:46.282 [main] INFO  - 53%: Generating PDG for method "testProcessAllElementsOneMatch" in "org.apache.jmeter.extractor.TestJSONPostProcessor"
+21:15:46.283 [main] INFO  - 53%: Analyzing Clone #37 (Group 337, Pair 1-2): org.apache.jmeter.extractor.TestJSONPostProcessor#testProcessAllElementsMultipleMatches (row 74) and org.apache.jmeter.extractor.TestJSONPostProcessor#testProcessAllElementsOneMatch (row 75)
+21:15:46.293 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:46.293 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:46.315 [main] INFO  - start to refactor clone pair
+21:15:46.315 [main] INFO  - CloneType: Type 2
+21:15:46.315 [main] ERROR - CloneStructure has PDG gap node.
+21:15:46.315 [main] INFO  - 55%: Reading information from row 76 (Clone group ID 340, clone #1)
+21:15:46.331 [main] INFO  - 55%: Generating PDG for method "test2ArgsParse2" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:15:46.892 [main] INFO  - 55%: Reading information from row 77 (Clone group ID 340, clone #2)
+21:15:46.893 [main] INFO  - 55%: Generating PDG for method "test2ArgsParse3" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:15:46.896 [main] INFO  - 55%: Analyzing Clone #38 (Group 340, Pair 1-2): org.apache.commons.cli.avalon.ClutilTestCase#test2ArgsParse2 (row 76) and org.apache.commons.cli.avalon.ClutilTestCase#test2ArgsParse3 (row 77)
+21:15:46.906 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:46.906 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:46.920 [main] INFO  - start to refactor clone pair
+21:15:46.920 [main] INFO  - CloneType: Type 2
+21:15:46.922 [main] INFO  - 56%: Reading information from row 78 (Clone group ID 348, clone #1)
+21:15:46.930 [main] INFO  - 56%: Generating PDG for method "testResponseAssertionResponseHeaders" in "org.apache.jmeter.assertions.ResponseAssertionTest"
+21:15:47.006 [main] INFO  - 56%: Reading information from row 79 (Clone group ID 348, clone #2)
+21:15:47.007 [main] INFO  - 56%: Generating PDG for method "testResponseAssertionRequestHeaders" in "org.apache.jmeter.assertions.ResponseAssertionTest"
+21:15:47.008 [main] INFO  - 56%: Analyzing Clone #39 (Group 348, Pair 1-2): org.apache.jmeter.assertions.ResponseAssertionTest#testResponseAssertionResponseHeaders (row 78) and org.apache.jmeter.assertions.ResponseAssertionTest#testResponseAssertionRequestHeaders (row 79)
+21:15:47.015 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:47.015 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:47.037 [main] INFO  - start to refactor clone pair
+21:15:47.037 [main] INFO  - CloneType: Type 2
+21:15:47.039 [main] INFO  - 58%: Reading information from row 80 (Clone group ID 350, clone #1)
+21:15:47.045 [main] INFO  - 58%: Generating PDG for method "testNormalizeListWithEmptyArrayList" in "org.apache.jmeter.testelement.property.AbstractPropertyTest"
+21:15:47.058 [main] INFO  - 58%: Reading information from row 81 (Clone group ID 350, clone #2)
+21:15:47.058 [main] INFO  - 58%: Generating PDG for method "testNormalizeMapWithEmptyHashMap" in "org.apache.jmeter.testelement.property.AbstractPropertyTest"
+21:15:47.896 [main] INFO  - 58%: Analyzing Clone #40 (Group 350, Pair 1-2): org.apache.jmeter.testelement.property.AbstractPropertyTest#testNormalizeListWithEmptyArrayList (row 80) and org.apache.jmeter.testelement.property.AbstractPropertyTest#testNormalizeMapWithEmptyHashMap (row 81)
+21:15:47.902 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:47.902 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:47.905 [main] INFO  - start to refactor clone pair
+21:15:47.905 [main] INFO  - CloneType: Type 2
+21:15:47.905 [main] ERROR - CloneStructure has PDG gap node.
+21:15:47.905 [main] INFO  - 59%: Reading information from row 82 (Clone group ID 354, clone #1)
+21:15:47.912 [main] INFO  - 59%: Generating PDG for method "setUp" in "org.apache.jmeter.functions.TestMachineIPName"
+21:15:47.969 [main] INFO  - 59%: Reading information from row 83 (Clone group ID 354, clone #2)
+21:15:47.976 [main] INFO  - 59%: Generating PDG for method "setUp" in "org.apache.jmeter.functions.TestUrlEncodeDecode"
+21:15:47.976 [main] INFO  - 59%: Analyzing Clone #41 (Group 354, Pair 1-2): org.apache.jmeter.functions.TestMachineIPName#setUp (row 82) and org.apache.jmeter.functions.TestUrlEncodeDecode#setUp (row 83)
+21:15:47.988 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:47.988 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:47.991 [main] INFO  - start to refactor clone pair
+21:15:47.991 [main] INFO  - CloneType: Type 1
+21:15:47.992 [main] INFO  - method pair are not test cases!
+21:15:47.992 [main] INFO  - 61%: Reading information from row 84 (Clone group ID 360, clone #1)
+21:15:47.996 [main] INFO  - 61%: Generating PDG for method "testExcludePattern" in "org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter"
+21:15:48.033 [main] INFO  - 61%: Reading information from row 85 (Clone group ID 360, clone #2)
+21:15:48.033 [main] INFO  - 61%: Generating PDG for method "testIncludePattern" in "org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter"
+21:15:48.034 [main] INFO  - 61%: Analyzing Clone #42 (Group 360, Pair 1-2): org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter#testExcludePattern (row 84) and org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter#testIncludePattern (row 85)
+21:15:48.039 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+21:15:48.039 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+21:15:48.040 [main] INFO  - Start mapping
+21:15:48.055 [main] INFO  - End mapping
+21:15:48.055 [main] INFO  - start to refactor clone pair
+21:15:48.055 [main] INFO  - CloneType: Type 2
+21:15:48.056 [main] INFO  - 62%: Reading information from row 86 (Clone group ID 361, clone #1)
+21:15:48.064 [main] INFO  - 62%: Generating PDG for method "testFailure1" in "org.apache.jmeter.engine.DistributedRunnerTest"
+21:15:49.540 [main] INFO  - 62%: Reading information from row 87 (Clone group ID 361, clone #2)
+21:15:49.541 [main] INFO  - 62%: Generating PDG for method "testFailure3" in "org.apache.jmeter.engine.DistributedRunnerTest"
+21:15:49.578 [main] INFO  - 62%: Analyzing Clone #43 (Group 361, Pair 1-2): org.apache.jmeter.engine.DistributedRunnerTest#testFailure1 (row 86) and org.apache.jmeter.engine.DistributedRunnerTest#testFailure3 (row 87)
+21:15:49.584 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:49.584 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:49.635 [main] INFO  - start to refactor clone pair
+21:15:49.635 [main] INFO  - CloneType: Type 2
+21:15:49.636 [main] INFO  - non-refactored node pair with MethodInvocation node: obj.start()  <--->  obj.start(hosts)  (ARGUMENT_NUMBER_MISMATCH)
+21:15:49.636 [main] INFO  - 64%: Reading information from row 88 (Clone group ID 367, clone #1)
+21:15:49.642 [main] INFO  - 64%: Generating PDG for method "evalTest1" in "org.apache.jmeter.functions.EvalFunctionTest"
+21:15:54.530 [main] INFO  - 64%: Reading information from row 89 (Clone group ID 367, clone #2)
+21:15:54.530 [main] INFO  - 64%: Generating PDG for method "evalTest2" in "org.apache.jmeter.functions.EvalFunctionTest"
+21:15:59.321 [main] INFO  - 64%: Analyzing Clone #44 (Group 367, Pair 1-2): org.apache.jmeter.functions.EvalFunctionTest#evalTest1 (row 88) and org.apache.jmeter.functions.EvalFunctionTest#evalTest2 (row 89)
+21:15:59.326 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:15:59.326 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:15:59.350 [main] INFO  - start to refactor clone pair
+21:15:59.350 [main] INFO  - CloneType: Type 2
+21:15:59.351 [main] INFO  - Same method found in common super class [org.apache.jmeter.functions.AbstractFunction]: setParameters
+21:15:59.351 [main] INFO  - Same method found in common super class [org.apache.jmeter.functions.AbstractFunction]: execute
+21:15:59.351 [main] INFO  - 65%: Reading information from row 90 (Clone group ID 384, clone #1)
+21:15:59.359 [main] INFO  - 65%: Generating PDG for method "testProcessing2" in "org.apache.jmeter.control.TestInterleaveControl"
+21:16:01.656 [main] INFO  - 65%: Reading information from row 91 (Clone group ID 384, clone #2)
+21:16:01.656 [main] INFO  - 65%: Generating PDG for method "testProcessing3" in "org.apache.jmeter.control.TestInterleaveControl"
+21:16:01.686 [main] INFO  - 65%: Analyzing Clone #45 (Group 384, Pair 1-2): org.apache.jmeter.control.TestInterleaveControl#testProcessing2 (row 90) and org.apache.jmeter.control.TestInterleaveControl#testProcessing3 (row 91)
+21:16:01.695 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+21:16:01.695 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:01.695 [main] INFO  - Start mapping
+21:16:01.776 [main] INFO  - End mapping
+21:16:01.776 [main] INFO  - start to refactor clone pair
+21:16:01.776 [main] INFO  - CloneType: Type 2
+21:16:01.778 [main] INFO  - 66%: Reading information from row 92 (Clone group ID 396, clone #1)
+21:16:01.788 [main] INFO  - 66%: Generating PDG for method "testIncomplete2ArgsMixed" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:16:01.813 [main] INFO  - 66%: Reading information from row 93 (Clone group ID 396, clone #2)
+21:16:01.814 [main] INFO  - 66%: Generating PDG for method "testIncomplete2ArgsMixedNoEq" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:16:01.817 [main] INFO  - 66%: Analyzing Clone #46 (Group 396, Pair 1-2): org.apache.commons.cli.avalon.ClutilTestCase#testIncomplete2ArgsMixed (row 92) and org.apache.commons.cli.avalon.ClutilTestCase#testIncomplete2ArgsMixedNoEq (row 93)
+21:16:01.828 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:01.828 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:01.844 [main] INFO  - start to refactor clone pair
+21:16:01.844 [main] INFO  - CloneType: Type 2
+21:16:01.845 [main] INFO  - 68%: Reading information from row 94 (Clone group ID 407, clone #1)
+21:16:01.856 [main] INFO  - 68%: Generating PDG for method "testNoStore" in "org.apache.jmeter.protocol.http.control.TestCacheManagerBase"
+21:16:01.992 [main] INFO  - 68%: Reading information from row 95 (Clone group ID 407, clone #2)
+21:16:01.993 [main] INFO  - 68%: Generating PDG for method "testNoCache" in "org.apache.jmeter.protocol.http.control.TestCacheManagerBase"
+21:16:01.994 [main] INFO  - 68%: Analyzing Clone #47 (Group 407, Pair 1-2): org.apache.jmeter.protocol.http.control.TestCacheManagerBase#testNoStore (row 94) and org.apache.jmeter.protocol.http.control.TestCacheManagerBase#testNoCache (row 95)
+21:16:02.007 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:02.007 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:02.019 [main] INFO  - start to refactor clone pair
+21:16:02.019 [main] INFO  - CloneType: Type 2
+21:16:02.020 [main] INFO  - 69%: Reading information from row 96 (Clone group ID 412, clone #1)
+21:16:02.028 [main] INFO  - 69%: Generating PDG for method "testAssertionOK" in "org.apache.jmeter.assertions.XMLSchemaAssertionTest"
+21:16:02.065 [main] INFO  - 69%: Reading information from row 97 (Clone group ID 412, clone #2)
+21:16:02.066 [main] INFO  - 69%: Generating PDG for method "testAssertionBlankResult" in "org.apache.jmeter.assertions.XMLSchemaAssertionTest"
+21:16:02.066 [main] INFO  - 69%: Analyzing Clone #48 (Group 412, Pair 1-2): org.apache.jmeter.assertions.XMLSchemaAssertionTest#testAssertionOK (row 96) and org.apache.jmeter.assertions.XMLSchemaAssertionTest#testAssertionBlankResult (row 97)
+21:16:02.074 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:02.074 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:02.102 [main] INFO  - start to refactor clone pair
+21:16:02.102 [main] INFO  - Non refactorable CloneType: Type 3
+21:16:02.103 [main] INFO  - 71%: Reading information from row 98 (Clone group ID 415, clone #1)
+21:16:02.108 [main] INFO  - 71%: Generating PDG for method "testRowNumRelative" in "org.apache.jmeter.functions.TestFileRowColContainer"
+21:16:02.125 [main] INFO  - 71%: Reading information from row 99 (Clone group ID 415, clone #2)
+21:16:02.125 [main] INFO  - 71%: Generating PDG for method "testrowNum" in "org.apache.jmeter.functions.TestFileRowColContainer"
+21:16:02.126 [main] INFO  - 71%: Analyzing Clone #49 (Group 415, Pair 1-2): org.apache.jmeter.functions.TestFileRowColContainer#testRowNumRelative (row 98) and org.apache.jmeter.functions.TestFileRowColContainer#testrowNum (row 99)
+21:16:02.131 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:02.131 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:02.147 [main] INFO  - start to refactor clone pair
+21:16:02.147 [main] INFO  - CloneType: Type 2
+21:16:02.148 [main] INFO  - 72%: Reading information from row 100 (Clone group ID 416, clone #1)
+21:16:02.154 [main] INFO  - 72%: Generating PDG for method "testSha1Variable" in "org.apache.jmeter.functions.TestDigestFunction"
+21:16:13.377 [main] INFO  - 72%: Reading information from row 101 (Clone group ID 416, clone #2)
+21:16:13.378 [main] INFO  - 72%: Generating PDG for method "testSha512Variable" in "org.apache.jmeter.functions.TestDigestFunction"
+21:16:22.897 [main] INFO  - 72%: Analyzing Clone #50 (Group 416, Pair 1-2): org.apache.jmeter.functions.TestDigestFunction#testSha1Variable (row 100) and org.apache.jmeter.functions.TestDigestFunction#testSha512Variable (row 101)
+21:16:22.903 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:22.903 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:22.985 [main] INFO  - start to refactor clone pair
+21:16:22.985 [main] INFO  - CloneType: Type 2
+21:16:22.986 [main] INFO  - 74%: Reading information from row 102 (Clone group ID 432, clone #1)
+21:16:22.991 [main] INFO  - 74%: Generating PDG for method "testColumnsComma" in "org.apache.jmeter.functions.TestFileRowColContainer"
+21:16:23.274 [main] INFO  - 74%: Reading information from row 103 (Clone group ID 432, clone #2)
+21:16:23.275 [main] INFO  - 74%: Generating PDG for method "testColumnsTab" in "org.apache.jmeter.functions.TestFileRowColContainer"
+21:16:23.276 [main] INFO  - 74%: Analyzing Clone #51 (Group 432, Pair 1-2): org.apache.jmeter.functions.TestFileRowColContainer#testColumnsComma (row 102) and org.apache.jmeter.functions.TestFileRowColContainer#testColumnsTab (row 103)
+21:16:23.281 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:16:23.281 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:23.281 [main] INFO  - Start mapping
+21:16:23.310 [main] INFO  - End mapping
+21:16:23.310 [main] INFO  - start to refactor clone pair
+21:16:23.310 [main] INFO  - CloneType: Type 2
+21:16:23.312 [main] INFO  - 75%: Reading information from row 104 (Clone group ID 436, clone #1)
+21:16:23.322 [main] INFO  - 75%: Generating PDG for method "testDuplicateOptions" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:16:23.366 [main] INFO  - 75%: Reading information from row 105 (Clone group ID 436, clone #2)
+21:16:23.366 [main] INFO  - 75%: Generating PDG for method "testIncompatableOptions" in "org.apache.commons.cli.avalon.ClutilTestCase"
+21:16:23.373 [main] INFO  - 75%: Analyzing Clone #52 (Group 436, Pair 1-2): org.apache.commons.cli.avalon.ClutilTestCase#testDuplicateOptions (row 104) and org.apache.commons.cli.avalon.ClutilTestCase#testIncompatableOptions (row 105)
+21:16:23.383 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:23.383 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:23.403 [main] INFO  - start to refactor clone pair
+21:16:23.403 [main] INFO  - CloneType: Type 2
+21:16:23.404 [main] INFO  - non-refactored node pair with MethodInvocation node: assertNull(parser.getErrorString(),parser.getErrorString())  <--->  assertNotNull(parser.getErrorString())  (ARGUMENT_NUMBER_MISMATCH)
+21:16:23.404 [main] INFO  - 77%: Reading information from row 106 (Clone group ID 439, clone #1)
+21:16:23.418 [main] INFO  - 77%: Generating PDG for method "testSimpleParse4" in "org.apache.jmeter.protocol.http.modifier.TestAnchorModifier"
+21:16:23.562 [main] INFO  - 77%: Reading information from row 107 (Clone group ID 439, clone #2)
+21:16:23.562 [main] INFO  - 77%: Generating PDG for method "testSimpleParse5" in "org.apache.jmeter.protocol.http.modifier.TestAnchorModifier"
+21:16:23.563 [main] INFO  - 77%: Analyzing Clone #53 (Group 439, Pair 1-2): org.apache.jmeter.protocol.http.modifier.TestAnchorModifier#testSimpleParse4 (row 106) and org.apache.jmeter.protocol.http.modifier.TestAnchorModifier#testSimpleParse5 (row 107)
+21:16:23.577 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:23.577 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:23.584 [main] INFO  - start to refactor clone pair
+21:16:23.584 [main] INFO  - CloneType: Type 2
+21:16:23.585 [main] INFO  - 78%: Reading information from row 108 (Clone group ID 442, clone #1)
+21:16:23.595 [main] INFO  - 78%: Generating PDG for method "testTolerance" in "org.apache.jmeter.assertions.XPathAssertionTest"
+21:16:24.483 [main] INFO  - 78%: Reading information from row 109 (Clone group ID 442, clone #2)
+21:16:24.484 [main] INFO  - 78%: Generating PDG for method "testNoTolerance" in "org.apache.jmeter.assertions.XPathAssertionTest"
+21:16:24.485 [main] INFO  - 78%: Analyzing Clone #54 (Group 442, Pair 1-2): org.apache.jmeter.assertions.XPathAssertionTest#testTolerance (row 108) and org.apache.jmeter.assertions.XPathAssertionTest#testNoTolerance (row 109)
+21:16:24.494 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:24.494 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:24.506 [main] INFO  - start to refactor clone pair
+21:16:24.506 [main] INFO  - CloneType: Type 2
+21:16:24.507 [main] INFO  - 80%: Reading information from row 110 (Clone group ID 447, clone #1)
+21:16:24.517 [main] INFO  - 80%: Generating PDG for method "testElapsedTrue" in "org.apache.jmeter.samplers.TestSampleResult"
+21:16:24.545 [main] INFO  - 80%: Reading information from row 111 (Clone group ID 447, clone #2)
+21:16:24.545 [main] INFO  - 80%: Generating PDG for method "testElapsedFalse" in "org.apache.jmeter.samplers.TestSampleResult"
+21:16:24.546 [main] INFO  - 80%: Analyzing Clone #55 (Group 447, Pair 1-2): org.apache.jmeter.samplers.TestSampleResult#testElapsedTrue (row 110) and org.apache.jmeter.samplers.TestSampleResult#testElapsedFalse (row 111)
+21:16:24.555 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+21:16:24.555 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:24.556 [main] INFO  - Start mapping
+21:16:24.558 [main] INFO  - End mapping
+21:16:24.558 [main] INFO  - start to refactor clone pair
+21:16:24.558 [main] INFO  - CloneType: Type 2
+21:16:24.559 [main] INFO  - 81%: Reading information from row 112 (Clone group ID 449, clone #1)
+21:16:24.564 [main] INFO  - 81%: Generating PDG for method "testValidXML" in "org.apache.jmeter.assertions.XmlAssertionTest"
+21:16:24.587 [main] INFO  - 81%: Reading information from row 113 (Clone group ID 449, clone #2)
+21:16:24.588 [main] INFO  - 81%: Generating PDG for method "testInvalidXML" in "org.apache.jmeter.assertions.XmlAssertionTest"
+21:16:24.588 [main] INFO  - 81%: Analyzing Clone #56 (Group 449, Pair 1-2): org.apache.jmeter.assertions.XmlAssertionTest#testValidXML (row 112) and org.apache.jmeter.assertions.XmlAssertionTest#testInvalidXML (row 113)
+21:16:24.593 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:24.593 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:24.599 [main] INFO  - start to refactor clone pair
+21:16:24.599 [main] INFO  - CloneType: Type 2
+21:16:24.600 [main] INFO  - 82%: Reading information from row 114 (Clone group ID 454, clone #1)
+21:16:24.606 [main] INFO  - 82%: Generating PDG for method "setUp" in "org.apache.jmeter.functions.TestSamplerNameFunction"
+21:16:24.660 [main] INFO  - 82%: Reading information from row 115 (Clone group ID 454, clone #2)
+21:16:24.667 [main] INFO  - 82%: Generating PDG for method "setUp" in "org.apache.jmeter.functions.TestTimeFunction"
+21:16:24.674 [main] INFO  - 82%: Analyzing Clone #57 (Group 454, Pair 1-2): org.apache.jmeter.functions.TestSamplerNameFunction#setUp (row 114) and org.apache.jmeter.functions.TestTimeFunction#setUp (row 115)
+21:16:24.686 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:24.686 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:24.696 [main] INFO  - start to refactor clone pair
+21:16:24.696 [main] INFO  - CloneType: Type 2
+21:16:24.696 [main] INFO  - method pair are not test cases!
+21:16:24.696 [main] INFO  - 84%: Reading information from row 116 (Clone group ID 460, clone #1)
+21:16:24.702 [main] INFO  - 84%: Generating PDG for method "testEmptyDefaultVariable" in "org.apache.jmeter.extractor.TestHtmlExtractorJSoup"
+21:16:24.794 [main] INFO  - 84%: Reading information from row 117 (Clone group ID 460, clone #2)
+21:16:24.802 [main] INFO  - 84%: Generating PDG for method "testNotEmptyDefaultVariable" in "org.apache.jmeter.extractor.TestRegexExtractor"
+21:16:24.849 [main] INFO  - 84%: Analyzing Clone #58 (Group 460, Pair 1-2): org.apache.jmeter.extractor.TestHtmlExtractorJSoup#testEmptyDefaultVariable (row 116) and org.apache.jmeter.extractor.TestRegexExtractor#testNotEmptyDefaultVariable (row 117)
+21:16:24.864 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:24.864 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:24.897 [main] INFO  - start to refactor clone pair
+21:16:24.897 [main] INFO  - Non refactorable CloneType: Type 3
+21:16:24.897 [main] INFO  - 85%: Reading information from row 118 (Clone group ID 464, clone #1)
+21:16:24.907 [main] INFO  - 85%: Generating PDG for method "testPauseFalse" in "org.apache.jmeter.samplers.TestSampleResult"
+21:16:24.923 [main] INFO  - 85%: Reading information from row 119 (Clone group ID 464, clone #2)
+21:16:24.924 [main] INFO  - 85%: Generating PDG for method "testPauseTrue" in "org.apache.jmeter.samplers.TestSampleResult"
+21:16:24.924 [main] INFO  - 85%: Analyzing Clone #59 (Group 464, Pair 1-2): org.apache.jmeter.samplers.TestSampleResult#testPauseFalse (row 118) and org.apache.jmeter.samplers.TestSampleResult#testPauseTrue (row 119)
+21:16:24.934 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:24.934 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:24.938 [main] INFO  - start to refactor clone pair
+21:16:24.938 [main] INFO  - CloneType: Type 2
+21:16:24.938 [main] INFO  - 87%: Reading information from row 120 (Clone group ID 473, clone #1)
+21:16:24.945 [main] INFO  - 87%: Generating PDG for method "testSizeAssertionLessThan" in "org.apache.jmeter.assertions.SizeAssertionTest"
+21:16:25.007 [main] INFO  - 87%: Reading information from row 121 (Clone group ID 473, clone #2)
+21:16:25.007 [main] INFO  - 87%: Generating PDG for method "testSizeAssertionLessThanEqual" in "org.apache.jmeter.assertions.SizeAssertionTest"
+21:16:25.008 [main] INFO  - 87%: Analyzing Clone #60 (Group 473, Pair 1-2): org.apache.jmeter.assertions.SizeAssertionTest#testSizeAssertionLessThan (row 120) and org.apache.jmeter.assertions.SizeAssertionTest#testSizeAssertionLessThanEqual (row 121)
+21:16:25.014 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:25.014 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:25.019 [main] INFO  - start to refactor clone pair
+21:16:25.019 [main] INFO  - CloneType: Type 2
+21:16:25.019 [main] INFO  - 88%: Reading information from row 122 (Clone group ID 474, clone #1)
+21:16:25.025 [main] INFO  - 88%: Generating PDG for method "testNormalizeListWithFilledArrayList" in "org.apache.jmeter.testelement.property.AbstractPropertyTest"
+21:16:25.209 [main] INFO  - 88%: Reading information from row 123 (Clone group ID 474, clone #2)
+21:16:25.210 [main] INFO  - 88%: Generating PDG for method "testNormalizeMapWithFilledHashMap" in "org.apache.jmeter.testelement.property.AbstractPropertyTest"
+21:16:25.321 [main] INFO  - 88%: Analyzing Clone #61 (Group 474, Pair 1-2): org.apache.jmeter.testelement.property.AbstractPropertyTest#testNormalizeListWithFilledArrayList (row 122) and org.apache.jmeter.testelement.property.AbstractPropertyTest#testNormalizeMapWithFilledHashMap (row 123)
+21:16:25.327 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:25.327 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:25.331 [main] INFO  - start to refactor clone pair
+21:16:25.331 [main] INFO  - CloneType: Type 2
+21:16:25.331 [main] ERROR - CloneStructure has PDG gap node.
+21:16:25.331 [main] INFO  - 90%: Reading information from row 124 (Clone group ID 475, clone #1)
+21:16:25.339 [main] INFO  - 90%: Generating PDG for method "testTimerWithLongerScheduledEndpointThanTimeoutForTimer" in "org.apache.jmeter.timers.SyncTimerTest"
+21:16:25.419 [main] INFO  - 90%: Reading information from row 125 (Clone group ID 475, clone #2)
+21:16:25.419 [main] INFO  - 90%: Generating PDG for method "testTimerWithShorterScheduledEndpointThanTimeoutForTimer" in "org.apache.jmeter.timers.SyncTimerTest"
+21:16:25.419 [main] INFO  - 90%: Analyzing Clone #62 (Group 475, Pair 1-2): org.apache.jmeter.timers.SyncTimerTest#testTimerWithLongerScheduledEndpointThanTimeoutForTimer (row 124) and org.apache.jmeter.timers.SyncTimerTest#testTimerWithShorterScheduledEndpointThanTimeoutForTimer (row 125)
+21:16:25.426 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:25.426 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:25.429 [main] INFO  - start to refactor clone pair
+21:16:25.429 [main] INFO  - CloneType: Type 2
+21:16:25.429 [main] ERROR - CloneStructure has PDG gap node.
+21:16:25.429 [main] INFO  - 91%: Reading information from row 126 (Clone group ID 508, clone #1)
+21:16:25.438 [main] INFO  - 91%: Generating PDG for method "testFalse" in "org.apache.jmeter.samplers.TestSampleSaveConfiguration"
+21:16:25.473 [main] INFO  - 91%: Reading information from row 127 (Clone group ID 508, clone #2)
+21:16:25.474 [main] INFO  - 91%: Generating PDG for method "testTrue" in "org.apache.jmeter.samplers.TestSampleSaveConfiguration"
+21:16:25.474 [main] INFO  - 91%: Analyzing Clone #63 (Group 508, Pair 1-2): org.apache.jmeter.samplers.TestSampleSaveConfiguration#testFalse (row 126) and org.apache.jmeter.samplers.TestSampleSaveConfiguration#testTrue (row 127)
+21:16:25.483 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:25.483 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:25.490 [main] INFO  - start to refactor clone pair
+21:16:25.490 [main] INFO  - CloneType: Type 2
+21:16:25.491 [main] INFO  - 93%: Reading information from row 128 (Clone group ID 514, clone #1)
+21:16:25.499 [main] INFO  - 93%: Generating PDG for method "testSignerSignerDN" in "org.apache.jmeter.assertions.SMIMEAssertionTest"
+21:16:25.535 [main] INFO  - 93%: Reading information from row 129 (Clone group ID 514, clone #2)
+21:16:25.536 [main] INFO  - 93%: Generating PDG for method "testSignerIssuerDN" in "org.apache.jmeter.assertions.SMIMEAssertionTest"
+21:16:25.536 [main] INFO  - 93%: Analyzing Clone #64 (Group 514, Pair 1-2): org.apache.jmeter.assertions.SMIMEAssertionTest#testSignerSignerDN (row 128) and org.apache.jmeter.assertions.SMIMEAssertionTest#testSignerIssuerDN (row 129)
+21:16:25.544 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:25.545 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:25.554 [main] INFO  - start to refactor clone pair
+21:16:25.554 [main] INFO  - CloneType: Type 2
+21:16:25.555 [main] INFO  - 94%: Reading information from row 130 (Clone group ID 520, clone #1)
+21:16:25.562 [main] INFO  - 94%: Generating PDG for method "testReplaceStringWithBackslash" in "org.apache.jmeter.engine.util.TestValueReplacer"
+21:16:35.782 [main] INFO  - 94%: Reading information from row 131 (Clone group ID 520, clone #2)
+21:16:35.783 [main] INFO  - 94%: Generating PDG for method "testReplaceFunctionWithBackslash" in "org.apache.jmeter.engine.util.TestValueReplacer"
+21:16:35.812 [main] INFO  - 94%: Analyzing Clone #65 (Group 520, Pair 1-2): org.apache.jmeter.engine.util.TestValueReplacer#testReplaceStringWithBackslash (row 130) and org.apache.jmeter.engine.util.TestValueReplacer#testReplaceFunctionWithBackslash (row 131)
+21:16:35.819 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:35.819 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:35.862 [main] INFO  - start to refactor clone pair
+21:16:35.862 [main] INFO  - CloneType: Type 2
+21:16:35.863 [main] INFO  - non-refactored node pair with SimpleName node: input  <--->  "jakarta.apache.org \\ \\ \\\\ , "  (TYPE_COMPATIBLE_REPLACEMENT)
+21:16:35.863 [main] INFO  - 96%: Reading information from row 132 (Clone group ID 522, clone #1)
+21:16:35.871 [main] INFO  - 96%: Generating PDG for method "testAssertionNoResult" in "org.apache.jmeter.assertions.XMLSchemaAssertionTest"
+21:16:35.890 [main] INFO  - 96%: Reading information from row 133 (Clone group ID 522, clone #2)
+21:16:35.890 [main] INFO  - 96%: Generating PDG for method "testAssertionFail" in "org.apache.jmeter.assertions.XMLSchemaAssertionTest"
+21:16:35.911 [main] INFO  - 96%: Analyzing Clone #66 (Group 522, Pair 1-2): org.apache.jmeter.assertions.XMLSchemaAssertionTest#testAssertionNoResult (row 132) and org.apache.jmeter.assertions.XMLSchemaAssertionTest#testAssertionFail (row 133)
+21:16:35.919 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:35.919 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:35.931 [main] INFO  - start to refactor clone pair
+21:16:35.931 [main] INFO  - CloneType: Type 2
+21:16:35.931 [main] ERROR - CloneStructure has PDG gap node.
+21:16:35.931 [main] INFO  - 97%: Reading information from row 134 (Clone group ID 535, clone #1)
+21:16:35.935 [main] INFO  - 97%: Generating PDG for method "testReplace" in "org.apache.jmeter.testelement.TestHeaderManager"
+21:16:36.003 [main] INFO  - 97%: Reading information from row 135 (Clone group ID 535, clone #2)
+21:16:36.003 [main] INFO  - 97%: Generating PDG for method "testReplaceNoMatch" in "org.apache.jmeter.testelement.TestHeaderManager"
+21:16:36.003 [main] INFO  - 97%: Analyzing Clone #67 (Group 535, Pair 1-2): org.apache.jmeter.testelement.TestHeaderManager#testReplace (row 134) and org.apache.jmeter.testelement.TestHeaderManager#testReplaceNoMatch (row 135)
+21:16:36.007 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:36.007 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:36.025 [main] INFO  - start to refactor clone pair
+21:16:36.025 [main] INFO  - CloneType: Type 2
+21:16:36.027 [main] INFO  - 99%: Reading information from row 136 (Clone group ID 560, clone #1)
+21:16:36.033 [main] INFO  - 99%: Generating PDG for method "testSha1" in "org.apache.jmeter.functions.TestDigestFunction"
+21:16:41.447 [main] INFO  - 99%: Reading information from row 137 (Clone group ID 560, clone #2)
+21:16:41.453 [main] INFO  - 99%: Generating PDG for method "testYMDnoV" in "org.apache.jmeter.functions.TestTimeFunction"
+21:16:45.614 [main] INFO  - 99%: Analyzing Clone #68 (Group 560, Pair 1-2): org.apache.jmeter.functions.TestDigestFunction#testSha1 (row 136) and org.apache.jmeter.functions.TestTimeFunction#testYMDnoV (row 137)
+21:16:45.626 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+21:16:45.626 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+21:16:45.661 [main] INFO  - start to refactor clone pair
+21:16:45.661 [main] INFO  - CloneType: Type 2
+21:16:45.661 [main] ERROR - CloneStructure has PDG gap node.
+21:16:47.062 [main] INFO  - Applying changes to source files
+21:16:47.062 [main] INFO  - refactoring 34 clone method pairs.
+21:16:47.062 [main] INFO  - skipping 26 clone method pairs:
+21:16:47.062 [main] INFO  - 	3 not test cases
+21:16:47.063 [main] INFO  - 	11 containing gap nodes (type3)
+21:16:47.063 [main] INFO  - 	11 not refactorable
+21:16:47.063 [main] INFO  - 	1 repeated naming
+21:16:47.063 [main] INFO  - 	0 access issues
+21:16:47.063 [main] INFO  - 	 *org.apache.jmeter.control.TestInterleaveControl: void testProcessing4() <---> org.apache.jmeter.control.TestInterleaveControl: void testProcessing5()
+21:16:47.063 [main] INFO  - 	  org.apache.jmeter.control.TestInterleaveControl: void testProcessing2() <---> org.apache.jmeter.control.TestInterleaveControl: void testProcessing3()
+21:16:47.063 [main] INFO  - type1 count: 1
+21:16:47.063 [main] INFO  - type2 count: 59
+21:16:47.063 [main] INFO  - type3 count: 8
+21:16:47.064 [main] INFO  - effective refactoring ratio: 34/45 = 75.6%
+21:16:47.064 [main] INFO  - refactoring method pair: org.apache.jmeter.samplers.TestSampleResult.java#testPause2True <---> org.apache.jmeter.samplers.TestSampleResult.java#testPause2False
+21:16:47.805 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest.java#testParseArgumentsLF <---> org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest.java#testParseArgumentsCRLF
+21:16:48.464 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.parser.TestHtmlParsingUtils.java#testisEqualOrMatches <---> org.apache.jmeter.protocol.http.parser.TestHtmlParsingUtils.java#testisEqualOrMatchesCaseBlind
+21:16:48.812 [main] INFO  - refactoring method pair: org.apache.jmeter.assertions.SMIMEAssertionTest.java#testSignerEmail <---> org.apache.jmeter.assertions.SMIMEAssertionTest.java#testSignerSerial
+21:16:49.134 [main] INFO  - refactoring method pair: org.apache.jmeter.functions.TestDateTimeConvertFunction.java#testDateConvertErrorFormat <---> org.apache.jmeter.functions.TestDateTimeConvertFunction.java#testDateConvertDateError
+21:16:49.436 [main] INFO  - refactoring method pair: org.apache.jorphan.util.TestJorphanUtils.java#testSplitStringStringFalseTruncate <---> org.apache.jorphan.util.TestJorphanUtils.java#testSplitStringStringFalseDoubledSplitChar
+21:16:49.749 [main] INFO  - refactoring method pair: org.apache.jmeter.visualizers.backend.SamplerMetricTimedModeTest.java#checkResetOkAndAllStats <---> org.apache.jmeter.visualizers.backend.SamplerMetricTimedModeTest.java#checkResetKoAndAllStats
+21:16:50.063 [main] INFO  - refactoring method pair: org.apache.jmeter.control.TestInterleaveControl.java#testProcessing4 <---> org.apache.jmeter.control.TestInterleaveControl.java#testProcessing5
+21:16:50.340 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest.java#testGetQueryMapAmpInValue <---> org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest.java#testGetQueryMapBug54055
+21:16:50.639 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest.java#testGetQueryMapValueContainingAmpersand <---> org.apache.jmeter.protocol.http.visualizers.RequestViewHTTPTest.java#testGetQueryMapWithEmptyValue
+21:16:50.918 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.modifier.TestAnchorModifier.java#testSimpleFormParse <---> org.apache.jmeter.protocol.http.modifier.TestAnchorModifier.java#testBadCharParse
+21:16:51.202 [main] INFO  - refactoring method pair: org.apache.jmeter.functions.TestTimeRandomDateFunction.java#testDefault <---> org.apache.jmeter.functions.TestTimeRandomDateFunction.java#testFormatDate
+21:16:51.485 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter.java#testExcludeFiles <---> org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter.java#testIncludeFiles
+21:16:51.784 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.java#testParse1 <---> org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.java#testParse2
+21:16:52.083 [main] INFO  - refactoring method pair: org.apache.jmeter.functions.TestTimeShiftFunction.java#testDefault <---> org.apache.jmeter.functions.TestTimeShiftFunction.java#testWrongAmountToAdd
+21:16:52.368 [main] INFO  - refactoring method pair: org.apache.jorphan.gui.ObjectTableModelTest.java#checkMoveRow_from_5_11_to_0 <---> org.apache.jorphan.gui.ObjectTableModelTest.java#checkMoveRow_from_0_6_to_10
+21:16:52.646 [main] INFO  - refactoring method pair: org.apache.commons.cli.avalon.ClutilTestCase.java#test2ArgsParse2 <---> org.apache.commons.cli.avalon.ClutilTestCase.java#test2ArgsParse3
+21:16:52.962 [main] INFO  - refactoring method pair: org.apache.jmeter.assertions.ResponseAssertionTest.java#testResponseAssertionResponseHeaders <---> org.apache.jmeter.assertions.ResponseAssertionTest.java#testResponseAssertionRequestHeaders
+21:16:53.272 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter.java#testExcludePattern <---> org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter.java#testIncludePattern
+21:16:53.599 [main] INFO  - refactoring method pair: org.apache.jmeter.functions.EvalFunctionTest.java#evalTest1 <---> org.apache.jmeter.functions.EvalFunctionTest.java#evalTest2
+21:16:53.873 [main] INFO  - refactoring method pair: org.apache.commons.cli.avalon.ClutilTestCase.java#testIncomplete2ArgsMixed <---> org.apache.commons.cli.avalon.ClutilTestCase.java#testIncomplete2ArgsMixedNoEq
+21:16:54.206 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.control.TestCacheManagerBase.java#testNoStore <---> org.apache.jmeter.protocol.http.control.TestCacheManagerBase.java#testNoCache
+21:16:54.547 [main] INFO  - refactoring method pair: org.apache.jmeter.functions.TestFileRowColContainer.java#testRowNumRelative <---> org.apache.jmeter.functions.TestFileRowColContainer.java#testrowNum
+21:16:54.846 [main] INFO  - refactoring method pair: org.apache.jmeter.functions.TestDigestFunction.java#testSha1Variable <---> org.apache.jmeter.functions.TestDigestFunction.java#testSha512Variable
+21:16:55.125 [main] INFO  - refactoring method pair: org.apache.jmeter.functions.TestFileRowColContainer.java#testColumnsComma <---> org.apache.jmeter.functions.TestFileRowColContainer.java#testColumnsTab
+21:16:55.401 [main] INFO  - refactoring method pair: org.apache.jmeter.protocol.http.modifier.TestAnchorModifier.java#testSimpleParse4 <---> org.apache.jmeter.protocol.http.modifier.TestAnchorModifier.java#testSimpleParse5
+21:16:55.677 [main] INFO  - refactoring method pair: org.apache.jmeter.assertions.XPathAssertionTest.java#testTolerance <---> org.apache.jmeter.assertions.XPathAssertionTest.java#testNoTolerance
+21:16:55.988 [main] INFO  - refactoring method pair: org.apache.jmeter.samplers.TestSampleResult.java#testElapsedTrue <---> org.apache.jmeter.samplers.TestSampleResult.java#testElapsedFalse
+21:16:56.287 [main] INFO  - refactoring method pair: org.apache.jmeter.assertions.XmlAssertionTest.java#testValidXML <---> org.apache.jmeter.assertions.XmlAssertionTest.java#testInvalidXML
+21:16:56.570 [main] INFO  - refactoring method pair: org.apache.jmeter.samplers.TestSampleResult.java#testPauseFalse <---> org.apache.jmeter.samplers.TestSampleResult.java#testPauseTrue
+21:16:56.839 [main] INFO  - refactoring method pair: org.apache.jmeter.assertions.SizeAssertionTest.java#testSizeAssertionLessThan <---> org.apache.jmeter.assertions.SizeAssertionTest.java#testSizeAssertionLessThanEqual
+21:16:57.135 [main] INFO  - refactoring method pair: org.apache.jmeter.samplers.TestSampleSaveConfiguration.java#testFalse <---> org.apache.jmeter.samplers.TestSampleSaveConfiguration.java#testTrue
+21:16:57.410 [main] INFO  - refactoring method pair: org.apache.jmeter.assertions.SMIMEAssertionTest.java#testSignerSignerDN <---> org.apache.jmeter.assertions.SMIMEAssertionTest.java#testSignerIssuerDN
+21:16:57.696 [main] INFO  - refactoring method pair: org.apache.jmeter.testelement.TestHeaderManager.java#testReplace <---> org.apache.jmeter.testelement.TestHeaderManager.java#testReplaceNoMatch
+21:16:57.958 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/jmeter_5.1.1/jmeter-5.1.1-deckard-50-0.95-0-selected.xls, output file: /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/jmeter_5.1.1/jmeter-5.1.1-deckard-50-0.95-0-selected-analyzed.xls

@@ -1,0 +1,440 @@
+12:45:18.236 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/zookeeper-3.5.4/log.log
+12:45:18.241 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/zookeeper-3.5.4/zookeeper-3.5.4-deckard-30-0.95-0-selected_test.xls
+12:45:18.930 [main] INFO  - 1%: Reading information from row 2 (Clone group ID 36, clone #1)
+12:45:18.950 [main] INFO  - 1%: Generating PDG for method "tearDown" in "org.apache.zookeeper.test.FLENewEpochTest"
+12:45:19.085 [main] INFO  - 1%: Reading information from row 3 (Clone group ID 36, clone #2)
+12:45:19.119 [main] INFO  - 1%: Generating PDG for method "tearDown" in "org.apache.zookeeper.test.FLERestartTest"
+12:45:19.123 [main] INFO  - 1%: Analyzing Clone #1 (Group 36, Pair 1-2): org.apache.zookeeper.test.FLENewEpochTest#tearDown (row 2) and org.apache.zookeeper.test.FLERestartTest#tearDown (row 3)
+12:45:19.171 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:45:19.172 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:45:19.187 [main] INFO  - Start mapping
+12:45:19.210 [main] INFO  - End mapping
+12:45:19.215 [main] INFO  - start to refactor clone pair
+12:45:19.215 [main] INFO  - CloneType: Type 2
+12:45:19.215 [main] INFO  - method pair are not test cases!
+12:45:19.216 [main] INFO  - 4%: Reading information from row 4 (Clone group ID 39, clone #1)
+12:45:19.237 [main] INFO  - 4%: Generating PDG for method "tearDown" in "org.apache.zookeeper.test.FLETest"
+12:45:19.318 [main] INFO  - 4%: Reading information from row 5 (Clone group ID 39, clone #2)
+12:45:19.351 [main] INFO  - 4%: Generating PDG for method "tearDown" in "org.apache.zookeeper.test.FLEZeroWeightTest"
+12:45:19.354 [main] INFO  - 4%: Analyzing Clone #2 (Group 39, Pair 1-2): org.apache.zookeeper.test.FLETest#tearDown (row 4) and org.apache.zookeeper.test.FLEZeroWeightTest#tearDown (row 5)
+12:45:19.405 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:45:19.405 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:45:19.406 [main] INFO  - Start mapping
+12:45:20.478 [main] INFO  - End mapping
+12:45:20.479 [main] INFO  - start to refactor clone pair
+12:45:20.479 [main] INFO  - CloneType: Type 2
+12:45:20.479 [main] INFO  - method pair are not test cases!
+12:45:20.479 [main] INFO  - 6%: Reading information from row 6 (Clone group ID 116, clone #1)
+12:45:20.517 [main] INFO  - 6%: Generating PDG for method "testSetAndGetChildren" in "org.apache.zookeeper.server.quorum.QuorumRequestPipelineTest"
+12:45:24.722 [main] INFO  - 6%: Reading information from row 7 (Clone group ID 116, clone #2)
+12:45:24.725 [main] INFO  - 6%: Generating PDG for method "testSetAndGetChildren2" in "org.apache.zookeeper.server.quorum.QuorumRequestPipelineTest"
+12:45:24.770 [main] INFO  - 6%: Analyzing Clone #3 (Group 116, Pair 1-2): org.apache.zookeeper.server.quorum.QuorumRequestPipelineTest#testSetAndGetChildren (row 6) and org.apache.zookeeper.server.quorum.QuorumRequestPipelineTest#testSetAndGetChildren2 (row 7)
+12:45:24.803 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:45:24.803 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:45:24.804 [main] INFO  - Start mapping
+12:45:24.857 [main] INFO  - End mapping
+12:45:24.858 [main] INFO  - start to refactor clone pair
+12:45:24.858 [main] INFO  - CloneType: Type 2
+12:45:24.872 [main] INFO  - non-refactored node pair with MethodInvocation node: zkClient.getChildren(PARENT_PATH,false)  <--->  zkClient.getChildren(PARENT_PATH,false,null)  (ARGUMENT_NUMBER_MISMATCH)
+12:45:24.873 [main] INFO  - 9%: Reading information from row 8 (Clone group ID 154, clone #1)
+12:45:24.881 [main] INFO  - 9%: Generating PDG for method "testWriterFailureNE" in "org.apache.zookeeper.common.AtomicFileWritingIdiomTest"
+12:45:25.256 [main] INFO  - 9%: Reading information from row 9 (Clone group ID 154, clone #2)
+12:45:25.259 [main] INFO  - 9%: Generating PDG for method "testOutputStreamFailureNE" in "org.apache.zookeeper.common.AtomicFileWritingIdiomTest"
+12:45:25.501 [main] INFO  - 9%: Analyzing Clone #4 (Group 154, Pair 1-2): org.apache.zookeeper.common.AtomicFileWritingIdiomTest#testWriterFailureNE (row 8) and org.apache.zookeeper.common.AtomicFileWritingIdiomTest#testOutputStreamFailureNE (row 9)
+12:45:25.511 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:45:25.511 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:45:25.512 [main] INFO  - Start mapping
+12:45:25.525 [main] INFO  - End mapping
+12:45:25.526 [main] INFO  - start to refactor clone pair
+12:45:25.526 [main] INFO  - CloneType: Type 2
+12:45:25.528 [main] INFO  - cannot refactor ClassInstanceCreation node with with anonymous class declaration
+12:45:25.528 [main] INFO  - cannot find common interface: org.apache.zookeeper.common.AtomicFileWritingIdiom$WriterStatement, org.apache.zookeeper.common.AtomicFileWritingIdiom$OutputStreamStatement
+12:45:25.529 [main] INFO  - 11%: Reading information from row 10 (Clone group ID 158, clone #1)
+12:45:25.554 [main] INFO  - 11%: Generating PDG for method "testCreate" in "org.apache.zookeeper.server.CreateTTLTest"
+12:45:41.131 [main] INFO  - 11%: Reading information from row 11 (Clone group ID 158, clone #2)
+12:45:41.147 [main] INFO  - 11%: Generating PDG for method "testCreate" in "org.apache.zookeeper.server.Emulate353TTLTest"
+12:45:41.168 [main] INFO  - 11%: Analyzing Clone #5 (Group 158, Pair 1-2): org.apache.zookeeper.server.CreateTTLTest#testCreate (row 10) and org.apache.zookeeper.server.Emulate353TTLTest#testCreate (row 11)
+12:45:41.200 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:45:41.200 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:45:57.259 [main] INFO  - start to refactor clone pair
+12:45:57.259 [main] INFO  - CloneType: Type 1
+12:45:57.261 [main] INFO  - Containing unrefactorable private field access: zk
+12:45:57.262 [main] INFO  - different local method access: newContainerManager
+12:45:57.263 [main] INFO  - Containing unrefactorable private field access: zk
+12:45:57.263 [main] INFO  - Containing unrefactorable private field access: zk
+12:45:57.263 [main] INFO  - 14%: Reading information from row 12 (Clone group ID 160, clone #1)
+12:45:57.283 [main] INFO  - 14%: Generating PDG for method "testParseWithMultipleQuotes" in "org.apache.zookeeper.ZooKeeperTest"
+12:45:57.912 [main] INFO  - 14%: Reading information from row 13 (Clone group ID 160, clone #2)
+12:45:57.912 [main] INFO  - 14%: Generating PDG for method "testParseWithQuotes" in "org.apache.zookeeper.ZooKeeperTest"
+12:45:57.914 [main] INFO  - 14%: Analyzing Clone #6 (Group 160, Pair 1-2): org.apache.zookeeper.ZooKeeperTest#testParseWithMultipleQuotes (row 12) and org.apache.zookeeper.ZooKeeperTest#testParseWithQuotes (row 13)
+12:45:57.932 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+12:45:57.932 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:45:57.955 [main] INFO  - start to refactor clone pair
+12:45:57.955 [main] INFO  - Non refactorable CloneType: Type 3
+12:45:57.955 [main] INFO  - 16%: Reading information from row 14 (Clone group ID 172, clone #1)
+12:45:57.983 [main] INFO  - 16%: Generating PDG for method "testRemoveAllDataWatchers" in "org.apache.zookeeper.RemoveWatchesTest"
+12:45:58.139 [main] INFO  - 16%: Reading information from row 15 (Clone group ID 172, clone #2)
+12:45:58.140 [main] INFO  - 16%: Generating PDG for method "testRemoveAllChildWatchers" in "org.apache.zookeeper.RemoveWatchesTest"
+12:45:58.943 [main] INFO  - 16%: Analyzing Clone #7 (Group 172, Pair 1-2): org.apache.zookeeper.RemoveWatchesTest#testRemoveAllDataWatchers (row 14) and org.apache.zookeeper.RemoveWatchesTest#testRemoveAllChildWatchers (row 15)
+12:45:58.970 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+12:45:58.970 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:45:58.971 [main] INFO  - Start mapping
+12:45:59.096 [main] INFO  - End mapping
+12:45:59.096 [main] INFO  - start to refactor clone pair
+12:45:59.096 [main] INFO  - CloneType: Type 2
+12:45:59.098 [main] ERROR - CloneStructure has PDG gap node.
+12:45:59.098 [main] INFO  - 19%: Reading information from row 16 (Clone group ID 223, clone #1)
+12:45:59.114 [main] INFO  - 19%: Generating PDG for method "testValidSaslIds" in "org.apache.zookeeper.SaslAuthTest"
+12:46:01.256 [main] INFO  - 19%: Reading information from row 17 (Clone group ID 223, clone #2)
+12:46:01.256 [main] INFO  - 19%: Generating PDG for method "testInvalidSaslIds" in "org.apache.zookeeper.SaslAuthTest"
+12:46:01.260 [main] INFO  - 19%: Analyzing Clone #8 (Group 223, Pair 1-2): org.apache.zookeeper.SaslAuthTest#testValidSaslIds (row 16) and org.apache.zookeeper.SaslAuthTest#testInvalidSaslIds (row 17)
+12:46:01.274 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 2
+12:46:01.275 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:01.275 [main] INFO  - Start mapping
+12:46:01.276 [main] INFO  - End mapping
+12:46:01.276 [main] INFO  - start to refactor clone pair
+12:46:01.276 [main] INFO  - 21%: Reading information from row 18 (Clone group ID 226, clone #1)
+12:46:01.290 [main] INFO  - 21%: Generating PDG for method "testTooFewRemainingPariticipants" in "org.apache.zookeeper.server.quorum.ReconfigFailureCasesTest"
+12:46:03.340 [main] INFO  - 21%: Reading information from row 19 (Clone group ID 226, clone #2)
+12:46:03.341 [main] INFO  - 21%: Generating PDG for method "testReconfigVersionConditionFails" in "org.apache.zookeeper.server.quorum.ReconfigFailureCasesTest"
+12:46:03.343 [main] INFO  - 21%: Analyzing Clone #9 (Group 226, Pair 1-2): org.apache.zookeeper.server.quorum.ReconfigFailureCasesTest#testTooFewRemainingPariticipants (row 18) and org.apache.zookeeper.server.quorum.ReconfigFailureCasesTest#testReconfigVersionConditionFails (row 19)
+12:46:03.357 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:46:03.357 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:03.358 [main] INFO  - Start mapping
+12:46:03.368 [main] INFO  - End mapping
+12:46:03.369 [main] INFO  - start to refactor clone pair
+12:46:03.369 [main] INFO  - Non refactorable CloneType: Type 3
+12:46:03.369 [main] INFO  - 23%: Reading information from row 20 (Clone group ID 265, clone #1)
+12:46:03.388 [main] INFO  - 23%: Generating PDG for method "testReadOnlyTxnLogDir" in "org.apache.zookeeper.server.ZooKeeperServerMainTest"
+12:46:09.902 [main] INFO  - 23%: Reading information from row 21 (Clone group ID 265, clone #2)
+12:46:09.903 [main] INFO  - 23%: Generating PDG for method "testReadOnlySnapshotDir" in "org.apache.zookeeper.server.ZooKeeperServerMainTest"
+12:46:09.910 [main] INFO  - 23%: Analyzing Clone #10 (Group 265, Pair 1-2): org.apache.zookeeper.server.ZooKeeperServerMainTest#testReadOnlyTxnLogDir (row 20) and org.apache.zookeeper.server.ZooKeeperServerMainTest#testReadOnlySnapshotDir (row 21)
+12:46:09.929 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:09.930 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:13.429 [main] INFO  - start to refactor clone pair
+12:46:13.429 [main] INFO  - CloneType: Type 2
+12:46:13.432 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+12:46:13.433 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+12:46:13.433 [main] INFO  - 26%: Reading information from row 22 (Clone group ID 266, clone #1)
+12:46:13.439 [main] INFO  - 26%: Generating PDG for method "testRecoveryFixBrokenFile" in "org.apache.zookeeper.server.persistence.TxnLogToolkitTest"
+12:46:14.174 [main] INFO  - 26%: Reading information from row 23 (Clone group ID 266, clone #2)
+12:46:14.175 [main] INFO  - 26%: Generating PDG for method "testRecoveryInteractiveMode" in "org.apache.zookeeper.server.persistence.TxnLogToolkitTest"
+12:46:14.178 [main] INFO  - 26%: Analyzing Clone #11 (Group 266, Pair 1-2): org.apache.zookeeper.server.persistence.TxnLogToolkitTest#testRecoveryFixBrokenFile (row 22) and org.apache.zookeeper.server.persistence.TxnLogToolkitTest#testRecoveryInteractiveMode (row 23)
+12:46:14.186 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:14.186 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:14.237 [main] INFO  - start to refactor clone pair
+12:46:14.237 [main] INFO  - CloneType: Type 2
+12:46:14.238 [main] INFO  - non-refactored node pair with NullLiteral node: null  <--->  new Scanner("y\n")  (TYPE_COMPATIBLE_REPLACEMENT)
+12:46:14.239 [main] INFO  - 28%: Reading information from row 24 (Clone group ID 309, clone #1)
+12:46:14.243 [main] INFO  - 28%: Generating PDG for method "testInvalidIntConversion" in "org.apache.zookeeper.test.EventTypeTest"
+12:46:14.247 [main] INFO  - 28%: Reading information from row 25 (Clone group ID 309, clone #2)
+12:46:14.252 [main] INFO  - 28%: Generating PDG for method "testInvalidIntConversion" in "org.apache.zookeeper.test.KeeperStateTest"
+12:46:14.253 [main] INFO  - 28%: Analyzing Clone #12 (Group 309, Pair 1-2): org.apache.zookeeper.test.EventTypeTest#testInvalidIntConversion (row 24) and org.apache.zookeeper.test.KeeperStateTest#testInvalidIntConversion (row 25)
+12:46:14.259 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:46:14.260 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:14.260 [main] INFO  - Start mapping
+12:46:14.262 [main] INFO  - End mapping
+12:46:14.263 [main] INFO  - start to refactor clone pair
+12:46:14.263 [main] INFO  - CloneType: Type 2
+12:46:14.263 [main] ERROR - CloneStructure has PDG gap node.
+12:46:14.263 [main] INFO  - 31%: Reading information from row 26 (Clone group ID 310, clone #1)
+12:46:14.278 [main] INFO  - 31%: Generating PDG for method "setUp" in "org.apache.zookeeper.test.MultiAsyncTransactionTest"
+12:46:14.333 [main] INFO  - 31%: Reading information from row 27 (Clone group ID 310, clone #2)
+12:46:14.362 [main] INFO  - 31%: Generating PDG for method "setUp" in "org.apache.zookeeper.test.MultiTransactionTest"
+12:46:14.372 [main] INFO  - 31%: Analyzing Clone #13 (Group 310, Pair 1-2): org.apache.zookeeper.test.MultiAsyncTransactionTest#setUp (row 26) and org.apache.zookeeper.test.MultiTransactionTest#setUp (row 27)
+12:46:14.469 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:14.470 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:14.501 [main] INFO  - start to refactor clone pair
+12:46:14.501 [main] INFO  - CloneType: Type 2
+12:46:14.501 [main] INFO  - method pair are not test cases!
+12:46:14.501 [main] INFO  - 33%: Reading information from row 28 (Clone group ID 342, clone #1)
+12:46:14.520 [main] INFO  - 33%: Generating PDG for method "testACLWithExtraAgruments" in "org.apache.zookeeper.ZooKeeperTest"
+12:46:15.656 [main] INFO  - 33%: Reading information from row 29 (Clone group ID 342, clone #2)
+12:46:15.658 [main] INFO  - 33%: Generating PDG for method "testCreatePersistentNode" in "org.apache.zookeeper.ZooKeeperTest"
+12:46:15.659 [main] INFO  - 33%: Analyzing Clone #14 (Group 342, Pair 1-2): org.apache.zookeeper.ZooKeeperTest#testACLWithExtraAgruments (row 28) and org.apache.zookeeper.ZooKeeperTest#testCreatePersistentNode (row 29)
+12:46:15.679 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:15.679 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:15.704 [main] INFO  - start to refactor clone pair
+12:46:15.705 [main] INFO  - CloneType: Type 2
+12:46:15.706 [main] INFO  - 36%: Reading information from row 30 (Clone group ID 343, clone #1)
+12:46:15.714 [main] INFO  - 36%: Generating PDG for method "testTrustedAuth" in "org.apache.zookeeper.test.X509AuthTest"
+12:46:15.836 [main] INFO  - 36%: Reading information from row 31 (Clone group ID 343, clone #2)
+12:46:15.837 [main] INFO  - 36%: Generating PDG for method "testUntrustedAuth" in "org.apache.zookeeper.test.X509AuthTest"
+12:46:15.837 [main] INFO  - 36%: Analyzing Clone #15 (Group 343, Pair 1-2): org.apache.zookeeper.test.X509AuthTest#testTrustedAuth (row 30) and org.apache.zookeeper.test.X509AuthTest#testUntrustedAuth (row 31)
+12:46:15.846 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:15.846 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:15.850 [main] INFO  - start to refactor clone pair
+12:46:15.851 [main] INFO  - CloneType: Type 2
+12:46:15.853 [main] INFO  - 38%: Reading information from row 32 (Clone group ID 345, clone #1)
+12:46:15.856 [main] INFO  - 38%: Generating PDG for method "testGetOpenFileDescriptorCount" in "org.apache.zookeeper.test.OSMXBeanTest"
+12:46:15.956 [main] INFO  - 38%: Reading information from row 33 (Clone group ID 345, clone #2)
+12:46:15.957 [main] INFO  - 38%: Generating PDG for method "testGetMaxFileDescriptorCount" in "org.apache.zookeeper.test.OSMXBeanTest"
+12:46:15.957 [main] INFO  - 38%: Analyzing Clone #16 (Group 345, Pair 1-2): org.apache.zookeeper.test.OSMXBeanTest#testGetOpenFileDescriptorCount (row 32) and org.apache.zookeeper.test.OSMXBeanTest#testGetMaxFileDescriptorCount (row 33)
+12:46:15.960 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:46:15.960 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:15.961 [main] INFO  - Start mapping
+12:46:15.968 [main] INFO  - End mapping
+12:46:15.969 [main] INFO  - start to refactor clone pair
+12:46:15.969 [main] INFO  - CloneType: Type 2
+12:46:15.971 [main] INFO  - 41%: Reading information from row 34 (Clone group ID 349, clone #1)
+12:46:15.990 [main] INFO  - 41%: Generating PDG for method "testWatcherAutoResetWithGlobal" in "org.apache.zookeeper.test.WatcherTest"
+12:46:16.189 [main] INFO  - 41%: Reading information from row 35 (Clone group ID 349, clone #2)
+12:46:16.189 [main] INFO  - 41%: Generating PDG for method "testWatcherAutoResetWithLocal" in "org.apache.zookeeper.test.WatcherTest"
+12:46:16.190 [main] INFO  - 41%: Analyzing Clone #17 (Group 349, Pair 1-2): org.apache.zookeeper.test.WatcherTest#testWatcherAutoResetWithGlobal (row 34) and org.apache.zookeeper.test.WatcherTest#testWatcherAutoResetWithLocal (row 35)
+12:46:16.209 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:16.209 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:16.233 [main] INFO  - start to refactor clone pair
+12:46:16.233 [main] INFO  - CloneType: Type 2
+12:46:16.234 [main] INFO  - non-refactored node pair with SimpleName node: watcher  <--->  new MyWatcher()  (TYPE_COMPATIBLE_REPLACEMENT)
+12:46:16.235 [main] INFO  - 43%: Reading information from row 36 (Clone group ID 364, clone #1)
+12:46:16.266 [main] INFO  - 43%: Generating PDG for method "testRemoveAnyDataWatcher" in "org.apache.zookeeper.RemoveWatchesTest"
+12:46:16.358 [main] INFO  - 43%: Reading information from row 37 (Clone group ID 364, clone #2)
+12:46:16.359 [main] INFO  - 43%: Generating PDG for method "testMultipleDataWatchers" in "org.apache.zookeeper.RemoveWatchesTest"
+12:46:16.784 [main] INFO  - 43%: Analyzing Clone #18 (Group 364, Pair 1-2): org.apache.zookeeper.RemoveWatchesTest#testRemoveAnyDataWatcher (row 36) and org.apache.zookeeper.RemoveWatchesTest#testMultipleDataWatchers (row 37)
+12:46:16.812 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+12:46:16.812 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:16.884 [main] INFO  - start to refactor clone pair
+12:46:16.884 [main] INFO  - Non refactorable CloneType: Type 3
+12:46:16.884 [main] INFO  - 46%: Reading information from row 38 (Clone group ID 376, clone #1)
+12:46:16.888 [main] INFO  - 46%: Generating PDG for method "testWithZeroPurgeInterval" in "org.apache.zookeeper.server.DatadirCleanupManagerTest"
+12:46:16.904 [main] INFO  - 46%: Reading information from row 39 (Clone group ID 376, clone #2)
+12:46:16.904 [main] INFO  - 46%: Generating PDG for method "testWithNegativePurgeInterval" in "org.apache.zookeeper.server.DatadirCleanupManagerTest"
+12:46:16.904 [main] INFO  - 46%: Analyzing Clone #19 (Group 376, Pair 1-2): org.apache.zookeeper.server.DatadirCleanupManagerTest#testWithZeroPurgeInterval (row 38) and org.apache.zookeeper.server.DatadirCleanupManagerTest#testWithNegativePurgeInterval (row 39)
+12:46:16.908 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:16.908 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:16.912 [main] INFO  - start to refactor clone pair
+12:46:16.912 [main] INFO  - CloneType: Type 2
+12:46:16.913 [main] INFO  - 48%: Reading information from row 40 (Clone group ID 415, clone #1)
+12:46:16.924 [main] INFO  - 48%: Generating PDG for method "setUp" in "org.apache.zookeeper.test.ServerCnxnTest"
+12:46:16.924 [main] INFO  - 48%: Reading information from row 41 (Clone group ID 415, clone #2)
+12:46:16.941 [main] INFO  - 48%: Generating PDG for method "tearDown" in "org.apache.zookeeper.test.TruncateTest"
+12:46:16.964 [main] INFO  - 48%: Analyzing Clone #20 (Group 415, Pair 1-2): org.apache.zookeeper.test.ServerCnxnTest#setUp (row 40) and org.apache.zookeeper.test.TruncateTest#tearDown (row 41)
+12:46:16.992 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:16.992 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:16.993 [main] INFO  - start to refactor clone pair
+12:46:16.993 [main] INFO  - 51%: Reading information from row 42 (Clone group ID 416, clone #1)
+12:46:17.008 [main] INFO  - 51%: Generating PDG for method "verify" in "org.apache.zookeeper.test.AsyncOps"
+12:46:17.031 [main] INFO  - 51%: Reading information from row 43 (Clone group ID 416, clone #2)
+12:46:17.032 [main] INFO  - 51%: Analyzing Clone #21 (Group 416, Pair 1-2): org.apache.zookeeper.test.AsyncOps#verify (row 42) and org.apache.zookeeper.test.AsyncOps#verify (row 43)
+12:46:17.047 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:46:17.047 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:17.047 [main] INFO  - Start mapping
+12:46:17.049 [main] INFO  - End mapping
+12:46:17.049 [main] INFO  - skip the pairs with same method
+12:46:17.050 [main] INFO  - 53%: Reading information from row 44 (Clone group ID 429, clone #1)
+12:46:17.056 [main] INFO  - 53%: Generating PDG for method "testWriterSuccessNE" in "org.apache.zookeeper.common.AtomicFileWritingIdiomTest"
+12:46:17.057 [main] INFO  - 53%: Reading information from row 45 (Clone group ID 429, clone #2)
+12:46:17.057 [main] INFO  - 53%: Generating PDG for method "testOutputStreamSuccessNE" in "org.apache.zookeeper.common.AtomicFileWritingIdiomTest"
+12:46:17.058 [main] INFO  - 53%: Analyzing Clone #22 (Group 429, Pair 1-2): org.apache.zookeeper.common.AtomicFileWritingIdiomTest#testWriterSuccessNE (row 44) and org.apache.zookeeper.common.AtomicFileWritingIdiomTest#testOutputStreamSuccessNE (row 45)
+12:46:17.065 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:17.065 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:17.069 [main] INFO  - start to refactor clone pair
+12:46:17.069 [main] INFO  - Non refactorable CloneType: Type 3
+12:46:17.069 [main] INFO  - 56%: Reading information from row 46 (Clone group ID 431, clone #1)
+12:46:17.087 [main] INFO  - 56%: Generating PDG for method "testStatCommand" in "org.apache.zookeeper.ZooKeeperTest"
+12:46:18.101 [main] INFO  - 56%: Reading information from row 47 (Clone group ID 431, clone #2)
+12:46:18.102 [main] INFO  - 56%: Generating PDG for method "testDelete" in "org.apache.zookeeper.ZooKeeperTest"
+12:46:18.114 [main] INFO  - 56%: Analyzing Clone #23 (Group 431, Pair 1-2): org.apache.zookeeper.ZooKeeperTest#testStatCommand (row 46) and org.apache.zookeeper.ZooKeeperTest#testDelete (row 47)
+12:46:18.132 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:18.132 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:18.702 [main] INFO  - start to refactor clone pair
+12:46:18.702 [main] INFO  - CloneType: Type 2
+12:46:18.703 [main] INFO  - non-refactored node pair with MethodInvocation node: Assert.assertFalse(zkMain.processZKCmd(zkMain.cl))  <--->  Assert.assertFalse("",zkMain.processCmd(zkMain.cl))  (ARGUMENT_NUMBER_MISMATCH)
+12:46:18.703 [main] INFO  - 58%: Reading information from row 48 (Clone group ID 450, clone #1)
+12:46:18.717 [main] INFO  - 58%: Generating PDG for method "testClientPortInDynamicFile" in "org.apache.zookeeper.test.StandaloneTest"
+12:46:18.765 [main] INFO  - 58%: Reading information from row 49 (Clone group ID 450, clone #2)
+12:46:18.765 [main] INFO  - 58%: Generating PDG for method "testClientPortInStaticFile" in "org.apache.zookeeper.test.StandaloneTest"
+12:46:18.766 [main] INFO  - 58%: Analyzing Clone #24 (Group 450, Pair 1-2): org.apache.zookeeper.test.StandaloneTest#testClientPortInDynamicFile (row 48) and org.apache.zookeeper.test.StandaloneTest#testClientPortInStaticFile (row 49)
+12:46:18.779 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:18.779 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:18.792 [main] INFO  - start to refactor clone pair
+12:46:18.792 [main] INFO  - CloneType: Type 2
+12:46:18.793 [main] INFO  - 60%: Reading information from row 50 (Clone group ID 460, clone #1)
+12:46:18.798 [main] INFO  - 60%: Generating PDG for method "testSortDataDirAscending" in "org.apache.zookeeper.server.ZooKeeperServerTest"
+12:46:19.252 [main] INFO  - 60%: Reading information from row 51 (Clone group ID 460, clone #2)
+12:46:19.252 [main] INFO  - 60%: Generating PDG for method "testSortDataDirDescending" in "org.apache.zookeeper.server.ZooKeeperServerTest"
+12:46:19.259 [main] INFO  - 60%: Analyzing Clone #25 (Group 460, Pair 1-2): org.apache.zookeeper.server.ZooKeeperServerTest#testSortDataDirAscending (row 50) and org.apache.zookeeper.server.ZooKeeperServerTest#testSortDataDirDescending (row 51)
+12:46:19.264 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:19.264 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:19.288 [main] INFO  - start to refactor clone pair
+12:46:19.288 [main] INFO  - CloneType: Type 2
+12:46:19.290 [main] INFO  - 63%: Reading information from row 52 (Clone group ID 515, clone #1)
+12:46:19.297 [main] INFO  - 63%: Generating PDG for method "constructionUnderstandsIpv6LiteralsInServerConfig" in "org.apache.zookeeper.server.quorum.QuorumServerTest"
+12:46:19.361 [main] INFO  - 63%: Reading information from row 53 (Clone group ID 515, clone #2)
+12:46:19.362 [main] INFO  - 63%: Generating PDG for method "constructionUnderstandsIpv6LiteralsInClientConfig" in "org.apache.zookeeper.server.quorum.QuorumServerTest"
+12:46:19.362 [main] INFO  - 63%: Analyzing Clone #26 (Group 515, Pair 1-2): org.apache.zookeeper.server.quorum.QuorumServerTest#constructionUnderstandsIpv6LiteralsInServerConfig (row 52) and org.apache.zookeeper.server.quorum.QuorumServerTest#constructionUnderstandsIpv6LiteralsInClientConfig (row 53)
+12:46:19.366 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:19.366 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:19.368 [main] INFO  - start to refactor clone pair
+12:46:19.368 [main] INFO  - CloneType: Type 2
+12:46:19.368 [main] INFO  - 65%: Reading information from row 54 (Clone group ID 584, clone #1)
+12:46:19.372 [main] INFO  - 65%: Generating PDG for method "setUp" in "org.apache.zookeeper.test.QuorumHammerTest"
+12:46:19.695 [main] INFO  - 65%: Reading information from row 55 (Clone group ID 584, clone #2)
+12:46:19.712 [main] INFO  - 65%: Generating PDG for method "setUp" in "org.apache.zookeeper.test.QuorumTest"
+12:46:19.713 [main] INFO  - 65%: Analyzing Clone #27 (Group 584, Pair 1-2): org.apache.zookeeper.test.QuorumHammerTest#setUp (row 54) and org.apache.zookeeper.test.QuorumTest#setUp (row 55)
+12:46:19.732 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:19.732 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:19.741 [main] INFO  - start to refactor clone pair
+12:46:19.741 [main] INFO  - CloneType: Type 2
+12:46:19.741 [main] INFO  - method pair are not test cases!
+12:46:19.741 [main] INFO  - 68%: Reading information from row 56 (Clone group ID 597, clone #1)
+12:46:19.743 [main] INFO  - 68%: Generating PDG for method "testForWarningOnRelativePath" in "org.apache.zookeeper.server.util.VerifyingFileFactoryTest"
+12:46:19.745 [main] INFO  - 68%: Reading information from row 57 (Clone group ID 597, clone #2)
+12:46:19.745 [main] INFO  - 68%: Generating PDG for method "testForNoWarningOnIntendedRelativePath" in "org.apache.zookeeper.server.util.VerifyingFileFactoryTest"
+12:46:19.745 [main] INFO  - 68%: Analyzing Clone #28 (Group 597, Pair 1-2): org.apache.zookeeper.server.util.VerifyingFileFactoryTest#testForWarningOnRelativePath (row 56) and org.apache.zookeeper.server.util.VerifyingFileFactoryTest#testForNoWarningOnIntendedRelativePath (row 57)
+12:46:19.747 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:19.747 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:19.749 [main] INFO  - start to refactor clone pair
+12:46:19.749 [main] INFO  - CloneType: Type 2
+12:46:19.750 [main] INFO  - 70%: Reading information from row 58 (Clone group ID 684, clone #1)
+12:46:19.778 [main] INFO  - 70%: Generating PDG for method "testRemoveAllWatchers" in "org.apache.zookeeper.RemoveWatchesTest"
+12:46:19.862 [main] INFO  - 70%: Reading information from row 59 (Clone group ID 684, clone #2)
+12:46:19.863 [main] INFO  - 70%: Generating PDG for method "testRemoveWatcherWhenNoConnection" in "org.apache.zookeeper.RemoveWatchesTest"
+12:46:19.902 [main] INFO  - 70%: Analyzing Clone #29 (Group 684, Pair 1-2): org.apache.zookeeper.RemoveWatchesTest#testRemoveAllWatchers (row 58) and org.apache.zookeeper.RemoveWatchesTest#testRemoveWatcherWhenNoConnection (row 59)
+12:46:19.927 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+12:46:19.927 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:19.964 [main] INFO  - start to refactor clone pair
+12:46:19.964 [main] INFO  - CloneType: Type 2
+12:46:19.965 [main] ERROR - CloneStructure has PDG gap node.
+12:46:19.965 [main] INFO  - 73%: Reading information from row 60 (Clone group ID 685, clone #1)
+12:46:19.966 [main] INFO  - 73%: Generating PDG for method "testRemoveAllDataWatchesOnAPath" in "org.apache.zookeeper.RemoveWatchesTest"
+12:46:20.929 [main] INFO  - 73%: Reading information from row 61 (Clone group ID 685, clone #2)
+12:46:20.930 [main] INFO  - 73%: Generating PDG for method "testRemoveAllChildWatchesOnAPath" in "org.apache.zookeeper.RemoveWatchesTest"
+12:46:20.935 [main] INFO  - 73%: Analyzing Clone #30 (Group 685, Pair 1-2): org.apache.zookeeper.RemoveWatchesTest#testRemoveAllDataWatchesOnAPath (row 60) and org.apache.zookeeper.RemoveWatchesTest#testRemoveAllChildWatchesOnAPath (row 61)
+12:46:20.966 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:20.966 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:21.065 [main] INFO  - start to refactor clone pair
+12:46:21.066 [main] INFO  - CloneType: Type 2
+12:46:21.067 [main] INFO  - cannot refactor ClassInstanceCreation node with with anonymous class declaration
+12:46:21.068 [main] INFO  - cannot refactor ClassInstanceCreation node with with anonymous class declaration
+12:46:21.068 [main] INFO  - non-refactored node pair with MethodInvocation node: Assert.assertNotNull("Didn't set data watches",zk2.exists("/node1",w1))  <--->  Assert.assertEquals("Didn't set child watches",0,zk2.getChildren("/node1",w1).size())  (ARGUMENT_NUMBER_MISMATCH)
+12:46:21.068 [main] INFO  - non-refactored node pair with MethodInvocation node: Assert.assertNotNull("Didn't set data watches",zk2.exists("/node1",w2))  <--->  Assert.assertEquals("Didn't set child watches",0,zk2.getChildren("/node1",w2).size())  (ARGUMENT_NUMBER_MISMATCH)
+12:46:21.069 [main] INFO  - 75%: Reading information from row 62 (Clone group ID 697, clone #1)
+12:46:21.073 [main] INFO  - 75%: Generating PDG for method "testEmptyRoundTrip" in "org.apache.zookeeper.MultiResponseTest"
+12:46:21.084 [main] INFO  - 75%: Reading information from row 63 (Clone group ID 697, clone #2)
+12:46:21.090 [main] INFO  - 75%: Generating PDG for method "testEmptyRoundTrip" in "org.apache.zookeeper.MultiTransactionRecordTest"
+12:46:21.096 [main] INFO  - 75%: Analyzing Clone #31 (Group 697, Pair 1-2): org.apache.zookeeper.MultiResponseTest#testEmptyRoundTrip (row 62) and org.apache.zookeeper.MultiTransactionRecordTest#testEmptyRoundTrip (row 63)
+12:46:21.105 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:21.105 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:21.114 [main] INFO  - start to refactor clone pair
+12:46:21.114 [main] INFO  - CloneType: Type 2
+12:46:21.116 [main] INFO  - different local method access: codeDecode, codeDecode
+12:46:21.117 [main] INFO  - 78%: Reading information from row 64 (Clone group ID 753, clone #1)
+12:46:21.148 [main] INFO  - 78%: Generating PDG for method "tearDown" in "org.apache.zookeeper.server.quorum.RaceConditionTest"
+12:46:21.149 [main] INFO  - 78%: Reading information from row 65 (Clone group ID 753, clone #2)
+12:46:21.172 [main] INFO  - 78%: Generating PDG for method "tearDown" in "org.apache.zookeeper.server.quorum.ReconfigDuringLeaderSyncTest"
+12:46:21.173 [main] INFO  - 78%: Analyzing Clone #32 (Group 753, Pair 1-2): org.apache.zookeeper.server.quorum.RaceConditionTest#tearDown (row 64) and org.apache.zookeeper.server.quorum.ReconfigDuringLeaderSyncTest#tearDown (row 65)
+12:46:21.221 [main] INFO  - CDT 1 depth = 3, CDT 2 depth = 3
+12:46:21.221 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:21.223 [main] INFO  - Start mapping
+12:46:21.329 [main] INFO  - End mapping
+12:46:21.329 [main] INFO  - start to refactor clone pair
+12:46:21.329 [main] INFO  - CloneType: Type 2
+12:46:21.329 [main] INFO  - method pair are not test cases!
+12:46:21.329 [main] INFO  - 80%: Reading information from row 66 (Clone group ID 844, clone #1)
+12:46:21.348 [main] INFO  - 80%: Generating PDG for method "testSetAndGetData" in "org.apache.zookeeper.server.quorum.QuorumRequestPipelineTest"
+12:46:21.559 [main] INFO  - 80%: Reading information from row 67 (Clone group ID 844, clone #2)
+12:46:21.560 [main] INFO  - 80%: Generating PDG for method "testCreate2" in "org.apache.zookeeper.server.quorum.QuorumRequestPipelineTest"
+12:46:21.571 [main] INFO  - 80%: Analyzing Clone #33 (Group 844, Pair 1-2): org.apache.zookeeper.server.quorum.QuorumRequestPipelineTest#testSetAndGetData (row 66) and org.apache.zookeeper.server.quorum.QuorumRequestPipelineTest#testCreate2 (row 67)
+12:46:21.591 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:21.592 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:21.594 [main] INFO  - start to refactor clone pair
+12:46:21.594 [main] INFO  - Non refactorable CloneType: Type 3
+12:46:21.595 [main] INFO  - 83%: Reading information from row 68 (Clone group ID 868, clone #1)
+12:46:21.600 [main] INFO  - 83%: Generating PDG for method "testWriterSuccess" in "org.apache.zookeeper.common.AtomicFileWritingIdiomTest"
+12:46:21.601 [main] INFO  - 83%: Reading information from row 69 (Clone group ID 868, clone #2)
+12:46:21.601 [main] INFO  - 83%: Generating PDG for method "testOutputStreamSuccess" in "org.apache.zookeeper.common.AtomicFileWritingIdiomTest"
+12:46:21.602 [main] INFO  - 83%: Analyzing Clone #34 (Group 868, Pair 1-2): org.apache.zookeeper.common.AtomicFileWritingIdiomTest#testWriterSuccess (row 68) and org.apache.zookeeper.common.AtomicFileWritingIdiomTest#testOutputStreamSuccess (row 69)
+12:46:21.607 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:21.607 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:21.611 [main] INFO  - start to refactor clone pair
+12:46:21.611 [main] INFO  - CloneType: Type 2
+12:46:21.612 [main] INFO  - cannot refactor ClassInstanceCreation node with with anonymous class declaration
+12:46:21.612 [main] INFO  - cannot find common interface: org.apache.zookeeper.common.AtomicFileWritingIdiom$WriterStatement, org.apache.zookeeper.common.AtomicFileWritingIdiom$OutputStreamStatement
+12:46:21.612 [main] INFO  - 85%: Reading information from row 70 (Clone group ID 881, clone #1)
+12:46:21.626 [main] INFO  - 85%: Generating PDG for method "testDefaultWatcherAutoResetWithChroot" in "org.apache.zookeeper.test.DisconnectedWatcherTest"
+12:46:21.824 [main] INFO  - 85%: Reading information from row 71 (Clone group ID 881, clone #2)
+12:46:21.824 [main] INFO  - 85%: Generating PDG for method "testChildWatcherAutoResetWithChroot" in "org.apache.zookeeper.test.DisconnectedWatcherTest"
+12:46:21.829 [main] INFO  - 85%: Analyzing Clone #35 (Group 881, Pair 1-2): org.apache.zookeeper.test.DisconnectedWatcherTest#testDefaultWatcherAutoResetWithChroot (row 70) and org.apache.zookeeper.test.DisconnectedWatcherTest#testChildWatcherAutoResetWithChroot (row 71)
+12:46:21.842 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:21.842 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:21.915 [main] INFO  - start to refactor clone pair
+12:46:21.915 [main] INFO  - Non refactorable CloneType: Type 3
+12:46:21.915 [main] INFO  - 88%: Reading information from row 72 (Clone group ID 927, clone #1)
+12:46:21.929 [main] INFO  - 88%: Generating PDG for method "testReconfigEnabledWithAuthAndACL" in "org.apache.zookeeper.test.ReconfigExceptionTest"
+12:46:22.147 [main] INFO  - 88%: Reading information from row 73 (Clone group ID 927, clone #2)
+12:46:22.147 [main] INFO  - 88%: Generating PDG for method "testReconfigEnabledWithAuthAndWrongACL" in "org.apache.zookeeper.test.ReconfigExceptionTest"
+12:46:22.148 [main] INFO  - 88%: Analyzing Clone #36 (Group 927, Pair 1-2): org.apache.zookeeper.test.ReconfigExceptionTest#testReconfigEnabledWithAuthAndACL (row 72) and org.apache.zookeeper.test.ReconfigExceptionTest#testReconfigEnabledWithAuthAndWrongACL (row 73)
+12:46:22.161 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:46:22.161 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:22.162 [main] INFO  - Start mapping
+12:46:22.198 [main] INFO  - End mapping
+12:46:22.198 [main] INFO  - start to refactor clone pair
+12:46:22.198 [main] INFO  - Non refactorable CloneType: Type 3
+12:46:22.199 [main] INFO  - 90%: Reading information from row 74 (Clone group ID 963, clone #1)
+12:46:22.212 [main] INFO  - 90%: Generating PDG for method "testValidCredentials" in "org.apache.zookeeper.server.quorum.auth.QuorumDigestAuthTest"
+12:46:22.768 [main] INFO  - 90%: Reading information from row 75 (Clone group ID 963, clone #2)
+12:46:22.768 [main] INFO  - 90%: Generating PDG for method "testSaslNotRequiredWithInvalidCredentials" in "org.apache.zookeeper.server.quorum.auth.QuorumDigestAuthTest"
+12:46:22.774 [main] INFO  - 90%: Analyzing Clone #37 (Group 963, Pair 1-2): org.apache.zookeeper.server.quorum.auth.QuorumDigestAuthTest#testValidCredentials (row 74) and org.apache.zookeeper.server.quorum.auth.QuorumDigestAuthTest#testSaslNotRequiredWithInvalidCredentials (row 75)
+12:46:22.787 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:46:22.787 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:22.787 [main] INFO  - Start mapping
+12:46:22.815 [main] INFO  - End mapping
+12:46:22.815 [main] INFO  - start to refactor clone pair
+12:46:22.815 [main] INFO  - CloneType: Type 2
+12:46:22.817 [main] INFO  - 93%: Reading information from row 76 (Clone group ID 1008, clone #1)
+12:46:22.853 [main] INFO  - 93%: Generating PDG for method "testMinMaxSessionTimeOut" in "org.apache.zookeeper.server.quorum.QuorumPeerMainTest"
+12:46:22.930 [main] INFO  - 93%: Reading information from row 77 (Clone group ID 1008, clone #2)
+12:46:22.931 [main] INFO  - 93%: Generating PDG for method "testWithOnlyMinSessionTimeout" in "org.apache.zookeeper.server.quorum.QuorumPeerMainTest"
+12:46:22.932 [main] INFO  - 93%: Analyzing Clone #38 (Group 1008, Pair 1-2): org.apache.zookeeper.server.quorum.QuorumPeerMainTest#testMinMaxSessionTimeOut (row 76) and org.apache.zookeeper.server.quorum.QuorumPeerMainTest#testWithOnlyMinSessionTimeout (row 77)
+12:46:22.971 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:22.971 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:22.985 [main] INFO  - start to refactor clone pair
+12:46:22.985 [main] INFO  - CloneType: Type 2
+12:46:22.986 [main] INFO  - non-refactored node pair with initializer node: 15000  <--->  quorumPeer.tickTime * 20  (TYPE_COMPATIBLE_REPLACEMENT)
+12:46:22.987 [main] INFO  - unrefactorable InfixExpr node pair containing local variables: "maxSessionTimeout=" + maxSessionTimeOut + "\n"+ "minSessionTimeout="+ minSessionTimeOut+ "\n"  <--->  "minSessionTimeout=" + minSessionTimeOut + "\n"  (INFIX_EXTENDED_OPERAND_NUMBER_MISMATCH)
+12:46:22.987 [main] INFO  - 95%: Reading information from row 78 (Clone group ID 1016, clone #1)
+12:46:23.003 [main] INFO  - 95%: Generating PDG for method "testValidCredentials" in "org.apache.zookeeper.server.quorum.auth.QuorumKerberosAuthTest"
+12:46:23.160 [main] INFO  - 95%: Reading information from row 79 (Clone group ID 1016, clone #2)
+12:46:23.173 [main] INFO  - 95%: Generating PDG for method "testValidCredentials" in "org.apache.zookeeper.server.quorum.auth.QuorumKerberosHostBasedAuthTest"
+12:46:23.183 [main] INFO  - 95%: Analyzing Clone #39 (Group 1016, Pair 1-2): org.apache.zookeeper.server.quorum.auth.QuorumKerberosAuthTest#testValidCredentials (row 78) and org.apache.zookeeper.server.quorum.auth.QuorumKerberosHostBasedAuthTest#testValidCredentials (row 79)
+12:46:23.206 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+12:46:23.206 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:23.207 [main] INFO  - Start mapping
+12:46:23.331 [main] INFO  - End mapping
+12:46:23.331 [main] INFO  - start to refactor clone pair
+12:46:23.331 [main] INFO  - Non refactorable CloneType: Type 3
+12:46:23.331 [main] INFO  - 98%: Reading information from row 80 (Clone group ID 1058, clone #1)
+12:46:23.333 [main] INFO  - 98%: Generating PDG for method "testSingleServerChrootPath" in "org.apache.zookeeper.test.ConnectStringParserTest"
+12:46:23.334 [main] INFO  - 98%: Reading information from row 81 (Clone group ID 1058, clone #2)
+12:46:23.334 [main] INFO  - 98%: Generating PDG for method "testMultipleServersChrootPath" in "org.apache.zookeeper.test.ConnectStringParserTest"
+12:46:23.334 [main] INFO  - 98%: Analyzing Clone #40 (Group 1058, Pair 1-2): org.apache.zookeeper.test.ConnectStringParserTest#testSingleServerChrootPath (row 80) and org.apache.zookeeper.test.ConnectStringParserTest#testMultipleServersChrootPath (row 81)
+12:46:23.336 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+12:46:23.336 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+12:46:23.337 [main] INFO  - start to refactor clone pair
+12:46:23.337 [main] INFO  - CloneType: Type 2
+12:46:24.643 [main] INFO  - Applying changes to source files
+12:46:24.643 [main] INFO  - refactoring 10 clone method pairs.
+12:46:24.643 [main] INFO  - skipping 19 clone method pairs:
+12:46:24.643 [main] INFO  - 	5 not test cases
+12:46:24.643 [main] INFO  - 	3 containing gap nodes (type3)
+12:46:24.643 [main] INFO  - 	10 not refactorable
+12:46:24.643 [main] INFO  - 	1 repeated naming
+12:46:24.643 [main] INFO  - 	1 access issues
+12:46:24.643 [main] INFO  - 	 *org.apache.zookeeper.ZooKeeperTest: void testACLWithExtraAgruments() <---> org.apache.zookeeper.ZooKeeperTest: void testCreatePersistentNode()
+12:46:24.643 [main] INFO  - 	  org.apache.zookeeper.ZooKeeperTest: void testStatCommand() <---> org.apache.zookeeper.ZooKeeperTest: void testDelete()
+12:46:24.643 [main] INFO  - type1 count: 1
+12:46:24.643 [main] INFO  - type2 count: 28
+12:46:24.643 [main] INFO  - type3 count: 8
+12:46:24.644 [main] INFO  - effective refactoring ratio: 10/20 = 50.0%
+12:46:24.644 [main] INFO  - refactoring method pair: org.apache.zookeeper.server.ZooKeeperServerMainTest.java#testReadOnlyTxnLogDir <---> org.apache.zookeeper.server.ZooKeeperServerMainTest.java#testReadOnlySnapshotDir
+12:46:25.137 [main] INFO  - refactoring method pair: org.apache.zookeeper.ZooKeeperTest.java#testACLWithExtraAgruments <---> org.apache.zookeeper.ZooKeeperTest.java#testCreatePersistentNode
+12:46:25.674 [main] INFO  - refactoring method pair: org.apache.zookeeper.test.X509AuthTest.java#testTrustedAuth <---> org.apache.zookeeper.test.X509AuthTest.java#testUntrustedAuth
+12:46:26.306 [main] INFO  - refactoring method pair: org.apache.zookeeper.test.OSMXBeanTest.java#testGetOpenFileDescriptorCount <---> org.apache.zookeeper.test.OSMXBeanTest.java#testGetMaxFileDescriptorCount
+12:46:26.721 [main] INFO  - refactoring method pair: org.apache.zookeeper.server.DatadirCleanupManagerTest.java#testWithZeroPurgeInterval <---> org.apache.zookeeper.server.DatadirCleanupManagerTest.java#testWithNegativePurgeInterval
+12:46:27.088 [main] INFO  - refactoring method pair: org.apache.zookeeper.server.ZooKeeperServerTest.java#testSortDataDirAscending <---> org.apache.zookeeper.server.ZooKeeperServerTest.java#testSortDataDirDescending
+12:46:27.457 [main] INFO  - refactoring method pair: org.apache.zookeeper.server.quorum.QuorumServerTest.java#constructionUnderstandsIpv6LiteralsInServerConfig <---> org.apache.zookeeper.server.quorum.QuorumServerTest.java#constructionUnderstandsIpv6LiteralsInClientConfig
+12:46:27.822 [main] INFO  - refactoring method pair: org.apache.zookeeper.server.util.VerifyingFileFactoryTest.java#testForWarningOnRelativePath <---> org.apache.zookeeper.server.util.VerifyingFileFactoryTest.java#testForNoWarningOnIntendedRelativePath
+12:46:28.179 [main] INFO  - refactoring method pair: org.apache.zookeeper.server.quorum.auth.QuorumDigestAuthTest.java#testValidCredentials <---> org.apache.zookeeper.server.quorum.auth.QuorumDigestAuthTest.java#testSaslNotRequiredWithInvalidCredentials
+12:46:28.548 [main] INFO  - refactoring method pair: org.apache.zookeeper.test.ConnectStringParserTest.java#testSingleServerChrootPath <---> org.apache.zookeeper.test.ConnectStringParserTest.java#testMultipleServersChrootPath
+12:46:28.916 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/zookeeper-3.5.4/zookeeper-3.5.4-deckard-30-0.95-0-selected_test.xls, output file: /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/zookeeper-3.5.4/zookeeper-3.5.4-deckard-30-0.95-0-selected_test-analyzed.xls

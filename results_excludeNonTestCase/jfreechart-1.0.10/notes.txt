@@ -1,0 +1,2 @@
+jfreechart-1.0.10 is built with JUnit version without annotations (JUnit 3), so the check of "@Test" is not applicable 
+in this scenario to remove non test cases.

@@ -1,0 +1,408 @@
+23:16:24.414 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/solr-6.6.6/log.log
+23:16:24.468 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/solr-6.6.6/solr-6.6.6-deckard-100-0.95-0-selected.xls
+23:16:30.039 [main] INFO  - 1%: Reading information from row 2 (Clone group ID 99, clone #1)
+23:16:30.129 [main] INFO  - 1%: Generating PDG for method "testMultipleFields" in "org.apache.solr.request.TestIntervalFaceting"
+23:16:32.915 [main] INFO  - 1%: Reading information from row 3 (Clone group ID 99, clone #2)
+23:16:32.916 [main] INFO  - 1%: Generating PDG for method "testWithFieldCache" in "org.apache.solr.request.TestIntervalFaceting"
+23:16:32.939 [main] INFO  - 1%: Analyzing Clone #1 (Group 99, Pair 1-2): org.apache.solr.request.TestIntervalFaceting#testMultipleFields (row 2) and org.apache.solr.request.TestIntervalFaceting#testWithFieldCache (row 3)
+23:16:33.047 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:16:33.047 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:16:33.541 [main] INFO  - start to refactor clone pair
+23:16:33.542 [main] INFO  - CloneType: Type 2
+23:16:33.568 [main] INFO  - 4%: Reading information from row 4 (Clone group ID 101, clone #1)
+23:16:33.637 [main] INFO  - 4%: Generating PDG for method "testFieldType" in "org.apache.solr.handler.component.QueryElevationComponentTest"
+23:16:35.375 [main] INFO  - 4%: Reading information from row 5 (Clone group ID 101, clone #2)
+23:16:35.376 [main] INFO  - 4%: Generating PDG for method "testTrieFieldType" in "org.apache.solr.handler.component.QueryElevationComponentTest"
+23:16:35.380 [main] INFO  - 4%: Analyzing Clone #2 (Group 101, Pair 1-2): org.apache.solr.handler.component.QueryElevationComponentTest#testFieldType (row 4) and org.apache.solr.handler.component.QueryElevationComponentTest#testTrieFieldType (row 5)
+23:16:35.459 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:16:35.460 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:16:35.464 [main] INFO  - Start mapping
+23:16:35.708 [main] INFO  - End mapping
+23:16:35.709 [main] INFO  - start to refactor clone pair
+23:16:35.709 [main] INFO  - CloneType: Type 2
+23:16:35.711 [main] INFO  - 7%: Reading information from row 6 (Clone group ID 140, clone #1)
+23:16:35.755 [main] INFO  - 7%: Generating PDG for method "beforeClass" in "org.apache.solr.schema.TestCollationField"
+23:16:37.512 [main] INFO  - 7%: Reading information from row 7 (Clone group ID 140, clone #2)
+23:16:37.553 [main] INFO  - 7%: Generating PDG for method "beforeClass" in "org.apache.solr.schema.TestCollationFieldDocValues"
+23:16:37.677 [main] INFO  - 7%: Analyzing Clone #3 (Group 140, Pair 1-2): org.apache.solr.schema.TestCollationField#beforeClass (row 6) and org.apache.solr.schema.TestCollationFieldDocValues#beforeClass (row 7)
+23:16:37.766 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:16:37.766 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:16:38.007 [main] INFO  - start to refactor clone pair
+23:16:38.008 [main] INFO  - CloneType: Type 1
+23:16:38.008 [main] INFO  - method pair are not test cases!
+23:16:38.008 [main] INFO  - 9%: Reading information from row 8 (Clone group ID 300, clone #1)
+23:16:38.065 [main] INFO  - 9%: Generating PDG for method "testNumericMultiValuedDV" in "org.apache.solr.request.TestFacetMethods"
+23:16:38.206 [main] INFO  - 9%: Reading information from row 9 (Clone group ID 300, clone #2)
+23:16:38.207 [main] INFO  - 9%: Generating PDG for method "testTextMultiValuedDV" in "org.apache.solr.request.TestFacetMethods"
+23:16:38.208 [main] INFO  - 9%: Analyzing Clone #4 (Group 300, Pair 1-2): org.apache.solr.request.TestFacetMethods#testNumericMultiValuedDV (row 8) and org.apache.solr.request.TestFacetMethods#testTextMultiValuedDV (row 9)
+23:16:38.251 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:16:38.251 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:16:38.325 [main] INFO  - start to refactor clone pair
+23:16:38.325 [main] INFO  - CloneType: Type 2
+23:16:38.355 [main] INFO  - 12%: Reading information from row 10 (Clone group ID 303, clone #1)
+23:16:38.388 [main] INFO  - 12%: Generating PDG for method "testAddHttpHeader" in "org.apache.solr.response.TestSolrQueryResponse"
+23:16:38.412 [main] INFO  - 12%: Reading information from row 11 (Clone group ID 303, clone #2)
+23:16:38.413 [main] INFO  - 12%: Generating PDG for method "testSetHttpHeader" in "org.apache.solr.response.TestSolrQueryResponse"
+23:16:38.416 [main] INFO  - 12%: Analyzing Clone #5 (Group 303, Pair 1-2): org.apache.solr.response.TestSolrQueryResponse#testAddHttpHeader (row 10) and org.apache.solr.response.TestSolrQueryResponse#testSetHttpHeader (row 11)
+23:16:38.445 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:16:38.445 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:16:38.564 [main] INFO  - start to refactor clone pair
+23:16:38.564 [main] INFO  - CloneType: Type 2
+23:16:38.566 [main] ERROR - CloneStructure has PDG gap node.
+23:16:38.566 [main] INFO  - 15%: Reading information from row 12 (Clone group ID 306, clone #1)
+23:16:38.636 [main] INFO  - 15%: Generating PDG for method "testGroupingGroupSortingScore_basicWithGroupSortEqualToSort" in "org.apache.solr.TestGroupingSearch"
+23:16:39.352 [main] INFO  - 15%: Reading information from row 13 (Clone group ID 306, clone #2)
+23:16:39.352 [main] INFO  - 15%: Generating PDG for method "testGroupingGroupedBasedFacetingWithTaggedFilter" in "org.apache.solr.TestGroupingSearch"
+23:18:37.542 [main] INFO  - 15%: Analyzing Clone #6 (Group 306, Pair 1-2): org.apache.solr.TestGroupingSearch#testGroupingGroupSortingScore_basicWithGroupSortEqualToSort (row 12) and org.apache.solr.TestGroupingSearch#testGroupingGroupedBasedFacetingWithTaggedFilter (row 13)
+23:18:37.604 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:18:37.604 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:18:37.733 [main] INFO  - start to refactor clone pair
+23:18:37.734 [main] INFO  - Non refactorable CloneType: Type 3
+23:18:37.734 [main] INFO  - 17%: Reading information from row 14 (Clone group ID 370, clone #1)
+23:18:37.787 [main] INFO  - 17%: Generating PDG for method "testStandardParseParamsAndFillStreamsISO88591" in "org.apache.solr.servlet.SolrRequestParserTest"
+23:18:37.907 [main] INFO  - 17%: Reading information from row 15 (Clone group ID 370, clone #2)
+23:18:37.908 [main] INFO  - 17%: Generating PDG for method "testStandardParseParamsAndFillStreams" in "org.apache.solr.servlet.SolrRequestParserTest"
+23:18:37.911 [main] INFO  - 17%: Analyzing Clone #7 (Group 370, Pair 1-2): org.apache.solr.servlet.SolrRequestParserTest#testStandardParseParamsAndFillStreamsISO88591 (row 14) and org.apache.solr.servlet.SolrRequestParserTest#testStandardParseParamsAndFillStreams (row 15)
+23:18:37.967 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+23:18:37.967 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:18:37.971 [main] INFO  - start to refactor clone pair
+23:18:37.971 [main] INFO  - Non refactorable CloneType: Type 3
+23:18:37.971 [main] INFO  - 20%: Reading information from row 16 (Clone group ID 389, clone #1)
+23:18:37.996 [main] INFO  - 20%: Generating PDG for method "smallRangeSmokeTest" in "org.apache.solr.util.hll.FullHLLTest"
+23:18:38.021 [main] INFO  - 20%: Reading information from row 17 (Clone group ID 389, clone #2)
+23:18:38.048 [main] INFO  - 20%: Generating PDG for method "smallRangeSmokeTest" in "org.apache.solr.util.hll.SparseHLLTest"
+23:18:38.049 [main] INFO  - 20%: Analyzing Clone #8 (Group 389, Pair 1-2): org.apache.solr.util.hll.FullHLLTest#smallRangeSmokeTest (row 16) and org.apache.solr.util.hll.SparseHLLTest#smallRangeSmokeTest (row 17)
+23:18:38.098 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:18:38.098 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:18:38.099 [main] INFO  - Start mapping
+23:18:38.124 [main] INFO  - End mapping
+23:18:38.125 [main] INFO  - start to refactor clone pair
+23:18:38.125 [main] INFO  - CloneType: Type 2
+23:18:38.127 [main] INFO  - 23%: Reading information from row 18 (Clone group ID 390, clone #1)
+23:18:38.128 [main] INFO  - 23%: Generating PDG for method "largeRangeSmokeTest" in "org.apache.solr.util.hll.FullHLLTest"
+23:18:38.150 [main] INFO  - 23%: Reading information from row 19 (Clone group ID 390, clone #2)
+23:18:38.150 [main] INFO  - 23%: Generating PDG for method "largeRangeSmokeTest" in "org.apache.solr.util.hll.SparseHLLTest"
+23:18:38.151 [main] INFO  - 23%: Analyzing Clone #9 (Group 390, Pair 1-2): org.apache.solr.util.hll.FullHLLTest#largeRangeSmokeTest (row 18) and org.apache.solr.util.hll.SparseHLLTest#largeRangeSmokeTest (row 19)
+23:18:38.200 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:18:38.200 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:18:38.201 [main] INFO  - Start mapping
+23:18:38.217 [main] INFO  - End mapping
+23:18:38.218 [main] INFO  - start to refactor clone pair
+23:18:38.218 [main] INFO  - CloneType: Type 2
+23:18:38.221 [main] INFO  - 25%: Reading information from row 20 (Clone group ID 393, clone #1)
+23:18:38.276 [main] INFO  - 25%: Generating PDG for method "knnMultiClass_boostFieldsMaxOutputClasses2_shouldAssignMax2Classes" in "org.apache.solr.update.processor.ClassificationUpdateProcessorTest"
+23:20:33.693 [main] INFO  - 25%: Reading information from row 21 (Clone group ID 393, clone #2)
+23:20:33.694 [main] INFO  - 25%: Generating PDG for method "bayesMultiClass_boostFieldsMaxOutputClasses2_shouldAssignMax2Classes" in "org.apache.solr.update.processor.ClassificationUpdateProcessorTest"
+23:20:33.844 [main] INFO  - 25%: Analyzing Clone #10 (Group 393, Pair 1-2): org.apache.solr.update.processor.ClassificationUpdateProcessorTest#knnMultiClass_boostFieldsMaxOutputClasses2_shouldAssignMax2Classes (row 20) and org.apache.solr.update.processor.ClassificationUpdateProcessorTest#bayesMultiClass_boostFieldsMaxOutputClasses2_shouldAssignMax2Classes (row 21)
+23:20:33.890 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:20:33.891 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:20:34.025 [main] INFO  - start to refactor clone pair
+23:20:34.025 [main] INFO  - CloneType: Type 2
+23:20:34.027 [main] INFO  - 28%: Reading information from row 22 (Clone group ID 462, clone #1)
+23:20:34.051 [main] INFO  - 28%: Generating PDG for method "toFromBytesTest" in "org.apache.solr.util.hll.FullHLLTest"
+23:20:34.174 [main] INFO  - 28%: Reading information from row 23 (Clone group ID 462, clone #2)
+23:20:34.198 [main] INFO  - 28%: Generating PDG for method "toFromBytesTest" in "org.apache.solr.util.hll.SparseHLLTest"
+23:20:34.201 [main] INFO  - 28%: Analyzing Clone #11 (Group 462, Pair 1-2): org.apache.solr.util.hll.FullHLLTest#toFromBytesTest (row 22) and org.apache.solr.util.hll.SparseHLLTest#toFromBytesTest (row 23)
+23:20:34.249 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:20:34.249 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+23:20:34.251 [main] INFO  - Start mapping
+23:20:34.287 [main] INFO  - End mapping
+23:20:34.288 [main] INFO  - start to refactor clone pair
+23:20:34.288 [main] INFO  - CloneType: Type 2
+23:20:34.289 [main] ERROR - CloneStructure has PDG gap node.
+23:20:34.289 [main] INFO  - 31%: Reading information from row 24 (Clone group ID 463, clone #1)
+23:20:34.350 [main] INFO  - 31%: Generating PDG for method "testGetFieldsPhaseError" in "org.apache.solr.TestTolerantSearch"
+23:20:34.533 [main] INFO  - 31%: Reading information from row 25 (Clone group ID 463, clone #2)
+23:20:34.533 [main] INFO  - 31%: Generating PDG for method "testGetTopIdsPhaseError" in "org.apache.solr.TestTolerantSearch"
+23:20:34.535 [main] INFO  - 31%: Analyzing Clone #12 (Group 463, Pair 1-2): org.apache.solr.TestTolerantSearch#testGetFieldsPhaseError (row 24) and org.apache.solr.TestTolerantSearch#testGetTopIdsPhaseError (row 25)
+23:20:34.582 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+23:20:34.582 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+23:20:34.583 [main] INFO  - Start mapping
+23:20:34.671 [main] INFO  - End mapping
+23:20:34.671 [main] INFO  - start to refactor clone pair
+23:20:34.671 [main] INFO  - CloneType: Type 2
+23:20:34.671 [main] INFO  - method pair are not test cases!
+23:20:34.672 [main] INFO  - 33%: Reading information from row 26 (Clone group ID 472, clone #1)
+23:20:34.742 [main] INFO  - 33%: Generating PDG for method "testWithDeletedDocs" in "org.apache.solr.request.TestIntervalFaceting"
+23:20:35.447 [main] INFO  - 33%: Reading information from row 27 (Clone group ID 472, clone #2)
+23:20:35.447 [main] INFO  - 33%: Generating PDG for method "testMultiValueFields" in "org.apache.solr.request.TestIntervalFaceting"
+23:20:35.451 [main] INFO  - 33%: Analyzing Clone #13 (Group 472, Pair 1-2): org.apache.solr.request.TestIntervalFaceting#testWithDeletedDocs (row 26) and org.apache.solr.request.TestIntervalFaceting#testMultiValueFields (row 27)
+23:20:35.517 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:20:35.517 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:20:35.720 [main] INFO  - start to refactor clone pair
+23:20:35.720 [main] INFO  - Non refactorable CloneType: Type 3
+23:20:35.721 [main] INFO  - 36%: Reading information from row 28 (Clone group ID 496, clone #1)
+23:20:35.744 [main] INFO  - 36%: Generating PDG for method "testSkippableInsertIsSkippedIfSkipInsertsTrue" in "org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest"
+23:20:39.764 [main] INFO  - 36%: Reading information from row 29 (Clone group ID 496, clone #2)
+23:20:39.765 [main] INFO  - 36%: Generating PDG for method "testSkippableUpdateIsSkippedIfSkipUpdatesTrue" in "org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest"
+23:20:39.766 [main] INFO  - 36%: Analyzing Clone #14 (Group 496, Pair 1-2): org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest#testSkippableInsertIsSkippedIfSkipInsertsTrue (row 28) and org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest#testSkippableUpdateIsSkippedIfSkipUpdatesTrue (row 29)
+23:20:39.782 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:20:39.782 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:20:39.786 [main] INFO  - start to refactor clone pair
+23:20:39.786 [main] INFO  - CloneType: Type 2
+23:20:39.789 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+23:20:39.789 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+23:20:39.789 [main] INFO  - 39%: Reading information from row 30 (Clone group ID 498, clone #1)
+23:20:39.832 [main] INFO  - 39%: Generating PDG for method "testQueryCopiedToMulti" in "org.apache.solr.schema.MultiTermTest"
+23:20:40.248 [main] INFO  - 39%: Reading information from row 31 (Clone group ID 498, clone #2)
+23:20:40.248 [main] INFO  - 39%: Generating PDG for method "testDefaultCopiedToMulti" in "org.apache.solr.schema.MultiTermTest"
+23:20:40.283 [main] INFO  - 39%: Analyzing Clone #15 (Group 498, Pair 1-2): org.apache.solr.schema.MultiTermTest#testQueryCopiedToMulti (row 30) and org.apache.solr.schema.MultiTermTest#testDefaultCopiedToMulti (row 31)
+23:20:40.328 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:20:40.328 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:20:40.328 [main] INFO  - Start mapping
+23:20:40.452 [main] INFO  - End mapping
+23:20:40.453 [main] INFO  - start to refactor clone pair
+23:20:40.453 [main] INFO  - Non refactorable CloneType: Type 3
+23:20:40.453 [main] INFO  - 41%: Reading information from row 32 (Clone group ID 517, clone #1)
+23:20:40.517 [main] INFO  - 41%: Generating PDG for method "testTermVectorWithoutOffsetsHighlight" in "org.apache.solr.highlight.HighlighterTest"
+23:20:41.086 [main] INFO  - 41%: Reading information from row 33 (Clone group ID 517, clone #2)
+23:20:41.087 [main] INFO  - 41%: Generating PDG for method "testHighlightDisabled" in "org.apache.solr.highlight.HighlighterTest"
+23:20:41.088 [main] INFO  - 41%: Analyzing Clone #16 (Group 517, Pair 1-2): org.apache.solr.highlight.HighlighterTest#testTermVectorWithoutOffsetsHighlight (row 32) and org.apache.solr.highlight.HighlighterTest#testHighlightDisabled (row 33)
+23:20:41.142 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:20:41.142 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:20:41.263 [main] INFO  - start to refactor clone pair
+23:20:41.263 [main] INFO  - CloneType: Type 2
+23:20:41.265 [main] INFO  - 44%: Reading information from row 34 (Clone group ID 572, clone #1)
+23:20:41.274 [main] INFO  - 44%: Generating PDG for method "testGetTags_withAllIPv4RequestedTags_with_omitted_zeros_returns_four_tags" in "org.apache.solr.cloud.rule.ImplicitSnitchTest"
+23:20:41.452 [main] INFO  - 44%: Reading information from row 35 (Clone group ID 572, clone #2)
+23:20:41.452 [main] INFO  - 44%: Generating PDG for method "testGetTags_withAllIPv4RequestedTags_returns_four_tags" in "org.apache.solr.cloud.rule.ImplicitSnitchTest"
+23:20:41.453 [main] INFO  - 44%: Analyzing Clone #17 (Group 572, Pair 1-2): org.apache.solr.cloud.rule.ImplicitSnitchTest#testGetTags_withAllIPv4RequestedTags_with_omitted_zeros_returns_four_tags (row 34) and org.apache.solr.cloud.rule.ImplicitSnitchTest#testGetTags_withAllIPv4RequestedTags_returns_four_tags (row 35)
+23:20:41.461 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:20:41.462 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:20:41.470 [main] INFO  - start to refactor clone pair
+23:20:41.470 [main] INFO  - CloneType: Type 2
+23:20:41.471 [main] INFO  - 47%: Reading information from row 36 (Clone group ID 591, clone #1)
+23:20:41.528 [main] INFO  - 47%: Generating PDG for method "testRandomFaceting" in "org.apache.solr.TestRandomDVFaceting"
+23:20:42.928 [main] INFO  - 47%: Reading information from row 37 (Clone group ID 591, clone #2)
+23:20:42.992 [main] INFO  - 47%: Generating PDG for method "testRandomFaceting" in "org.apache.solr.TestRandomFaceting"
+23:20:44.282 [main] INFO  - 47%: Analyzing Clone #18 (Group 591, Pair 1-2): org.apache.solr.TestRandomDVFaceting#testRandomFaceting (row 36) and org.apache.solr.TestRandomFaceting#testRandomFaceting (row 37)
+23:20:44.408 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+23:20:44.408 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+23:20:44.409 [main] INFO  - Start mapping
+23:20:54.263 [main] INFO  - End mapping
+23:20:54.263 [main] INFO  - start to refactor clone pair
+23:20:54.266 [main] INFO  - CloneType: Type 1
+23:20:54.267 [main] INFO  - different local method access: init
+23:20:54.267 [main] INFO  - different local method access: addMoreDocs
+23:20:54.267 [main] INFO  - different local method access: doFacetTests
+23:20:54.267 [main] INFO  - different local method access: init
+23:20:54.267 [main] INFO  - different local method access: addMoreDocs
+23:20:54.268 [main] INFO  - different local method access: deleteSomeDocs
+23:20:54.268 [main] INFO  - 49%: Reading information from row 38 (Clone group ID 652, clone #1)
+23:20:54.336 [main] INFO  - 49%: Generating PDG for method "testTrieDoubleRangeSearch" in "org.apache.solr.TestTrie"
+23:20:54.956 [main] INFO  - 49%: Reading information from row 39 (Clone group ID 652, clone #2)
+23:20:54.957 [main] INFO  - 49%: Generating PDG for method "testTrieLongRangeSearch" in "org.apache.solr.TestTrie"
+23:21:40.608 [main] INFO  - 49%: Analyzing Clone #19 (Group 652, Pair 1-2): org.apache.solr.TestTrie#testTrieDoubleRangeSearch (row 38) and org.apache.solr.TestTrie#testTrieLongRangeSearch (row 39)
+23:21:40.654 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:21:40.654 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:21:40.655 [main] INFO  - Start mapping
+23:21:40.813 [main] INFO  - End mapping
+23:21:40.813 [main] INFO  - start to refactor clone pair
+23:21:40.813 [main] INFO  - Non refactorable CloneType: Type 3
+23:21:40.813 [main] INFO  - 52%: Reading information from row 40 (Clone group ID 663, clone #1)
+23:21:40.851 [main] INFO  - 52%: Generating PDG for method "testQueryFields" in "org.apache.solr.search.TestSimpleQParserPlugin"
+23:21:40.903 [main] INFO  - 52%: Reading information from row 41 (Clone group ID 663, clone #2)
+23:21:40.962 [main] INFO  - 52%: Generating PDG for method "testNestedQueryModifiers" in "org.apache.solr.search.TestSolrQueryParser"
+23:21:40.963 [main] INFO  - 52%: Analyzing Clone #20 (Group 663, Pair 1-2): org.apache.solr.search.TestSimpleQParserPlugin#testQueryFields (row 40) and org.apache.solr.search.TestSolrQueryParser#testNestedQueryModifiers (row 41)
+23:21:41.055 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:21:41.055 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:21:41.188 [main] INFO  - start to refactor clone pair
+23:21:41.188 [main] INFO  - CloneType: Type 2
+23:21:41.189 [main] ERROR - CloneStructure has PDG gap node.
+23:21:41.189 [main] INFO  - 55%: Reading information from row 42 (Clone group ID 674, clone #1)
+23:21:41.213 [main] INFO  - 55%: Generating PDG for method "normalRangeSmokeTest" in "org.apache.solr.util.hll.FullHLLTest"
+23:21:41.234 [main] INFO  - 55%: Reading information from row 43 (Clone group ID 674, clone #2)
+23:21:41.259 [main] INFO  - 55%: Generating PDG for method "normalRangeSmokeTest" in "org.apache.solr.util.hll.SparseHLLTest"
+23:21:41.260 [main] INFO  - 55%: Analyzing Clone #21 (Group 674, Pair 1-2): org.apache.solr.util.hll.FullHLLTest#normalRangeSmokeTest (row 42) and org.apache.solr.util.hll.SparseHLLTest#normalRangeSmokeTest (row 43)
+23:21:41.309 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:21:41.309 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:21:41.310 [main] INFO  - Start mapping
+23:21:41.317 [main] INFO  - End mapping
+23:21:41.318 [main] INFO  - start to refactor clone pair
+23:21:41.318 [main] INFO  - CloneType: Type 2
+23:21:41.319 [main] INFO  - 57%: Reading information from row 44 (Clone group ID 682, clone #1)
+23:21:41.372 [main] INFO  - 57%: Generating PDG for method "knnMultiClass_maxOutputClasses2_shouldAssignMax2Classes" in "org.apache.solr.update.processor.ClassificationUpdateProcessorTest"
+23:22:10.761 [main] INFO  - 57%: Reading information from row 45 (Clone group ID 682, clone #2)
+23:22:10.762 [main] INFO  - 57%: Generating PDG for method "bayesMultiClass_maxOutputClasses2_shouldAssignMax2Classes" in "org.apache.solr.update.processor.ClassificationUpdateProcessorTest"
+23:22:10.892 [main] INFO  - 57%: Analyzing Clone #22 (Group 682, Pair 1-2): org.apache.solr.update.processor.ClassificationUpdateProcessorTest#knnMultiClass_maxOutputClasses2_shouldAssignMax2Classes (row 44) and org.apache.solr.update.processor.ClassificationUpdateProcessorTest#bayesMultiClass_maxOutputClasses2_shouldAssignMax2Classes (row 45)
+23:22:10.946 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:22:10.947 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:22:11.082 [main] INFO  - start to refactor clone pair
+23:22:11.082 [main] INFO  - CloneType: Type 2
+23:22:11.083 [main] INFO  - 60%: Reading information from row 46 (Clone group ID 712, clone #1)
+23:22:11.133 [main] INFO  - 60%: Generating PDG for method "beforeTests" in "org.apache.solr.search.TestPseudoReturnFields"
+23:22:11.666 [main] INFO  - 60%: Reading information from row 47 (Clone group ID 712, clone #2)
+23:22:11.704 [main] INFO  - 60%: Generating PDG for method "testDefaultField" in "org.apache.solr.search.TestSimpleQParserPlugin"
+23:22:11.756 [main] INFO  - 60%: Analyzing Clone #23 (Group 712, Pair 1-2): org.apache.solr.search.TestPseudoReturnFields#beforeTests (row 46) and org.apache.solr.search.TestSimpleQParserPlugin#testDefaultField (row 47)
+23:22:11.841 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:22:11.841 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:22:11.844 [main] INFO  - start to refactor clone pair
+23:22:11.844 [main] INFO  - 63%: Reading information from row 48 (Clone group ID 881, clone #1)
+23:22:11.884 [main] INFO  - 63%: Generating PDG for method "testStringSort" in "org.apache.solr.schema.DocValuesMissingTest"
+23:22:12.566 [main] INFO  - 63%: Reading information from row 49 (Clone group ID 881, clone #2)
+23:22:12.568 [main] INFO  - 63%: Generating PDG for method "testBoolSort" in "org.apache.solr.schema.DocValuesMissingTest"
+23:22:12.569 [main] INFO  - 63%: Analyzing Clone #24 (Group 881, Pair 1-2): org.apache.solr.schema.DocValuesMissingTest#testStringSort (row 48) and org.apache.solr.schema.DocValuesMissingTest#testBoolSort (row 49)
+23:22:12.611 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:22:12.611 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:22:12.611 [main] INFO  - Start mapping
+23:22:12.738 [main] INFO  - End mapping
+23:22:12.738 [main] INFO  - start to refactor clone pair
+23:22:12.738 [main] INFO  - CloneType: Type 2
+23:22:12.740 [main] INFO  - 65%: Reading information from row 50 (Clone group ID 888, clone #1)
+23:22:12.794 [main] INFO  - 65%: Generating PDG for method "testCharsetInDocument" in "org.apache.solr.handler.DocumentAnalysisRequestHandlerTest"
+23:22:13.362 [main] INFO  - 65%: Reading information from row 51 (Clone group ID 888, clone #2)
+23:22:13.363 [main] INFO  - 65%: Generating PDG for method "testCharsetOutsideDocument" in "org.apache.solr.handler.DocumentAnalysisRequestHandlerTest"
+23:22:13.402 [main] INFO  - 65%: Analyzing Clone #25 (Group 888, Pair 1-2): org.apache.solr.handler.DocumentAnalysisRequestHandlerTest#testCharsetInDocument (row 50) and org.apache.solr.handler.DocumentAnalysisRequestHandlerTest#testCharsetOutsideDocument (row 51)
+23:22:13.457 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:22:13.457 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:22:13.584 [main] INFO  - start to refactor clone pair
+23:22:13.584 [main] INFO  - CloneType: Type 2
+23:22:13.585 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+23:22:13.587 [main] INFO  - 68%: Reading information from row 52 (Clone group ID 920, clone #1)
+23:22:13.647 [main] INFO  - 68%: Generating PDG for method "testCollateWithGrouping" in "org.apache.solr.spelling.SpellCheckCollatorTest"
+23:23:11.173 [main] INFO  - 68%: Reading information from row 53 (Clone group ID 920, clone #2)
+23:23:11.173 [main] INFO  - 68%: Generating PDG for method "testCollationWithRangeQuery" in "org.apache.solr.spelling.SpellCheckCollatorTest"
+23:23:11.327 [main] INFO  - 68%: Analyzing Clone #26 (Group 920, Pair 1-2): org.apache.solr.spelling.SpellCheckCollatorTest#testCollateWithGrouping (row 52) and org.apache.solr.spelling.SpellCheckCollatorTest#testCollationWithRangeQuery (row 53)
+23:23:11.383 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:23:11.383 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:23:11.524 [main] INFO  - start to refactor clone pair
+23:23:11.524 [main] INFO  - CloneType: Type 2
+23:23:11.525 [main] ERROR - CloneStructure has PDG gap node.
+23:23:11.525 [main] INFO  - 71%: Reading information from row 54 (Clone group ID 1179, clone #1)
+23:23:11.546 [main] INFO  - 71%: Generating PDG for method "testSkipUpdatesFalseIfInitArgsTrueButFalseBooleanInRequest" in "org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest"
+23:23:11.690 [main] INFO  - 71%: Reading information from row 55 (Clone group ID 1179, clone #2)
+23:23:11.690 [main] INFO  - 71%: Generating PDG for method "testSkipInsertsFalseIfInitArgsTrueButFalseStringInRequest" in "org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest"
+23:23:11.691 [main] INFO  - 71%: Analyzing Clone #27 (Group 1179, Pair 1-2): org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest#testSkipUpdatesFalseIfInitArgsTrueButFalseBooleanInRequest (row 54) and org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest#testSkipInsertsFalseIfInitArgsTrueButFalseStringInRequest (row 55)
+23:23:11.708 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:23:11.708 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:23:11.760 [main] INFO  - start to refactor clone pair
+23:23:11.760 [main] INFO  - CloneType: Type 2
+23:23:11.761 [main] ERROR - CloneStructure has PDG gap node.
+23:23:11.761 [main] INFO  - 73%: Reading information from row 56 (Clone group ID 1180, clone #1)
+23:23:11.803 [main] INFO  - 73%: Generating PDG for method "testMultiClone" in "org.apache.solr.update.processor.CloneFieldUpdateProcessorFactoryTest"
+23:23:12.321 [main] INFO  - 73%: Reading information from row 57 (Clone group ID 1180, clone #2)
+23:23:12.321 [main] INFO  - 73%: Generating PDG for method "testArrayClone" in "org.apache.solr.update.processor.CloneFieldUpdateProcessorFactoryTest"
+23:23:12.322 [main] INFO  - 73%: Analyzing Clone #28 (Group 1180, Pair 1-2): org.apache.solr.update.processor.CloneFieldUpdateProcessorFactoryTest#testMultiClone (row 56) and org.apache.solr.update.processor.CloneFieldUpdateProcessorFactoryTest#testArrayClone (row 57)
+23:23:12.364 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:23:12.364 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:23:12.517 [main] INFO  - start to refactor clone pair
+23:23:12.517 [main] INFO  - CloneType: Type 2
+23:23:12.518 [main] INFO  - 76%: Reading information from row 58 (Clone group ID 1187, clone #1)
+23:23:12.554 [main] INFO  - 76%: Generating PDG for method "testToLogIds" in "org.apache.solr.handler.component.ResponseLogComponentTest"
+23:23:56.917 [main] INFO  - 76%: Reading information from row 59 (Clone group ID 1187, clone #2)
+23:23:56.917 [main] INFO  - 76%: Generating PDG for method "testToLogScores" in "org.apache.solr.handler.component.ResponseLogComponentTest"
+23:23:57.059 [main] INFO  - 76%: Analyzing Clone #29 (Group 1187, Pair 1-2): org.apache.solr.handler.component.ResponseLogComponentTest#testToLogIds (row 58) and org.apache.solr.handler.component.ResponseLogComponentTest#testToLogScores (row 59)
+23:23:57.097 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:23:57.097 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:23:57.098 [main] INFO  - Start mapping
+23:23:57.221 [main] INFO  - End mapping
+23:23:57.222 [main] INFO  - start to refactor clone pair
+23:23:57.222 [main] INFO  - CloneType: Type 2
+23:23:57.223 [main] INFO  - 79%: Reading information from row 60 (Clone group ID 1191, clone #1)
+23:23:57.252 [main] INFO  - 79%: Generating PDG for method "testNameRequired" in "org.apache.solr.core.PluginInfoTest"
+23:23:57.343 [main] INFO  - 79%: Reading information from row 61 (Clone group ID 1191, clone #2)
+23:23:57.343 [main] INFO  - 79%: Generating PDG for method "testClassRequired" in "org.apache.solr.core.PluginInfoTest"
+23:23:57.344 [main] INFO  - 79%: Analyzing Clone #30 (Group 1191, Pair 1-2): org.apache.solr.core.PluginInfoTest#testNameRequired (row 60) and org.apache.solr.core.PluginInfoTest#testClassRequired (row 61)
+23:23:57.372 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+23:23:57.372 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:23:57.372 [main] INFO  - Start mapping
+23:23:57.397 [main] INFO  - End mapping
+23:23:57.397 [main] INFO  - start to refactor clone pair
+23:23:57.397 [main] INFO  - CloneType: Type 2
+23:23:57.397 [main] ERROR - CloneStructure has PDG gap node.
+23:23:57.397 [main] INFO  - 81%: Reading information from row 62 (Clone group ID 1197, clone #1)
+23:23:57.447 [main] INFO  - 81%: Generating PDG for method "testList" in "org.apache.solr.cloud.ZkCLITest"
+23:23:57.806 [main] INFO  - 81%: Reading information from row 63 (Clone group ID 1197, clone #2)
+23:23:57.806 [main] INFO  - 81%: Generating PDG for method "testLs" in "org.apache.solr.cloud.ZkCLITest"
+23:23:57.807 [main] INFO  - 81%: Analyzing Clone #31 (Group 1197, Pair 1-2): org.apache.solr.cloud.ZkCLITest#testList (row 62) and org.apache.solr.cloud.ZkCLITest#testLs (row 63)
+23:23:57.861 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:23:57.861 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:23:57.880 [main] INFO  - start to refactor clone pair
+23:23:57.880 [main] INFO  - CloneType: Type 2
+23:23:57.881 [main] INFO  - 84%: Reading information from row 64 (Clone group ID 1325, clone #1)
+23:23:57.939 [main] INFO  - 84%: Generating PDG for method "knnMonoClass_sampleParams_shouldAssignCorrectClass" in "org.apache.solr.update.processor.ClassificationUpdateProcessorTest"
+23:24:27.111 [main] INFO  - 84%: Reading information from row 65 (Clone group ID 1325, clone #2)
+23:24:27.111 [main] INFO  - 84%: Generating PDG for method "bayesMonoClass_sampleParams_shouldAssignCorrectClass" in "org.apache.solr.update.processor.ClassificationUpdateProcessorTest"
+23:24:27.228 [main] INFO  - 84%: Analyzing Clone #32 (Group 1325, Pair 1-2): org.apache.solr.update.processor.ClassificationUpdateProcessorTest#knnMonoClass_sampleParams_shouldAssignCorrectClass (row 64) and org.apache.solr.update.processor.ClassificationUpdateProcessorTest#bayesMonoClass_sampleParams_shouldAssignCorrectClass (row 65)
+23:24:27.281 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:24:27.281 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:24:27.405 [main] INFO  - start to refactor clone pair
+23:24:27.405 [main] INFO  - CloneType: Type 2
+23:24:27.406 [main] INFO  - 87%: Reading information from row 66 (Clone group ID 1327, clone #1)
+23:24:27.460 [main] INFO  - 87%: Generating PDG for method "testCopyFieldWithFieldBoost" in "org.apache.solr.update.DocumentBuilderTest"
+23:24:28.050 [main] INFO  - 87%: Reading information from row 67 (Clone group ID 1327, clone #2)
+23:24:28.050 [main] INFO  - 87%: Generating PDG for method "testCopyFieldWithDocumentBoost" in "org.apache.solr.update.DocumentBuilderTest"
+23:24:28.084 [main] INFO  - 87%: Analyzing Clone #33 (Group 1327, Pair 1-2): org.apache.solr.update.DocumentBuilderTest#testCopyFieldWithFieldBoost (row 66) and org.apache.solr.update.DocumentBuilderTest#testCopyFieldWithDocumentBoost (row 67)
+23:24:28.139 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:24:28.139 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:24:28.267 [main] INFO  - start to refactor clone pair
+23:24:28.267 [main] INFO  - Non refactorable CloneType: Type 3
+23:24:28.267 [main] INFO  - 89%: Reading information from row 68 (Clone group ID 1501, clone #1)
+23:24:28.316 [main] INFO  - 89%: Generating PDG for method "createMiniSolrCloudCluster" in "org.apache.solr.cloud.TestCloudDeleteByQuery"
+23:24:28.700 [main] INFO  - 89%: Reading information from row 69 (Clone group ID 1501, clone #2)
+23:24:28.755 [main] INFO  - 89%: Generating PDG for method "createMiniSolrCloudCluster" in "org.apache.solr.cloud.TestTolerantUpdateProcessorCloud"
+23:24:29.060 [main] INFO  - 89%: Analyzing Clone #34 (Group 1501, Pair 1-2): org.apache.solr.cloud.TestCloudDeleteByQuery#createMiniSolrCloudCluster (row 68) and org.apache.solr.cloud.TestTolerantUpdateProcessorCloud#createMiniSolrCloudCluster (row 69)
+23:24:29.170 [main] INFO  - CDT 1 depth = 3, CDT 2 depth = 3
+23:24:29.170 [main] INFO  - CDT 1 leaves = 6, CDT 2 leaves = 6
+23:24:29.201 [main] INFO  - Start mapping
+23:24:29.433 [main] INFO  - End mapping
+23:24:29.433 [main] INFO  - start to refactor clone pair
+23:24:29.434 [main] INFO  - Non refactorable CloneType: Type 3
+23:24:29.434 [main] INFO  - 92%: Reading information from row 70 (Clone group ID 1539, clone #1)
+23:24:29.502 [main] INFO  - 92%: Generating PDG for method "knnMonoClass_boostFields_shouldAssignCorrectClass" in "org.apache.solr.update.processor.ClassificationUpdateProcessorTest"
+23:24:57.006 [main] INFO  - 92%: Reading information from row 71 (Clone group ID 1539, clone #2)
+23:24:57.007 [main] INFO  - 92%: Generating PDG for method "bayesMonoClass_boostFields_shouldAssignCorrectClass" in "org.apache.solr.update.processor.ClassificationUpdateProcessorTest"
+23:24:57.119 [main] INFO  - 92%: Analyzing Clone #35 (Group 1539, Pair 1-2): org.apache.solr.update.processor.ClassificationUpdateProcessorTest#knnMonoClass_boostFields_shouldAssignCorrectClass (row 70) and org.apache.solr.update.processor.ClassificationUpdateProcessorTest#bayesMonoClass_boostFields_shouldAssignCorrectClass (row 71)
+23:24:57.169 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:24:57.169 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:24:57.289 [main] INFO  - start to refactor clone pair
+23:24:57.289 [main] INFO  - CloneType: Type 2
+23:24:57.290 [main] INFO  - 95%: Reading information from row 72 (Clone group ID 1560, clone #1)
+23:24:57.334 [main] INFO  - 95%: Generating PDG for method "testMultiInitParams" in "org.apache.solr.core.TestInitParams"
+23:25:09.245 [main] INFO  - 95%: Reading information from row 73 (Clone group ID 1560, clone #2)
+23:25:09.245 [main] INFO  - 95%: Generating PDG for method "testComponentWithConflictingInitParams" in "org.apache.solr.core.TestInitParams"
+23:25:09.250 [main] INFO  - 95%: Analyzing Clone #36 (Group 1560, Pair 1-2): org.apache.solr.core.TestInitParams#testMultiInitParams (row 72) and org.apache.solr.core.TestInitParams#testComponentWithConflictingInitParams (row 73)
+23:25:09.288 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+23:25:09.288 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+23:25:09.406 [main] INFO  - start to refactor clone pair
+23:25:09.406 [main] INFO  - Non refactorable CloneType: Type 3
+23:25:09.406 [main] INFO  - 97%: Reading information from row 74 (Clone group ID 1575, clone #1)
+23:25:09.450 [main] INFO  - 97%: Generating PDG for method "test" in "org.apache.solr.highlight.FastVectorHighlighterTest"
+23:25:10.085 [main] INFO  - 97%: Reading information from row 75 (Clone group ID 1575, clone #2)
+23:25:10.144 [main] INFO  - 97%: Generating PDG for method "testDisMaxHighlight" in "org.apache.solr.highlight.HighlighterTest"
+23:25:10.145 [main] INFO  - 97%: Analyzing Clone #37 (Group 1575, Pair 1-2): org.apache.solr.highlight.FastVectorHighlighterTest#test (row 74) and org.apache.solr.highlight.HighlighterTest#testDisMaxHighlight (row 75)
+23:25:10.246 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 0
+23:25:10.246 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 1
+23:25:10.373 [main] INFO  - start to refactor clone pair
+23:25:10.373 [main] INFO  - Non refactorable CloneType: Type 3
+23:25:14.412 [main] INFO  - Applying changes to source files
+23:25:14.412 [main] INFO  - refactoring 18 clone method pairs.
+23:25:14.412 [main] INFO  - skipping 9 clone method pairs:
+23:25:14.412 [main] INFO  - 	2 not test cases
+23:25:14.412 [main] INFO  - 	6 containing gap nodes (type3)
+23:25:14.412 [main] INFO  - 	1 not refactorable
+23:25:14.413 [main] INFO  - 	0 repeated naming
+23:25:14.413 [main] INFO  - 	0 access issues
+23:25:14.413 [main] INFO  - type1 count: 2
+23:25:14.413 [main] INFO  - type2 count: 25
+23:25:14.413 [main] INFO  - type3 count: 9
+23:25:14.415 [main] INFO  - effective refactoring ratio: 18/19 = 94.7%
+23:25:14.415 [main] INFO  - refactoring method pair: org.apache.solr.request.TestIntervalFaceting.java#testMultipleFields <---> org.apache.solr.request.TestIntervalFaceting.java#testWithFieldCache
+23:25:15.113 [main] INFO  - refactoring method pair: org.apache.solr.handler.component.QueryElevationComponentTest.java#testFieldType <---> org.apache.solr.handler.component.QueryElevationComponentTest.java#testTrieFieldType
+23:25:15.634 [main] INFO  - refactoring method pair: org.apache.solr.request.TestFacetMethods.java#testNumericMultiValuedDV <---> org.apache.solr.request.TestFacetMethods.java#testTextMultiValuedDV
+23:25:16.041 [main] INFO  - refactoring method pair: org.apache.solr.util.hll.FullHLLTest.java#smallRangeSmokeTest <---> org.apache.solr.util.hll.SparseHLLTest.java#smallRangeSmokeTest
+23:25:16.440 [main] INFO  - refactoring method pair: org.apache.solr.util.hll.FullHLLTest.java#largeRangeSmokeTest <---> org.apache.solr.util.hll.SparseHLLTest.java#largeRangeSmokeTest
+23:25:16.816 [main] INFO  - refactoring method pair: org.apache.solr.update.processor.ClassificationUpdateProcessorTest.java#knnMultiClass_boostFieldsMaxOutputClasses2_shouldAssignMax2Classes <---> org.apache.solr.update.processor.ClassificationUpdateProcessorTest.java#bayesMultiClass_boostFieldsMaxOutputClasses2_shouldAssignMax2Classes
+23:25:17.210 [main] INFO  - refactoring method pair: org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest.java#testSkippableInsertIsSkippedIfSkipInsertsTrue <---> org.apache.solr.update.processor.SkipExistingDocumentsProcessorFactoryTest.java#testSkippableUpdateIsSkippedIfSkipUpdatesTrue
+23:25:17.610 [main] INFO  - refactoring method pair: org.apache.solr.highlight.HighlighterTest.java#testTermVectorWithoutOffsetsHighlight <---> org.apache.solr.highlight.HighlighterTest.java#testHighlightDisabled
+23:25:17.989 [main] INFO  - refactoring method pair: org.apache.solr.cloud.rule.ImplicitSnitchTest.java#testGetTags_withAllIPv4RequestedTags_with_omitted_zeros_returns_four_tags <---> org.apache.solr.cloud.rule.ImplicitSnitchTest.java#testGetTags_withAllIPv4RequestedTags_returns_four_tags
+23:25:18.339 [main] INFO  - refactoring method pair: org.apache.solr.util.hll.FullHLLTest.java#normalRangeSmokeTest <---> org.apache.solr.util.hll.SparseHLLTest.java#normalRangeSmokeTest
+23:25:18.702 [main] INFO  - refactoring method pair: org.apache.solr.update.processor.ClassificationUpdateProcessorTest.java#knnMultiClass_maxOutputClasses2_shouldAssignMax2Classes <---> org.apache.solr.update.processor.ClassificationUpdateProcessorTest.java#bayesMultiClass_maxOutputClasses2_shouldAssignMax2Classes
+23:25:19.057 [main] INFO  - refactoring method pair: org.apache.solr.schema.DocValuesMissingTest.java#testStringSort <---> org.apache.solr.schema.DocValuesMissingTest.java#testBoolSort
+23:25:19.416 [main] INFO  - refactoring method pair: org.apache.solr.handler.DocumentAnalysisRequestHandlerTest.java#testCharsetInDocument <---> org.apache.solr.handler.DocumentAnalysisRequestHandlerTest.java#testCharsetOutsideDocument
+23:25:19.788 [main] INFO  - refactoring method pair: org.apache.solr.update.processor.CloneFieldUpdateProcessorFactoryTest.java#testMultiClone <---> org.apache.solr.update.processor.CloneFieldUpdateProcessorFactoryTest.java#testArrayClone
+23:25:20.171 [main] INFO  - refactoring method pair: org.apache.solr.handler.component.ResponseLogComponentTest.java#testToLogIds <---> org.apache.solr.handler.component.ResponseLogComponentTest.java#testToLogScores
+23:25:20.582 [main] INFO  - refactoring method pair: org.apache.solr.cloud.ZkCLITest.java#testList <---> org.apache.solr.cloud.ZkCLITest.java#testLs
+23:25:21.055 [main] INFO  - refactoring method pair: org.apache.solr.update.processor.ClassificationUpdateProcessorTest.java#knnMonoClass_sampleParams_shouldAssignCorrectClass <---> org.apache.solr.update.processor.ClassificationUpdateProcessorTest.java#bayesMonoClass_sampleParams_shouldAssignCorrectClass
+23:25:21.436 [main] INFO  - refactoring method pair: org.apache.solr.update.processor.ClassificationUpdateProcessorTest.java#knnMonoClass_boostFields_shouldAssignCorrectClass <---> org.apache.solr.update.processor.ClassificationUpdateProcessorTest.java#bayesMonoClass_boostFields_shouldAssignCorrectClass
+23:25:21.816 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/solr-6.6.6/solr-6.6.6-deckard-100-0.95-0-selected.xls, output file: /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/solr-6.6.6/solr-6.6.6-deckard-100-0.95-0-selected-analyzed.xls

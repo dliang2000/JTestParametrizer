@@ -1,0 +1,861 @@
+17:43:40.446 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/commons-io-2.5/log.log
+17:43:40.454 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/commons-io-2.5/commons-io-2.5-deckard-50-0.95-0-selected.xls
+17:43:41.081 [main] INFO  - 1%: Reading information from row 2 (Clone group ID 8, clone #1)
+17:43:41.088 [main] INFO  - 1%: Generating PDG for method "markResetWithMarkOutsideBoundedReaderMax" in "org.apache.commons.io.input.BoundedReaderTest"
+17:43:41.724 [main] INFO  - 1%: Reading information from row 3 (Clone group ID 8, clone #2)
+17:43:41.725 [main] INFO  - 1%: Generating PDG for method "markResetWithMarkOutsideBoundedReaderMaxAndInitialOffset" in "org.apache.commons.io.input.BoundedReaderTest"
+17:43:41.730 [main] INFO  - 1%: Analyzing Clone #1 (Group 8, Pair 1-2): org.apache.commons.io.input.BoundedReaderTest#markResetWithMarkOutsideBoundedReaderMax (row 2) and org.apache.commons.io.input.BoundedReaderTest#markResetWithMarkOutsideBoundedReaderMaxAndInitialOffset (row 3)
+17:43:41.739 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:43:41.739 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:43:42.020 [main] INFO  - start to refactor clone pair
+17:43:42.020 [main] INFO  - CloneType: Type 2
+17:43:42.034 [main] INFO  - 2%: Reading information from row 4 (Clone group ID 13, clone #1)
+17:43:42.076 [main] INFO  - 2%: Generating PDG for method "testGetFullPath" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:43:42.214 [main] INFO  - 2%: Reading information from row 5 (Clone group ID 13, clone #2)
+17:43:42.216 [main] INFO  - 2%: Generating PDG for method "testGetFullPathNoEndSeparator" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:43:42.222 [main] INFO  - 2%: Analyzing Clone #2 (Group 13, Pair 1-2): org.apache.commons.io.FilenameUtilsTestCase#testGetFullPath (row 4) and org.apache.commons.io.FilenameUtilsTestCase#testGetFullPathNoEndSeparator (row 5)
+17:43:42.256 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:43:42.256 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:43:42.618 [main] INFO  - start to refactor clone pair
+17:43:42.619 [main] INFO  - CloneType: Type 2
+17:43:42.630 [main] INFO  - 3%: Reading information from row 6 (Clone group ID 33, clone #1)
+17:43:42.659 [main] INFO  - 3%: Generating PDG for method "testWriteLines_OutputStream_nullSeparator" in "org.apache.commons.io.IOUtilsWriteTestCase"
+17:43:49.005 [main] INFO  - 3%: Reading information from row 7 (Clone group ID 33, clone #2)
+17:43:49.007 [main] INFO  - 3%: Generating PDG for method "testWriteLines_OutputStream_Encoding_nullSeparator" in "org.apache.commons.io.IOUtilsWriteTestCase"
+17:43:49.046 [main] INFO  - 3%: Analyzing Clone #3 (Group 33, Pair 1-2): org.apache.commons.io.IOUtilsWriteTestCase#testWriteLines_OutputStream_nullSeparator (row 6) and org.apache.commons.io.IOUtilsWriteTestCase#testWriteLines_OutputStream_Encoding_nullSeparator (row 7)
+17:43:49.060 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:43:49.061 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:43:49.097 [main] INFO  - start to refactor clone pair
+17:43:49.098 [main] INFO  - CloneType: Type 2
+17:43:49.101 [main] INFO  - non-refactored node pair with MethodInvocation node: IOUtils.writeLines(list,null,out)  <--->  IOUtils.writeLines(list,null,out,"US-ASCII")  (ARGUMENT_NUMBER_MISMATCH)
+17:43:49.104 [main] WARN  - 4%: Skipping clone group 40 (row 8 to 9), since user has marked this clone group to be skipped
+17:43:49.105 [main] INFO  - 6%: Reading information from row 10 (Clone group ID 46, clone #1)
+17:43:49.123 [main] INFO  - 6%: Generating PDG for method "testFileCreate" in "org.apache.commons.io.monitor.FileAlterationObserverTestCase"
+17:43:49.676 [main] INFO  - 6%: Reading information from row 11 (Clone group ID 46, clone #2)
+17:43:49.677 [main] INFO  - 6%: Generating PDG for method "testFileDelete" in "org.apache.commons.io.monitor.FileAlterationObserverTestCase"
+17:43:49.796 [main] INFO  - 6%: Analyzing Clone #5 (Group 46, Pair 1-2): org.apache.commons.io.monitor.FileAlterationObserverTestCase#testFileCreate (row 10) and org.apache.commons.io.monitor.FileAlterationObserverTestCase#testFileDelete (row 11)
+17:43:49.813 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:43:49.814 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:43:49.817 [main] INFO  - Start mapping
+17:43:57.633 [main] INFO  - End mapping
+17:43:57.633 [main] INFO  - start to refactor clone pair
+17:43:57.633 [main] INFO  - CloneType: Type 2
+17:43:57.635 [main] ERROR - CloneStructure has PDG gap node.
+17:43:57.635 [main] INFO  - 7%: Reading information from row 12 (Clone group ID 60, clone #1)
+17:43:57.651 [main] INFO  - 7%: Generating PDG for method "testReadWithBOMUtf32Be" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:43:58.466 [main] INFO  - 7%: Reading information from row 13 (Clone group ID 60, clone #2)
+17:43:58.467 [main] INFO  - 7%: Generating PDG for method "testReadWithBOMUtf32Le" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:43:58.473 [main] INFO  - 7%: Analyzing Clone #6 (Group 60, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testReadWithBOMUtf32Be (row 12) and org.apache.commons.io.input.BOMInputStreamTest#testReadWithBOMUtf32Le (row 13)
+17:43:58.486 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:43:58.486 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:43:58.486 [main] INFO  - Start mapping
+17:44:03.803 [main] INFO  - End mapping
+17:44:03.804 [main] INFO  - start to refactor clone pair
+17:44:03.804 [main] INFO  - CloneType: Type 2
+17:44:03.807 [main] INFO  - 8%: Reading information from row 14 (Clone group ID 64, clone #1)
+17:44:03.851 [main] INFO  - 8%: Generating PDG for method "setUp" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:03.962 [main] INFO  - 8%: Reading information from row 15 (Clone group ID 64, clone #2)
+17:44:03.985 [main] INFO  - 8%: Generating PDG for method "setUp" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:03.990 [main] INFO  - 8%: Analyzing Clone #7 (Group 64, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#setUp (row 14) and org.apache.commons.io.FilenameUtilsTestCase#setUp (row 15)
+17:44:04.053 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:04.053 [main] INFO  - CDT 1 leaves = 8, CDT 2 leaves = 8
+17:44:04.059 [main] INFO  - Start mapping
+17:44:04.324 [main] INFO  - End mapping
+17:44:04.324 [main] INFO  - start to refactor clone pair
+17:44:04.324 [main] INFO  - CloneType: Type 2
+17:44:04.324 [main] INFO  - method pair are not test cases!
+17:44:04.324 [main] INFO  - 10%: Reading information from row 16 (Clone group ID 65, clone #1)
+17:44:04.328 [main] INFO  - 10%: Generating PDG for method "testMoveToDirectory" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:04.385 [main] INFO  - 10%: Reading information from row 17 (Clone group ID 65, clone #2)
+17:44:04.388 [main] INFO  - 10%: Generating PDG for method "testListFilesWithDirs" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:21.117 [main] INFO  - 10%: Analyzing Clone #8 (Group 65, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testMoveToDirectory (row 16) and org.apache.commons.io.FileUtilsTestCase#testListFilesWithDirs (row 17)
+17:44:21.156 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:21.156 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:44:21.157 [main] INFO  - Start mapping
+17:44:21.181 [main] INFO  - End mapping
+17:44:21.181 [main] INFO  - start to refactor clone pair
+17:44:21.181 [main] INFO  - Non refactorable CloneType: Type 3
+17:44:21.181 [main] INFO  - 11%: Reading information from row 18 (Clone group ID 66, clone #1)
+17:44:21.209 [main] INFO  - 11%: Generating PDG for method "testMakeDirectoryOnly" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:22.210 [main] INFO  - 11%: Reading information from row 19 (Clone group ID 66, clone #2)
+17:44:22.211 [main] INFO  - 11%: Generating PDG for method "testMakeFileOnly" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:22.223 [main] INFO  - 11%: Analyzing Clone #9 (Group 66, Pair 1-2): org.apache.commons.io.filefilter.FileFilterTestCase#testMakeDirectoryOnly (row 18) and org.apache.commons.io.filefilter.FileFilterTestCase#testMakeFileOnly (row 19)
+17:44:22.250 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:22.250 [main] INFO  - CDT 1 leaves = 4, CDT 2 leaves = 4
+17:44:22.252 [main] INFO  - Start mapping
+17:44:22.300 [main] INFO  - End mapping
+17:44:22.301 [main] INFO  - start to refactor clone pair
+17:44:22.301 [main] INFO  - CloneType: Type 2
+17:44:22.306 [main] INFO  - 12%: Reading information from row 20 (Clone group ID 77, clone #1)
+17:44:22.347 [main] INFO  - 12%: Generating PDG for method "test_openInputStream_existsButIsDirectory" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:22.374 [main] INFO  - 12%: Reading information from row 21 (Clone group ID 77, clone #2)
+17:44:22.374 [main] INFO  - 12%: Generating PDG for method "test_openOutputStream_existsButIsDirectory" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:22.375 [main] INFO  - 12%: Analyzing Clone #10 (Group 77, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#test_openInputStream_existsButIsDirectory (row 20) and org.apache.commons.io.FileUtilsTestCase#test_openOutputStream_existsButIsDirectory (row 21)
+17:44:22.410 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:22.411 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:22.412 [main] INFO  - Start mapping
+17:44:22.447 [main] INFO  - End mapping
+17:44:22.447 [main] INFO  - start to refactor clone pair
+17:44:22.447 [main] INFO  - CloneType: Type 2
+17:44:22.448 [main] INFO  - unrefactorable finally block: {
+  IOUtils.closeQuietly(in);
+}
+ <---> {
+  IOUtils.closeQuietly(out);
+}
+
+17:44:22.449 [main] INFO  - 13%: Reading information from row 22 (Clone group ID 78, clone #1)
+17:44:22.451 [main] INFO  - 13%: Generating PDG for method "testForceDeleteAFile1" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:22.467 [main] INFO  - 13%: Reading information from row 23 (Clone group ID 78, clone #2)
+17:44:22.469 [main] INFO  - 13%: Generating PDG for method "testForceDeleteAFile2" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:22.470 [main] INFO  - 13%: Analyzing Clone #11 (Group 78, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testForceDeleteAFile1 (row 22) and org.apache.commons.io.FileUtilsTestCase#testForceDeleteAFile2 (row 23)
+17:44:22.512 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:22.512 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:22.520 [main] INFO  - start to refactor clone pair
+17:44:22.520 [main] INFO  - CloneType: Type 2
+17:44:22.522 [main] INFO  - 15%: Reading information from row 24 (Clone group ID 79, clone #1)
+17:44:22.529 [main] INFO  - 15%: Generating PDG for method "testFileDoesNotExist" in "org.apache.commons.io.FileUtilsDirectoryContainsTestCase"
+17:44:22.573 [main] INFO  - 15%: Reading information from row 25 (Clone group ID 79, clone #2)
+17:44:22.576 [main] INFO  - 15%: Generating PDG for method "testMoveFile_Rename" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:22.582 [main] INFO  - 15%: Analyzing Clone #12 (Group 79, Pair 1-2): org.apache.commons.io.FileUtilsDirectoryContainsTestCase#testFileDoesNotExist (row 24) and org.apache.commons.io.FileUtilsTestCase#testMoveFile_Rename (row 25)
+17:44:22.623 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:22.623 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:22.654 [main] INFO  - start to refactor clone pair
+17:44:22.654 [main] INFO  - CloneType: Type 2
+17:44:22.655 [main] ERROR - CloneStructure has PDG gap node.
+17:44:22.655 [main] INFO  - 16%: Reading information from row 26 (Clone group ID 82, clone #1)
+17:44:22.664 [main] INFO  - 16%: Generating PDG for method "constructor_File_encoding_badEncoding" in "org.apache.commons.io.output.FileWriterWithEncodingTest"
+17:44:22.672 [main] INFO  - 16%: Reading information from row 27 (Clone group ID 82, clone #2)
+17:44:22.673 [main] INFO  - 16%: Generating PDG for method "constructor_File_directory" in "org.apache.commons.io.output.FileWriterWithEncodingTest"
+17:44:22.674 [main] INFO  - 16%: Analyzing Clone #13 (Group 82, Pair 1-2): org.apache.commons.io.output.FileWriterWithEncodingTest#constructor_File_encoding_badEncoding (row 26) and org.apache.commons.io.output.FileWriterWithEncodingTest#constructor_File_directory (row 27)
+17:44:22.683 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:22.683 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:22.683 [main] INFO  - Start mapping
+17:44:22.686 [main] INFO  - End mapping
+17:44:22.687 [main] INFO  - start to refactor clone pair
+17:44:22.687 [main] INFO  - CloneType: Type 2
+17:44:22.688 [main] INFO  - non-refactored node pair with SimpleName node: file1  <--->  getTestDirectory()  (TYPE_COMPATIBLE_REPLACEMENT)
+17:44:22.688 [main] INFO  - 17%: Reading information from row 28 (Clone group ID 83, clone #1)
+17:44:22.689 [main] INFO  - 17%: Generating PDG for method "constructor_File_nullFile" in "org.apache.commons.io.output.FileWriterWithEncodingTest"
+17:44:22.696 [main] INFO  - 17%: Reading information from row 29 (Clone group ID 83, clone #2)
+17:44:22.697 [main] INFO  - 17%: Generating PDG for method "constructor_fileName_nullFile" in "org.apache.commons.io.output.FileWriterWithEncodingTest"
+17:44:22.698 [main] INFO  - 17%: Analyzing Clone #14 (Group 83, Pair 1-2): org.apache.commons.io.output.FileWriterWithEncodingTest#constructor_File_nullFile (row 28) and org.apache.commons.io.output.FileWriterWithEncodingTest#constructor_fileName_nullFile (row 29)
+17:44:22.707 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:22.707 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:22.708 [main] INFO  - Start mapping
+17:44:22.709 [main] INFO  - End mapping
+17:44:22.709 [main] INFO  - start to refactor clone pair
+17:44:22.709 [main] INFO  - CloneType: Type 2
+17:44:22.710 [main] INFO  - unrefactorable castExpr node pair: (File)null, (String)null
+17:44:22.710 [main] INFO  - 18%: Reading information from row 30 (Clone group ID 88, clone #1)
+17:44:22.713 [main] INFO  - 18%: Generating PDG for method "testTimeout" in "org.apache.commons.io.ThreadMonitorTestCase"
+17:44:22.749 [main] INFO  - 18%: Reading information from row 31 (Clone group ID 88, clone #2)
+17:44:22.749 [main] INFO  - 18%: Generating PDG for method "testCompletedWithoutTimeout" in "org.apache.commons.io.ThreadMonitorTestCase"
+17:44:22.750 [main] INFO  - 18%: Analyzing Clone #15 (Group 88, Pair 1-2): org.apache.commons.io.ThreadMonitorTestCase#testTimeout (row 30) and org.apache.commons.io.ThreadMonitorTestCase#testCompletedWithoutTimeout (row 31)
+17:44:22.752 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:22.752 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:22.752 [main] INFO  - Start mapping
+17:44:22.753 [main] INFO  - End mapping
+17:44:22.753 [main] INFO  - start to refactor clone pair
+17:44:22.753 [main] INFO  - 20%: Reading information from row 32 (Clone group ID 101, clone #1)
+17:44:22.758 [main] INFO  - 20%: Generating PDG for method "testReadSwappedInteger" in "org.apache.commons.io.EndianUtilsTest"
+17:44:22.776 [main] INFO  - 20%: Reading information from row 33 (Clone group ID 101, clone #2)
+17:44:22.777 [main] INFO  - 20%: Generating PDG for method "testReadSwappedUnsignedInteger" in "org.apache.commons.io.EndianUtilsTest"
+17:44:22.777 [main] INFO  - 20%: Analyzing Clone #16 (Group 101, Pair 1-2): org.apache.commons.io.EndianUtilsTest#testReadSwappedInteger (row 32) and org.apache.commons.io.EndianUtilsTest#testReadSwappedUnsignedInteger (row 33)
+17:44:22.782 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:22.782 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:22.791 [main] INFO  - start to refactor clone pair
+17:44:22.791 [main] INFO  - CloneType: Type 2
+17:44:22.791 [main] INFO  - get compatible primitive type
+17:44:22.792 [main] INFO  - get compatible primitive type
+17:44:22.792 [main] INFO  - 21%: Reading information from row 34 (Clone group ID 102, clone #1)
+17:44:22.796 [main] INFO  - 21%: Generating PDG for method "testReadEverything" in "org.apache.commons.io.input.TeeInputStreamTest"
+17:44:22.881 [main] INFO  - 21%: Reading information from row 35 (Clone group ID 102, clone #2)
+17:44:22.881 [main] INFO  - 21%: Generating PDG for method "testSkip" in "org.apache.commons.io.input.TeeInputStreamTest"
+17:44:22.884 [main] INFO  - 21%: Analyzing Clone #17 (Group 102, Pair 1-2): org.apache.commons.io.input.TeeInputStreamTest#testReadEverything (row 34) and org.apache.commons.io.input.TeeInputStreamTest#testSkip (row 35)
+17:44:22.887 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:22.887 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:22.908 [main] INFO  - start to refactor clone pair
+17:44:22.908 [main] INFO  - CloneType: Type 2
+17:44:22.909 [main] ERROR - CloneStructure has PDG gap node.
+17:44:22.909 [main] INFO  - 22%: Reading information from row 36 (Clone group ID 105, clone #1)
+17:44:22.923 [main] INFO  - 22%: Generating PDG for method "testReadXmlWithBOMUtf32Be" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:23.059 [main] INFO  - 22%: Reading information from row 37 (Clone group ID 105, clone #2)
+17:44:23.062 [main] INFO  - 22%: Generating PDG for method "testReadXmlWithBOMUtf32Le" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:23.064 [main] INFO  - 22%: Analyzing Clone #18 (Group 105, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testReadXmlWithBOMUtf32Be (row 36) and org.apache.commons.io.input.BOMInputStreamTest#testReadXmlWithBOMUtf32Le (row 37)
+17:44:23.084 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:23.084 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:23.091 [main] INFO  - start to refactor clone pair
+17:44:23.091 [main] INFO  - CloneType: Type 2
+17:44:23.092 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:44:23.093 [main] INFO  - 24%: Reading information from row 38 (Clone group ID 106, clone #1)
+17:44:23.095 [main] INFO  - 24%: Generating PDG for method "testSkipWithBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:23.109 [main] INFO  - 24%: Reading information from row 39 (Clone group ID 106, clone #2)
+17:44:23.112 [main] INFO  - 24%: Generating PDG for method "testSkipWithoutBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:23.114 [main] INFO  - 24%: Analyzing Clone #19 (Group 106, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testSkipWithBOM (row 38) and org.apache.commons.io.input.BOMInputStreamTest#testSkipWithoutBOM (row 39)
+17:44:23.128 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:23.128 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:23.133 [main] INFO  - start to refactor clone pair
+17:44:23.134 [main] INFO  - CloneType: Type 2
+17:44:23.135 [main] INFO  - 25%: Reading information from row 40 (Clone group ID 108, clone #1)
+17:44:23.147 [main] INFO  - 25%: Generating PDG for method "testNextLineOnlyNullEncoding" in "org.apache.commons.io.LineIteratorTestCase"
+17:44:23.394 [main] INFO  - 25%: Reading information from row 41 (Clone group ID 108, clone #2)
+17:44:23.394 [main] INFO  - 25%: Generating PDG for method "testNextLineOnlyUtf8Encoding" in "org.apache.commons.io.LineIteratorTestCase"
+17:44:23.395 [main] INFO  - 25%: Analyzing Clone #20 (Group 108, Pair 1-2): org.apache.commons.io.LineIteratorTestCase#testNextLineOnlyNullEncoding (row 40) and org.apache.commons.io.LineIteratorTestCase#testNextLineOnlyUtf8Encoding (row 41)
+17:44:23.403 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:23.403 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:23.407 [main] INFO  - start to refactor clone pair
+17:44:23.407 [main] INFO  - CloneType: Type 2
+17:44:23.407 [main] INFO  - non-refactored node pair with initializer node: null  <--->  "UTF-8"  (TYPE_COMPATIBLE_REPLACEMENT)
+17:44:23.408 [main] INFO  - 26%: Reading information from row 42 (Clone group ID 109, clone #1)
+17:44:23.413 [main] INFO  - 26%: Generating PDG for method "testComparator" in "org.apache.commons.io.comparator.ComparatorAbstractTestCase"
+17:44:23.552 [main] INFO  - 26%: Reading information from row 43 (Clone group ID 109, clone #2)
+17:44:23.552 [main] INFO  - 26%: Generating PDG for method "testReverseComparator" in "org.apache.commons.io.comparator.ComparatorAbstractTestCase"
+17:44:23.553 [main] INFO  - 26%: Analyzing Clone #21 (Group 109, Pair 1-2): org.apache.commons.io.comparator.ComparatorAbstractTestCase#testComparator (row 42) and org.apache.commons.io.comparator.ComparatorAbstractTestCase#testReverseComparator (row 43)
+17:44:23.558 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:23.558 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:23.562 [main] INFO  - start to refactor clone pair
+17:44:23.562 [main] INFO  - CloneType: Type 2
+17:44:23.563 [main] INFO  - Skip refactoring field level SimpleName node pair: comparator, reverse
+17:44:23.563 [main] INFO  - Skip refactoring field level SimpleName node pair: lessFile, moreFile
+17:44:23.563 [main] INFO  - Skip refactoring field level SimpleName node pair: moreFile, lessFile
+17:44:23.563 [main] INFO  - Skip refactoring field level SimpleName node pair: comparator, reverse
+17:44:23.564 [main] INFO  - Skip refactoring field level SimpleName node pair: moreFile, lessFile
+17:44:23.564 [main] INFO  - Skip refactoring field level SimpleName node pair: lessFile, moreFile
+17:44:23.564 [main] INFO  - Skip refactoring field level SimpleName node pair: comparator, reverse
+17:44:23.564 [main] INFO  - 27%: Reading information from row 44 (Clone group ID 113, clone #1)
+17:44:23.594 [main] INFO  - 27%: Generating PDG for method "testTrue" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:24.024 [main] INFO  - 27%: Reading information from row 45 (Clone group ID 113, clone #2)
+17:44:24.025 [main] INFO  - 27%: Generating PDG for method "testFalse" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:24.032 [main] INFO  - 27%: Analyzing Clone #22 (Group 113, Pair 1-2): org.apache.commons.io.filefilter.FileFilterTestCase#testTrue (row 44) and org.apache.commons.io.filefilter.FileFilterTestCase#testFalse (row 45)
+17:44:24.056 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.056 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.075 [main] INFO  - start to refactor clone pair
+17:44:24.075 [main] INFO  - CloneType: Type 2
+17:44:24.076 [main] INFO  - 29%: Reading information from row 46 (Clone group ID 115, clone #1)
+17:44:24.081 [main] INFO  - 29%: Generating PDG for method "testReadByteArray" in "org.apache.commons.io.input.NullInputStreamTest"
+17:44:24.084 [main] INFO  - 29%: Reading information from row 47 (Clone group ID 115, clone #2)
+17:44:24.089 [main] INFO  - 29%: Generating PDG for method "testReadCharArray" in "org.apache.commons.io.input.NullReaderTest"
+17:44:24.116 [main] INFO  - 29%: Analyzing Clone #23 (Group 115, Pair 1-2): org.apache.commons.io.input.NullInputStreamTest#testReadByteArray (row 46) and org.apache.commons.io.input.NullReaderTest#testReadCharArray (row 47)
+17:44:24.123 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:24.123 [main] INFO  - CDT 1 leaves = 4, CDT 2 leaves = 4
+17:44:24.128 [main] INFO  - Start mapping
+17:44:24.162 [main] INFO  - End mapping
+17:44:24.162 [main] INFO  - start to refactor clone pair
+17:44:24.162 [main] INFO  - CloneType: Type 2
+17:44:24.163 [main] ERROR - CloneStructure has PDG gap node.
+17:44:24.163 [main] INFO  - 30%: Reading information from row 48 (Clone group ID 121, clone #1)
+17:44:24.183 [main] INFO  - 30%: Generating PDG for method "testGetExtension" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:24.194 [main] INFO  - 30%: Reading information from row 49 (Clone group ID 121, clone #2)
+17:44:24.195 [main] INFO  - 30%: Generating PDG for method "testRemoveExtension" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:24.195 [main] INFO  - 30%: Analyzing Clone #24 (Group 121, Pair 1-2): org.apache.commons.io.FilenameUtilsTestCase#testGetExtension (row 48) and org.apache.commons.io.FilenameUtilsTestCase#testRemoveExtension (row 49)
+17:44:24.214 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.214 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.253 [main] INFO  - start to refactor clone pair
+17:44:24.254 [main] INFO  - CloneType: Type 2
+17:44:24.256 [main] INFO  - 31%: Reading information from row 50 (Clone group ID 129, clone #1)
+17:44:24.259 [main] INFO  - 31%: Generating PDG for method "shortReader" in "org.apache.commons.io.input.BoundedReaderTest"
+17:44:24.262 [main] INFO  - 31%: Reading information from row 51 (Clone group ID 129, clone #2)
+17:44:24.262 [main] INFO  - 31%: Generating PDG for method "skipTest" in "org.apache.commons.io.input.BoundedReaderTest"
+17:44:24.264 [main] INFO  - 31%: Analyzing Clone #25 (Group 129, Pair 1-2): org.apache.commons.io.input.BoundedReaderTest#shortReader (row 50) and org.apache.commons.io.input.BoundedReaderTest#skipTest (row 51)
+17:44:24.267 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.267 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.277 [main] INFO  - start to refactor clone pair
+17:44:24.277 [main] INFO  - CloneType: Type 2
+17:44:24.277 [main] ERROR - CloneStructure has PDG gap node.
+17:44:24.277 [main] INFO  - 32%: Reading information from row 52 (Clone group ID 136, clone #1)
+17:44:24.284 [main] INFO  - 32%: Generating PDG for method "test_getName" in "org.apache.commons.io.IOCaseTestCase"
+17:44:24.285 [main] INFO  - 32%: Reading information from row 53 (Clone group ID 136, clone #2)
+17:44:24.285 [main] INFO  - 32%: Generating PDG for method "test_toString" in "org.apache.commons.io.IOCaseTestCase"
+17:44:24.285 [main] INFO  - 32%: Analyzing Clone #26 (Group 136, Pair 1-2): org.apache.commons.io.IOCaseTestCase#test_getName (row 52) and org.apache.commons.io.IOCaseTestCase#test_toString (row 53)
+17:44:24.292 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.292 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.295 [main] INFO  - start to refactor clone pair
+17:44:24.295 [main] INFO  - CloneType: Type 2
+17:44:24.296 [main] INFO  - 34%: Reading information from row 54 (Clone group ID 148, clone #1)
+17:44:24.300 [main] INFO  - 34%: Generating PDG for method "testSwapFloat" in "org.apache.commons.io.EndianUtilsTest"
+17:44:24.352 [main] INFO  - 34%: Reading information from row 55 (Clone group ID 148, clone #2)
+17:44:24.353 [main] INFO  - 34%: Generating PDG for method "testSwapDouble" in "org.apache.commons.io.EndianUtilsTest"
+17:44:24.353 [main] INFO  - 34%: Analyzing Clone #27 (Group 148, Pair 1-2): org.apache.commons.io.EndianUtilsTest#testSwapFloat (row 54) and org.apache.commons.io.EndianUtilsTest#testSwapDouble (row 55)
+17:44:24.358 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.358 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.367 [main] INFO  - start to refactor clone pair
+17:44:24.367 [main] INFO  - CloneType: Type 2
+17:44:24.367 [main] ERROR - CloneStructure has PDG gap node.
+17:44:24.367 [main] INFO  - 35%: Reading information from row 56 (Clone group ID 149, clone #1)
+17:44:24.368 [main] INFO  - 35%: Generating PDG for method "testReadSwappedShort" in "org.apache.commons.io.EndianUtilsTest"
+17:44:24.374 [main] INFO  - 35%: Reading information from row 57 (Clone group ID 149, clone #2)
+17:44:24.374 [main] INFO  - 35%: Generating PDG for method "testReadSwappedUnsignedShort" in "org.apache.commons.io.EndianUtilsTest"
+17:44:24.375 [main] INFO  - 35%: Analyzing Clone #28 (Group 149, Pair 1-2): org.apache.commons.io.EndianUtilsTest#testReadSwappedShort (row 56) and org.apache.commons.io.EndianUtilsTest#testReadSwappedUnsignedShort (row 57)
+17:44:24.379 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.379 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.388 [main] INFO  - start to refactor clone pair
+17:44:24.388 [main] INFO  - CloneType: Type 2
+17:44:24.389 [main] INFO  - 36%: Reading information from row 58 (Clone group ID 153, clone #1)
+17:44:24.400 [main] INFO  - 36%: Generating PDG for method "testEmptyBufferWithBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:24.447 [main] INFO  - 36%: Reading information from row 59 (Clone group ID 153, clone #2)
+17:44:24.448 [main] INFO  - 36%: Generating PDG for method "testEmptyBufferWithoutBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:24.448 [main] INFO  - 36%: Analyzing Clone #29 (Group 153, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testEmptyBufferWithBOM (row 58) and org.apache.commons.io.input.BOMInputStreamTest#testEmptyBufferWithoutBOM (row 59)
+17:44:24.460 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.460 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.462 [main] INFO  - start to refactor clone pair
+17:44:24.462 [main] INFO  - CloneType: Type 2
+17:44:24.463 [main] INFO  - 38%: Reading information from row 60 (Clone group ID 154, clone #1)
+17:44:24.464 [main] INFO  - 38%: Generating PDG for method "testReadXmlWithoutBOMUtf32Be" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:24.465 [main] INFO  - 38%: Reading information from row 61 (Clone group ID 154, clone #2)
+17:44:24.466 [main] INFO  - 38%: Generating PDG for method "testReadXmlWithoutBOMUtf32Le" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:24.467 [main] INFO  - 38%: Analyzing Clone #30 (Group 154, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testReadXmlWithoutBOMUtf32Be (row 60) and org.apache.commons.io.input.BOMInputStreamTest#testReadXmlWithoutBOMUtf32Le (row 61)
+17:44:24.479 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.479 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.482 [main] INFO  - start to refactor clone pair
+17:44:24.482 [main] INFO  - CloneType: Type 2
+17:44:24.483 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:44:24.483 [main] INFO  - 39%: Reading information from row 62 (Clone group ID 163, clone #1)
+17:44:24.487 [main] INFO  - 39%: Generating PDG for method "testWriteStringPortion" in "org.apache.commons.io.output.StringBuilderWriterTest"
+17:44:24.611 [main] INFO  - 39%: Reading information from row 63 (Clone group ID 163, clone #2)
+17:44:24.611 [main] INFO  - 39%: Generating PDG for method "testWriteCharArrayPortion" in "org.apache.commons.io.output.StringBuilderWriterTest"
+17:44:24.613 [main] INFO  - 39%: Analyzing Clone #31 (Group 163, Pair 1-2): org.apache.commons.io.output.StringBuilderWriterTest#testWriteStringPortion (row 62) and org.apache.commons.io.output.StringBuilderWriterTest#testWriteCharArrayPortion (row 63)
+17:44:24.617 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.617 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.621 [main] INFO  - start to refactor clone pair
+17:44:24.621 [main] INFO  - CloneType: Type 2
+17:44:24.621 [main] ERROR - CloneStructure has PDG gap node.
+17:44:24.622 [main] INFO  - 40%: Reading information from row 64 (Clone group ID 169, clone #1)
+17:44:24.634 [main] INFO  - 40%: Generating PDG for method "testSmallBufferWithBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:24.643 [main] INFO  - 40%: Reading information from row 65 (Clone group ID 169, clone #2)
+17:44:24.644 [main] INFO  - 40%: Generating PDG for method "testSmallBufferWithoutBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:24.645 [main] INFO  - 40%: Analyzing Clone #32 (Group 169, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testSmallBufferWithBOM (row 64) and org.apache.commons.io.input.BOMInputStreamTest#testSmallBufferWithoutBOM (row 65)
+17:44:24.657 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.657 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.664 [main] INFO  - start to refactor clone pair
+17:44:24.664 [main] INFO  - CloneType: Type 2
+17:44:24.665 [main] INFO  - 41%: Reading information from row 66 (Clone group ID 175, clone #1)
+17:44:24.684 [main] INFO  - 41%: Generating PDG for method "testEqualsNormalized" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:24.696 [main] INFO  - 41%: Reading information from row 67 (Clone group ID 175, clone #2)
+17:44:24.697 [main] INFO  - 41%: Generating PDG for method "testEqualsNormalizedOnSystem" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:24.697 [main] INFO  - 41%: Analyzing Clone #33 (Group 175, Pair 1-2): org.apache.commons.io.FilenameUtilsTestCase#testEqualsNormalized (row 66) and org.apache.commons.io.FilenameUtilsTestCase#testEqualsNormalizedOnSystem (row 67)
+17:44:24.717 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:24.717 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.741 [main] INFO  - start to refactor clone pair
+17:44:24.741 [main] INFO  - CloneType: Type 2
+17:44:24.742 [main] INFO  - non-refactored node pair with MethodInvocation node: assertFalse(FilenameUtils.equalsNormalized("file.txt","FILE.TXT"))  <--->  assertEquals(WINDOWS,FilenameUtils.equalsNormalizedOnSystem("file.txt","FILE.TXT"))  (ARGUMENT_NUMBER_MISMATCH)
+17:44:24.742 [main] INFO  - 43%: Reading information from row 68 (Clone group ID 176, clone #1)
+17:44:24.748 [main] INFO  - 43%: Generating PDG for method "testWriteToSmall" in "org.apache.commons.io.output.DeferredFileOutputStreamTest"
+17:44:24.909 [main] INFO  - 43%: Reading information from row 69 (Clone group ID 176, clone #2)
+17:44:24.909 [main] INFO  - 43%: Generating PDG for method "testWriteToLarge" in "org.apache.commons.io.output.DeferredFileOutputStreamTest"
+17:44:24.910 [main] INFO  - 43%: Analyzing Clone #34 (Group 176, Pair 1-2): org.apache.commons.io.output.DeferredFileOutputStreamTest#testWriteToSmall (row 68) and org.apache.commons.io.output.DeferredFileOutputStreamTest#testWriteToLarge (row 69)
+17:44:24.916 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+17:44:24.916 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:24.916 [main] INFO  - Start mapping
+17:44:24.932 [main] INFO  - End mapping
+17:44:24.933 [main] INFO  - start to refactor clone pair
+17:44:24.933 [main] INFO  - Non refactorable CloneType: Type 3
+17:44:24.933 [main] INFO  - 44%: Reading information from row 70 (Clone group ID 179, clone #1)
+17:44:24.937 [main] INFO  - 44%: Generating PDG for method "testMarkAndReset" in "org.apache.commons.io.input.NullInputStreamTest"
+17:44:25.023 [main] INFO  - 44%: Reading information from row 71 (Clone group ID 179, clone #2)
+17:44:25.027 [main] INFO  - 44%: Generating PDG for method "testMarkAndReset" in "org.apache.commons.io.input.NullReaderTest"
+17:44:25.034 [main] INFO  - 44%: Analyzing Clone #35 (Group 179, Pair 1-2): org.apache.commons.io.input.NullInputStreamTest#testMarkAndReset (row 70) and org.apache.commons.io.input.NullReaderTest#testMarkAndReset (row 71)
+17:44:25.042 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:25.042 [main] INFO  - CDT 1 leaves = 5, CDT 2 leaves = 5
+17:44:25.051 [main] INFO  - Start mapping
+17:44:25.145 [main] INFO  - End mapping
+17:44:25.146 [main] INFO  - start to refactor clone pair
+17:44:25.146 [main] INFO  - CloneType: Type 2
+17:44:25.149 [main] INFO  - non-refactored node pair with SimpleName node: position  <--->  position + i  (TYPE_COMPATIBLE_REPLACEMENT)
+17:44:25.150 [main] INFO  - 45%: Reading information from row 72 (Clone group ID 188, clone #1)
+17:44:25.163 [main] INFO  - 45%: Generating PDG for method "testReadWithBOMUtf16Be" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:25.666 [main] INFO  - 45%: Reading information from row 73 (Clone group ID 188, clone #2)
+17:44:25.668 [main] INFO  - 45%: Generating PDG for method "testReadWithBOMUtf16Le" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:25.670 [main] INFO  - 45%: Analyzing Clone #36 (Group 188, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testReadWithBOMUtf16Be (row 72) and org.apache.commons.io.input.BOMInputStreamTest#testReadWithBOMUtf16Le (row 73)
+17:44:25.681 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:25.682 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:25.682 [main] INFO  - Start mapping
+17:44:26.252 [main] INFO  - End mapping
+17:44:26.252 [main] INFO  - start to refactor clone pair
+17:44:26.252 [main] INFO  - CloneType: Type 2
+17:44:26.254 [main] INFO  - 46%: Reading information from row 74 (Clone group ID 196, clone #1)
+17:44:26.260 [main] INFO  - 46%: Generating PDG for method "testIdentifiesBrokenSymlinkFile" in "org.apache.commons.io.FileUtilsCleanSymlinksTestCase"
+17:44:26.325 [main] INFO  - 46%: Reading information from row 75 (Clone group ID 196, clone #2)
+17:44:26.325 [main] INFO  - 46%: Generating PDG for method "testCorrectlyIdentifySymlinkWithParentSymLink" in "org.apache.commons.io.FileUtilsCleanSymlinksTestCase"
+17:44:26.326 [main] INFO  - 46%: Analyzing Clone #37 (Group 196, Pair 1-2): org.apache.commons.io.FileUtilsCleanSymlinksTestCase#testIdentifiesBrokenSymlinkFile (row 74) and org.apache.commons.io.FileUtilsCleanSymlinksTestCase#testCorrectlyIdentifySymlinkWithParentSymLink (row 75)
+17:44:26.332 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:26.332 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:26.333 [main] INFO  - Start mapping
+17:44:26.365 [main] INFO  - End mapping
+17:44:26.365 [main] INFO  - start to refactor clone pair
+17:44:26.365 [main] INFO  - Non refactorable CloneType: Type 3
+17:44:26.366 [main] INFO  - 48%: Reading information from row 76 (Clone group ID 197, clone #1)
+17:44:26.381 [main] INFO  - 48%: Generating PDG for method "testGetBOMFirstThenRead" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:26.407 [main] INFO  - 48%: Reading information from row 77 (Clone group ID 197, clone #2)
+17:44:26.408 [main] INFO  - 48%: Generating PDG for method "testReadWithoutBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:26.410 [main] INFO  - 48%: Analyzing Clone #38 (Group 197, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testGetBOMFirstThenRead (row 76) and org.apache.commons.io.input.BOMInputStreamTest#testReadWithoutBOM (row 77)
+17:44:26.421 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:26.421 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:26.595 [main] INFO  - start to refactor clone pair
+17:44:26.595 [main] INFO  - CloneType: Type 2
+17:44:26.596 [main] INFO  - non-refactored node pair with MethodInvocation node: assertEquals("getBOM",ByteOrderMark.UTF_8,in.getBOM())  <--->  assertNull("getBOM",in.getBOM())  (ARGUMENT_NUMBER_MISMATCH)
+17:44:26.596 [main] INFO  - 49%: Reading information from row 78 (Clone group ID 199, clone #1)
+17:44:26.607 [main] INFO  - 49%: Generating PDG for method "testWriteLines_OutputStream_Encoding" in "org.apache.commons.io.IOUtilsWriteTestCase"
+17:44:26.642 [main] INFO  - 49%: Reading information from row 79 (Clone group ID 199, clone #2)
+17:44:26.643 [main] INFO  - 49%: Generating PDG for method "testWriteLines_OutputStream_Encoding_nullEncoding" in "org.apache.commons.io.IOUtilsWriteTestCase"
+17:44:26.644 [main] INFO  - 49%: Analyzing Clone #39 (Group 199, Pair 1-2): org.apache.commons.io.IOUtilsWriteTestCase#testWriteLines_OutputStream_Encoding (row 78) and org.apache.commons.io.IOUtilsWriteTestCase#testWriteLines_OutputStream_Encoding_nullEncoding (row 79)
+17:44:26.656 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:26.656 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:26.671 [main] INFO  - start to refactor clone pair
+17:44:26.671 [main] INFO  - CloneType: Type 2
+17:44:26.673 [main] INFO  - non-refactored node pair with MethodInvocation node: baout.toString("UTF-8")  <--->  baout.toString()  (ARGUMENT_NUMBER_MISMATCH)
+17:44:26.673 [main] INFO  - 50%: Reading information from row 80 (Clone group ID 200, clone #1)
+17:44:26.681 [main] INFO  - 50%: Generating PDG for method "testOutputStream" in "org.apache.commons.io.DemuxTestCase"
+17:44:26.718 [main] INFO  - 50%: Reading information from row 81 (Clone group ID 200, clone #2)
+17:44:26.718 [main] INFO  - 50%: Generating PDG for method "testInputStream" in "org.apache.commons.io.DemuxTestCase"
+17:44:26.719 [main] INFO  - 50%: Analyzing Clone #40 (Group 200, Pair 1-2): org.apache.commons.io.DemuxTestCase#testOutputStream (row 80) and org.apache.commons.io.DemuxTestCase#testInputStream (row 81)
+17:44:26.725 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:26.725 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:26.750 [main] INFO  - start to refactor clone pair
+17:44:26.750 [main] INFO  - CloneType: Type 2
+17:44:26.752 [main] INFO  - 52%: Reading information from row 82 (Clone group ID 209, clone #1)
+17:44:26.780 [main] INFO  - 52%: Generating PDG for method "testMakeCVSAware" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:27.180 [main] INFO  - 52%: Reading information from row 83 (Clone group ID 209, clone #2)
+17:44:27.181 [main] INFO  - 52%: Generating PDG for method "testMakeSVNAware" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:27.192 [main] INFO  - 52%: Analyzing Clone #41 (Group 209, Pair 1-2): org.apache.commons.io.filefilter.FileFilterTestCase#testMakeCVSAware (row 82) and org.apache.commons.io.filefilter.FileFilterTestCase#testMakeSVNAware (row 83)
+17:44:27.218 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:27.218 [main] INFO  - CDT 1 leaves = 6, CDT 2 leaves = 6
+17:44:27.219 [main] INFO  - Start mapping
+17:44:27.328 [main] INFO  - End mapping
+17:44:27.329 [main] INFO  - start to refactor clone pair
+17:44:27.329 [main] INFO  - CloneType: Type 2
+17:44:27.331 [main] INFO  - 53%: Reading information from row 84 (Clone group ID 215, clone #1)
+17:44:27.338 [main] INFO  - 53%: Generating PDG for method "testZeroLength3" in "org.apache.commons.io.input.CountingInputStreamTest"
+17:44:27.348 [main] INFO  - 53%: Reading information from row 85 (Clone group ID 215, clone #2)
+17:44:27.348 [main] INFO  - 53%: Generating PDG for method "testEOF3" in "org.apache.commons.io.input.CountingInputStreamTest"
+17:44:27.349 [main] INFO  - 53%: Analyzing Clone #42 (Group 215, Pair 1-2): org.apache.commons.io.input.CountingInputStreamTest#testZeroLength3 (row 84) and org.apache.commons.io.input.CountingInputStreamTest#testEOF3 (row 85)
+17:44:27.355 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:27.355 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:27.357 [main] INFO  - start to refactor clone pair
+17:44:27.357 [main] INFO  - CloneType: Type 2
+17:44:27.359 [main] INFO  - 54%: Reading information from row 86 (Clone group ID 216, clone #1)
+17:44:27.369 [main] INFO  - 54%: Generating PDG for method "testFilterAndLimitD" in "org.apache.commons.io.DirectoryWalkerTestCaseJava4"
+17:44:27.377 [main] INFO  - 54%: Reading information from row 87 (Clone group ID 216, clone #2)
+17:44:27.378 [main] INFO  - 54%: Generating PDG for method "testFilterDirAndFile3" in "org.apache.commons.io.DirectoryWalkerTestCaseJava4"
+17:44:27.380 [main] INFO  - 54%: Analyzing Clone #43 (Group 216, Pair 1-2): org.apache.commons.io.DirectoryWalkerTestCaseJava4#testFilterAndLimitD (row 86) and org.apache.commons.io.DirectoryWalkerTestCaseJava4#testFilterDirAndFile3 (row 87)
+17:44:27.389 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:27.390 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:27.394 [main] INFO  - start to refactor clone pair
+17:44:27.394 [main] INFO  - CloneType: Type 2
+17:44:27.394 [main] ERROR - CloneStructure has PDG gap node.
+17:44:27.395 [main] INFO  - 55%: Reading information from row 88 (Clone group ID 219, clone #1)
+17:44:27.437 [main] INFO  - 55%: Generating PDG for method "testCopyFile2ToDir" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:27.465 [main] INFO  - 55%: Reading information from row 89 (Clone group ID 219, clone #2)
+17:44:27.476 [main] INFO  - 55%: Generating PDG for method "testWrite_byteArrayToOutputStream" in "org.apache.commons.io.IOUtilsWriteTestCase"
+17:44:27.579 [main] INFO  - 55%: Analyzing Clone #44 (Group 219, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testCopyFile2ToDir (row 88) and org.apache.commons.io.IOUtilsWriteTestCase#testWrite_byteArrayToOutputStream (row 89)
+17:44:27.635 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 0
+17:44:27.635 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:27.647 [main] INFO  - start to refactor clone pair
+17:44:27.647 [main] INFO  - Non refactorable CloneType: Type 3
+17:44:27.647 [main] INFO  - 57%: Reading information from row 90 (Clone group ID 223, clone #1)
+17:44:27.649 [main] INFO  - 57%: Generating PDG for method "testIO300" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:27.692 [main] INFO  - 57%: Reading information from row 91 (Clone group ID 223, clone #2)
+17:44:27.693 [main] INFO  - 57%: Generating PDG for method "testCopyURLToFile" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:27.731 [main] INFO  - 57%: Analyzing Clone #45 (Group 223, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testIO300 (row 90) and org.apache.commons.io.FileUtilsTestCase#testCopyURLToFile (row 91)
+17:44:27.774 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:27.774 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:27.775 [main] INFO  - Start mapping
+17:44:27.779 [main] INFO  - End mapping
+17:44:27.779 [main] INFO  - start to refactor clone pair
+17:44:27.779 [main] INFO  - Non refactorable CloneType: Type 3
+17:44:27.779 [main] INFO  - 58%: Reading information from row 92 (Clone group ID 242, clone #1)
+17:44:27.781 [main] INFO  - 58%: Generating PDG for method "testWriteLines_5argsWithAppendOptionTrue_ShouldNotDeletePreviousFileLines" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:27.897 [main] INFO  - 58%: Reading information from row 93 (Clone group ID 242, clone #2)
+17:44:27.899 [main] INFO  - 58%: Generating PDG for method "testWriteLines_5argsWithAppendOptionFalse_ShouldDeletePreviousFileLines" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:27.900 [main] INFO  - 58%: Analyzing Clone #46 (Group 242, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testWriteLines_5argsWithAppendOptionTrue_ShouldNotDeletePreviousFileLines (row 92) and org.apache.commons.io.FileUtilsTestCase#testWriteLines_5argsWithAppendOptionFalse_ShouldDeletePreviousFileLines (row 93)
+17:44:27.941 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:27.941 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:27.947 [main] INFO  - start to refactor clone pair
+17:44:27.947 [main] INFO  - CloneType: Type 2
+17:44:27.948 [main] INFO  - 59%: Reading information from row 94 (Clone group ID 247, clone #1)
+17:44:27.979 [main] INFO  - 59%: Generating PDG for method "testFilterList" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:28.126 [main] INFO  - 59%: Reading information from row 95 (Clone group ID 247, clone #2)
+17:44:28.127 [main] INFO  - 59%: Generating PDG for method "testFilterSet" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:29.125 [main] INFO  - 59%: Analyzing Clone #47 (Group 247, Pair 1-2): org.apache.commons.io.filefilter.FileFilterTestCase#testFilterList (row 94) and org.apache.commons.io.filefilter.FileFilterTestCase#testFilterSet (row 95)
+17:44:29.150 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:29.150 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:29.167 [main] INFO  - start to refactor clone pair
+17:44:29.167 [main] INFO  - CloneType: Type 2
+17:44:29.168 [main] INFO  - non-refactored node pair with initializer node: Arrays.asList(fileA,fileB)  <--->  new HashSet<File>(Arrays.asList(fileA,fileB))  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+17:44:29.168 [main] INFO  - 61%: Reading information from row 96 (Clone group ID 265, clone #1)
+17:44:29.171 [main] INFO  - 61%: Generating PDG for method "readMulti" in "org.apache.commons.io.input.BoundedReaderTest"
+17:44:29.207 [main] INFO  - 61%: Reading information from row 97 (Clone group ID 265, clone #2)
+17:44:29.207 [main] INFO  - 61%: Generating PDG for method "readMultiWithOffset" in "org.apache.commons.io.input.BoundedReaderTest"
+17:44:29.208 [main] INFO  - 61%: Analyzing Clone #48 (Group 265, Pair 1-2): org.apache.commons.io.input.BoundedReaderTest#readMulti (row 96) and org.apache.commons.io.input.BoundedReaderTest#readMultiWithOffset (row 97)
+17:44:29.211 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:29.211 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:29.211 [main] INFO  - Start mapping
+17:44:29.217 [main] INFO  - End mapping
+17:44:29.217 [main] INFO  - start to refactor clone pair
+17:44:29.217 [main] INFO  - CloneType: Type 2
+17:44:29.218 [main] INFO  - 62%: Reading information from row 98 (Clone group ID 266, clone #1)
+17:44:29.235 [main] INFO  - 62%: Generating PDG for method "testSkip" in "org.apache.commons.io.input.NullInputStreamTest"
+17:44:29.327 [main] INFO  - 62%: Reading information from row 99 (Clone group ID 266, clone #2)
+17:44:29.331 [main] INFO  - 62%: Generating PDG for method "testSkip" in "org.apache.commons.io.input.NullReaderTest"
+17:44:29.332 [main] INFO  - 62%: Analyzing Clone #49 (Group 266, Pair 1-2): org.apache.commons.io.input.NullInputStreamTest#testSkip (row 98) and org.apache.commons.io.input.NullReaderTest#testSkip (row 99)
+17:44:29.341 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:29.341 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:29.342 [main] INFO  - Start mapping
+17:44:29.389 [main] INFO  - End mapping
+17:44:29.389 [main] INFO  - start to refactor clone pair
+17:44:29.389 [main] INFO  - CloneType: Type 2
+17:44:29.391 [main] INFO  - 63%: Reading information from row 100 (Clone group ID 274, clone #1)
+17:44:29.428 [main] INFO  - 63%: Generating PDG for method "testWriteLines_4arg_nullSeparator" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:29.526 [main] INFO  - 63%: Reading information from row 101 (Clone group ID 274, clone #2)
+17:44:29.528 [main] INFO  - 63%: Generating PDG for method "testWriteLines_3arg_nullSeparator" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:29.530 [main] INFO  - 63%: Analyzing Clone #50 (Group 274, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testWriteLines_4arg_nullSeparator (row 100) and org.apache.commons.io.FileUtilsTestCase#testWriteLines_3arg_nullSeparator (row 101)
+17:44:29.566 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:29.566 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:29.595 [main] INFO  - start to refactor clone pair
+17:44:29.595 [main] INFO  - CloneType: Type 2
+17:44:29.596 [main] INFO  - non-refactored node pair with MethodInvocation node: FileUtils.writeLines(file,"US-ASCII",list,null)  <--->  FileUtils.writeLines(file,"US-ASCII",list)  (ARGUMENT_NUMBER_MISMATCH)
+17:44:29.596 [main] INFO  - 64%: Reading information from row 102 (Clone group ID 282, clone #1)
+17:44:29.607 [main] INFO  - 64%: Generating PDG for method "testAvailableWithBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:29.624 [main] INFO  - 64%: Reading information from row 103 (Clone group ID 282, clone #2)
+17:44:29.625 [main] INFO  - 64%: Generating PDG for method "testAvailableWithoutBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:29.625 [main] INFO  - 64%: Analyzing Clone #51 (Group 282, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testAvailableWithBOM (row 102) and org.apache.commons.io.input.BOMInputStreamTest#testAvailableWithoutBOM (row 103)
+17:44:29.636 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:29.636 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:29.638 [main] INFO  - start to refactor clone pair
+17:44:29.638 [main] INFO  - CloneType: Type 2
+17:44:29.638 [main] INFO  - 66%: Reading information from row 104 (Clone group ID 286, clone #1)
+17:44:29.641 [main] INFO  - 66%: Generating PDG for method "markReset" in "org.apache.commons.io.input.BoundedReaderTest"
+17:44:29.644 [main] INFO  - 66%: Reading information from row 105 (Clone group ID 286, clone #2)
+17:44:29.645 [main] INFO  - 66%: Generating PDG for method "markResetMarkMore" in "org.apache.commons.io.input.BoundedReaderTest"
+17:44:29.645 [main] INFO  - 66%: Analyzing Clone #52 (Group 286, Pair 1-2): org.apache.commons.io.input.BoundedReaderTest#markReset (row 104) and org.apache.commons.io.input.BoundedReaderTest#markResetMarkMore (row 105)
+17:44:29.648 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:29.648 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:30.029 [main] INFO  - start to refactor clone pair
+17:44:30.029 [main] INFO  - CloneType: Type 2
+17:44:30.030 [main] INFO  - 67%: Reading information from row 106 (Clone group ID 296, clone #1)
+17:44:30.035 [main] INFO  - 67%: Generating PDG for method "testFileDoesNotExistBug" in "org.apache.commons.io.FileUtilsDirectoryContainsTestCase"
+17:44:30.068 [main] INFO  - 67%: Reading information from row 107 (Clone group ID 296, clone #2)
+17:44:30.101 [main] INFO  - 67%: Generating PDG for method "testCopyFile2WithoutFileDatePreservation" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:30.104 [main] INFO  - 67%: Analyzing Clone #53 (Group 296, Pair 1-2): org.apache.commons.io.FileUtilsDirectoryContainsTestCase#testFileDoesNotExistBug (row 106) and org.apache.commons.io.FileUtilsTestCase#testCopyFile2WithoutFileDatePreservation (row 107)
+17:44:30.141 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:30.141 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:30.169 [main] INFO  - start to refactor clone pair
+17:44:30.169 [main] INFO  - CloneType: Type 2
+17:44:30.169 [main] ERROR - CloneStructure has PDG gap node.
+17:44:30.169 [main] INFO  - 68%: Reading information from row 108 (Clone group ID 297, clone #1)
+17:44:30.173 [main] INFO  - 68%: Generating PDG for method "testCloseBranchIOException" in "org.apache.commons.io.output.TeeOutputStreamTest"
+17:44:30.179 [main] INFO  - 68%: Reading information from row 109 (Clone group ID 297, clone #2)
+17:44:30.180 [main] INFO  - 68%: Generating PDG for method "testCloseMainIOException" in "org.apache.commons.io.output.TeeOutputStreamTest"
+17:44:30.180 [main] INFO  - 68%: Analyzing Clone #54 (Group 297, Pair 1-2): org.apache.commons.io.output.TeeOutputStreamTest#testCloseBranchIOException (row 108) and org.apache.commons.io.output.TeeOutputStreamTest#testCloseMainIOException (row 109)
+17:44:30.182 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:30.182 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:30.183 [main] INFO  - Start mapping
+17:44:30.185 [main] INFO  - End mapping
+17:44:30.186 [main] INFO  - start to refactor clone pair
+17:44:30.186 [main] INFO  - CloneType: Type 2
+17:44:30.187 [main] INFO  - 69%: Reading information from row 110 (Clone group ID 303, clone #1)
+17:44:30.190 [main] INFO  - 69%: Generating PDG for method "testMarkNotSupported" in "org.apache.commons.io.input.NullInputStreamTest"
+17:44:30.191 [main] INFO  - 69%: Reading information from row 111 (Clone group ID 303, clone #2)
+17:44:30.194 [main] INFO  - 69%: Generating PDG for method "testMarkNotSupported" in "org.apache.commons.io.input.NullReaderTest"
+17:44:30.195 [main] INFO  - 69%: Analyzing Clone #55 (Group 303, Pair 1-2): org.apache.commons.io.input.NullInputStreamTest#testMarkNotSupported (row 110) and org.apache.commons.io.input.NullReaderTest#testMarkNotSupported (row 111)
+17:44:30.202 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:30.202 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:44:30.204 [main] INFO  - Start mapping
+17:44:30.209 [main] INFO  - End mapping
+17:44:30.209 [main] INFO  - start to refactor clone pair
+17:44:30.209 [main] INFO  - CloneType: Type 2
+17:44:30.212 [main] INFO  - 71%: Reading information from row 112 (Clone group ID 309, clone #1)
+17:44:30.254 [main] INFO  - 71%: Generating PDG for method "testWriteLines_3argsWithAppendOptionTrue_ShouldNotDeletePreviousFileLines" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:30.323 [main] INFO  - 71%: Reading information from row 113 (Clone group ID 309, clone #2)
+17:44:30.325 [main] INFO  - 71%: Generating PDG for method "testWriteLines_3argsWithAppendOptionFalse_ShouldDeletePreviousFileLines" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:30.326 [main] INFO  - 71%: Analyzing Clone #56 (Group 309, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testWriteLines_3argsWithAppendOptionTrue_ShouldNotDeletePreviousFileLines (row 112) and org.apache.commons.io.FileUtilsTestCase#testWriteLines_3argsWithAppendOptionFalse_ShouldDeletePreviousFileLines (row 113)
+17:44:30.362 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:30.362 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:30.367 [main] INFO  - start to refactor clone pair
+17:44:30.367 [main] INFO  - CloneType: Type 2
+17:44:30.368 [main] INFO  - 72%: Reading information from row 114 (Clone group ID 310, clone #1)
+17:44:30.370 [main] INFO  - 72%: Generating PDG for method "testWriteByteArrayToFile_WithOffsetAndLength_WithAppendOptionTrue_ShouldNotDeletePreviousFileLines" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:30.432 [main] INFO  - 72%: Reading information from row 115 (Clone group ID 310, clone #2)
+17:44:30.434 [main] INFO  - 72%: Generating PDG for method "testWriteByteArrayToFile_WithOffsetAndLength_WithAppendOptionTrue_ShouldDeletePreviousFileLines" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:30.436 [main] INFO  - 72%: Analyzing Clone #57 (Group 310, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testWriteByteArrayToFile_WithOffsetAndLength_WithAppendOptionTrue_ShouldNotDeletePreviousFileLines (row 114) and org.apache.commons.io.FileUtilsTestCase#testWriteByteArrayToFile_WithOffsetAndLength_WithAppendOptionTrue_ShouldDeletePreviousFileLines (row 115)
+17:44:30.470 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:30.470 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:30.475 [main] INFO  - start to refactor clone pair
+17:44:30.475 [main] INFO  - CloneType: Type 2
+17:44:30.475 [main] INFO  - non-refactored node pair with initializer node: "This line was there before you..." + "this is brand new data"  <--->  "this is brand new data"  (TYPE_COMPATIBLE_REPLACEMENT)
+17:44:30.475 [main] INFO  - 73%: Reading information from row 116 (Clone group ID 314, clone #1)
+17:44:30.499 [main] INFO  - 73%: Generating PDG for method "testFilterList_fromArray" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:30.955 [main] INFO  - 73%: Reading information from row 117 (Clone group ID 314, clone #2)
+17:44:30.956 [main] INFO  - 73%: Generating PDG for method "testFilterSet_fromArray" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:31.855 [main] INFO  - 73%: Analyzing Clone #58 (Group 314, Pair 1-2): org.apache.commons.io.filefilter.FileFilterTestCase#testFilterList_fromArray (row 116) and org.apache.commons.io.filefilter.FileFilterTestCase#testFilterSet_fromArray (row 117)
+17:44:31.879 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:31.879 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:31.892 [main] INFO  - start to refactor clone pair
+17:44:31.892 [main] INFO  - CloneType: Type 2
+17:44:31.894 [main] INFO  - 75%: Reading information from row 118 (Clone group ID 315, clone #1)
+17:44:31.894 [main] INFO  - 75%: Generating PDG for method "testFilterListNullParameters" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:32.397 [main] INFO  - 75%: Reading information from row 119 (Clone group ID 315, clone #2)
+17:44:32.398 [main] INFO  - 75%: Generating PDG for method "testFilterSetNullParameters" in "org.apache.commons.io.filefilter.FileFilterTestCase"
+17:44:33.444 [main] INFO  - 75%: Analyzing Clone #59 (Group 315, Pair 1-2): org.apache.commons.io.filefilter.FileFilterTestCase#testFilterListNullParameters (row 118) and org.apache.commons.io.filefilter.FileFilterTestCase#testFilterSetNullParameters (row 119)
+17:44:33.471 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:33.471 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:44:33.472 [main] INFO  - Start mapping
+17:44:33.566 [main] INFO  - End mapping
+17:44:33.566 [main] INFO  - start to refactor clone pair
+17:44:33.566 [main] INFO  - CloneType: Type 2
+17:44:33.567 [main] INFO  - non-refactored node pair with MethodInvocation node: Arrays.asList((File)null)  <--->  new HashSet<File>(Arrays.asList((File)null))  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+17:44:33.568 [main] INFO  - 76%: Reading information from row 120 (Clone group ID 340, clone #1)
+17:44:33.574 [main] INFO  - 76%: Generating PDG for method "testIdentifiesSymlinkDir" in "org.apache.commons.io.FileUtilsCleanSymlinksTestCase"
+17:44:33.612 [main] INFO  - 76%: Reading information from row 121 (Clone group ID 340, clone #2)
+17:44:33.612 [main] INFO  - 76%: Generating PDG for method "testIdentifiesSymlinkFile" in "org.apache.commons.io.FileUtilsCleanSymlinksTestCase"
+17:44:33.639 [main] INFO  - 76%: Analyzing Clone #60 (Group 340, Pair 1-2): org.apache.commons.io.FileUtilsCleanSymlinksTestCase#testIdentifiesSymlinkDir (row 120) and org.apache.commons.io.FileUtilsCleanSymlinksTestCase#testIdentifiesSymlinkFile (row 121)
+17:44:33.647 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:33.648 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:33.648 [main] INFO  - Start mapping
+17:44:33.651 [main] INFO  - End mapping
+17:44:33.651 [main] INFO  - start to refactor clone pair
+17:44:33.651 [main] INFO  - CloneType: Type 2
+17:44:33.652 [main] ERROR - CloneStructure has PDG gap node.
+17:44:33.652 [main] INFO  - 77%: Reading information from row 122 (Clone group ID 352, clone #1)
+17:44:33.657 [main] INFO  - 77%: Generating PDG for method "testBelowThreshold" in "org.apache.commons.io.output.DeferredFileOutputStreamTest"
+17:44:33.671 [main] INFO  - 77%: Reading information from row 123 (Clone group ID 352, clone #2)
+17:44:33.671 [main] INFO  - 77%: Generating PDG for method "testAtThreshold" in "org.apache.commons.io.output.DeferredFileOutputStreamTest"
+17:44:33.671 [main] INFO  - 77%: Analyzing Clone #61 (Group 352, Pair 1-2): org.apache.commons.io.output.DeferredFileOutputStreamTest#testBelowThreshold (row 122) and org.apache.commons.io.output.DeferredFileOutputStreamTest#testAtThreshold (row 123)
+17:44:33.676 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:33.676 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:33.676 [main] INFO  - Start mapping
+17:44:33.679 [main] INFO  - End mapping
+17:44:33.679 [main] INFO  - start to refactor clone pair
+17:44:33.679 [main] INFO  - CloneType: Type 2
+17:44:33.680 [main] INFO  - 78%: Reading information from row 124 (Clone group ID 365, clone #1)
+17:44:33.691 [main] INFO  - 78%: Generating PDG for method "testGetBOMFirstThenReadInclude" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:34.161 [main] INFO  - 78%: Reading information from row 125 (Clone group ID 365, clone #2)
+17:44:34.162 [main] INFO  - 78%: Generating PDG for method "testReadWithBOMInclude" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:34.163 [main] INFO  - 78%: Analyzing Clone #62 (Group 365, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testGetBOMFirstThenReadInclude (row 124) and org.apache.commons.io.input.BOMInputStreamTest#testReadWithBOMInclude (row 125)
+17:44:34.174 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:34.174 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:34.507 [main] INFO  - start to refactor clone pair
+17:44:34.507 [main] INFO  - CloneType: Type 1
+17:44:34.508 [main] INFO  - 80%: Reading information from row 126 (Clone group ID 372, clone #1)
+17:44:34.518 [main] INFO  - 80%: Generating PDG for method "testFileCleanerDirectory" in "org.apache.commons.io.FileCleaningTrackerTestCase"
+17:44:44.399 [main] INFO  - 80%: Reading information from row 127 (Clone group ID 372, clone #2)
+17:44:44.399 [main] INFO  - 80%: Generating PDG for method "testFileCleanerDirectory_NullStrategy" in "org.apache.commons.io.FileCleaningTrackerTestCase"
+17:44:46.077 [main] INFO  - 80%: Analyzing Clone #63 (Group 372, Pair 1-2): org.apache.commons.io.FileCleaningTrackerTestCase#testFileCleanerDirectory (row 126) and org.apache.commons.io.FileCleaningTrackerTestCase#testFileCleanerDirectory_NullStrategy (row 127)
+17:44:46.087 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:46.087 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:46.100 [main] INFO  - start to refactor clone pair
+17:44:46.100 [main] INFO  - CloneType: Type 2
+17:44:46.100 [main] INFO  - non-refactored node pair with MethodInvocation node: theInstance.track(getTestDirectory(),obj)  <--->  theInstance.track(getTestDirectory(),obj,null)  (ARGUMENT_NUMBER_MISMATCH)
+17:44:46.100 [main] INFO  - 81%: Reading information from row 128 (Clone group ID 381, clone #1)
+17:44:46.118 [main] INFO  - 81%: Generating PDG for method "testGetBaseName" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:46.127 [main] INFO  - 81%: Reading information from row 129 (Clone group ID 381, clone #2)
+17:44:46.128 [main] INFO  - 81%: Generating PDG for method "testEquals" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:46.137 [main] INFO  - 81%: Analyzing Clone #64 (Group 381, Pair 1-2): org.apache.commons.io.FilenameUtilsTestCase#testGetBaseName (row 128) and org.apache.commons.io.FilenameUtilsTestCase#testEquals (row 129)
+17:44:46.161 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:46.161 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:50.645 [main] INFO  - start to refactor clone pair
+17:44:50.645 [main] INFO  - CloneType: Type 2
+17:44:50.646 [main] INFO  - non-refactored node pair with MethodInvocation node: assertEquals(null,FilenameUtils.getBaseName(null))  <--->  assertTrue(FilenameUtils.equals(null,null))  (ARGUMENT_NUMBER_MISMATCH)
+17:44:50.646 [main] INFO  - non-refactored node pair with MethodInvocation node: assertEquals("noseperator",FilenameUtils.getBaseName("noseperator.inthispath"))  <--->  assertFalse(FilenameUtils.equals(null,""))  (ARGUMENT_NUMBER_MISMATCH)
+17:44:50.646 [main] INFO  - non-refactored node pair with MethodInvocation node: assertEquals("c",FilenameUtils.getBaseName("a/b/c.txt"))  <--->  assertFalse(FilenameUtils.equals("",null))  (ARGUMENT_NUMBER_MISMATCH)
+17:44:50.646 [main] INFO  - non-refactored node pair with MethodInvocation node: assertEquals("c",FilenameUtils.getBaseName("a/b/c"))  <--->  assertTrue(FilenameUtils.equals("",""))  (ARGUMENT_NUMBER_MISMATCH)
+17:44:50.646 [main] INFO  - non-refactored node pair with MethodInvocation node: assertEquals("",FilenameUtils.getBaseName("a/b/c/"))  <--->  assertTrue(FilenameUtils.equals("file.txt","file.txt"))  (ARGUMENT_NUMBER_MISMATCH)
+17:44:50.646 [main] INFO  - non-refactored node pair with MethodInvocation node: assertEquals("c",FilenameUtils.getBaseName("a\\b\\c"))  <--->  assertFalse(FilenameUtils.equals("file.txt","FILE.TXT"))  (ARGUMENT_NUMBER_MISMATCH)
+17:44:50.646 [main] INFO  - non-refactored node pair with MethodInvocation node: assertEquals("file.txt",FilenameUtils.getBaseName("file.txt.bak"))  <--->  assertFalse(FilenameUtils.equals("a\\b\\file.txt","a/b/file.txt"))  (ARGUMENT_NUMBER_MISMATCH)
+17:44:50.646 [main] INFO  - 82%: Reading information from row 130 (Clone group ID 390, clone #1)
+17:44:50.671 [main] INFO  - 82%: Generating PDG for method "testToString_URI" in "org.apache.commons.io.IOUtilsTestCase"
+17:44:50.788 [main] INFO  - 82%: Reading information from row 131 (Clone group ID 390, clone #2)
+17:44:50.789 [main] INFO  - 82%: Generating PDG for method "testToString_URL" in "org.apache.commons.io.IOUtilsTestCase"
+17:44:50.866 [main] INFO  - 82%: Analyzing Clone #65 (Group 390, Pair 1-2): org.apache.commons.io.IOUtilsTestCase#testToString_URI (row 130) and org.apache.commons.io.IOUtilsTestCase#testToString_URL (row 131)
+17:44:50.893 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:50.893 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:50.895 [main] INFO  - start to refactor clone pair
+17:44:50.895 [main] INFO  - CloneType: Type 2
+17:44:50.895 [main] INFO  - method pair are not test cases!
+17:44:50.895 [main] INFO  - 83%: Reading information from row 132 (Clone group ID 411, clone #1)
+17:44:50.900 [main] INFO  - 83%: Generating PDG for method "testFileSizeIsExactMultipleOfBlockSize" in "org.apache.commons.io.input.ReversedLinesFileReaderTestParamBlockSize"
+17:44:50.926 [main] INFO  - 83%: Reading information from row 133 (Clone group ID 411, clone #2)
+17:44:50.929 [main] INFO  - 83%: Generating PDG for method "testFileSizeIsExactMultipleOfBlockSize" in "org.apache.commons.io.input.ReversedLinesFileReaderTestSimple"
+17:44:50.929 [main] INFO  - 83%: Analyzing Clone #66 (Group 411, Pair 1-2): org.apache.commons.io.input.ReversedLinesFileReaderTestParamBlockSize#testFileSizeIsExactMultipleOfBlockSize (row 132) and org.apache.commons.io.input.ReversedLinesFileReaderTestSimple#testFileSizeIsExactMultipleOfBlockSize (row 133)
+17:44:50.936 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:50.936 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:50.939 [main] INFO  - start to refactor clone pair
+17:44:50.940 [main] INFO  - CloneType: Type 2
+17:44:50.940 [main] INFO  - Containing unrefactorable ThisExpression: this
+17:44:50.940 [main] INFO  - Containing unrefactorable private field access: reversedLinesFileReader
+17:44:50.940 [main] INFO  - Containing unrefactorable private field access: ISO_8859_1
+17:44:50.940 [main] INFO  - different local method access: assertEqualsAndNoLineBreaks
+17:44:50.940 [main] INFO  - different local method access: assertEqualsAndNoLineBreaks
+17:44:50.940 [main] INFO  - 85%: Reading information from row 134 (Clone group ID 414, clone #1)
+17:44:50.951 [main] INFO  - 85%: Generating PDG for method "testLargeBufferWithBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:50.989 [main] INFO  - 85%: Reading information from row 135 (Clone group ID 414, clone #2)
+17:44:50.990 [main] INFO  - 85%: Generating PDG for method "testLargeBufferWithoutBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:50.991 [main] INFO  - 85%: Analyzing Clone #67 (Group 414, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testLargeBufferWithBOM (row 134) and org.apache.commons.io.input.BOMInputStreamTest#testLargeBufferWithoutBOM (row 135)
+17:44:51.002 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:51.002 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:51.004 [main] INFO  - start to refactor clone pair
+17:44:51.004 [main] INFO  - CloneType: Type 2
+17:44:51.005 [main] INFO  - 86%: Reading information from row 136 (Clone group ID 415, clone #1)
+17:44:51.005 [main] INFO  - 86%: Generating PDG for method "testMarkResetBeforeReadWithBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:51.098 [main] INFO  - 86%: Reading information from row 137 (Clone group ID 415, clone #2)
+17:44:51.099 [main] INFO  - 86%: Generating PDG for method "testMarkResetBeforeReadWithoutBOM" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:51.100 [main] INFO  - 86%: Analyzing Clone #68 (Group 415, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#testMarkResetBeforeReadWithBOM (row 136) and org.apache.commons.io.input.BOMInputStreamTest#testMarkResetBeforeReadWithoutBOM (row 137)
+17:44:51.111 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:51.111 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:51.122 [main] INFO  - start to refactor clone pair
+17:44:51.122 [main] INFO  - CloneType: Type 2
+17:44:51.123 [main] INFO  - 87%: Reading information from row 138 (Clone group ID 416, clone #1)
+17:44:51.129 [main] INFO  - 87%: Generating PDG for method "testZeroLength2" in "org.apache.commons.io.input.CountingInputStreamTest"
+17:44:51.137 [main] INFO  - 87%: Reading information from row 139 (Clone group ID 416, clone #2)
+17:44:51.137 [main] INFO  - 87%: Generating PDG for method "testEOF2" in "org.apache.commons.io.input.CountingInputStreamTest"
+17:44:51.138 [main] INFO  - 87%: Analyzing Clone #69 (Group 416, Pair 1-2): org.apache.commons.io.input.CountingInputStreamTest#testZeroLength2 (row 138) and org.apache.commons.io.input.CountingInputStreamTest#testEOF2 (row 139)
+17:44:51.144 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:51.144 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:51.146 [main] INFO  - start to refactor clone pair
+17:44:51.146 [main] INFO  - CloneType: Type 2
+17:44:51.147 [main] INFO  - 89%: Reading information from row 140 (Clone group ID 417, clone #1)
+17:44:51.150 [main] INFO  - 89%: Generating PDG for method "testEOFException" in "org.apache.commons.io.input.NullInputStreamTest"
+17:44:51.152 [main] INFO  - 89%: Reading information from row 141 (Clone group ID 417, clone #2)
+17:44:51.155 [main] INFO  - 89%: Generating PDG for method "testEOFException" in "org.apache.commons.io.input.NullReaderTest"
+17:44:51.185 [main] INFO  - 89%: Analyzing Clone #70 (Group 417, Pair 1-2): org.apache.commons.io.input.NullInputStreamTest#testEOFException (row 140) and org.apache.commons.io.input.NullReaderTest#testEOFException (row 141)
+17:44:51.191 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:51.191 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:51.192 [main] INFO  - Start mapping
+17:44:51.198 [main] INFO  - End mapping
+17:44:51.198 [main] INFO  - start to refactor clone pair
+17:44:51.198 [main] INFO  - CloneType: Type 2
+17:44:51.200 [main] INFO  - 90%: Reading information from row 142 (Clone group ID 419, clone #1)
+17:44:51.212 [main] INFO  - 90%: Generating PDG for method "testWrite_byteArrayToWriter_nullData" in "org.apache.commons.io.IOUtilsWriteTestCase"
+17:44:51.660 [main] INFO  - 90%: Reading information from row 143 (Clone group ID 419, clone #2)
+17:44:51.661 [main] INFO  - 90%: Generating PDG for method "testWrite_charArrayToWriter_Encoding_nullData" in "org.apache.commons.io.IOUtilsWriteTestCase"
+17:44:51.662 [main] INFO  - 90%: Analyzing Clone #71 (Group 419, Pair 1-2): org.apache.commons.io.IOUtilsWriteTestCase#testWrite_byteArrayToWriter_nullData (row 142) and org.apache.commons.io.IOUtilsWriteTestCase#testWrite_charArrayToWriter_Encoding_nullData (row 143)
+17:44:51.673 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:51.673 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:51.676 [main] INFO  - start to refactor clone pair
+17:44:51.676 [main] INFO  - CloneType: Type 1
+17:44:51.677 [main] INFO  - 91%: Reading information from row 144 (Clone group ID 425, clone #1)
+17:44:51.713 [main] INFO  - 91%: Generating PDG for method "testReadFileToStringWithEncoding" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:51.801 [main] INFO  - 91%: Reading information from row 145 (Clone group ID 425, clone #2)
+17:44:51.803 [main] INFO  - 91%: Generating PDG for method "testWriteByteArrayToFile_WithAppendOptionTrue_ShouldNotDeletePreviousFileLines" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:51.828 [main] INFO  - 91%: Analyzing Clone #72 (Group 425, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testReadFileToStringWithEncoding (row 144) and org.apache.commons.io.FileUtilsTestCase#testWriteByteArrayToFile_WithAppendOptionTrue_ShouldNotDeletePreviousFileLines (row 145)
+17:44:51.866 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:51.866 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:51.904 [main] INFO  - start to refactor clone pair
+17:44:51.904 [main] INFO  - Non refactorable CloneType: Type 3
+17:44:51.905 [main] INFO  - 92%: Reading information from row 146 (Clone group ID 427, clone #1)
+17:44:51.923 [main] INFO  - 92%: Generating PDG for method "testNormalizeUnixWin" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:51.943 [main] INFO  - 92%: Reading information from row 147 (Clone group ID 427, clone #2)
+17:44:51.943 [main] INFO  - 92%: Generating PDG for method "testNormalizeNoEndSeparatorUnixWin" in "org.apache.commons.io.FilenameUtilsTestCase"
+17:44:51.944 [main] INFO  - 92%: Analyzing Clone #73 (Group 427, Pair 1-2): org.apache.commons.io.FilenameUtilsTestCase#testNormalizeUnixWin (row 146) and org.apache.commons.io.FilenameUtilsTestCase#testNormalizeNoEndSeparatorUnixWin (row 147)
+17:44:51.962 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:51.962 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:51.976 [main] INFO  - start to refactor clone pair
+17:44:51.976 [main] INFO  - CloneType: Type 2
+17:44:51.977 [main] INFO  - 94%: Reading information from row 148 (Clone group ID 442, clone #1)
+17:44:51.984 [main] INFO  - 94%: Generating PDG for method "testCalculateRawEncodingAdditonalUTF16" in "org.apache.commons.io.input.XmlStreamReaderUtilitiesTest"
+17:44:51.984 [main] INFO  - 94%: Reading information from row 149 (Clone group ID 442, clone #2)
+17:44:51.985 [main] INFO  - 94%: Generating PDG for method "testCalculateRawEncodingAdditonalUTF32" in "org.apache.commons.io.input.XmlStreamReaderUtilitiesTest"
+17:44:51.985 [main] INFO  - 94%: Analyzing Clone #74 (Group 442, Pair 1-2): org.apache.commons.io.input.XmlStreamReaderUtilitiesTest#testCalculateRawEncodingAdditonalUTF16 (row 148) and org.apache.commons.io.input.XmlStreamReaderUtilitiesTest#testCalculateRawEncodingAdditonalUTF32 (row 149)
+17:44:51.991 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:51.991 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:52.010 [main] INFO  - start to refactor clone pair
+17:44:52.010 [main] INFO  - CloneType: Type 2
+17:44:52.012 [main] INFO  - 95%: Reading information from row 150 (Clone group ID 462, clone #1)
+17:44:52.023 [main] INFO  - 95%: Generating PDG for method "skipReturnValueWithBom" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:52.042 [main] INFO  - 95%: Reading information from row 151 (Clone group ID 462, clone #2)
+17:44:52.043 [main] INFO  - 95%: Generating PDG for method "skipReturnValueWithoutBom" in "org.apache.commons.io.input.BOMInputStreamTest"
+17:44:52.044 [main] INFO  - 95%: Analyzing Clone #75 (Group 462, Pair 1-2): org.apache.commons.io.input.BOMInputStreamTest#skipReturnValueWithBom (row 150) and org.apache.commons.io.input.BOMInputStreamTest#skipReturnValueWithoutBom (row 151)
+17:44:52.055 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:44:52.055 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:52.061 [main] INFO  - start to refactor clone pair
+17:44:52.061 [main] INFO  - CloneType: Type 2
+17:44:52.061 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:44:52.061 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:44:52.061 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:44:52.062 [main] INFO  - 96%: Reading information from row 152 (Clone group ID 468, clone #1)
+17:44:52.098 [main] INFO  - 96%: Generating PDG for method "test_openInputStream_exists" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:52.132 [main] INFO  - 96%: Reading information from row 153 (Clone group ID 468, clone #2)
+17:44:52.154 [main] INFO  - 96%: Generating PDG for method "testToString_InputStream" in "org.apache.commons.io.IOUtilsTestCase"
+17:44:52.173 [main] INFO  - 96%: Analyzing Clone #76 (Group 468, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#test_openInputStream_exists (row 152) and org.apache.commons.io.IOUtilsTestCase#testToString_InputStream (row 153)
+17:44:52.230 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:52.230 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:52.231 [main] INFO  - Start mapping
+17:44:52.250 [main] INFO  - End mapping
+17:44:52.250 [main] INFO  - start to refactor clone pair
+17:44:52.250 [main] INFO  - Non refactorable CloneType: Type 3
+17:44:52.250 [main] INFO  - 97%: Reading information from row 154 (Clone group ID 480, clone #1)
+17:44:52.252 [main] INFO  - 97%: Generating PDG for method "testMoveFileToDirectory_Errors" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:52.342 [main] INFO  - 97%: Reading information from row 155 (Clone group ID 480, clone #2)
+17:44:52.344 [main] INFO  - 97%: Generating PDG for method "testMoveDirectoryToDirectory_Errors" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:52.348 [main] INFO  - 97%: Analyzing Clone #77 (Group 480, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testMoveFileToDirectory_Errors (row 154) and org.apache.commons.io.FileUtilsTestCase#testMoveDirectoryToDirectory_Errors (row 155)
+17:44:52.385 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:52.385 [main] INFO  - CDT 1 leaves = 8, CDT 2 leaves = 8
+17:44:52.389 [main] INFO  - Start mapping
+17:44:52.440 [main] INFO  - End mapping
+17:44:52.440 [main] INFO  - start to refactor clone pair
+17:44:52.440 [main] INFO  - CloneType: Type 2
+17:44:52.443 [main] INFO  - 99%: Reading information from row 156 (Clone group ID 496, clone #1)
+17:44:52.445 [main] INFO  - 99%: Generating PDG for method "testChecksumOnNullChecksum" in "org.apache.commons.io.FileUtilsTestCase"
+17:44:52.564 [main] INFO  - 99%: Reading information from row 157 (Clone group ID 496, clone #2)
+17:44:52.572 [main] INFO  - 99%: Generating PDG for method "testMissingFile" in "org.apache.commons.io.LineIteratorTestCase"
+17:44:52.573 [main] INFO  - 99%: Analyzing Clone #78 (Group 496, Pair 1-2): org.apache.commons.io.FileUtilsTestCase#testChecksumOnNullChecksum (row 156) and org.apache.commons.io.LineIteratorTestCase#testMissingFile (row 157)
+17:44:52.618 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:44:52.618 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:44:52.619 [main] INFO  - Start mapping
+17:44:52.621 [main] INFO  - End mapping
+17:44:52.621 [main] INFO  - start to refactor clone pair
+17:44:52.621 [main] INFO  - Non refactorable CloneType: Type 3
+17:44:53.591 [main] INFO  - Applying changes to source files
+17:44:53.591 [main] INFO  - refactoring 39 clone method pairs.
+17:44:53.591 [main] INFO  - skipping 29 clone method pairs:
+17:44:53.591 [main] INFO  - 	2 not test cases
+17:44:53.591 [main] INFO  - 	10 containing gap nodes (type3)
+17:44:53.591 [main] INFO  - 	16 not refactorable
+17:44:53.591 [main] INFO  - 	1 repeated naming
+17:44:53.591 [main] INFO  - 	1 access issues
+17:44:53.591 [main] INFO  - 	 *org.apache.commons.io.input.CountingInputStreamTest: void testZeroLength3() <---> org.apache.commons.io.input.CountingInputStreamTest: void testEOF3()
+17:44:53.591 [main] INFO  - 	  org.apache.commons.io.input.CountingInputStreamTest: void testZeroLength2() <---> org.apache.commons.io.input.CountingInputStreamTest: void testEOF2()
+17:44:53.591 [main] INFO  - type1 count: 2
+17:44:53.591 [main] INFO  - type2 count: 66
+17:44:53.591 [main] INFO  - type3 count: 8
+17:44:53.592 [main] INFO  - effective refactoring ratio: 39/55 = 70.9%
+17:44:53.592 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BoundedReaderTest.java#markResetWithMarkOutsideBoundedReaderMax <---> org.apache.commons.io.input.BoundedReaderTest.java#markResetWithMarkOutsideBoundedReaderMaxAndInitialOffset
+17:44:53.931 [main] INFO  - refactoring method pair: org.apache.commons.io.FilenameUtilsTestCase.java#testGetFullPath <---> org.apache.commons.io.FilenameUtilsTestCase.java#testGetFullPathNoEndSeparator
+17:44:54.433 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testReadWithBOMUtf32Be <---> org.apache.commons.io.input.BOMInputStreamTest.java#testReadWithBOMUtf32Le
+17:44:54.827 [main] INFO  - refactoring method pair: org.apache.commons.io.filefilter.FileFilterTestCase.java#testMakeDirectoryOnly <---> org.apache.commons.io.filefilter.FileFilterTestCase.java#testMakeFileOnly
+17:44:55.252 [main] INFO  - refactoring method pair: org.apache.commons.io.FileUtilsTestCase.java#testForceDeleteAFile1 <---> org.apache.commons.io.FileUtilsTestCase.java#testForceDeleteAFile2
+17:44:55.600 [main] INFO  - refactoring method pair: org.apache.commons.io.EndianUtilsTest.java#testReadSwappedInteger <---> org.apache.commons.io.EndianUtilsTest.java#testReadSwappedUnsignedInteger
+17:44:55.937 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testReadXmlWithBOMUtf32Be <---> org.apache.commons.io.input.BOMInputStreamTest.java#testReadXmlWithBOMUtf32Le
+17:44:56.281 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testSkipWithBOM <---> org.apache.commons.io.input.BOMInputStreamTest.java#testSkipWithoutBOM
+17:44:56.580 [main] INFO  - refactoring method pair: org.apache.commons.io.comparator.ComparatorAbstractTestCase.java#testComparator <---> org.apache.commons.io.comparator.ComparatorAbstractTestCase.java#testReverseComparator
+17:44:56.918 [main] INFO  - refactoring method pair: org.apache.commons.io.filefilter.FileFilterTestCase.java#testTrue <---> org.apache.commons.io.filefilter.FileFilterTestCase.java#testFalse
+17:44:57.287 [main] INFO  - refactoring method pair: org.apache.commons.io.FilenameUtilsTestCase.java#testGetExtension <---> org.apache.commons.io.FilenameUtilsTestCase.java#testRemoveExtension
+17:44:57.646 [main] INFO  - refactoring method pair: org.apache.commons.io.IOCaseTestCase.java#test_getName <---> org.apache.commons.io.IOCaseTestCase.java#test_toString
+17:44:57.981 [main] INFO  - refactoring method pair: org.apache.commons.io.EndianUtilsTest.java#testReadSwappedShort <---> org.apache.commons.io.EndianUtilsTest.java#testReadSwappedUnsignedShort
+17:44:58.275 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testEmptyBufferWithBOM <---> org.apache.commons.io.input.BOMInputStreamTest.java#testEmptyBufferWithoutBOM
+17:44:58.558 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testReadXmlWithoutBOMUtf32Be <---> org.apache.commons.io.input.BOMInputStreamTest.java#testReadXmlWithoutBOMUtf32Le
+17:44:58.974 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testSmallBufferWithBOM <---> org.apache.commons.io.input.BOMInputStreamTest.java#testSmallBufferWithoutBOM
+17:44:59.312 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testReadWithBOMUtf16Be <---> org.apache.commons.io.input.BOMInputStreamTest.java#testReadWithBOMUtf16Le
+17:44:59.679 [main] INFO  - refactoring method pair: org.apache.commons.io.DemuxTestCase.java#testOutputStream <---> org.apache.commons.io.DemuxTestCase.java#testInputStream
+17:45:00.009 [main] INFO  - refactoring method pair: org.apache.commons.io.filefilter.FileFilterTestCase.java#testMakeCVSAware <---> org.apache.commons.io.filefilter.FileFilterTestCase.java#testMakeSVNAware
+17:45:00.361 [main] INFO  - refactoring method pair: org.apache.commons.io.input.CountingInputStreamTest.java#testZeroLength3 <---> org.apache.commons.io.input.CountingInputStreamTest.java#testEOF3
+17:45:00.660 [main] INFO  - refactoring method pair: org.apache.commons.io.FileUtilsTestCase.java#testWriteLines_5argsWithAppendOptionTrue_ShouldNotDeletePreviousFileLines <---> org.apache.commons.io.FileUtilsTestCase.java#testWriteLines_5argsWithAppendOptionFalse_ShouldDeletePreviousFileLines
+17:45:01.004 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BoundedReaderTest.java#readMulti <---> org.apache.commons.io.input.BoundedReaderTest.java#readMultiWithOffset
+17:45:01.306 [main] INFO  - refactoring method pair: org.apache.commons.io.input.NullInputStreamTest.java#testSkip <---> org.apache.commons.io.input.NullReaderTest.java#testSkip
+17:45:01.601 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testAvailableWithBOM <---> org.apache.commons.io.input.BOMInputStreamTest.java#testAvailableWithoutBOM
+17:45:01.890 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BoundedReaderTest.java#markReset <---> org.apache.commons.io.input.BoundedReaderTest.java#markResetMarkMore
+17:45:02.171 [main] INFO  - refactoring method pair: org.apache.commons.io.output.TeeOutputStreamTest.java#testCloseBranchIOException <---> org.apache.commons.io.output.TeeOutputStreamTest.java#testCloseMainIOException
+17:45:02.451 [main] INFO  - refactoring method pair: org.apache.commons.io.input.NullInputStreamTest.java#testMarkNotSupported <---> org.apache.commons.io.input.NullReaderTest.java#testMarkNotSupported
+17:45:02.730 [main] INFO  - refactoring method pair: org.apache.commons.io.FileUtilsTestCase.java#testWriteLines_3argsWithAppendOptionTrue_ShouldNotDeletePreviousFileLines <---> org.apache.commons.io.FileUtilsTestCase.java#testWriteLines_3argsWithAppendOptionFalse_ShouldDeletePreviousFileLines
+17:45:03.067 [main] INFO  - refactoring method pair: org.apache.commons.io.filefilter.FileFilterTestCase.java#testFilterList_fromArray <---> org.apache.commons.io.filefilter.FileFilterTestCase.java#testFilterSet_fromArray
+17:45:03.467 [main] INFO  - refactoring method pair: org.apache.commons.io.output.DeferredFileOutputStreamTest.java#testBelowThreshold <---> org.apache.commons.io.output.DeferredFileOutputStreamTest.java#testAtThreshold
+17:45:03.760 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testGetBOMFirstThenReadInclude <---> org.apache.commons.io.input.BOMInputStreamTest.java#testReadWithBOMInclude
+17:45:04.068 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testLargeBufferWithBOM <---> org.apache.commons.io.input.BOMInputStreamTest.java#testLargeBufferWithoutBOM
+17:45:04.372 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#testMarkResetBeforeReadWithBOM <---> org.apache.commons.io.input.BOMInputStreamTest.java#testMarkResetBeforeReadWithoutBOM
+17:45:04.661 [main] INFO  - refactoring method pair: org.apache.commons.io.input.NullInputStreamTest.java#testEOFException <---> org.apache.commons.io.input.NullReaderTest.java#testEOFException
+17:45:04.935 [main] INFO  - refactoring method pair: org.apache.commons.io.IOUtilsWriteTestCase.java#testWrite_byteArrayToWriter_nullData <---> org.apache.commons.io.IOUtilsWriteTestCase.java#testWrite_charArrayToWriter_Encoding_nullData
+17:45:05.213 [main] INFO  - refactoring method pair: org.apache.commons.io.FilenameUtilsTestCase.java#testNormalizeUnixWin <---> org.apache.commons.io.FilenameUtilsTestCase.java#testNormalizeNoEndSeparatorUnixWin
+17:45:05.562 [main] INFO  - refactoring method pair: org.apache.commons.io.input.XmlStreamReaderUtilitiesTest.java#testCalculateRawEncodingAdditonalUTF16 <---> org.apache.commons.io.input.XmlStreamReaderUtilitiesTest.java#testCalculateRawEncodingAdditonalUTF32
+17:45:06.225 [main] INFO  - refactoring method pair: org.apache.commons.io.input.BOMInputStreamTest.java#skipReturnValueWithBom <---> org.apache.commons.io.input.BOMInputStreamTest.java#skipReturnValueWithoutBom
+17:45:06.528 [main] INFO  - refactoring method pair: org.apache.commons.io.FileUtilsTestCase.java#testMoveFileToDirectory_Errors <---> org.apache.commons.io.FileUtilsTestCase.java#testMoveDirectoryToDirectory_Errors
+17:45:06.988 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/commons-io-2.5/commons-io-2.5-deckard-50-0.95-0-selected.xls, output file: /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/commons-io-2.5/commons-io-2.5-deckard-50-0.95-0-selected-analyzed.xls

@@ -1,0 +1,280 @@
+17:45:08.420 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/commons-collections-4.3/log.log
+17:45:08.430 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/commons-collections-4.3/commons_collection_4.3-deckard-50-0.95-0-selected.xls
+17:45:09.236 [main] INFO  - 2%: Reading information from row 2 (Clone group ID 30, clone #1)
+17:45:09.263 [main] INFO  - 2%: Generating PDG for method "forEach" in "org.apache.commons.collections4.IterableUtilsTest"
+17:45:11.556 [main] INFO  - 2%: Reading information from row 3 (Clone group ID 30, clone #2)
+17:45:11.580 [main] INFO  - 2%: Generating PDG for method "testRetainAll" in "org.apache.commons.collections4.ListUtilsTest"
+17:45:11.605 [main] INFO  - 2%: Analyzing Clone #1 (Group 30, Pair 1-2): org.apache.commons.collections4.IterableUtilsTest#forEach (row 2) and org.apache.commons.collections4.ListUtilsTest#testRetainAll (row 3)
+17:45:11.648 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:11.648 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:11.661 [main] INFO  - Start mapping
+17:45:11.725 [main] INFO  - End mapping
+17:45:11.729 [main] INFO  - start to refactor clone pair
+17:45:11.730 [main] INFO  - Non refactorable CloneType: Type 3
+17:45:11.730 [main] INFO  - 6%: Reading information from row 4 (Clone group ID 33, clone #1)
+17:45:11.756 [main] INFO  - 6%: Generating PDG for method "testEquals1" in "org.apache.commons.collections4.map.Flat3MapTest"
+17:45:11.814 [main] INFO  - 6%: Reading information from row 5 (Clone group ID 33, clone #2)
+17:45:11.814 [main] INFO  - 6%: Generating PDG for method "testEquals2" in "org.apache.commons.collections4.map.Flat3MapTest"
+17:45:11.816 [main] INFO  - 6%: Analyzing Clone #2 (Group 33, Pair 1-2): org.apache.commons.collections4.map.Flat3MapTest#testEquals1 (row 4) and org.apache.commons.collections4.map.Flat3MapTest#testEquals2 (row 5)
+17:45:11.838 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:11.838 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:11.887 [main] INFO  - start to refactor clone pair
+17:45:11.887 [main] INFO  - CloneType: Type 2
+17:45:11.899 [main] INFO  - exception: java.lang.NullPointerException
+17:45:11.899 [main] INFO  - 10%: Reading information from row 6 (Clone group ID 81, clone #1)
+17:45:11.910 [main] INFO  - 10%: Generating PDG for method "testListAddIndexed" in "org.apache.commons.collections4.set.ListOrderedSet2Test"
+17:45:11.932 [main] INFO  - 10%: Reading information from row 7 (Clone group ID 81, clone #2)
+17:45:11.946 [main] INFO  - 10%: Generating PDG for method "testListAddIndexed" in "org.apache.commons.collections4.set.ListOrderedSetTest"
+17:45:11.949 [main] INFO  - 10%: Analyzing Clone #3 (Group 81, Pair 1-2): org.apache.commons.collections4.set.ListOrderedSet2Test#testListAddIndexed (row 6) and org.apache.commons.collections4.set.ListOrderedSetTest#testListAddIndexed (row 7)
+17:45:11.972 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:11.972 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.048 [main] INFO  - start to refactor clone pair
+17:45:12.048 [main] INFO  - CloneType: Type 1
+17:45:12.054 [main] INFO  - exception: java.lang.NullPointerException
+17:45:12.054 [main] INFO  - 14%: Reading information from row 8 (Clone group ID 88, clone #1)
+17:45:12.073 [main] INFO  - 14%: Generating PDG for method "gc" in "org.apache.commons.collections4.map.ReferenceIdentityMapTest"
+17:45:12.074 [main] INFO  - 14%: Reading information from row 9 (Clone group ID 88, clone #2)
+17:45:12.099 [main] INFO  - 14%: Generating PDG for method "gc" in "org.apache.commons.collections4.map.ReferenceMapTest"
+17:45:12.099 [main] INFO  - 14%: Analyzing Clone #4 (Group 88, Pair 1-2): org.apache.commons.collections4.map.ReferenceIdentityMapTest#gc (row 8) and org.apache.commons.collections4.map.ReferenceMapTest#gc (row 9)
+17:45:12.132 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:12.132 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.133 [main] INFO  - Start mapping
+17:45:12.135 [main] INFO  - End mapping
+17:45:12.135 [main] INFO  - start to refactor clone pair
+17:45:12.135 [main] INFO  - CloneType: Type 1
+17:45:12.135 [main] INFO  - method pair are not test cases!
+17:45:12.135 [main] INFO  - 18%: Reading information from row 10 (Clone group ID 104, clone #1)
+17:45:12.142 [main] INFO  - 18%: Generating PDG for method "nullLowComparator" in "org.apache.commons.collections4.ComparatorUtilsTest"
+17:45:12.149 [main] INFO  - 18%: Reading information from row 11 (Clone group ID 104, clone #2)
+17:45:12.150 [main] INFO  - 18%: Generating PDG for method "nullHighComparator" in "org.apache.commons.collections4.ComparatorUtilsTest"
+17:45:12.150 [main] INFO  - 18%: Analyzing Clone #5 (Group 104, Pair 1-2): org.apache.commons.collections4.ComparatorUtilsTest#nullLowComparator (row 10) and org.apache.commons.collections4.ComparatorUtilsTest#nullHighComparator (row 11)
+17:45:12.155 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:12.155 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.167 [main] INFO  - start to refactor clone pair
+17:45:12.167 [main] INFO  - CloneType: Type 2
+17:45:12.171 [main] INFO  - unrefactorable InfixExpr node pair containing local variables: comp.compare(null,10) < 0  <--->  comp.compare(null,10) > 0  (OPERATOR_MISMATCH)
+17:45:12.172 [main] INFO  - 22%: Reading information from row 12 (Clone group ID 117, clone #1)
+17:45:12.182 [main] INFO  - 22%: Generating PDG for method "testListAddRemove" in "org.apache.commons.collections4.set.ListOrderedSet2Test"
+17:45:12.204 [main] INFO  - 22%: Reading information from row 13 (Clone group ID 117, clone #2)
+17:45:12.216 [main] INFO  - 22%: Generating PDG for method "testListAddRemove" in "org.apache.commons.collections4.set.ListOrderedSetTest"
+17:45:12.218 [main] INFO  - 22%: Analyzing Clone #6 (Group 117, Pair 1-2): org.apache.commons.collections4.set.ListOrderedSet2Test#testListAddRemove (row 12) and org.apache.commons.collections4.set.ListOrderedSetTest#testListAddRemove (row 13)
+17:45:12.237 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:12.237 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.303 [main] INFO  - start to refactor clone pair
+17:45:12.303 [main] INFO  - CloneType: Type 1
+17:45:12.305 [main] INFO  - exception: java.lang.NullPointerException
+17:45:12.305 [main] INFO  - 27%: Reading information from row 14 (Clone group ID 130, clone #1)
+17:45:12.319 [main] INFO  - 27%: Generating PDG for method "testMapGet2" in "org.apache.commons.collections4.map.DefaultedMapTest"
+17:45:12.333 [main] INFO  - 27%: Reading information from row 15 (Clone group ID 130, clone #2)
+17:45:12.334 [main] INFO  - 27%: Generating PDG for method "testMapGet3" in "org.apache.commons.collections4.map.DefaultedMapTest"
+17:45:12.339 [main] INFO  - 27%: Analyzing Clone #7 (Group 130, Pair 1-2): org.apache.commons.collections4.map.DefaultedMapTest#testMapGet2 (row 14) and org.apache.commons.collections4.map.DefaultedMapTest#testMapGet3 (row 15)
+17:45:12.354 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:12.354 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.366 [main] INFO  - start to refactor clone pair
+17:45:12.366 [main] INFO  - CloneType: Type 2
+17:45:12.367 [main] ERROR - CloneStructure has PDG gap node.
+17:45:12.368 [main] INFO  - 31%: Reading information from row 16 (Clone group ID 161, clone #1)
+17:45:12.418 [main] INFO  - 31%: Generating PDG for method "testVerbosePrintNullLabelAndMap" in "org.apache.commons.collections4.MapUtilsTest"
+17:45:12.519 [main] INFO  - 31%: Reading information from row 17 (Clone group ID 161, clone #2)
+17:45:12.519 [main] INFO  - 31%: Generating PDG for method "testDebugPrintNullLabelAndMap" in "org.apache.commons.collections4.MapUtilsTest"
+17:45:12.521 [main] INFO  - 31%: Analyzing Clone #8 (Group 161, Pair 1-2): org.apache.commons.collections4.MapUtilsTest#testVerbosePrintNullLabelAndMap (row 16) and org.apache.commons.collections4.MapUtilsTest#testDebugPrintNullLabelAndMap (row 17)
+17:45:12.556 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:12.556 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.592 [main] INFO  - start to refactor clone pair
+17:45:12.592 [main] INFO  - CloneType: Type 2
+17:45:12.594 [main] INFO  - 35%: Reading information from row 18 (Clone group ID 173, clone #1)
+17:45:12.605 [main] INFO  - 35%: Generating PDG for method "testRemoveFirst" in "org.apache.commons.collections4.iterators.SkippingIteratorTest"
+17:45:12.613 [main] INFO  - 35%: Reading information from row 19 (Clone group ID 173, clone #2)
+17:45:12.613 [main] INFO  - 35%: Generating PDG for method "testRemoveLast" in "org.apache.commons.collections4.iterators.SkippingIteratorTest"
+17:45:12.615 [main] INFO  - 35%: Analyzing Clone #9 (Group 173, Pair 1-2): org.apache.commons.collections4.iterators.SkippingIteratorTest#testRemoveFirst (row 18) and org.apache.commons.collections4.iterators.SkippingIteratorTest#testRemoveLast (row 19)
+17:45:12.623 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:12.623 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 2
+17:45:12.624 [main] INFO  - Start mapping
+17:45:12.637 [main] INFO  - End mapping
+17:45:12.637 [main] INFO  - start to refactor clone pair
+17:45:12.637 [main] INFO  - Non refactorable CloneType: Type 3
+17:45:12.637 [main] INFO  - 39%: Reading information from row 20 (Clone group ID 193, clone #1)
+17:45:12.642 [main] INFO  - 39%: Generating PDG for method "max" in "org.apache.commons.collections4.ComparatorUtilsTest"
+17:45:12.649 [main] INFO  - 39%: Reading information from row 21 (Clone group ID 193, clone #2)
+17:45:12.650 [main] INFO  - 39%: Generating PDG for method "min" in "org.apache.commons.collections4.ComparatorUtilsTest"
+17:45:12.652 [main] INFO  - 39%: Analyzing Clone #10 (Group 193, Pair 1-2): org.apache.commons.collections4.ComparatorUtilsTest#max (row 20) and org.apache.commons.collections4.ComparatorUtilsTest#min (row 21)
+17:45:12.656 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:12.656 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:45:12.658 [main] INFO  - Start mapping
+17:45:12.677 [main] INFO  - End mapping
+17:45:12.678 [main] INFO  - start to refactor clone pair
+17:45:12.678 [main] INFO  - CloneType: Type 2
+17:45:12.682 [main] INFO  - 43%: Reading information from row 22 (Clone group ID 213, clone #1)
+17:45:12.693 [main] INFO  - 43%: Generating PDG for method "testClone" in "org.apache.commons.collections4.map.HashedMapTest"
+17:45:12.715 [main] INFO  - 43%: Reading information from row 23 (Clone group ID 213, clone #2)
+17:45:12.732 [main] INFO  - 43%: Generating PDG for method "testClone" in "org.apache.commons.collections4.map.LinkedMapTest"
+17:45:12.743 [main] INFO  - 43%: Analyzing Clone #11 (Group 213, Pair 1-2): org.apache.commons.collections4.map.HashedMapTest#testClone (row 22) and org.apache.commons.collections4.map.LinkedMapTest#testClone (row 23)
+17:45:12.766 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:12.767 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.780 [main] INFO  - start to refactor clone pair
+17:45:12.780 [main] INFO  - CloneType: Type 2
+17:45:12.781 [main] INFO  - exception: java.lang.NullPointerException
+17:45:12.781 [main] INFO  - 47%: Reading information from row 24 (Clone group ID 229, clone #1)
+17:45:12.791 [main] INFO  - 47%: Generating PDG for method "testGetKeysArrayConstructorCloned" in "org.apache.commons.collections4.keyvalue.MultiKeyTest"
+17:45:12.801 [main] INFO  - 47%: Reading information from row 25 (Clone group ID 229, clone #2)
+17:45:12.802 [main] INFO  - 47%: Generating PDG for method "testGetKeysArrayConstructorNonCloned" in "org.apache.commons.collections4.keyvalue.MultiKeyTest"
+17:45:12.803 [main] INFO  - 47%: Analyzing Clone #12 (Group 229, Pair 1-2): org.apache.commons.collections4.keyvalue.MultiKeyTest#testGetKeysArrayConstructorCloned (row 24) and org.apache.commons.collections4.keyvalue.MultiKeyTest#testGetKeysArrayConstructorNonCloned (row 25)
+17:45:12.812 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:12.812 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.821 [main] INFO  - start to refactor clone pair
+17:45:12.821 [main] INFO  - CloneType: Type 2
+17:45:12.823 [main] INFO  - 51%: Reading information from row 26 (Clone group ID 253, clone #1)
+17:45:12.833 [main] INFO  - 51%: Generating PDG for method "testIllegalAddAll" in "org.apache.commons.collections4.set.PredicatedNavigableSetTest"
+17:45:12.841 [main] INFO  - 51%: Reading information from row 27 (Clone group ID 253, clone #2)
+17:45:12.851 [main] INFO  - 51%: Generating PDG for method "testIllegalAddAll" in "org.apache.commons.collections4.set.PredicatedSortedSetTest"
+17:45:12.856 [main] INFO  - 51%: Analyzing Clone #13 (Group 253, Pair 1-2): org.apache.commons.collections4.set.PredicatedNavigableSetTest#testIllegalAddAll (row 26) and org.apache.commons.collections4.set.PredicatedSortedSetTest#testIllegalAddAll (row 27)
+17:45:12.873 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:12.873 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.873 [main] INFO  - Start mapping
+17:45:12.890 [main] INFO  - End mapping
+17:45:12.890 [main] INFO  - start to refactor clone pair
+17:45:12.890 [main] INFO  - CloneType: Type 2
+17:45:12.892 [main] INFO  - exception: java.lang.NullPointerException
+17:45:12.892 [main] INFO  - 55%: Reading information from row 28 (Clone group ID 258, clone #1)
+17:45:12.899 [main] INFO  - 55%: Generating PDG for method "testListIteratorSet" in "org.apache.commons.collections4.iterators.ArrayListIteratorTest"
+17:45:12.901 [main] INFO  - 55%: Reading information from row 29 (Clone group ID 258, clone #2)
+17:45:12.907 [main] INFO  - 55%: Generating PDG for method "testListIteratorSet" in "org.apache.commons.collections4.iterators.ObjectArrayListIteratorTest"
+17:45:12.908 [main] INFO  - 55%: Analyzing Clone #14 (Group 258, Pair 1-2): org.apache.commons.collections4.iterators.ArrayListIteratorTest#testListIteratorSet (row 28) and org.apache.commons.collections4.iterators.ObjectArrayListIteratorTest#testListIteratorSet (row 29)
+17:45:12.919 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:12.919 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:45:12.927 [main] INFO  - Start mapping
+17:45:12.939 [main] INFO  - End mapping
+17:45:12.939 [main] INFO  - start to refactor clone pair
+17:45:12.939 [main] INFO  - CloneType: Type 2
+17:45:12.940 [main] ERROR - CloneStructure has PDG gap node.
+17:45:12.940 [main] INFO  - 59%: Reading information from row 30 (Clone group ID 259, clone #1)
+17:45:12.949 [main] INFO  - 59%: Generating PDG for method "testRemovingElementsAndIteratingForward" in "org.apache.commons.collections4.iterators.LoopingListIteratorTest"
+17:45:12.954 [main] INFO  - 59%: Reading information from row 31 (Clone group ID 259, clone #2)
+17:45:12.954 [main] INFO  - 59%: Generating PDG for method "testRemovingElementsAndIteratingBackwards" in "org.apache.commons.collections4.iterators.LoopingListIteratorTest"
+17:45:12.955 [main] INFO  - 59%: Analyzing Clone #15 (Group 259, Pair 1-2): org.apache.commons.collections4.iterators.LoopingListIteratorTest#testRemovingElementsAndIteratingForward (row 30) and org.apache.commons.collections4.iterators.LoopingListIteratorTest#testRemovingElementsAndIteratingBackwards (row 31)
+17:45:12.962 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:12.962 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:12.963 [main] INFO  - Start mapping
+17:45:12.995 [main] INFO  - End mapping
+17:45:12.996 [main] INFO  - start to refactor clone pair
+17:45:12.996 [main] INFO  - CloneType: Type 2
+17:45:12.999 [main] INFO  - 63%: Reading information from row 32 (Clone group ID 266, clone #1)
+17:45:12.999 [main] INFO  - 63%: Generating PDG for method "testLooping1" in "org.apache.commons.collections4.iterators.LoopingListIteratorTest"
+17:45:13.000 [main] INFO  - 63%: Reading information from row 33 (Clone group ID 266, clone #2)
+17:45:13.008 [main] INFO  - 63%: Generating PDG for method "testRemoveMiddle" in "org.apache.commons.collections4.iterators.SkippingIteratorTest"
+17:45:13.013 [main] INFO  - 63%: Analyzing Clone #16 (Group 266, Pair 1-2): org.apache.commons.collections4.iterators.LoopingListIteratorTest#testLooping1 (row 32) and org.apache.commons.collections4.iterators.SkippingIteratorTest#testRemoveMiddle (row 33)
+17:45:13.027 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+17:45:13.028 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:14.384 [main] INFO  - start to refactor clone pair
+17:45:14.385 [main] INFO  - Non refactorable CloneType: Type 3
+17:45:14.385 [main] INFO  - 67%: Reading information from row 34 (Clone group ID 272, clone #1)
+17:45:14.394 [main] INFO  - 67%: Generating PDG for method "testIllegalAdd" in "org.apache.commons.collections4.set.PredicatedNavigableSetTest"
+17:45:14.400 [main] INFO  - 67%: Reading information from row 35 (Clone group ID 272, clone #2)
+17:45:14.407 [main] INFO  - 67%: Generating PDG for method "testIllegalAdd" in "org.apache.commons.collections4.set.PredicatedSortedSetTest"
+17:45:14.412 [main] INFO  - 67%: Analyzing Clone #17 (Group 272, Pair 1-2): org.apache.commons.collections4.set.PredicatedNavigableSetTest#testIllegalAdd (row 34) and org.apache.commons.collections4.set.PredicatedSortedSetTest#testIllegalAdd (row 35)
+17:45:14.429 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:14.429 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:14.429 [main] INFO  - Start mapping
+17:45:14.432 [main] INFO  - End mapping
+17:45:14.432 [main] INFO  - start to refactor clone pair
+17:45:14.432 [main] INFO  - CloneType: Type 2
+17:45:14.433 [main] INFO  - exception: java.lang.NullPointerException
+17:45:14.433 [main] INFO  - 71%: Reading information from row 36 (Clone group ID 281, clone #1)
+17:45:14.441 [main] INFO  - 71%: Generating PDG for method "testLinkedListAddFirst" in "org.apache.commons.collections4.AbstractLinkedListTest"
+17:45:18.055 [main] INFO  - 71%: Reading information from row 37 (Clone group ID 281, clone #2)
+17:45:18.056 [main] INFO  - 71%: Generating PDG for method "testLinkedListAddLast" in "org.apache.commons.collections4.AbstractLinkedListTest"
+17:45:18.056 [main] INFO  - 71%: Analyzing Clone #18 (Group 281, Pair 1-2): org.apache.commons.collections4.AbstractLinkedListTest#testLinkedListAddFirst (row 36) and org.apache.commons.collections4.AbstractLinkedListTest#testLinkedListAddLast (row 37)
+17:45:18.063 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:18.064 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:18.064 [main] INFO  - Start mapping
+17:45:18.087 [main] INFO  - End mapping
+17:45:18.087 [main] INFO  - start to refactor clone pair
+17:45:18.087 [main] INFO  - CloneType: Type 2
+17:45:18.089 [main] INFO  - exception: java.lang.NullPointerException
+17:45:18.089 [main] INFO  - 76%: Reading information from row 38 (Clone group ID 338, clone #1)
+17:45:18.099 [main] INFO  - 76%: Generating PDG for method "testRemoveFirst" in "org.apache.commons.collections4.iterators.BoundedIteratorTest"
+17:45:18.104 [main] INFO  - 76%: Reading information from row 39 (Clone group ID 338, clone #2)
+17:45:18.104 [main] INFO  - 76%: Generating PDG for method "testRemoveMiddle" in "org.apache.commons.collections4.iterators.BoundedIteratorTest"
+17:45:18.105 [main] INFO  - 76%: Analyzing Clone #19 (Group 338, Pair 1-2): org.apache.commons.collections4.iterators.BoundedIteratorTest#testRemoveFirst (row 38) and org.apache.commons.collections4.iterators.BoundedIteratorTest#testRemoveMiddle (row 39)
+17:45:18.114 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:18.114 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:18.114 [main] INFO  - Start mapping
+17:45:18.125 [main] INFO  - End mapping
+17:45:18.125 [main] INFO  - start to refactor clone pair
+17:45:18.125 [main] INFO  - CloneType: Type 2
+17:45:18.126 [main] INFO  - exception: java.lang.NullPointerException
+17:45:18.126 [main] INFO  - 80%: Reading information from row 40 (Clone group ID 350, clone #1)
+17:45:18.138 [main] INFO  - 80%: Generating PDG for method "testRemoveFromUnderlying" in "org.apache.commons.collections4.map.CompositeMapTest"
+17:45:18.180 [main] INFO  - 80%: Reading information from row 41 (Clone group ID 350, clone #2)
+17:45:18.180 [main] INFO  - 80%: Generating PDG for method "testRemoveFromComposited" in "org.apache.commons.collections4.map.CompositeMapTest"
+17:45:18.181 [main] INFO  - 80%: Analyzing Clone #20 (Group 350, Pair 1-2): org.apache.commons.collections4.map.CompositeMapTest#testRemoveFromUnderlying (row 40) and org.apache.commons.collections4.map.CompositeMapTest#testRemoveFromComposited (row 41)
+17:45:18.193 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:45:18.193 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:18.197 [main] INFO  - start to refactor clone pair
+17:45:18.197 [main] INFO  - CloneType: Type 2
+17:45:18.198 [main] INFO  - exception: java.lang.NullPointerException
+17:45:18.198 [main] INFO  - 84%: Reading information from row 42 (Clone group ID 368, clone #1)
+17:45:18.206 [main] INFO  - 84%: Generating PDG for method "testSameAsDecorated" in "org.apache.commons.collections4.iterators.BoundedIteratorTest"
+17:45:18.210 [main] INFO  - 84%: Reading information from row 43 (Clone group ID 368, clone #2)
+17:45:18.217 [main] INFO  - 84%: Generating PDG for method "testSameAsDecorated" in "org.apache.commons.collections4.iterators.SkippingIteratorTest"
+17:45:18.222 [main] INFO  - 84%: Analyzing Clone #21 (Group 368, Pair 1-2): org.apache.commons.collections4.iterators.BoundedIteratorTest#testSameAsDecorated (row 42) and org.apache.commons.collections4.iterators.SkippingIteratorTest#testSameAsDecorated (row 43)
+17:45:18.237 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:18.237 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:18.237 [main] INFO  - Start mapping
+17:45:18.250 [main] INFO  - End mapping
+17:45:18.250 [main] INFO  - start to refactor clone pair
+17:45:18.250 [main] INFO  - CloneType: Type 2
+17:45:18.251 [main] INFO  - exception: java.lang.NullPointerException
+17:45:18.251 [main] INFO  - 88%: Reading information from row 44 (Clone group ID 380, clone #1)
+17:45:18.259 [main] INFO  - 88%: Generating PDG for method "verify" in "org.apache.commons.collections4.queue.AbstractQueueTest"
+17:45:18.280 [main] INFO  - 88%: Reading information from row 45 (Clone group ID 380, clone #2)
+17:45:18.289 [main] INFO  - 88%: Generating PDG for method "verify" in "org.apache.commons.collections4.queue.CircularFifoQueueTest"
+17:45:18.290 [main] INFO  - 88%: Analyzing Clone #22 (Group 380, Pair 1-2): org.apache.commons.collections4.queue.AbstractQueueTest#verify (row 44) and org.apache.commons.collections4.queue.CircularFifoQueueTest#verify (row 45)
+17:45:18.306 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:18.307 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:18.307 [main] INFO  - Start mapping
+17:45:18.332 [main] INFO  - End mapping
+17:45:18.332 [main] INFO  - start to refactor clone pair
+17:45:18.332 [main] INFO  - CloneType: Type 1
+17:45:18.333 [main] INFO  - exception: java.lang.NullPointerException
+17:45:18.333 [main] INFO  - 92%: Reading information from row 46 (Clone group ID 388, clone #1)
+17:45:18.341 [main] INFO  - 92%: Generating PDG for method "testListSetByIndexBoundsChecking" in "org.apache.commons.collections4.list.GrowthListTest"
+17:45:18.342 [main] INFO  - 92%: Reading information from row 47 (Clone group ID 388, clone #2)
+17:45:18.343 [main] INFO  - 92%: Generating PDG for method "testListSetByIndexBoundsChecking2" in "org.apache.commons.collections4.list.GrowthListTest"
+17:45:18.347 [main] INFO  - 92%: Analyzing Clone #23 (Group 388, Pair 1-2): org.apache.commons.collections4.list.GrowthListTest#testListSetByIndexBoundsChecking (row 46) and org.apache.commons.collections4.list.GrowthListTest#testListSetByIndexBoundsChecking2 (row 47)
+17:45:18.355 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:18.355 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:18.355 [main] INFO  - Start mapping
+17:45:18.358 [main] INFO  - End mapping
+17:45:18.358 [main] INFO  - start to refactor clone pair
+17:45:18.358 [main] INFO  - CloneType: Type 2
+17:45:18.359 [main] INFO  - exception: java.lang.NullPointerException
+17:45:18.359 [main] INFO  - 96%: Reading information from row 48 (Clone group ID 395, clone #1)
+17:45:18.368 [main] INFO  - 96%: Generating PDG for method "testRemoveUnsupported" in "org.apache.commons.collections4.iterators.BoundedIteratorTest"
+17:45:18.372 [main] INFO  - 96%: Reading information from row 49 (Clone group ID 395, clone #2)
+17:45:18.380 [main] INFO  - 96%: Generating PDG for method "testRemoveUnsupported" in "org.apache.commons.collections4.iterators.SkippingIteratorTest"
+17:45:18.382 [main] INFO  - 96%: Analyzing Clone #24 (Group 395, Pair 1-2): org.apache.commons.collections4.iterators.BoundedIteratorTest#testRemoveUnsupported (row 48) and org.apache.commons.collections4.iterators.SkippingIteratorTest#testRemoveUnsupported (row 49)
+17:45:18.398 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:45:18.398 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:45:18.399 [main] INFO  - Start mapping
+17:45:18.404 [main] INFO  - End mapping
+17:45:18.404 [main] INFO  - start to refactor clone pair
+17:45:18.404 [main] INFO  - CloneType: Type 2
+17:45:18.405 [main] INFO  - exception: java.lang.NullPointerException
+17:45:19.349 [main] INFO  - Applying changes to source files
+17:45:19.349 [main] INFO  - refactoring 4 clone method pairs.
+17:45:19.349 [main] INFO  - skipping 17 clone method pairs:
+17:45:19.349 [main] INFO  - 	1 not test cases
+17:45:19.349 [main] INFO  - 	2 containing gap nodes (type3)
+17:45:19.349 [main] INFO  - 	14 not refactorable
+17:45:19.349 [main] INFO  - 	0 repeated naming
+17:45:19.349 [main] INFO  - 	0 access issues
+17:45:19.349 [main] INFO  - type1 count: 4
+17:45:19.349 [main] INFO  - type2 count: 17
+17:45:19.349 [main] INFO  - type3 count: 3
+17:45:19.350 [main] INFO  - effective refactoring ratio: 4/18 = 22.2%
+17:45:19.350 [main] INFO  - refactoring method pair: org.apache.commons.collections4.MapUtilsTest.java#testVerbosePrintNullLabelAndMap <---> org.apache.commons.collections4.MapUtilsTest.java#testDebugPrintNullLabelAndMap
+17:45:20.028 [main] INFO  - refactoring method pair: org.apache.commons.collections4.ComparatorUtilsTest.java#max <---> org.apache.commons.collections4.ComparatorUtilsTest.java#min
+17:45:21.020 [main] INFO  - refactoring method pair: org.apache.commons.collections4.keyvalue.MultiKeyTest.java#testGetKeysArrayConstructorCloned <---> org.apache.commons.collections4.keyvalue.MultiKeyTest.java#testGetKeysArrayConstructorNonCloned
+17:45:21.765 [main] INFO  - refactoring method pair: org.apache.commons.collections4.iterators.LoopingListIteratorTest.java#testRemovingElementsAndIteratingForward <---> org.apache.commons.collections4.iterators.LoopingListIteratorTest.java#testRemovingElementsAndIteratingBackwards
+17:45:22.158 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/commons-collections-4.3/commons_collection_4.3-deckard-50-0.95-0-selected.xls, output file: /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/commons-collections-4.3/commons_collection_4.3-deckard-50-0.95-0-selected-analyzed.xls

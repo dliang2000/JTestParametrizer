@@ -1,0 +1,968 @@
+17:24:03.955 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/jfreechart-1.0.10/log.log
+17:24:03.959 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/jfreechart-1.0.10/jfreechart-1.0.10-50-0.95-0-deckard-selected.xls
+17:24:04.866 [main] INFO  - 1%: Reading information from row 2 (Clone group ID 62, clone #1)
+17:24:04.878 [main] INFO  - 1%: Generating PDG for method "testGetRowCount" in "org.jfree.data.category.junit.DefaultCategoryDatasetTests"
+17:24:12.213 [main] INFO  - 1%: Reading information from row 3 (Clone group ID 62, clone #2)
+17:24:12.214 [main] INFO  - 1%: Generating PDG for method "testGetColumnCount" in "org.jfree.data.category.junit.DefaultCategoryDatasetTests"
+17:24:12.220 [main] INFO  - 1%: Analyzing Clone #1 (Group 62, Pair 1-2): org.jfree.data.category.junit.DefaultCategoryDatasetTests#testGetRowCount (row 2) and org.jfree.data.category.junit.DefaultCategoryDatasetTests#testGetColumnCount (row 3)
+17:24:12.230 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:12.230 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:13.349 [main] INFO  - start to refactor clone pair
+17:24:13.349 [main] INFO  - CloneType: Type 2
+17:24:13.476 [main] INFO  - 2%: Reading information from row 4 (Clone group ID 64, clone #1)
+17:24:13.477 [main] INFO  - 2%: Generating PDG for method "testRemoveColumn" in "org.jfree.data.category.junit.DefaultCategoryDatasetTests"
+17:24:13.511 [main] INFO  - 2%: Reading information from row 5 (Clone group ID 64, clone #2)
+17:24:13.513 [main] INFO  - 2%: Generating PDG for method "testRemoveRow" in "org.jfree.data.category.junit.DefaultCategoryDatasetTests"
+17:24:13.526 [main] INFO  - 2%: Analyzing Clone #2 (Group 64, Pair 1-2): org.jfree.data.category.junit.DefaultCategoryDatasetTests#testRemoveColumn (row 4) and org.jfree.data.category.junit.DefaultCategoryDatasetTests#testRemoveRow (row 5)
+17:24:13.534 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:13.534 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:24:13.539 [main] INFO  - Start mapping
+17:24:13.794 [main] INFO  - End mapping
+17:24:13.795 [main] INFO  - start to refactor clone pair
+17:24:13.795 [main] INFO  - CloneType: Type 2
+17:24:13.798 [main] INFO  - 3%: Reading information from row 6 (Clone group ID 67, clone #1)
+17:24:13.805 [main] INFO  - 3%: Generating PDG for method "testSetMaximumItemCount2" in "org.jfree.data.xy.junit.XIntervalSeriesTests"
+17:24:13.831 [main] INFO  - 3%: Reading information from row 7 (Clone group ID 67, clone #2)
+17:24:13.838 [main] INFO  - 3%: Generating PDG for method "testSetMaximumItemCount2" in "org.jfree.data.xy.junit.YIntervalSeriesTests"
+17:24:13.854 [main] INFO  - 3%: Analyzing Clone #3 (Group 67, Pair 1-2): org.jfree.data.xy.junit.XIntervalSeriesTests#testSetMaximumItemCount2 (row 6) and org.jfree.data.xy.junit.YIntervalSeriesTests#testSetMaximumItemCount2 (row 7)
+17:24:13.867 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:13.867 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:14.059 [main] INFO  - start to refactor clone pair
+17:24:14.060 [main] INFO  - CloneType: Type 2
+17:24:14.063 [main] INFO  - Same method found in common super class [org.jfree.data.ComparableObjectSeries]: setMaximumItemCount
+17:24:14.063 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:14.064 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:14.065 [main] INFO  - 4%: Reading information from row 8 (Clone group ID 76, clone #1)
+17:24:14.079 [main] INFO  - 4%: Generating PDG for method "testJava2DToValue" in "org.jfree.chart.axis.junit.LogarithmicAxisTests"
+17:24:14.333 [main] INFO  - 4%: Reading information from row 9 (Clone group ID 76, clone #2)
+17:24:14.334 [main] INFO  - 4%: Generating PDG for method "testValueToJava2D" in "org.jfree.chart.axis.junit.LogarithmicAxisTests"
+17:24:14.336 [main] INFO  - 4%: Analyzing Clone #4 (Group 76, Pair 1-2): org.jfree.chart.axis.junit.LogarithmicAxisTests#testJava2DToValue (row 8) and org.jfree.chart.axis.junit.LogarithmicAxisTests#testValueToJava2D (row 9)
+17:24:14.351 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:14.351 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:14.373 [main] INFO  - start to refactor clone pair
+17:24:14.373 [main] INFO  - CloneType: Type 2
+17:24:14.375 [main] INFO  - 5%: Reading information from row 10 (Clone group ID 102, clone #1)
+17:24:14.405 [main] INFO  - 5%: Generating PDG for method "testPreviousStandardDateYearA" in "org.jfree.chart.axis.junit.DateAxisTests"
+17:24:15.088 [main] INFO  - 5%: Reading information from row 11 (Clone group ID 102, clone #2)
+17:24:15.089 [main] INFO  - 5%: Generating PDG for method "testPreviousStandardDateYearB" in "org.jfree.chart.axis.junit.DateAxisTests"
+17:24:15.100 [main] INFO  - 5%: Analyzing Clone #5 (Group 102, Pair 1-2): org.jfree.chart.axis.junit.DateAxisTests#testPreviousStandardDateYearA (row 10) and org.jfree.chart.axis.junit.DateAxisTests#testPreviousStandardDateYearB (row 11)
+17:24:15.135 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:15.135 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:15.385 [main] INFO  - start to refactor clone pair
+17:24:15.385 [main] INFO  - CloneType: Type 2
+17:24:15.390 [main] INFO  - 7%: Reading information from row 12 (Clone group ID 132, clone #1)
+17:24:15.401 [main] INFO  - 7%: Generating PDG for method "testSetStartValue" in "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests"
+17:24:16.658 [main] INFO  - 7%: Reading information from row 13 (Clone group ID 132, clone #2)
+17:24:16.658 [main] INFO  - 7%: Generating PDG for method "testSetEndValue" in "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests"
+17:24:16.660 [main] INFO  - 7%: Analyzing Clone #6 (Group 132, Pair 1-2): org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests#testSetStartValue (row 12) and org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests#testSetEndValue (row 13)
+17:24:16.668 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:16.668 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:24:16.668 [main] INFO  - Start mapping
+17:24:16.689 [main] INFO  - End mapping
+17:24:16.690 [main] INFO  - start to refactor clone pair
+17:24:16.690 [main] INFO  - CloneType: Type 2
+17:24:16.693 [main] INFO  - 8%: Reading information from row 14 (Clone group ID 136, clone #1)
+17:24:16.700 [main] INFO  - 8%: Generating PDG for method "testCloning2" in "org.jfree.chart.axis.junit.CategoryAxisTests"
+17:24:17.082 [main] INFO  - 8%: Reading information from row 15 (Clone group ID 136, clone #2)
+17:24:17.089 [main] INFO  - 8%: Generating PDG for method "testCloning2" in "org.jfree.chart.axis.junit.ExtendedCategoryAxisTests"
+17:24:17.323 [main] INFO  - 8%: Analyzing Clone #7 (Group 136, Pair 1-2): org.jfree.chart.axis.junit.CategoryAxisTests#testCloning2 (row 14) and org.jfree.chart.axis.junit.ExtendedCategoryAxisTests#testCloning2 (row 15)
+17:24:17.339 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:17.340 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:17.341 [main] INFO  - Start mapping
+17:24:17.477 [main] INFO  - End mapping
+17:24:17.478 [main] INFO  - start to refactor clone pair
+17:24:17.478 [main] INFO  - CloneType: Type 2
+17:24:17.483 [main] INFO  - Same method found in common super class [org.jfree.chart.axis.CategoryAxis]: setTickLabelFont
+17:24:17.484 [main] INFO  - Same method found in common super class [org.jfree.chart.axis.CategoryAxis]: setTickLabelPaint
+17:24:17.484 [main] INFO  - non-refactored node pair with MethodInvocation node: System.err.println("Failed to clone.")  <--->  e.printStackTrace()  (ARGUMENT_NUMBER_MISMATCH)
+17:24:17.485 [main] INFO  - 9%: Reading information from row 16 (Clone group ID 162, clone #1)
+17:24:17.498 [main] INFO  - 9%: Generating PDG for method "testGetColumnKey" in "org.jfree.data.gantt.junit.TaskSeriesCollectionTests"
+17:24:18.132 [main] INFO  - 9%: Reading information from row 17 (Clone group ID 162, clone #2)
+17:24:18.133 [main] INFO  - 9%: Generating PDG for method "testGetColumnIndex" in "org.jfree.data.gantt.junit.TaskSeriesCollectionTests"
+17:24:18.135 [main] INFO  - 9%: Analyzing Clone #8 (Group 162, Pair 1-2): org.jfree.data.gantt.junit.TaskSeriesCollectionTests#testGetColumnKey (row 16) and org.jfree.data.gantt.junit.TaskSeriesCollectionTests#testGetColumnIndex (row 17)
+17:24:18.146 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:18.146 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:18.150 [main] INFO  - start to refactor clone pair
+17:24:18.150 [main] INFO  - CloneType: Type 2
+17:24:18.150 [main] ERROR - CloneStructure has PDG gap node.
+17:24:18.151 [main] INFO  - 10%: Reading information from row 18 (Clone group ID 163, clone #1)
+17:24:18.158 [main] INFO  - 10%: Generating PDG for method "testGetColumnKeys" in "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests"
+17:24:18.276 [main] INFO  - 10%: Reading information from row 19 (Clone group ID 163, clone #2)
+17:24:18.277 [main] INFO  - 10%: Generating PDG for method "testGetRowKeys" in "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests"
+17:24:18.279 [main] INFO  - 10%: Analyzing Clone #9 (Group 163, Pair 1-2): org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests#testGetColumnKeys (row 18) and org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests#testGetRowKeys (row 19)
+17:24:18.286 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:18.287 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:18.298 [main] INFO  - start to refactor clone pair
+17:24:18.298 [main] INFO  - CloneType: Type 2
+17:24:18.299 [main] INFO  - 12%: Reading information from row 20 (Clone group ID 168, clone #1)
+17:24:18.309 [main] INFO  - 12%: Generating PDG for method "testBug1766646A" in "org.jfree.chart.renderer.xy.junit.XYBlockRendererTests"
+17:24:18.964 [main] INFO  - 12%: Reading information from row 21 (Clone group ID 168, clone #2)
+17:24:18.965 [main] INFO  - 12%: Generating PDG for method "testBug1766646B" in "org.jfree.chart.renderer.xy.junit.XYBlockRendererTests"
+17:24:18.972 [main] INFO  - 12%: Analyzing Clone #10 (Group 168, Pair 1-2): org.jfree.chart.renderer.xy.junit.XYBlockRendererTests#testBug1766646A (row 20) and org.jfree.chart.renderer.xy.junit.XYBlockRendererTests#testBug1766646B (row 21)
+17:24:18.983 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:18.983 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:19.007 [main] INFO  - start to refactor clone pair
+17:24:19.007 [main] INFO  - CloneType: Type 2
+17:24:19.009 [main] INFO  - 13%: Reading information from row 22 (Clone group ID 169, clone #1)
+17:24:19.035 [main] INFO  - 13%: Generating PDG for method "testSetPositiveItemLabelPosition" in "org.jfree.chart.renderer.junit.AbstractRendererTests"
+17:24:19.093 [main] INFO  - 13%: Reading information from row 23 (Clone group ID 169, clone #2)
+17:24:19.094 [main] INFO  - 13%: Generating PDG for method "testSetNegativeItemLabelPosition" in "org.jfree.chart.renderer.junit.AbstractRendererTests"
+17:24:19.095 [main] INFO  - 13%: Analyzing Clone #11 (Group 169, Pair 1-2): org.jfree.chart.renderer.junit.AbstractRendererTests#testSetPositiveItemLabelPosition (row 22) and org.jfree.chart.renderer.junit.AbstractRendererTests#testSetNegativeItemLabelPosition (row 23)
+17:24:19.117 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:19.118 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:19.138 [main] INFO  - start to refactor clone pair
+17:24:19.138 [main] INFO  - CloneType: Type 2
+17:24:19.140 [main] INFO  - 14%: Reading information from row 24 (Clone group ID 170, clone #1)
+17:24:19.150 [main] INFO  - 14%: Generating PDG for method "testReplaceDatasetOnPieChart" in "org.jfree.chart.junit.PieChart3DTests"
+17:24:19.209 [main] INFO  - 14%: Reading information from row 25 (Clone group ID 170, clone #2)
+17:24:19.218 [main] INFO  - 14%: Generating PDG for method "testReplaceDatasetOnPieChart" in "org.jfree.chart.junit.PieChartTests"
+17:24:19.218 [main] INFO  - 14%: Analyzing Clone #12 (Group 170, Pair 1-2): org.jfree.chart.junit.PieChart3DTests#testReplaceDatasetOnPieChart (row 24) and org.jfree.chart.junit.PieChartTests#testReplaceDatasetOnPieChart (row 25)
+17:24:19.236 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:19.236 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:19.241 [main] INFO  - start to refactor clone pair
+17:24:19.241 [main] INFO  - CloneType: Type 2
+17:24:19.242 [main] INFO  - Containing unrefactorable ThisExpression: this
+17:24:19.242 [main] INFO  - Containing unrefactorable private field access: pieChart
+17:24:19.243 [main] INFO  - Containing unrefactorable ThisExpression: this
+17:24:19.243 [main] INFO  - Containing unrefactorable private field access: pieChart
+17:24:19.243 [main] INFO  - 15%: Reading information from row 26 (Clone group ID 185, clone #1)
+17:24:19.254 [main] INFO  - 15%: Generating PDG for method "testGetStartValue2" in "org.jfree.data.gantt.junit.TaskSeriesCollectionTests"
+17:24:19.276 [main] INFO  - 15%: Reading information from row 27 (Clone group ID 185, clone #2)
+17:24:19.276 [main] INFO  - 15%: Generating PDG for method "testGetEndValue2" in "org.jfree.data.gantt.junit.TaskSeriesCollectionTests"
+17:24:19.286 [main] INFO  - 15%: Analyzing Clone #13 (Group 185, Pair 1-2): org.jfree.data.gantt.junit.TaskSeriesCollectionTests#testGetStartValue2 (row 26) and org.jfree.data.gantt.junit.TaskSeriesCollectionTests#testGetEndValue2 (row 27)
+17:24:19.297 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:19.297 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:19.425 [main] INFO  - start to refactor clone pair
+17:24:19.425 [main] INFO  - CloneType: Type 2
+17:24:19.431 [main] INFO  - 16%: Reading information from row 28 (Clone group ID 215, clone #1)
+17:24:19.439 [main] INFO  - 16%: Generating PDG for method "testSetSeriesKeys" in "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests"
+17:24:19.452 [main] INFO  - 16%: Reading information from row 29 (Clone group ID 215, clone #2)
+17:24:19.453 [main] INFO  - 16%: Generating PDG for method "testSetCategoryKeys" in "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests"
+17:24:19.453 [main] INFO  - 16%: Analyzing Clone #14 (Group 215, Pair 1-2): org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests#testSetSeriesKeys (row 28) and org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests#testSetCategoryKeys (row 29)
+17:24:19.460 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:19.461 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:19.461 [main] INFO  - Start mapping
+17:24:19.472 [main] INFO  - End mapping
+17:24:19.473 [main] INFO  - start to refactor clone pair
+17:24:19.473 [main] INFO  - CloneType: Type 2
+17:24:19.474 [main] INFO  - 18%: Reading information from row 30 (Clone group ID 221, clone #1)
+17:24:19.480 [main] INFO  - 18%: Generating PDG for method "testGetFirstMillisecond" in "org.jfree.data.time.junit.YearTests"
+17:24:19.523 [main] INFO  - 18%: Reading information from row 31 (Clone group ID 221, clone #2)
+17:24:19.524 [main] INFO  - 18%: Generating PDG for method "testGetLastMillisecond" in "org.jfree.data.time.junit.YearTests"
+17:24:19.525 [main] INFO  - 18%: Analyzing Clone #15 (Group 221, Pair 1-2): org.jfree.data.time.junit.YearTests#testGetFirstMillisecond (row 30) and org.jfree.data.time.junit.YearTests#testGetLastMillisecond (row 31)
+17:24:19.530 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:19.530 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:19.539 [main] INFO  - start to refactor clone pair
+17:24:19.539 [main] INFO  - CloneType: Type 2
+17:24:19.541 [main] INFO  - 19%: Reading information from row 32 (Clone group ID 222, clone #1)
+17:24:19.541 [main] INFO  - 19%: Generating PDG for method "testGetFirstMillisecondWithTimeZone" in "org.jfree.data.time.junit.YearTests"
+17:24:19.548 [main] INFO  - 19%: Reading information from row 33 (Clone group ID 222, clone #2)
+17:24:19.549 [main] INFO  - 19%: Generating PDG for method "testGetLastMillisecondWithTimeZone" in "org.jfree.data.time.junit.YearTests"
+17:24:19.549 [main] INFO  - 19%: Analyzing Clone #16 (Group 222, Pair 1-2): org.jfree.data.time.junit.YearTests#testGetFirstMillisecondWithTimeZone (row 32) and org.jfree.data.time.junit.YearTests#testGetLastMillisecondWithTimeZone (row 33)
+17:24:19.555 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:19.555 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:19.556 [main] INFO  - Start mapping
+17:24:19.565 [main] INFO  - End mapping
+17:24:19.566 [main] INFO  - start to refactor clone pair
+17:24:19.566 [main] INFO  - CloneType: Type 2
+17:24:19.567 [main] INFO  - 20%: Reading information from row 34 (Clone group ID 223, clone #1)
+17:24:19.582 [main] INFO  - 20%: Generating PDG for method "testFindMinimumRangeValue" in "org.jfree.data.general.junit.DatasetUtilitiesTests"
+17:24:20.334 [main] INFO  - 20%: Reading information from row 35 (Clone group ID 223, clone #2)
+17:24:20.334 [main] INFO  - 20%: Generating PDG for method "testFindMaximumRangeValue" in "org.jfree.data.general.junit.DatasetUtilitiesTests"
+17:24:20.879 [main] INFO  - 20%: Analyzing Clone #17 (Group 223, Pair 1-2): org.jfree.data.general.junit.DatasetUtilitiesTests#testFindMinimumRangeValue (row 34) and org.jfree.data.general.junit.DatasetUtilitiesTests#testFindMaximumRangeValue (row 35)
+17:24:20.892 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:20.892 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:20.913 [main] INFO  - start to refactor clone pair
+17:24:20.913 [main] INFO  - CloneType: Type 2
+17:24:20.914 [main] INFO  - 21%: Reading information from row 36 (Clone group ID 248, clone #1)
+17:24:20.924 [main] INFO  - 21%: Generating PDG for method "testGetStartValue" in "org.jfree.data.gantt.junit.TaskSeriesCollectionTests"
+17:24:20.940 [main] INFO  - 21%: Reading information from row 37 (Clone group ID 248, clone #2)
+17:24:20.941 [main] INFO  - 21%: Generating PDG for method "testGetEndValue" in "org.jfree.data.gantt.junit.TaskSeriesCollectionTests"
+17:24:20.949 [main] INFO  - 21%: Analyzing Clone #18 (Group 248, Pair 1-2): org.jfree.data.gantt.junit.TaskSeriesCollectionTests#testGetStartValue (row 36) and org.jfree.data.gantt.junit.TaskSeriesCollectionTests#testGetEndValue (row 37)
+17:24:20.959 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:20.960 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:21.007 [main] INFO  - start to refactor clone pair
+17:24:21.007 [main] INFO  - CloneType: Type 2
+17:24:21.011 [main] INFO  - 22%: Reading information from row 38 (Clone group ID 256, clone #1)
+17:24:21.029 [main] INFO  - 22%: Generating PDG for method "testTranslateJava2DToValue" in "org.jfree.chart.axis.junit.LogAxisTests"
+17:24:21.093 [main] INFO  - 22%: Reading information from row 39 (Clone group ID 256, clone #2)
+17:24:21.116 [main] INFO  - 22%: Generating PDG for method "testTranslateJava2DToValue" in "org.jfree.chart.axis.junit.NumberAxisTests"
+17:24:21.133 [main] INFO  - 22%: Analyzing Clone #19 (Group 256, Pair 1-2): org.jfree.chart.axis.junit.LogAxisTests#testTranslateJava2DToValue (row 38) and org.jfree.chart.axis.junit.NumberAxisTests#testTranslateJava2DToValue (row 39)
+17:24:21.174 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:21.174 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:21.255 [main] INFO  - start to refactor clone pair
+17:24:21.255 [main] INFO  - CloneType: Type 2
+17:24:21.256 [main] INFO  - Same method found in common super class [org.jfree.chart.axis.ValueAxis]: setRange
+17:24:21.257 [main] INFO  - Same method found in common super class [org.jfree.chart.axis.ValueAxis]: java2DToValue
+17:24:21.257 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:21.257 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:21.257 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:21.257 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:21.257 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:21.258 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:21.258 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:21.258 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:21.258 [main] INFO  - 24%: Reading information from row 40 (Clone group ID 269, clone #1)
+17:24:21.263 [main] INFO  - 24%: Generating PDG for method "testCalculateQ1" in "org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests"
+17:24:21.279 [main] INFO  - 24%: Reading information from row 41 (Clone group ID 269, clone #2)
+17:24:21.279 [main] INFO  - 24%: Generating PDG for method "testCalculateQ3" in "org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests"
+17:24:21.286 [main] INFO  - 24%: Analyzing Clone #20 (Group 269, Pair 1-2): org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests#testCalculateQ1 (row 40) and org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests#testCalculateQ3 (row 41)
+17:24:21.290 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:21.290 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:21.290 [main] INFO  - Start mapping
+17:24:21.356 [main] INFO  - End mapping
+17:24:21.357 [main] INFO  - start to refactor clone pair
+17:24:21.357 [main] INFO  - CloneType: Type 2
+17:24:21.360 [main] INFO  - 25%: Reading information from row 42 (Clone group ID 283, clone #1)
+17:24:21.370 [main] INFO  - 25%: Generating PDG for method "testFindRangeBounds" in "org.jfree.chart.renderer.xy.junit.CandlestickRendererTests"
+17:24:22.003 [main] INFO  - 25%: Reading information from row 43 (Clone group ID 283, clone #2)
+17:24:22.012 [main] INFO  - 25%: Generating PDG for method "testFindRangeBounds" in "org.jfree.chart.renderer.xy.junit.HighLowRendererTests"
+17:24:22.535 [main] INFO  - 25%: Analyzing Clone #21 (Group 283, Pair 1-2): org.jfree.chart.renderer.xy.junit.CandlestickRendererTests#testFindRangeBounds (row 42) and org.jfree.chart.renderer.xy.junit.HighLowRendererTests#testFindRangeBounds (row 43)
+17:24:22.558 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:22.558 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:22.619 [main] INFO  - start to refactor clone pair
+17:24:22.619 [main] INFO  - CloneType: Type 2
+17:24:22.620 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.xy.AbstractXYItemRenderer]: findRangeBounds
+17:24:22.620 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.xy.AbstractXYItemRenderer]: findRangeBounds
+17:24:22.620 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.xy.AbstractXYItemRenderer]: findRangeBounds
+17:24:22.621 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.xy.AbstractXYItemRenderer]: findRangeBounds
+17:24:22.621 [main] INFO  - 26%: Reading information from row 44 (Clone group ID 332, clone #1)
+17:24:22.631 [main] INFO  - 26%: Generating PDG for method "testGetStartValue3" in "org.jfree.data.gantt.junit.TaskSeriesCollectionTests"
+17:24:22.654 [main] INFO  - 26%: Reading information from row 45 (Clone group ID 332, clone #2)
+17:24:22.655 [main] INFO  - 26%: Generating PDG for method "testGetEndValue3" in "org.jfree.data.gantt.junit.TaskSeriesCollectionTests"
+17:24:22.658 [main] INFO  - 26%: Analyzing Clone #22 (Group 332, Pair 1-2): org.jfree.data.gantt.junit.TaskSeriesCollectionTests#testGetStartValue3 (row 44) and org.jfree.data.gantt.junit.TaskSeriesCollectionTests#testGetEndValue3 (row 45)
+17:24:22.668 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:22.668 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:22.679 [main] INFO  - start to refactor clone pair
+17:24:22.679 [main] INFO  - CloneType: Type 2
+17:24:22.680 [main] INFO  - 27%: Reading information from row 46 (Clone group ID 334, clone #1)
+17:24:22.682 [main] INFO  - 27%: Generating PDG for method "testHashcode" in "org.jfree.data.xy.junit.VectorTests"
+17:24:22.685 [main] INFO  - 27%: Reading information from row 47 (Clone group ID 334, clone #2)
+17:24:22.688 [main] INFO  - 27%: Generating PDG for method "testHashcode" in "org.jfree.data.xy.junit.XYCoordinateTests"
+17:24:22.690 [main] INFO  - 27%: Analyzing Clone #23 (Group 334, Pair 1-2): org.jfree.data.xy.junit.VectorTests#testHashcode (row 46) and org.jfree.data.xy.junit.XYCoordinateTests#testHashcode (row 47)
+17:24:22.695 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:22.695 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:22.698 [main] INFO  - start to refactor clone pair
+17:24:22.698 [main] INFO  - CloneType: Type 2
+17:24:22.698 [main] ERROR - CloneStructure has PDG gap node.
+17:24:22.698 [main] INFO  - 28%: Reading information from row 48 (Clone group ID 339, clone #1)
+17:24:22.704 [main] INFO  - 28%: Generating PDG for method "testFirstHourNext" in "org.jfree.data.time.junit.HourTests"
+17:24:22.714 [main] INFO  - 28%: Reading information from row 49 (Clone group ID 339, clone #2)
+17:24:22.714 [main] INFO  - 28%: Generating PDG for method "testLastHourPrevious" in "org.jfree.data.time.junit.HourTests"
+17:24:22.715 [main] INFO  - 28%: Analyzing Clone #24 (Group 339, Pair 1-2): org.jfree.data.time.junit.HourTests#testFirstHourNext (row 48) and org.jfree.data.time.junit.HourTests#testLastHourPrevious (row 49)
+17:24:22.720 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:22.720 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:22.728 [main] INFO  - start to refactor clone pair
+17:24:22.728 [main] INFO  - CloneType: Type 2
+17:24:22.729 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:24:22.730 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:24:22.730 [main] INFO  - 30%: Reading information from row 50 (Clone group ID 340, clone #1)
+17:24:22.736 [main] INFO  - 30%: Generating PDG for method "setUp" in "org.jfree.data.time.junit.QuarterTests"
+17:24:22.741 [main] INFO  - 30%: Reading information from row 51 (Clone group ID 340, clone #2)
+17:24:22.748 [main] INFO  - 30%: Generating PDG for method "setUp" in "org.jfree.data.time.junit.WeekTests"
+17:24:22.754 [main] INFO  - 30%: Analyzing Clone #25 (Group 340, Pair 1-2): org.jfree.data.time.junit.QuarterTests#setUp (row 50) and org.jfree.data.time.junit.WeekTests#setUp (row 51)
+17:24:22.765 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:22.765 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:22.781 [main] INFO  - start to refactor clone pair
+17:24:22.782 [main] INFO  - CloneType: Type 2
+17:24:22.782 [main] INFO  - method pair are not test cases!
+17:24:22.782 [main] INFO  - 31%: Reading information from row 52 (Clone group ID 341, clone #1)
+17:24:22.788 [main] INFO  - 31%: Generating PDG for method "testGetRangeLowerBound" in "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests"
+17:24:22.810 [main] INFO  - 31%: Reading information from row 53 (Clone group ID 341, clone #2)
+17:24:22.810 [main] INFO  - 31%: Generating PDG for method "testGetRangeUpperBound" in "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests"
+17:24:22.811 [main] INFO  - 31%: Analyzing Clone #26 (Group 341, Pair 1-2): org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests#testGetRangeLowerBound (row 52) and org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests#testGetRangeUpperBound (row 53)
+17:24:22.817 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:22.817 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:22.827 [main] INFO  - start to refactor clone pair
+17:24:22.827 [main] INFO  - CloneType: Type 2
+17:24:22.827 [main] INFO  - 32%: Reading information from row 54 (Clone group ID 345, clone #1)
+17:24:22.848 [main] INFO  - 32%: Generating PDG for method "testRemoveSubplot" in "org.jfree.chart.plot.junit.CombinedDomainXYPlotTests"
+17:24:23.865 [main] INFO  - 32%: Reading information from row 55 (Clone group ID 345, clone #2)
+17:24:23.885 [main] INFO  - 32%: Generating PDG for method "testRemoveSubplot" in "org.jfree.chart.plot.junit.CombinedRangeXYPlotTests"
+17:24:23.907 [main] INFO  - 32%: Analyzing Clone #27 (Group 345, Pair 1-2): org.jfree.chart.plot.junit.CombinedDomainXYPlotTests#testRemoveSubplot (row 54) and org.jfree.chart.plot.junit.CombinedRangeXYPlotTests#testRemoveSubplot (row 55)
+17:24:23.945 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:23.945 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:24.006 [main] INFO  - start to refactor clone pair
+17:24:24.006 [main] INFO  - CloneType: Type 2
+17:24:24.008 [main] INFO  - 33%: Reading information from row 56 (Clone group ID 351, clone #1)
+17:24:24.013 [main] INFO  - 33%: Generating PDG for method "testIndexOf2" in "org.jfree.data.xy.junit.XIntervalSeriesTests"
+17:24:24.030 [main] INFO  - 33%: Reading information from row 57 (Clone group ID 351, clone #2)
+17:24:24.036 [main] INFO  - 33%: Generating PDG for method "testIndexOf2" in "org.jfree.data.xy.junit.YIntervalSeriesTests"
+17:24:24.046 [main] INFO  - 33%: Analyzing Clone #28 (Group 351, Pair 1-2): org.jfree.data.xy.junit.XIntervalSeriesTests#testIndexOf2 (row 56) and org.jfree.data.xy.junit.YIntervalSeriesTests#testIndexOf2 (row 57)
+17:24:24.056 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:24.056 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:24.081 [main] INFO  - start to refactor clone pair
+17:24:24.081 [main] INFO  - CloneType: Type 2
+17:24:24.083 [main] INFO  - Same method found in common super class [org.jfree.data.ComparableObjectSeries]: indexOf
+17:24:24.083 [main] INFO  - Same method found in common super class [org.jfree.data.ComparableObjectSeries]: indexOf
+17:24:24.083 [main] INFO  - Same method found in common super class [org.jfree.data.ComparableObjectSeries]: indexOf
+17:24:24.083 [main] INFO  - 35%: Reading information from row 58 (Clone group ID 354, clone #1)
+17:24:24.090 [main] INFO  - 35%: Generating PDG for method "testGetStart" in "org.jfree.data.time.junit.MillisecondTests"
+17:24:24.251 [main] INFO  - 35%: Reading information from row 59 (Clone group ID 354, clone #2)
+17:24:24.252 [main] INFO  - 35%: Generating PDG for method "testGetEnd" in "org.jfree.data.time.junit.MillisecondTests"
+17:24:24.252 [main] INFO  - 35%: Analyzing Clone #29 (Group 354, Pair 1-2): org.jfree.data.time.junit.MillisecondTests#testGetStart (row 58) and org.jfree.data.time.junit.MillisecondTests#testGetEnd (row 59)
+17:24:24.260 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:24.260 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:24.271 [main] INFO  - start to refactor clone pair
+17:24:24.271 [main] INFO  - CloneType: Type 2
+17:24:24.272 [main] INFO  - 36%: Reading information from row 60 (Clone group ID 365, clone #1)
+17:24:24.295 [main] INFO  - 36%: Generating PDG for method "testDrawWithNullInfo" in "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests"
+17:24:31.989 [main] INFO  - 36%: Reading information from row 61 (Clone group ID 365, clone #2)
+17:24:32.010 [main] INFO  - 36%: Generating PDG for method "testDrawWithNullInfo" in "org.jfree.chart.renderer.category.junit.StatisticalLineAndShapeRendererTests"
+17:24:32.053 [main] INFO  - 36%: Analyzing Clone #30 (Group 365, Pair 1-2): org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testDrawWithNullInfo (row 60) and org.jfree.chart.renderer.category.junit.StatisticalLineAndShapeRendererTests#testDrawWithNullInfo (row 61)
+17:24:32.088 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:32.088 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:32.088 [main] INFO  - Start mapping
+17:24:32.174 [main] INFO  - End mapping
+17:24:32.175 [main] INFO  - start to refactor clone pair
+17:24:32.175 [main] INFO  - CloneType: Type 2
+17:24:32.176 [main] INFO  - 37%: Reading information from row 62 (Clone group ID 368, clone #1)
+17:24:32.198 [main] INFO  - 37%: Generating PDG for method "testFindDomainBounds" in "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests"
+17:24:32.367 [main] INFO  - 37%: Reading information from row 63 (Clone group ID 368, clone #2)
+17:24:32.368 [main] INFO  - 37%: Generating PDG for method "testFindRangeBounds" in "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests"
+17:24:32.368 [main] INFO  - 37%: Analyzing Clone #31 (Group 368, Pair 1-2): org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests#testFindDomainBounds (row 62) and org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests#testFindRangeBounds (row 63)
+17:24:32.390 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:32.390 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:32.450 [main] INFO  - start to refactor clone pair
+17:24:32.451 [main] INFO  - CloneType: Type 2
+17:24:32.452 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:24:32.452 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:24:32.452 [main] INFO  - 38%: Reading information from row 64 (Clone group ID 377, clone #1)
+17:24:32.456 [main] INFO  - 38%: Generating PDG for method "testSerialization" in "org.jfree.chart.plot.dial.junit.DialBackgroundTests"
+17:24:33.019 [main] INFO  - 38%: Reading information from row 65 (Clone group ID 377, clone #2)
+17:24:33.026 [main] INFO  - 38%: Generating PDG for method "testSerialization" in "org.jfree.chart.plot.dial.junit.StandardDialScaleTests"
+17:24:33.040 [main] INFO  - 38%: Analyzing Clone #32 (Group 377, Pair 1-2): org.jfree.chart.plot.dial.junit.DialBackgroundTests#testSerialization (row 64) and org.jfree.chart.plot.dial.junit.StandardDialScaleTests#testSerialization (row 65)
+17:24:33.051 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:33.051 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:24:33.053 [main] INFO  - Start mapping
+17:24:33.119 [main] INFO  - End mapping
+17:24:33.120 [main] INFO  - start to refactor clone pair
+17:24:33.120 [main] INFO  - Non refactorable CloneType: Type 3
+17:24:33.120 [main] INFO  - 39%: Reading information from row 66 (Clone group ID 382, clone #1)
+17:24:33.145 [main] INFO  - 39%: Generating PDG for method "testBug1572478Vertical" in "org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests"
+17:24:43.695 [main] INFO  - 39%: Reading information from row 67 (Clone group ID 382, clone #2)
+17:24:43.696 [main] INFO  - 39%: Generating PDG for method "testBug1572478Horizontal" in "org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests"
+17:24:43.775 [main] INFO  - 39%: Analyzing Clone #33 (Group 382, Pair 1-2): org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests#testBug1572478Vertical (row 66) and org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests#testBug1572478Horizontal (row 67)
+17:24:43.802 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:43.802 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:43.803 [main] INFO  - Start mapping
+17:24:43.835 [main] INFO  - End mapping
+17:24:43.835 [main] INFO  - start to refactor clone pair
+17:24:43.835 [main] INFO  - Non refactorable CloneType: Type 3
+17:24:43.835 [main] INFO  - 41%: Reading information from row 68 (Clone group ID 405, clone #1)
+17:24:43.840 [main] INFO  - 41%: Generating PDG for method "testCloning" in "org.jfree.data.xy.junit.CategoryTableXYDatasetTests"
+17:24:43.887 [main] INFO  - 41%: Reading information from row 69 (Clone group ID 405, clone #2)
+17:24:43.887 [main] INFO  - 41%: Generating PDG for method "testCloning2" in "org.jfree.data.xy.junit.CategoryTableXYDatasetTests"
+17:24:43.889 [main] INFO  - 41%: Analyzing Clone #34 (Group 405, Pair 1-2): org.jfree.data.xy.junit.CategoryTableXYDatasetTests#testCloning (row 68) and org.jfree.data.xy.junit.CategoryTableXYDatasetTests#testCloning2 (row 69)
+17:24:43.894 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:43.894 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:43.895 [main] INFO  - Start mapping
+17:24:44.102 [main] INFO  - End mapping
+17:24:44.102 [main] INFO  - start to refactor clone pair
+17:24:44.102 [main] INFO  - Non refactorable CloneType: Type 3
+17:24:44.102 [main] INFO  - 42%: Reading information from row 70 (Clone group ID 407, clone #1)
+17:24:44.108 [main] INFO  - 42%: Generating PDG for method "testSerialization" in "org.jfree.chart.plot.junit.CompassPlotTests"
+17:24:44.175 [main] INFO  - 42%: Reading information from row 71 (Clone group ID 407, clone #2)
+17:24:44.187 [main] INFO  - 42%: Generating PDG for method "testSerialization" in "org.jfree.chart.plot.junit.PolarPlotTests"
+17:24:44.839 [main] INFO  - 42%: Analyzing Clone #35 (Group 407, Pair 1-2): org.jfree.chart.plot.junit.CompassPlotTests#testSerialization (row 70) and org.jfree.chart.plot.junit.PolarPlotTests#testSerialization (row 71)
+17:24:44.856 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:44.856 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:44.856 [main] INFO  - Start mapping
+17:24:44.908 [main] INFO  - End mapping
+17:24:44.909 [main] INFO  - start to refactor clone pair
+17:24:44.909 [main] INFO  - CloneType: Type 2
+17:24:44.911 [main] INFO  - 43%: Reading information from row 72 (Clone group ID 415, clone #1)
+17:24:44.916 [main] INFO  - 43%: Generating PDG for method "testRemove" in "org.jfree.data.xy.junit.XIntervalSeriesTests"
+17:24:44.990 [main] INFO  - 43%: Reading information from row 73 (Clone group ID 415, clone #2)
+17:24:44.995 [main] INFO  - 43%: Generating PDG for method "testRemove" in "org.jfree.data.xy.junit.YIntervalSeriesTests"
+17:24:45.005 [main] INFO  - 43%: Analyzing Clone #36 (Group 415, Pair 1-2): org.jfree.data.xy.junit.XIntervalSeriesTests#testRemove (row 72) and org.jfree.data.xy.junit.YIntervalSeriesTests#testRemove (row 73)
+17:24:45.015 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.015 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.051 [main] INFO  - start to refactor clone pair
+17:24:45.051 [main] INFO  - CloneType: Type 2
+17:24:45.052 [main] INFO  - Same method found in common super class [org.jfree.data.ComparableObjectSeries]: getItemCount
+17:24:45.052 [main] INFO  - Same method found in common super class [org.jfree.data.ComparableObjectSeries]: remove
+17:24:45.053 [main] INFO  - Same method found in common super class [org.jfree.data.ComparableObjectSeries]: remove
+17:24:45.053 [main] INFO  - 44%: Reading information from row 74 (Clone group ID 417, clone #1)
+17:24:45.060 [main] INFO  - 44%: Generating PDG for method "testIndexOf2" in "org.jfree.data.xy.junit.VectorSeriesTests"
+17:24:45.076 [main] INFO  - 44%: Reading information from row 75 (Clone group ID 417, clone #2)
+17:24:45.081 [main] INFO  - 44%: Generating PDG for method "testSetMaximumItemCount2" in "org.jfree.data.xy.junit.XYIntervalSeriesTests"
+17:24:45.094 [main] INFO  - 44%: Analyzing Clone #37 (Group 417, Pair 1-2): org.jfree.data.xy.junit.VectorSeriesTests#testIndexOf2 (row 74) and org.jfree.data.xy.junit.XYIntervalSeriesTests#testSetMaximumItemCount2 (row 75)
+17:24:45.104 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.104 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.142 [main] INFO  - start to refactor clone pair
+17:24:45.142 [main] INFO  - CloneType: Type 2
+17:24:45.142 [main] ERROR - CloneStructure has PDG gap node.
+17:24:45.142 [main] INFO  - 45%: Reading information from row 76 (Clone group ID 420, clone #1)
+17:24:45.148 [main] INFO  - 45%: Generating PDG for method "testGetStart" in "org.jfree.data.time.junit.MinuteTests"
+17:24:45.164 [main] INFO  - 45%: Reading information from row 77 (Clone group ID 420, clone #2)
+17:24:45.165 [main] INFO  - 45%: Generating PDG for method "testGetEnd" in "org.jfree.data.time.junit.MinuteTests"
+17:24:45.166 [main] INFO  - 45%: Analyzing Clone #38 (Group 420, Pair 1-2): org.jfree.data.time.junit.MinuteTests#testGetStart (row 76) and org.jfree.data.time.junit.MinuteTests#testGetEnd (row 77)
+17:24:45.172 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.172 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.184 [main] INFO  - start to refactor clone pair
+17:24:45.184 [main] INFO  - CloneType: Type 2
+17:24:45.185 [main] INFO  - 47%: Reading information from row 78 (Clone group ID 424, clone #1)
+17:24:45.191 [main] INFO  - 47%: Generating PDG for method "testGetKey" in "org.jfree.data.junit.KeyedObjectsTests"
+17:24:45.199 [main] INFO  - 47%: Reading information from row 79 (Clone group ID 424, clone #2)
+17:24:45.200 [main] INFO  - 47%: Generating PDG for method "testGetObject" in "org.jfree.data.junit.KeyedObjectsTests"
+17:24:45.202 [main] INFO  - 47%: Analyzing Clone #39 (Group 424, Pair 1-2): org.jfree.data.junit.KeyedObjectsTests#testGetKey (row 78) and org.jfree.data.junit.KeyedObjectsTests#testGetObject (row 79)
+17:24:45.208 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:45.209 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:24:45.209 [main] INFO  - Start mapping
+17:24:45.236 [main] INFO  - End mapping
+17:24:45.237 [main] INFO  - start to refactor clone pair
+17:24:45.237 [main] INFO  - CloneType: Type 2
+17:24:45.237 [main] ERROR - CloneStructure has PDG gap node.
+17:24:45.237 [main] INFO  - 48%: Reading information from row 80 (Clone group ID 466, clone #1)
+17:24:45.243 [main] INFO  - 48%: Generating PDG for method "testGetXLowValue" in "org.jfree.data.xy.junit.XIntervalSeriesTests"
+17:24:45.260 [main] INFO  - 48%: Reading information from row 81 (Clone group ID 466, clone #2)
+17:24:45.261 [main] INFO  - 48%: Generating PDG for method "testGetXHighValue" in "org.jfree.data.xy.junit.XIntervalSeriesTests"
+17:24:45.263 [main] INFO  - 48%: Analyzing Clone #40 (Group 466, Pair 1-2): org.jfree.data.xy.junit.XIntervalSeriesTests#testGetXLowValue (row 80) and org.jfree.data.xy.junit.XIntervalSeriesTests#testGetXHighValue (row 81)
+17:24:45.269 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.269 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.280 [main] INFO  - start to refactor clone pair
+17:24:45.280 [main] INFO  - CloneType: Type 2
+17:24:45.281 [main] INFO  - 49%: Reading information from row 82 (Clone group ID 468, clone #1)
+17:24:45.284 [main] INFO  - 49%: Generating PDG for method "testConstructor1" in "org.jfree.data.xy.junit.XIntervalDataItemTests"
+17:24:45.287 [main] INFO  - 49%: Reading information from row 83 (Clone group ID 468, clone #2)
+17:24:45.291 [main] INFO  - 49%: Generating PDG for method "testConstructor1" in "org.jfree.data.xy.junit.YIntervalDataItemTests"
+17:24:45.293 [main] INFO  - 49%: Analyzing Clone #41 (Group 468, Pair 1-2): org.jfree.data.xy.junit.XIntervalDataItemTests#testConstructor1 (row 82) and org.jfree.data.xy.junit.YIntervalDataItemTests#testConstructor1 (row 83)
+17:24:45.300 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.300 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.309 [main] INFO  - start to refactor clone pair
+17:24:45.309 [main] INFO  - CloneType: Type 2
+17:24:45.310 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:45.310 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:45.310 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:24:45.311 [main] INFO  - 50%: Reading information from row 84 (Clone group ID 477, clone #1)
+17:24:45.315 [main] INFO  - 50%: Generating PDG for method "testHashCode" in "org.jfree.chart.annotations.junit.CategoryPointerAnnotationTests"
+17:24:45.347 [main] INFO  - 50%: Reading information from row 85 (Clone group ID 477, clone #2)
+17:24:45.353 [main] INFO  - 50%: Generating PDG for method "testHashCode" in "org.jfree.chart.annotations.junit.XYPointerAnnotationTests"
+17:24:45.430 [main] INFO  - 50%: Analyzing Clone #42 (Group 477, Pair 1-2): org.jfree.chart.annotations.junit.CategoryPointerAnnotationTests#testHashCode (row 84) and org.jfree.chart.annotations.junit.XYPointerAnnotationTests#testHashCode (row 85)
+17:24:45.441 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.441 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.469 [main] INFO  - start to refactor clone pair
+17:24:45.469 [main] INFO  - CloneType: Type 2
+17:24:45.470 [main] INFO  - 52%: Reading information from row 86 (Clone group ID 497, clone #1)
+17:24:45.474 [main] INFO  - 52%: Generating PDG for method "testGetItemColumn" in "org.jfree.data.xy.junit.MatrixSeriesTests"
+17:24:45.477 [main] INFO  - 52%: Reading information from row 87 (Clone group ID 497, clone #2)
+17:24:45.478 [main] INFO  - 52%: Generating PDG for method "testGetItemRow" in "org.jfree.data.xy.junit.MatrixSeriesTests"
+17:24:45.478 [main] INFO  - 52%: Analyzing Clone #43 (Group 497, Pair 1-2): org.jfree.data.xy.junit.MatrixSeriesTests#testGetItemColumn (row 86) and org.jfree.data.xy.junit.MatrixSeriesTests#testGetItemRow (row 87)
+17:24:45.481 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.481 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.489 [main] INFO  - start to refactor clone pair
+17:24:45.489 [main] INFO  - CloneType: Type 2
+17:24:45.490 [main] INFO  - 53%: Reading information from row 88 (Clone group ID 502, clone #1)
+17:24:45.496 [main] INFO  - 53%: Generating PDG for method "testGetStart" in "org.jfree.data.time.junit.HourTests"
+17:24:45.510 [main] INFO  - 53%: Reading information from row 89 (Clone group ID 502, clone #2)
+17:24:45.510 [main] INFO  - 53%: Generating PDG for method "testGetEnd" in "org.jfree.data.time.junit.HourTests"
+17:24:45.511 [main] INFO  - 53%: Analyzing Clone #44 (Group 502, Pair 1-2): org.jfree.data.time.junit.HourTests#testGetStart (row 88) and org.jfree.data.time.junit.HourTests#testGetEnd (row 89)
+17:24:45.516 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.516 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.526 [main] INFO  - start to refactor clone pair
+17:24:45.526 [main] INFO  - CloneType: Type 2
+17:24:45.527 [main] INFO  - 54%: Reading information from row 90 (Clone group ID 513, clone #1)
+17:24:45.532 [main] INFO  - 54%: Generating PDG for method "testCloning" in "org.jfree.chart.entity.junit.PieSectionEntityTests"
+17:24:45.541 [main] INFO  - 54%: Reading information from row 91 (Clone group ID 513, clone #2)
+17:24:45.546 [main] INFO  - 54%: Generating PDG for method "testCloning" in "org.jfree.chart.entity.junit.XYItemEntityTests"
+17:24:45.553 [main] INFO  - 54%: Analyzing Clone #45 (Group 513, Pair 1-2): org.jfree.chart.entity.junit.PieSectionEntityTests#testCloning (row 90) and org.jfree.chart.entity.junit.XYItemEntityTests#testCloning (row 91)
+17:24:45.561 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:45.561 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.561 [main] INFO  - Start mapping
+17:24:45.580 [main] INFO  - End mapping
+17:24:45.581 [main] INFO  - start to refactor clone pair
+17:24:45.581 [main] INFO  - CloneType: Type 2
+17:24:45.581 [main] INFO  - non-refactored node pair with MethodInvocation node: e.printStackTrace()  <--->  System.err.println("Failed to clone.")  (ARGUMENT_NUMBER_MISMATCH)
+17:24:45.582 [main] INFO  - 55%: Reading information from row 92 (Clone group ID 516, clone #1)
+17:24:45.606 [main] INFO  - 55%: Generating PDG for method "testCreateStackedValueList1" in "org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests"
+17:24:45.660 [main] INFO  - 55%: Reading information from row 93 (Clone group ID 516, clone #2)
+17:24:45.660 [main] INFO  - 55%: Generating PDG for method "testCreateStackedValueList3" in "org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests"
+17:24:45.663 [main] INFO  - 55%: Analyzing Clone #46 (Group 516, Pair 1-2): org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests#testCreateStackedValueList1 (row 92) and org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests#testCreateStackedValueList3 (row 93)
+17:24:45.684 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.684 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:45.689 [main] INFO  - start to refactor clone pair
+17:24:45.689 [main] INFO  - CloneType: Type 2
+17:24:45.690 [main] INFO  - 56%: Reading information from row 94 (Clone group ID 521, clone #1)
+17:24:45.710 [main] INFO  - 56%: Generating PDG for method "testPreviousStandardDateSecondA" in "org.jfree.chart.axis.junit.DateAxisTests"
+17:24:45.774 [main] INFO  - 56%: Reading information from row 95 (Clone group ID 521, clone #2)
+17:24:45.774 [main] INFO  - 56%: Generating PDG for method "testPreviousStandardDateSecondB" in "org.jfree.chart.axis.junit.DateAxisTests"
+17:24:45.778 [main] INFO  - 56%: Analyzing Clone #47 (Group 521, Pair 1-2): org.jfree.chart.axis.junit.DateAxisTests#testPreviousStandardDateSecondA (row 94) and org.jfree.chart.axis.junit.DateAxisTests#testPreviousStandardDateSecondB (row 95)
+17:24:45.800 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:45.800 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:46.015 [main] INFO  - start to refactor clone pair
+17:24:46.015 [main] INFO  - CloneType: Type 2
+17:24:46.017 [main] INFO  - 58%: Reading information from row 96 (Clone group ID 531, clone #1)
+17:24:46.023 [main] INFO  - 58%: Generating PDG for method "testFindLiveItemsLowerBoundDescending" in "org.jfree.chart.renderer.junit.RendererUtilitiesTests"
+17:24:46.041 [main] INFO  - 58%: Reading information from row 97 (Clone group ID 531, clone #2)
+17:24:46.041 [main] INFO  - 58%: Generating PDG for method "testFindLiveItemsUpperBoundDescending" in "org.jfree.chart.renderer.junit.RendererUtilitiesTests"
+17:24:46.046 [main] INFO  - 58%: Analyzing Clone #48 (Group 531, Pair 1-2): org.jfree.chart.renderer.junit.RendererUtilitiesTests#testFindLiveItemsLowerBoundDescending (row 96) and org.jfree.chart.renderer.junit.RendererUtilitiesTests#testFindLiveItemsUpperBoundDescending (row 97)
+17:24:46.052 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:46.052 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:46.591 [main] INFO  - start to refactor clone pair
+17:24:46.591 [main] INFO  - CloneType: Type 2
+17:24:46.594 [main] INFO  - 59%: Reading information from row 98 (Clone group ID 538, clone #1)
+17:24:46.624 [main] INFO  - 59%: Generating PDG for method "testSerialization5" in "org.jfree.chart.plot.junit.CategoryPlotTests"
+17:24:47.652 [main] INFO  - 59%: Reading information from row 99 (Clone group ID 538, clone #2)
+17:24:47.686 [main] INFO  - 59%: Generating PDG for method "testSerialization5" in "org.jfree.chart.plot.junit.XYPlotTests"
+17:24:48.030 [main] INFO  - 59%: Analyzing Clone #49 (Group 538, Pair 1-2): org.jfree.chart.plot.junit.CategoryPlotTests#testSerialization5 (row 98) and org.jfree.chart.plot.junit.XYPlotTests#testSerialization5 (row 99)
+17:24:48.089 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:48.089 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:48.090 [main] INFO  - Start mapping
+17:24:48.386 [main] INFO  - End mapping
+17:24:48.386 [main] INFO  - start to refactor clone pair
+17:24:48.386 [main] INFO  - CloneType: Type 2
+17:24:48.390 [main] INFO  - non-refactored node pair with initializer node: p2.getDomainAxis(0)  <--->  (NumberAxis)p2.getDomainAxis(0)  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+17:24:48.390 [main] INFO  - non-refactored node pair with initializer node: p2.getDomainAxis(1)  <--->  (NumberAxis)p2.getDomainAxis(1)  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+17:24:48.391 [main] INFO  - 60%: Reading information from row 100 (Clone group ID 555, clone #1)
+17:24:48.395 [main] INFO  - 60%: Generating PDG for method "testSerialization" in "org.jfree.data.general.junit.DefaultKeyedValuesDatasetTests"
+17:24:48.408 [main] INFO  - 60%: Reading information from row 101 (Clone group ID 555, clone #2)
+17:24:48.413 [main] INFO  - 60%: Generating PDG for method "testSerialization" in "org.jfree.data.general.junit.DefaultPieDatasetTests"
+17:24:48.416 [main] INFO  - 60%: Analyzing Clone #50 (Group 555, Pair 1-2): org.jfree.data.general.junit.DefaultKeyedValuesDatasetTests#testSerialization (row 100) and org.jfree.data.general.junit.DefaultPieDatasetTests#testSerialization (row 101)
+17:24:48.424 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:48.424 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:48.424 [main] INFO  - Start mapping
+17:24:48.460 [main] INFO  - End mapping
+17:24:48.461 [main] INFO  - start to refactor clone pair
+17:24:48.461 [main] INFO  - CloneType: Type 2
+17:24:48.461 [main] INFO  - Same method found in common super class [org.jfree.data.general.DefaultPieDataset]: setValue
+17:24:48.461 [main] INFO  - Same method found in common super class [org.jfree.data.general.DefaultPieDataset]: setValue
+17:24:48.462 [main] INFO  - Same method found in common super class [org.jfree.data.general.DefaultPieDataset]: setValue
+17:24:48.462 [main] INFO  - Same method found in common super class [org.jfree.data.general.DefaultPieDataset]: setValue
+17:24:48.462 [main] INFO  - 61%: Reading information from row 102 (Clone group ID 558, clone #1)
+17:24:48.467 [main] INFO  - 61%: Generating PDG for method "testSerialization" in "org.jfree.data.junit.DefaultKeyedValues2DTests"
+17:24:48.481 [main] INFO  - 61%: Reading information from row 103 (Clone group ID 558, clone #2)
+17:24:48.486 [main] INFO  - 61%: Generating PDG for method "testSerialization" in "org.jfree.data.junit.KeyedObjects2DTests"
+17:24:48.497 [main] INFO  - 61%: Analyzing Clone #51 (Group 558, Pair 1-2): org.jfree.data.junit.DefaultKeyedValues2DTests#testSerialization (row 102) and org.jfree.data.junit.KeyedObjects2DTests#testSerialization (row 103)
+17:24:48.507 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:48.507 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:48.507 [main] INFO  - Start mapping
+17:24:48.522 [main] INFO  - End mapping
+17:24:48.522 [main] INFO  - start to refactor clone pair
+17:24:48.522 [main] INFO  - CloneType: Type 2
+17:24:48.522 [main] ERROR - CloneStructure has PDG gap node.
+17:24:48.522 [main] INFO  - 62%: Reading information from row 104 (Clone group ID 561, clone #1)
+17:24:48.553 [main] INFO  - 62%: Generating PDG for method "testSerialization" in "org.jfree.chart.plot.junit.CategoryPlotTests"
+17:24:48.699 [main] INFO  - 62%: Reading information from row 105 (Clone group ID 561, clone #2)
+17:24:48.700 [main] INFO  - 62%: Generating PDG for method "testSerialization2" in "org.jfree.chart.plot.junit.CategoryPlotTests"
+17:24:48.702 [main] INFO  - 62%: Analyzing Clone #52 (Group 561, Pair 1-2): org.jfree.chart.plot.junit.CategoryPlotTests#testSerialization (row 104) and org.jfree.chart.plot.junit.CategoryPlotTests#testSerialization2 (row 105)
+17:24:48.732 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:48.732 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:48.732 [main] INFO  - Start mapping
+17:24:48.813 [main] INFO  - End mapping
+17:24:48.813 [main] INFO  - start to refactor clone pair
+17:24:48.813 [main] INFO  - CloneType: Type 2
+17:24:48.814 [main] INFO  - non-refactored node pair with MethodInvocation node: e.printStackTrace()  <--->  fail(e.toString())  (TYPE_COMPATIBLE_REPLACEMENT, ARGUMENT_NUMBER_MISMATCH, MISSING_METHOD_INVOCATION_EXPRESSION)
+17:24:48.814 [main] INFO  - non-refactored node pair with MethodInvocation node: assertTrue(p1.equals(p2))  <--->  assertEquals(p1,p2)  (ARGUMENT_NUMBER_MISMATCH)
+17:24:48.814 [main] INFO  - 64%: Reading information from row 106 (Clone group ID 562, clone #1)
+17:24:48.815 [main] INFO  - 64%: Generating PDG for method "testGetDomainAxisIndex" in "org.jfree.chart.plot.junit.CategoryPlotTests"
+17:24:48.872 [main] INFO  - 64%: Reading information from row 107 (Clone group ID 562, clone #2)
+17:24:48.872 [main] INFO  - 64%: Generating PDG for method "testGetRangeAxisIndex" in "org.jfree.chart.plot.junit.CategoryPlotTests"
+17:24:48.874 [main] INFO  - 64%: Analyzing Clone #53 (Group 562, Pair 1-2): org.jfree.chart.plot.junit.CategoryPlotTests#testGetDomainAxisIndex (row 106) and org.jfree.chart.plot.junit.CategoryPlotTests#testGetRangeAxisIndex (row 107)
+17:24:48.905 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:48.906 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:48.906 [main] INFO  - Start mapping
+17:24:48.988 [main] INFO  - End mapping
+17:24:48.989 [main] INFO  - start to refactor clone pair
+17:24:48.989 [main] INFO  - CloneType: Type 2
+17:24:48.991 [main] INFO  - 65%: Reading information from row 108 (Clone group ID 563, clone #1)
+17:24:48.997 [main] INFO  - 65%: Generating PDG for method "testCloning" in "org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests"
+17:24:49.004 [main] INFO  - 65%: Reading information from row 109 (Clone group ID 563, clone #2)
+17:24:49.008 [main] INFO  - 65%: Generating PDG for method "testCloning" in "org.jfree.chart.urls.junit.CustomXYURLGeneratorTests"
+17:24:49.014 [main] INFO  - 65%: Analyzing Clone #54 (Group 563, Pair 1-2): org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests#testCloning (row 108) and org.jfree.chart.urls.junit.CustomXYURLGeneratorTests#testCloning (row 109)
+17:24:49.021 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:49.021 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:49.022 [main] INFO  - Start mapping
+17:24:49.144 [main] INFO  - End mapping
+17:24:49.144 [main] INFO  - start to refactor clone pair
+17:24:49.144 [main] INFO  - CloneType: Type 2
+17:24:49.146 [main] INFO  - Same method found in common super class [java.lang.Object]: getClass
+17:24:49.146 [main] INFO  - Same method found in common super class [java.lang.Object]: getClass
+17:24:49.146 [main] INFO  - Same method found in common super class [java.lang.Object]: equals
+17:24:49.146 [main] INFO  - Same method found in common super class [java.lang.Object]: equals
+17:24:49.147 [main] INFO  - Same method found in common super class [java.lang.Object]: equals
+17:24:49.147 [main] INFO  - 66%: Reading information from row 110 (Clone group ID 565, clone #1)
+17:24:49.167 [main] INFO  - 66%: Generating PDG for method "testCloning" in "org.jfree.chart.renderer.xy.junit.XYAreaRendererTests"
+17:24:49.251 [main] INFO  - 66%: Reading information from row 111 (Clone group ID 565, clone #2)
+17:24:49.272 [main] INFO  - 66%: Generating PDG for method "testCloning" in "org.jfree.chart.renderer.xy.junit.XYBarRendererTests"
+17:24:49.306 [main] INFO  - 66%: Analyzing Clone #55 (Group 565, Pair 1-2): org.jfree.chart.renderer.xy.junit.XYAreaRendererTests#testCloning (row 110) and org.jfree.chart.renderer.xy.junit.XYBarRendererTests#testCloning (row 111)
+17:24:49.346 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:49.346 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:49.346 [main] INFO  - Start mapping
+17:24:49.418 [main] INFO  - End mapping
+17:24:49.418 [main] INFO  - start to refactor clone pair
+17:24:49.418 [main] INFO  - CloneType: Type 2
+17:24:49.420 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.xy.AbstractXYItemRenderer]: equals
+17:24:49.420 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:24:49.420 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.xy.AbstractXYItemRenderer]: equals
+17:24:49.421 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.xy.AbstractXYItemRenderer]: equals
+17:24:49.421 [main] INFO  - 67%: Reading information from row 112 (Clone group ID 575, clone #1)
+17:24:49.426 [main] INFO  - 67%: Generating PDG for method "testCloning" in "org.jfree.data.junit.DefaultKeyedValues2DTests"
+17:24:49.441 [main] INFO  - 67%: Reading information from row 113 (Clone group ID 575, clone #2)
+17:24:49.446 [main] INFO  - 67%: Generating PDG for method "testCloning" in "org.jfree.data.junit.KeyedObjects2DTests"
+17:24:49.466 [main] INFO  - 67%: Analyzing Clone #56 (Group 575, Pair 1-2): org.jfree.data.junit.DefaultKeyedValues2DTests#testCloning (row 112) and org.jfree.data.junit.KeyedObjects2DTests#testCloning (row 113)
+17:24:49.474 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:49.474 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:49.475 [main] INFO  - Start mapping
+17:24:49.489 [main] INFO  - End mapping
+17:24:49.489 [main] INFO  - start to refactor clone pair
+17:24:49.490 [main] INFO  - CloneType: Type 2
+17:24:49.490 [main] ERROR - CloneStructure has PDG gap node.
+17:24:49.490 [main] INFO  - 68%: Reading information from row 114 (Clone group ID 587, clone #1)
+17:24:49.494 [main] INFO  - 68%: Generating PDG for method "testAddURLSeries" in "org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests"
+17:24:49.499 [main] INFO  - 68%: Reading information from row 115 (Clone group ID 587, clone #2)
+17:24:49.503 [main] INFO  - 68%: Generating PDG for method "testAddURLSeries" in "org.jfree.chart.urls.junit.CustomXYURLGeneratorTests"
+17:24:49.508 [main] INFO  - 68%: Analyzing Clone #57 (Group 587, Pair 1-2): org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests#testAddURLSeries (row 114) and org.jfree.chart.urls.junit.CustomXYURLGeneratorTests#testAddURLSeries (row 115)
+17:24:49.514 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:49.514 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:49.528 [main] INFO  - start to refactor clone pair
+17:24:49.528 [main] INFO  - CloneType: Type 2
+17:24:49.530 [main] INFO  - 70%: Reading information from row 116 (Clone group ID 589, clone #1)
+17:24:49.548 [main] INFO  - 70%: Generating PDG for method "testDrawWithNullMeanHorizontal" in "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests"
+17:24:52.674 [main] INFO  - 70%: Reading information from row 117 (Clone group ID 589, clone #2)
+17:24:52.675 [main] INFO  - 70%: Generating PDG for method "testDrawWithNullDeviationHorizontal" in "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests"
+17:24:52.717 [main] INFO  - 70%: Analyzing Clone #58 (Group 589, Pair 1-2): org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testDrawWithNullMeanHorizontal (row 116) and org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testDrawWithNullDeviationHorizontal (row 117)
+17:24:52.735 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:52.735 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:52.736 [main] INFO  - Start mapping
+17:24:52.836 [main] INFO  - End mapping
+17:24:52.836 [main] INFO  - start to refactor clone pair
+17:24:52.836 [main] INFO  - CloneType: Type 2
+17:24:52.837 [main] INFO  - non-refactored node pair with NullLiteral node: null  <--->  new Double(4.0)  (TYPE_COMPATIBLE_REPLACEMENT)
+17:24:52.837 [main] INFO  - non-refactored node pair with ClassInstanceCreation node: new Double(4.0)  <--->  null  (TYPE_COMPATIBLE_REPLACEMENT)
+17:24:52.837 [main] INFO  - 71%: Reading information from row 118 (Clone group ID 590, clone #1)
+17:24:52.856 [main] INFO  - 71%: Generating PDG for method "testFindRangeBounds" in "org.jfree.chart.renderer.xy.junit.StackedXYAreaRenderer2Tests"
+17:24:53.916 [main] INFO  - 71%: Reading information from row 119 (Clone group ID 590, clone #2)
+17:24:53.933 [main] INFO  - 71%: Generating PDG for method "testFindDomainBounds" in "org.jfree.chart.renderer.xy.junit.StackedXYBarRendererTests"
+17:24:54.039 [main] INFO  - 71%: Analyzing Clone #59 (Group 590, Pair 1-2): org.jfree.chart.renderer.xy.junit.StackedXYAreaRenderer2Tests#testFindRangeBounds (row 118) and org.jfree.chart.renderer.xy.junit.StackedXYBarRendererTests#testFindDomainBounds (row 119)
+17:24:54.076 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:54.076 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:54.148 [main] INFO  - start to refactor clone pair
+17:24:54.148 [main] INFO  - CloneType: Type 2
+17:24:54.149 [main] ERROR - CloneStructure has PDG gap node.
+17:24:54.149 [main] INFO  - 72%: Reading information from row 120 (Clone group ID 603, clone #1)
+17:24:54.153 [main] INFO  - 72%: Generating PDG for method "testHashCode" in "org.jfree.chart.plot.dial.junit.DialBackgroundTests"
+17:24:54.168 [main] INFO  - 72%: Reading information from row 121 (Clone group ID 603, clone #2)
+17:24:54.176 [main] INFO  - 72%: Generating PDG for method "testHashCode" in "org.jfree.chart.plot.dial.junit.DialPointerTests"
+17:24:54.185 [main] INFO  - 72%: Analyzing Clone #60 (Group 603, Pair 1-2): org.jfree.chart.plot.dial.junit.DialBackgroundTests#testHashCode (row 120) and org.jfree.chart.plot.dial.junit.DialPointerTests#testHashCode (row 121)
+17:24:54.192 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:54.192 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:54.212 [main] INFO  - start to refactor clone pair
+17:24:54.212 [main] INFO  - CloneType: Type 2
+17:24:54.213 [main] INFO  - 73%: Reading information from row 122 (Clone group ID 617, clone #1)
+17:24:54.219 [main] INFO  - 73%: Generating PDG for method "testGetFirstMillisecondWithTimeZone" in "org.jfree.data.time.junit.WeekTests"
+17:24:54.230 [main] INFO  - 73%: Reading information from row 123 (Clone group ID 617, clone #2)
+17:24:54.231 [main] INFO  - 73%: Generating PDG for method "testGetLastMillisecondWithTimeZone" in "org.jfree.data.time.junit.WeekTests"
+17:24:54.232 [main] INFO  - 73%: Analyzing Clone #61 (Group 617, Pair 1-2): org.jfree.data.time.junit.WeekTests#testGetFirstMillisecondWithTimeZone (row 122) and org.jfree.data.time.junit.WeekTests#testGetLastMillisecondWithTimeZone (row 123)
+17:24:54.238 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:54.238 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:24:54.238 [main] INFO  - Start mapping
+17:24:54.246 [main] INFO  - End mapping
+17:24:54.246 [main] INFO  - start to refactor clone pair
+17:24:54.246 [main] INFO  - CloneType: Type 2
+17:24:54.247 [main] INFO  - 75%: Reading information from row 124 (Clone group ID 618, clone #1)
+17:24:54.253 [main] INFO  - 75%: Generating PDG for method "testGetFirstMillisecond" in "org.jfree.data.time.junit.MillisecondTests"
+17:24:54.262 [main] INFO  - 75%: Reading information from row 125 (Clone group ID 618, clone #2)
+17:24:54.262 [main] INFO  - 75%: Generating PDG for method "testGetLastMillisecond" in "org.jfree.data.time.junit.MillisecondTests"
+17:24:54.263 [main] INFO  - 75%: Analyzing Clone #62 (Group 618, Pair 1-2): org.jfree.data.time.junit.MillisecondTests#testGetFirstMillisecond (row 124) and org.jfree.data.time.junit.MillisecondTests#testGetLastMillisecond (row 125)
+17:24:54.269 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:54.269 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:54.277 [main] INFO  - start to refactor clone pair
+17:24:54.277 [main] INFO  - CloneType: Type 2
+17:24:54.278 [main] INFO  - 76%: Reading information from row 126 (Clone group ID 620, clone #1)
+17:24:54.284 [main] INFO  - 76%: Generating PDG for method "testGetRowCount" in "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests"
+17:24:54.588 [main] INFO  - 76%: Reading information from row 127 (Clone group ID 620, clone #2)
+17:24:54.588 [main] INFO  - 76%: Generating PDG for method "testGetColumnCount" in "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests"
+17:24:54.590 [main] INFO  - 76%: Analyzing Clone #63 (Group 620, Pair 1-2): org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests#testGetRowCount (row 126) and org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests#testGetColumnCount (row 127)
+17:24:54.595 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:54.595 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:54.835 [main] INFO  - start to refactor clone pair
+17:24:54.835 [main] INFO  - CloneType: Type 2
+17:24:54.836 [main] INFO  - 77%: Reading information from row 128 (Clone group ID 625, clone #1)
+17:24:54.844 [main] INFO  - 77%: Generating PDG for method "testCapListener" in "org.jfree.chart.plot.dial.junit.DialPlotTests"
+17:24:54.932 [main] INFO  - 77%: Reading information from row 129 (Clone group ID 625, clone #2)
+17:24:54.933 [main] INFO  - 77%: Generating PDG for method "testFrameListener" in "org.jfree.chart.plot.dial.junit.DialPlotTests"
+17:24:54.934 [main] INFO  - 77%: Analyzing Clone #64 (Group 625, Pair 1-2): org.jfree.chart.plot.dial.junit.DialPlotTests#testCapListener (row 128) and org.jfree.chart.plot.dial.junit.DialPlotTests#testFrameListener (row 129)
+17:24:54.942 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:54.942 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:54.988 [main] INFO  - start to refactor clone pair
+17:24:54.988 [main] INFO  - CloneType: Type 2
+17:24:54.989 [main] INFO  - 78%: Reading information from row 130 (Clone group ID 626, clone #1)
+17:24:55.001 [main] INFO  - 78%: Generating PDG for method "testGetSetOutlineStroke" in "org.jfree.chart.plot.junit.MarkerTests"
+17:24:55.012 [main] INFO  - 78%: Reading information from row 131 (Clone group ID 626, clone #2)
+17:24:55.012 [main] INFO  - 78%: Generating PDG for method "testGetSetStroke" in "org.jfree.chart.plot.junit.MarkerTests"
+17:24:55.012 [main] INFO  - 78%: Analyzing Clone #65 (Group 626, Pair 1-2): org.jfree.chart.plot.junit.MarkerTests#testGetSetOutlineStroke (row 130) and org.jfree.chart.plot.junit.MarkerTests#testGetSetStroke (row 131)
+17:24:55.024 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+17:24:55.024 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:55.033 [main] INFO  - start to refactor clone pair
+17:24:55.033 [main] INFO  - Non refactorable CloneType: Type 3
+17:24:55.033 [main] INFO  - 79%: Reading information from row 132 (Clone group ID 639, clone #1)
+17:24:55.054 [main] INFO  - 79%: Generating PDG for method "testPreviousStandardDateMillisecondA" in "org.jfree.chart.axis.junit.DateAxisTests"
+17:24:55.103 [main] INFO  - 79%: Reading information from row 133 (Clone group ID 639, clone #2)
+17:24:55.104 [main] INFO  - 79%: Generating PDG for method "testPreviousStandardDateMillisecondB" in "org.jfree.chart.axis.junit.DateAxisTests"
+17:24:55.105 [main] INFO  - 79%: Analyzing Clone #66 (Group 639, Pair 1-2): org.jfree.chart.axis.junit.DateAxisTests#testPreviousStandardDateMillisecondA (row 132) and org.jfree.chart.axis.junit.DateAxisTests#testPreviousStandardDateMillisecondB (row 133)
+17:24:55.126 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:55.126 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:55.167 [main] INFO  - start to refactor clone pair
+17:24:55.167 [main] INFO  - CloneType: Type 2
+17:24:55.168 [main] INFO  - 81%: Reading information from row 134 (Clone group ID 681, clone #1)
+17:24:55.174 [main] INFO  - 81%: Generating PDG for method "testSerialization" in "org.jfree.data.xy.junit.DefaultIntervalXYDatasetTests"
+17:24:55.232 [main] INFO  - 81%: Reading information from row 135 (Clone group ID 681, clone #2)
+17:24:55.237 [main] INFO  - 81%: Generating PDG for method "testSerialization" in "org.jfree.data.xy.junit.DefaultWindDatasetTests"
+17:24:55.246 [main] INFO  - 81%: Analyzing Clone #67 (Group 681, Pair 1-2): org.jfree.data.xy.junit.DefaultIntervalXYDatasetTests#testSerialization (row 134) and org.jfree.data.xy.junit.DefaultWindDatasetTests#testSerialization (row 135)
+17:24:55.257 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:55.257 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:24:55.257 [main] INFO  - Start mapping
+17:24:55.307 [main] INFO  - End mapping
+17:24:55.308 [main] INFO  - start to refactor clone pair
+17:24:55.308 [main] INFO  - CloneType: Type 2
+17:24:55.309 [main] INFO  - different local method access: createSampleDataset1
+17:24:55.309 [main] INFO  - 82%: Reading information from row 136 (Clone group ID 682, clone #1)
+17:24:55.314 [main] INFO  - 82%: Generating PDG for method "testRemove" in "org.jfree.data.time.ohlc.junit.OHLCSeriesTests"
+17:24:55.390 [main] INFO  - 82%: Reading information from row 137 (Clone group ID 682, clone #2)
+17:24:55.391 [main] INFO  - 82%: Generating PDG for method "testSetMaximumItemCount" in "org.jfree.data.time.ohlc.junit.OHLCSeriesTests"
+17:24:55.392 [main] INFO  - 82%: Analyzing Clone #68 (Group 682, Pair 1-2): org.jfree.data.time.ohlc.junit.OHLCSeriesTests#testRemove (row 136) and org.jfree.data.time.ohlc.junit.OHLCSeriesTests#testSetMaximumItemCount (row 137)
+17:24:55.398 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:55.398 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:55.419 [main] INFO  - start to refactor clone pair
+17:24:55.419 [main] INFO  - CloneType: Type 2
+17:24:55.419 [main] ERROR - CloneStructure has PDG gap node.
+17:24:55.419 [main] INFO  - 83%: Reading information from row 138 (Clone group ID 684, clone #1)
+17:24:55.425 [main] INFO  - 83%: Generating PDG for method "testParseMonth" in "org.jfree.data.time.junit.MonthTests"
+17:24:55.483 [main] INFO  - 83%: Reading information from row 139 (Clone group ID 684, clone #2)
+17:24:55.489 [main] INFO  - 83%: Generating PDG for method "testParseQuarter" in "org.jfree.data.time.junit.QuarterTests"
+17:24:55.494 [main] INFO  - 83%: Analyzing Clone #69 (Group 684, Pair 1-2): org.jfree.data.time.junit.MonthTests#testParseMonth (row 138) and org.jfree.data.time.junit.QuarterTests#testParseQuarter (row 139)
+17:24:55.505 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:24:55.505 [main] INFO  - CDT 1 leaves = 3, CDT 2 leaves = 3
+17:24:55.508 [main] INFO  - Start mapping
+17:24:55.531 [main] INFO  - End mapping
+17:24:55.531 [main] INFO  - start to refactor clone pair
+17:24:55.531 [main] INFO  - CloneType: Type 2
+17:24:55.532 [main] INFO  - Skip refactoring type level SimpleName node pair: Month, Quarter
+17:24:55.532 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:24:55.532 [main] INFO  - Skip refactoring type level SimpleName node pair: Month, Quarter
+17:24:55.533 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:24:55.533 [main] INFO  - Skip refactoring type level SimpleName node pair: Month, Quarter
+17:24:55.533 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+17:24:55.533 [main] INFO  - 84%: Reading information from row 140 (Clone group ID 687, clone #1)
+17:24:55.536 [main] INFO  - 84%: Generating PDG for method "testCalculateColumnTotal" in "org.jfree.data.junit.DataUtilitiesTests"
+17:24:55.558 [main] INFO  - 84%: Reading information from row 141 (Clone group ID 687, clone #2)
+17:24:55.558 [main] INFO  - 84%: Generating PDG for method "testCalculateRowTotal" in "org.jfree.data.junit.DataUtilitiesTests"
+17:24:55.559 [main] INFO  - 84%: Analyzing Clone #70 (Group 687, Pair 1-2): org.jfree.data.junit.DataUtilitiesTests#testCalculateColumnTotal (row 140) and org.jfree.data.junit.DataUtilitiesTests#testCalculateRowTotal (row 141)
+17:24:55.561 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:55.561 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:56.036 [main] INFO  - start to refactor clone pair
+17:24:56.036 [main] INFO  - CloneType: Type 2
+17:24:56.037 [main] INFO  - 85%: Reading information from row 142 (Clone group ID 688, clone #1)
+17:24:56.059 [main] INFO  - 85%: Generating PDG for method "testXYAutoRange1" in "org.jfree.chart.axis.junit.NumberAxisTests"
+17:24:56.233 [main] INFO  - 85%: Reading information from row 143 (Clone group ID 688, clone #2)
+17:24:56.234 [main] INFO  - 85%: Generating PDG for method "testXYAutoRange2" in "org.jfree.chart.axis.junit.NumberAxisTests"
+17:24:56.235 [main] INFO  - 85%: Analyzing Clone #71 (Group 688, Pair 1-2): org.jfree.chart.axis.junit.NumberAxisTests#testXYAutoRange1 (row 142) and org.jfree.chart.axis.junit.NumberAxisTests#testXYAutoRange2 (row 143)
+17:24:56.258 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:24:56.258 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:24:56.319 [main] INFO  - start to refactor clone pair
+17:24:56.319 [main] INFO  - CloneType: Type 2
+17:24:56.320 [main] INFO  - 87%: Reading information from row 144 (Clone group ID 690, clone #1)
+17:24:56.332 [main] INFO  - 87%: Generating PDG for method "testListenersWithXYPlot" in "org.jfree.chart.plot.junit.MarkerTests"
+17:25:01.165 [main] INFO  - 87%: Reading information from row 145 (Clone group ID 690, clone #2)
+17:25:01.165 [main] INFO  - 87%: Generating PDG for method "testListenersWithCategoryPlot" in "org.jfree.chart.plot.junit.MarkerTests"
+17:25:01.245 [main] INFO  - 87%: Analyzing Clone #72 (Group 690, Pair 1-2): org.jfree.chart.plot.junit.MarkerTests#testListenersWithXYPlot (row 144) and org.jfree.chart.plot.junit.MarkerTests#testListenersWithCategoryPlot (row 145)
+17:25:01.257 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:25:01.257 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:01.464 [main] INFO  - start to refactor clone pair
+17:25:01.464 [main] INFO  - CloneType: Type 2
+17:25:01.466 [main] INFO  - 88%: Reading information from row 146 (Clone group ID 791, clone #1)
+17:25:01.473 [main] INFO  - 88%: Generating PDG for method "test788597" in "org.jfree.data.xy.junit.TableXYDatasetTests"
+17:25:02.034 [main] INFO  - 88%: Reading information from row 147 (Clone group ID 791, clone #2)
+17:25:02.034 [main] INFO  - 88%: Generating PDG for method "testPrune" in "org.jfree.data.xy.junit.TableXYDatasetTests"
+17:25:02.049 [main] INFO  - 88%: Analyzing Clone #73 (Group 791, Pair 1-2): org.jfree.data.xy.junit.TableXYDatasetTests#test788597 (row 146) and org.jfree.data.xy.junit.TableXYDatasetTests#testPrune (row 147)
+17:25:02.055 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:25:02.055 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:02.071 [main] INFO  - start to refactor clone pair
+17:25:02.072 [main] INFO  - Non refactorable CloneType: Type 3
+17:25:02.072 [main] INFO  - 89%: Reading information from row 148 (Clone group ID 799, clone #1)
+17:25:02.077 [main] INFO  - 89%: Generating PDG for method "testGetFirstMillisecondWithCalendar" in "org.jfree.data.time.junit.YearTests"
+17:25:02.127 [main] INFO  - 89%: Reading information from row 149 (Clone group ID 799, clone #2)
+17:25:02.128 [main] INFO  - 89%: Generating PDG for method "testGetLastMillisecondWithCalendar" in "org.jfree.data.time.junit.YearTests"
+17:25:02.129 [main] INFO  - 89%: Analyzing Clone #74 (Group 799, Pair 1-2): org.jfree.data.time.junit.YearTests#testGetFirstMillisecondWithCalendar (row 148) and org.jfree.data.time.junit.YearTests#testGetLastMillisecondWithCalendar (row 149)
+17:25:02.134 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:25:02.134 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:02.135 [main] INFO  - Start mapping
+17:25:02.141 [main] INFO  - End mapping
+17:25:02.141 [main] INFO  - start to refactor clone pair
+17:25:02.141 [main] INFO  - CloneType: Type 2
+17:25:02.142 [main] INFO  - 90%: Reading information from row 150 (Clone group ID 801, clone #1)
+17:25:02.147 [main] INFO  - 90%: Generating PDG for method "testRowCount" in "org.jfree.data.junit.DefaultKeyedValues2DTests"
+17:25:02.220 [main] INFO  - 90%: Reading information from row 151 (Clone group ID 801, clone #2)
+17:25:02.221 [main] INFO  - 90%: Generating PDG for method "testColumnCount" in "org.jfree.data.junit.DefaultKeyedValues2DTests"
+17:25:02.222 [main] INFO  - 90%: Analyzing Clone #75 (Group 801, Pair 1-2): org.jfree.data.junit.DefaultKeyedValues2DTests#testRowCount (row 150) and org.jfree.data.junit.DefaultKeyedValues2DTests#testColumnCount (row 151)
+17:25:02.227 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:25:02.227 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:02.267 [main] INFO  - start to refactor clone pair
+17:25:02.267 [main] INFO  - CloneType: Type 2
+17:25:02.268 [main] INFO  - 92%: Reading information from row 152 (Clone group ID 804, clone #1)
+17:25:02.286 [main] INFO  - 92%: Generating PDG for method "testSetLowerBound" in "org.jfree.chart.axis.junit.LogAxisTests"
+17:25:02.317 [main] INFO  - 92%: Reading information from row 153 (Clone group ID 804, clone #2)
+17:25:02.341 [main] INFO  - 92%: Generating PDG for method "testSetLowerBound" in "org.jfree.chart.axis.junit.NumberAxisTests"
+17:25:02.356 [main] INFO  - 92%: Analyzing Clone #76 (Group 804, Pair 1-2): org.jfree.chart.axis.junit.LogAxisTests#testSetLowerBound (row 152) and org.jfree.chart.axis.junit.NumberAxisTests#testSetLowerBound (row 153)
+17:25:02.397 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:25:02.397 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:02.431 [main] INFO  - start to refactor clone pair
+17:25:02.431 [main] INFO  - CloneType: Type 2
+17:25:02.432 [main] INFO  - Same method found in common super class [org.jfree.chart.axis.ValueAxis]: setRange
+17:25:02.432 [main] INFO  - Same method found in common super class [org.jfree.chart.axis.ValueAxis]: setLowerBound
+17:25:02.432 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:02.432 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:02.432 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:02.433 [main] INFO  - 93%: Reading information from row 154 (Clone group ID 809, clone #1)
+17:25:02.437 [main] INFO  - 93%: Generating PDG for method "testGetSetStartValue" in "org.jfree.chart.plot.junit.IntervalMarkerTests"
+17:25:02.448 [main] INFO  - 93%: Reading information from row 155 (Clone group ID 809, clone #2)
+17:25:02.448 [main] INFO  - 93%: Generating PDG for method "testGetSetEndValue" in "org.jfree.chart.plot.junit.IntervalMarkerTests"
+17:25:02.448 [main] INFO  - 93%: Analyzing Clone #77 (Group 809, Pair 1-2): org.jfree.chart.plot.junit.IntervalMarkerTests#testGetSetStartValue (row 154) and org.jfree.chart.plot.junit.IntervalMarkerTests#testGetSetEndValue (row 155)
+17:25:02.452 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:25:02.452 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:02.463 [main] INFO  - start to refactor clone pair
+17:25:02.463 [main] INFO  - CloneType: Type 2
+17:25:02.464 [main] INFO  - 94%: Reading information from row 156 (Clone group ID 840, clone #1)
+17:25:02.482 [main] INFO  - 94%: Generating PDG for method "testAutoRange3" in "org.jfree.chart.axis.junit.LogAxisTests"
+17:25:02.657 [main] INFO  - 94%: Reading information from row 157 (Clone group ID 840, clone #2)
+17:25:02.679 [main] INFO  - 94%: Generating PDG for method "testAutoRange3" in "org.jfree.chart.axis.junit.NumberAxisTests"
+17:25:02.695 [main] INFO  - 94%: Analyzing Clone #78 (Group 840, Pair 1-2): org.jfree.chart.axis.junit.LogAxisTests#testAutoRange3 (row 156) and org.jfree.chart.axis.junit.NumberAxisTests#testAutoRange3 (row 157)
+17:25:02.735 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:25:02.735 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:02.887 [main] INFO  - start to refactor clone pair
+17:25:02.887 [main] INFO  - CloneType: Type 2
+17:25:02.888 [main] INFO  - non-refactored node pair with MethodInvocation node: plot.setRangeAxis(axis)  <--->  dataset2.setValue(900.0,"Row 1","Column 1")  (ARGUMENT_NUMBER_MISMATCH)
+17:25:02.888 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:02.888 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:02.888 [main] INFO  - non-refactored node pair with initializer node: new DefaultCategoryDataset()  <--->  (NumberAxis)plot.getRangeAxis()  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+17:25:02.888 [main] INFO  - non-refactored node pair with MethodInvocation node: dataset2.setValue(900.0,"Row 1","Column 1")  <--->  axis.setAutoRangeIncludesZero(false)  (ARGUMENT_NUMBER_MISMATCH)
+17:25:02.889 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:02.889 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:02.889 [main] INFO  - 95%: Reading information from row 158 (Clone group ID 843, clone #1)
+17:25:02.893 [main] INFO  - 95%: Generating PDG for method "testCloning" in "org.jfree.chart.plot.dial.junit.DialBackgroundTests"
+17:25:02.905 [main] INFO  - 95%: Reading information from row 159 (Clone group ID 843, clone #2)
+17:25:02.909 [main] INFO  - 95%: Generating PDG for method "testCloning" in "org.jfree.chart.plot.dial.junit.StandardDialScaleTests"
+17:25:02.919 [main] INFO  - 95%: Analyzing Clone #79 (Group 843, Pair 1-2): org.jfree.chart.plot.dial.junit.DialBackgroundTests#testCloning (row 158) and org.jfree.chart.plot.dial.junit.StandardDialScaleTests#testCloning (row 159)
+17:25:02.927 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:25:02.927 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+17:25:02.928 [main] INFO  - Start mapping
+17:25:02.970 [main] INFO  - End mapping
+17:25:02.970 [main] INFO  - start to refactor clone pair
+17:25:02.970 [main] INFO  - Non refactorable CloneType: Type 3
+17:25:02.970 [main] INFO  - 96%: Reading information from row 160 (Clone group ID 849, clone #1)
+17:25:02.980 [main] INFO  - 96%: Generating PDG for method "testCloning2" in "org.jfree.chart.renderer.category.junit.AbstractCategoryItemRendererTests"
+17:25:03.048 [main] INFO  - 96%: Reading information from row 161 (Clone group ID 849, clone #2)
+17:25:03.048 [main] INFO  - 96%: Generating PDG for method "testCloning1" in "org.jfree.chart.renderer.category.junit.AbstractCategoryItemRendererTests"
+17:25:03.050 [main] INFO  - 96%: Analyzing Clone #80 (Group 849, Pair 1-2): org.jfree.chart.renderer.category.junit.AbstractCategoryItemRendererTests#testCloning2 (row 160) and org.jfree.chart.renderer.category.junit.AbstractCategoryItemRendererTests#testCloning1 (row 161)
+17:25:03.060 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+17:25:03.060 [main] INFO  - CDT 1 leaves = 3, CDT 2 leaves = 3
+17:25:03.061 [main] INFO  - Start mapping
+17:25:03.116 [main] INFO  - End mapping
+17:25:03.116 [main] INFO  - start to refactor clone pair
+17:25:03.116 [main] INFO  - CloneType: Type 2
+17:25:03.117 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: setItemLabelGenerator
+17:25:03.117 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: clone
+17:25:03.118 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: equals
+17:25:03.118 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: setSeriesItemLabelGenerator
+17:25:03.118 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: clone
+17:25:03.118 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: equals
+17:25:03.118 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: setBaseItemLabelGenerator
+17:25:03.119 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: clone
+17:25:03.119 [main] INFO  - Same method found in common super class [org.jfree.chart.renderer.category.AbstractCategoryItemRenderer]: equals
+17:25:03.119 [main] INFO  - 98%: Reading information from row 162 (Clone group ID 898, clone #1)
+17:25:03.131 [main] INFO  - 98%: Generating PDG for method "testGetSetAlpha" in "org.jfree.chart.plot.junit.MarkerTests"
+17:25:03.142 [main] INFO  - 98%: Reading information from row 163 (Clone group ID 898, clone #2)
+17:25:03.146 [main] INFO  - 98%: Generating PDG for method "testGetSetValue" in "org.jfree.chart.plot.junit.ValueMarkerTests"
+17:25:03.147 [main] INFO  - 98%: Analyzing Clone #81 (Group 898, Pair 1-2): org.jfree.chart.plot.junit.MarkerTests#testGetSetAlpha (row 162) and org.jfree.chart.plot.junit.ValueMarkerTests#testGetSetValue (row 163)
+17:25:03.163 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:25:03.164 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:03.176 [main] INFO  - start to refactor clone pair
+17:25:03.176 [main] INFO  - CloneType: Type 2
+17:25:03.176 [main] INFO  - Containing unrefactorable ThisExpression: this
+17:25:03.176 [main] INFO  - Containing unrefactorable ThisExpression: this
+17:25:03.176 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:03.176 [main] INFO  - get compatible primitive type
+17:25:03.176 [main] INFO  - get compatible primitive type
+17:25:03.176 [main] INFO  - get compatible primitive type
+17:25:03.176 [main] INFO  - get compatible primitive type
+17:25:03.177 [main] INFO  - Containing unrefactorable private field access: EPSILON
+17:25:03.177 [main] INFO  - get compatible primitive type
+17:25:03.177 [main] INFO  - get compatible primitive type
+17:25:03.177 [main] INFO  - get compatible primitive type
+17:25:03.177 [main] INFO  - Containing unrefactorable ThisExpression: this
+17:25:03.177 [main] INFO  - 99%: Reading information from row 164 (Clone group ID 969, clone #1)
+17:25:03.207 [main] INFO  - 99%: Generating PDG for method "testSetRenderer" in "org.jfree.chart.plot.junit.CategoryPlotTests"
+17:25:03.498 [main] INFO  - 99%: Reading information from row 165 (Clone group ID 969, clone #2)
+17:25:03.531 [main] INFO  - 99%: Generating PDG for method "testSetRenderer" in "org.jfree.chart.plot.junit.XYPlotTests"
+17:25:04.811 [main] INFO  - 99%: Analyzing Clone #82 (Group 969, Pair 1-2): org.jfree.chart.plot.junit.CategoryPlotTests#testSetRenderer (row 164) and org.jfree.chart.plot.junit.XYPlotTests#testSetRenderer (row 165)
+17:25:04.872 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+17:25:04.872 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+17:25:04.996 [main] INFO  - start to refactor clone pair
+17:25:04.997 [main] INFO  - CloneType: Type 2
+17:25:04.997 [main] INFO  - Same method found in common super class [org.jfree.chart.plot.Plot]: addChangeListener
+17:25:06.258 [main] INFO  - Applying changes to source files
+17:25:06.258 [main] INFO  - refactoring 50 clone method pairs.
+17:25:06.258 [main] INFO  - skipping 26 clone method pairs:
+17:25:06.258 [main] INFO  - 	1 not test cases
+17:25:06.258 [main] INFO  - 	8 containing gap nodes (type3)
+17:25:06.258 [main] INFO  - 	16 not refactorable
+17:25:06.258 [main] INFO  - 	1 repeated naming
+17:25:06.258 [main] INFO  - 	7 access issues
+17:25:06.258 [main] INFO  - 	 *org.jfree.data.general.junit.DefaultKeyedValuesDatasetTests: void testSerialization() <---> org.jfree.data.general.junit.DefaultPieDatasetTests: void testSerialization()
+17:25:06.258 [main] INFO  - 	  org.jfree.data.xy.junit.DefaultIntervalXYDatasetTests: void testSerialization() <---> org.jfree.data.xy.junit.DefaultWindDatasetTests: void testSerialization()
+17:25:06.258 [main] INFO  - type1 count: 0
+17:25:06.258 [main] INFO  - type2 count: 76
+17:25:06.258 [main] INFO  - type3 count: 6
+17:25:06.269 [main] INFO  - effective refactoring ratio: 50/66 = 75.8%
+17:25:06.269 [main] INFO  - refactoring method pair: org.jfree.data.category.junit.DefaultCategoryDatasetTests.java#testGetRowCount <---> org.jfree.data.category.junit.DefaultCategoryDatasetTests.java#testGetColumnCount
+17:25:07.003 [main] INFO  - refactoring method pair: org.jfree.data.category.junit.DefaultCategoryDatasetTests.java#testRemoveColumn <---> org.jfree.data.category.junit.DefaultCategoryDatasetTests.java#testRemoveRow
+17:25:07.416 [main] INFO  - refactoring method pair: org.jfree.chart.axis.junit.LogarithmicAxisTests.java#testJava2DToValue <---> org.jfree.chart.axis.junit.LogarithmicAxisTests.java#testValueToJava2D
+17:25:07.857 [main] INFO  - refactoring method pair: org.jfree.chart.axis.junit.DateAxisTests.java#testPreviousStandardDateYearA <---> org.jfree.chart.axis.junit.DateAxisTests.java#testPreviousStandardDateYearB
+17:25:08.215 [main] INFO  - refactoring method pair: org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.java#testSetStartValue <---> org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.java#testSetEndValue
+17:25:08.687 [main] INFO  - refactoring method pair: org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.java#testGetColumnKeys <---> org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.java#testGetRowKeys
+17:25:09.061 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.xy.junit.XYBlockRendererTests.java#testBug1766646A <---> org.jfree.chart.renderer.xy.junit.XYBlockRendererTests.java#testBug1766646B
+17:25:09.421 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.junit.AbstractRendererTests.java#testSetPositiveItemLabelPosition <---> org.jfree.chart.renderer.junit.AbstractRendererTests.java#testSetNegativeItemLabelPosition
+17:25:09.833 [main] INFO  - refactoring method pair: org.jfree.data.gantt.junit.TaskSeriesCollectionTests.java#testGetStartValue2 <---> org.jfree.data.gantt.junit.TaskSeriesCollectionTests.java#testGetEndValue2
+17:25:10.242 [main] INFO  - refactoring method pair: org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.java#testSetSeriesKeys <---> org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.java#testSetCategoryKeys
+17:25:10.581 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.YearTests.java#testGetFirstMillisecond <---> org.jfree.data.time.junit.YearTests.java#testGetLastMillisecond
+17:25:10.940 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.YearTests.java#testGetFirstMillisecondWithTimeZone <---> org.jfree.data.time.junit.YearTests.java#testGetLastMillisecondWithTimeZone
+17:25:11.442 [main] INFO  - refactoring method pair: org.jfree.data.general.junit.DatasetUtilitiesTests.java#testFindMinimumRangeValue <---> org.jfree.data.general.junit.DatasetUtilitiesTests.java#testFindMaximumRangeValue
+17:25:11.818 [main] INFO  - refactoring method pair: org.jfree.data.gantt.junit.TaskSeriesCollectionTests.java#testGetStartValue <---> org.jfree.data.gantt.junit.TaskSeriesCollectionTests.java#testGetEndValue
+17:25:12.200 [main] INFO  - refactoring method pair: org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests.java#testCalculateQ1 <---> org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests.java#testCalculateQ3
+17:25:18.994 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.xy.junit.CandlestickRendererTests.java#testFindRangeBounds <---> org.jfree.chart.renderer.xy.junit.HighLowRendererTests.java#testFindRangeBounds
+17:25:19.402 [main] INFO  - refactoring method pair: org.jfree.data.gantt.junit.TaskSeriesCollectionTests.java#testGetStartValue3 <---> org.jfree.data.gantt.junit.TaskSeriesCollectionTests.java#testGetEndValue3
+17:25:19.779 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.HourTests.java#testFirstHourNext <---> org.jfree.data.time.junit.HourTests.java#testLastHourPrevious
+17:25:20.128 [main] INFO  - refactoring method pair: org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests.java#testGetRangeLowerBound <---> org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests.java#testGetRangeUpperBound
+17:25:20.597 [main] INFO  - refactoring method pair: org.jfree.chart.plot.junit.CombinedDomainXYPlotTests.java#testRemoveSubplot <---> org.jfree.chart.plot.junit.CombinedRangeXYPlotTests.java#testRemoveSubplot
+17:25:20.910 [main] INFO  - refactoring method pair: org.jfree.data.xy.junit.XIntervalSeriesTests.java#testIndexOf2 <---> org.jfree.data.xy.junit.YIntervalSeriesTests.java#testIndexOf2
+17:25:21.205 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.MillisecondTests.java#testGetStart <---> org.jfree.data.time.junit.MillisecondTests.java#testGetEnd
+17:25:22.016 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests.java#testDrawWithNullInfo <---> org.jfree.chart.renderer.category.junit.StatisticalLineAndShapeRendererTests.java#testDrawWithNullInfo
+17:25:22.308 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests.java#testFindDomainBounds <---> org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests.java#testFindRangeBounds
+17:25:22.625 [main] INFO  - refactoring method pair: org.jfree.data.xy.junit.XIntervalSeriesTests.java#testRemove <---> org.jfree.data.xy.junit.YIntervalSeriesTests.java#testRemove
+17:25:22.955 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.MinuteTests.java#testGetStart <---> org.jfree.data.time.junit.MinuteTests.java#testGetEnd
+17:25:23.274 [main] INFO  - refactoring method pair: org.jfree.data.xy.junit.XIntervalSeriesTests.java#testGetXLowValue <---> org.jfree.data.xy.junit.XIntervalSeriesTests.java#testGetXHighValue
+17:25:24.082 [main] INFO  - refactoring method pair: org.jfree.data.xy.junit.MatrixSeriesTests.java#testGetItemColumn <---> org.jfree.data.xy.junit.MatrixSeriesTests.java#testGetItemRow
+17:25:24.424 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.HourTests.java#testGetStart <---> org.jfree.data.time.junit.HourTests.java#testGetEnd
+17:25:24.763 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests.java#testCreateStackedValueList1 <---> org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests.java#testCreateStackedValueList3
+17:25:25.767 [main] INFO  - refactoring method pair: org.jfree.chart.axis.junit.DateAxisTests.java#testPreviousStandardDateSecondA <---> org.jfree.chart.axis.junit.DateAxisTests.java#testPreviousStandardDateSecondB
+17:25:26.093 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.junit.RendererUtilitiesTests.java#testFindLiveItemsLowerBoundDescending <---> org.jfree.chart.renderer.junit.RendererUtilitiesTests.java#testFindLiveItemsUpperBoundDescending
+17:25:26.634 [main] INFO  - refactoring method pair: org.jfree.data.general.junit.DefaultKeyedValuesDatasetTests.java#testSerialization <---> org.jfree.data.general.junit.DefaultPieDatasetTests.java#testSerialization
+17:25:26.933 [main] INFO  - refactoring method pair: org.jfree.chart.plot.junit.CategoryPlotTests.java#testGetDomainAxisIndex <---> org.jfree.chart.plot.junit.CategoryPlotTests.java#testGetRangeAxisIndex
+17:25:27.490 [main] INFO  - refactoring method pair: org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests.java#testCloning <---> org.jfree.chart.urls.junit.CustomXYURLGeneratorTests.java#testCloning
+17:25:27.827 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.xy.junit.XYAreaRendererTests.java#testCloning <---> org.jfree.chart.renderer.xy.junit.XYBarRendererTests.java#testCloning
+17:25:28.186 [main] INFO  - refactoring method pair: org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests.java#testAddURLSeries <---> org.jfree.chart.urls.junit.CustomXYURLGeneratorTests.java#testAddURLSeries
+17:25:29.308 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.WeekTests.java#testGetFirstMillisecondWithTimeZone <---> org.jfree.data.time.junit.WeekTests.java#testGetLastMillisecondWithTimeZone
+17:25:29.731 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.MillisecondTests.java#testGetFirstMillisecond <---> org.jfree.data.time.junit.MillisecondTests.java#testGetLastMillisecond
+17:25:30.065 [main] INFO  - refactoring method pair: org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests.java#testGetRowCount <---> org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests.java#testGetColumnCount
+17:25:30.408 [main] INFO  - refactoring method pair: org.jfree.chart.plot.dial.junit.DialPlotTests.java#testCapListener <---> org.jfree.chart.plot.dial.junit.DialPlotTests.java#testFrameListener
+17:25:30.718 [main] INFO  - refactoring method pair: org.jfree.chart.axis.junit.DateAxisTests.java#testPreviousStandardDateMillisecondA <---> org.jfree.chart.axis.junit.DateAxisTests.java#testPreviousStandardDateMillisecondB
+17:25:31.032 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.MonthTests.java#testParseMonth <---> org.jfree.data.time.junit.QuarterTests.java#testParseQuarter
+17:25:31.360 [main] INFO  - refactoring method pair: org.jfree.data.junit.DataUtilitiesTests.java#testCalculateColumnTotal <---> org.jfree.data.junit.DataUtilitiesTests.java#testCalculateRowTotal
+17:25:31.691 [main] INFO  - refactoring method pair: org.jfree.chart.axis.junit.NumberAxisTests.java#testXYAutoRange1 <---> org.jfree.chart.axis.junit.NumberAxisTests.java#testXYAutoRange2
+17:25:32.027 [main] INFO  - refactoring method pair: org.jfree.data.time.junit.YearTests.java#testGetFirstMillisecondWithCalendar <---> org.jfree.data.time.junit.YearTests.java#testGetLastMillisecondWithCalendar
+17:25:32.382 [main] INFO  - refactoring method pair: org.jfree.data.junit.DefaultKeyedValues2DTests.java#testRowCount <---> org.jfree.data.junit.DefaultKeyedValues2DTests.java#testColumnCount
+17:25:32.723 [main] INFO  - refactoring method pair: org.jfree.chart.plot.junit.IntervalMarkerTests.java#testGetSetStartValue <---> org.jfree.chart.plot.junit.IntervalMarkerTests.java#testGetSetEndValue
+17:25:33.046 [main] INFO  - refactoring method pair: org.jfree.chart.renderer.category.junit.AbstractCategoryItemRendererTests.java#testCloning2 <---> org.jfree.chart.renderer.category.junit.AbstractCategoryItemRendererTests.java#testCloning1
+17:25:33.397 [main] INFO  - refactoring method pair: org.jfree.chart.plot.junit.CategoryPlotTests.java#testSetRenderer <---> org.jfree.chart.plot.junit.XYPlotTests.java#testSetRenderer
+17:25:33.721 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/jfreechart-1.0.10/jfreechart-1.0.10-50-0.95-0-deckard-selected.xls, output file: /home/daveroar/git/JTestParametrizer_forked/results_excludeNonTestCase/jfreechart-1.0.10/jfreechart-1.0.10-50-0.95-0-deckard-selected-analyzed.xls
