@@ -1,6 +1,6 @@
-// Clone Documentation - More than pairs
+# Clone Documentation - More than pairs
 
-## clones of 5
+## Clones of 5
 ### Lucene-6.6.6  (minT = 30)
 // 1236	src/test	org.apache.lucene.codecs.lucene54	TestLucene54DocValuesFormat	testSortedSetVariableLengthBigVsStoredFields	()V	89	95
 // 1236	src/test	org.apache.lucene.codecs.lucene54	TestLucene54DocValuesFormat	testSortedVariableLengthManyVsStoredFields	()V	113	119
@@ -8,6 +8,7 @@
 // 1236	src/test	org.apache.lucene.codecs.lucene54	TestLucene54DocValuesFormat	testTermsEnumVariableWidth	()V	129	135
 // 1236	src/test	org.apache.lucene.codecs.lucene54	TestLucene54DocValuesFormat	testTermsEnumRandomMany	()V	137	143
 
+```java
 @Slow
 public void testSortedSetVariableLengthBigVsStoredFields() throws Exception {
   int numIterations = atLeast(1);
@@ -48,7 +49,7 @@ public void testTermsEnumRandomMany() throws Exception {
     doTestTermsEnumRandom(TestUtil.nextInt(random(), 1025, 8121), 1, 500);
   }
 }
-
+```
 
 ### Solr-6.6.6 (minT = 30)
 
@@ -60,7 +61,7 @@ public void testTermsEnumRandomMany() throws Exception {
 // 742	src/test	org.apache.solr.highlight	HighlighterTest	testTermVecHighlight	()V	159	180
 
 
-
+```java
 @Test
 public void testMultiValueAnalysisHighlight() {
 
@@ -173,6 +174,7 @@ public void testTermVecHighlight() {
           "//arr[@name='tv_text']/str[.=' <em>long</em> fragments.']"
           );
 }
+```
 
 // 35	src/test	org.apache.solr.handler.component	TestHttpShardHandlerFactory	testWhitelistHostCheckerSingleHost	()V	124	128
 // 35	src/test	org.apache.solr.handler.component	TestHttpShardHandlerFactory	testWhitelistHostCheckerMultipleHost	()V	130	134
@@ -180,6 +182,7 @@ public void testTermVecHighlight() {
 // 35	src/test	org.apache.solr.handler.component	TestHttpShardHandlerFactory	testWhitelistHostCheckerNonWhitelistedHostHttps	()V	172	176
 // 35	src/test	org.apache.solr.handler.component	TestHttpShardHandlerFactory	testWhitelistHostCheckerCoreSpecific	()V	190	195
 
+```java
 @Test
 public void testWhitelistHostCheckerSingleHost() {
   WhitelistHostChecker checker = new WhitelistHostChecker("http://abc-1.com:8983/solr", true);
@@ -210,6 +213,7 @@ public void testWhitelistHostCheckerCoreSpecific() {
   WhitelistHostChecker checker = new WhitelistHostChecker("http://abc-1.com:8983/solr/core1, http://abc-2.com:8983/solr2/core2", true);
   checker.checkWhitelist("http://abc-1.com:8983/solr/core2", Arrays.asList(new String[]{"http://abc-1.com:8983/solr/core2"}));
 }
+```
 
 ### JMeter-5.1.1 (minT = 30)
 
@@ -219,6 +223,7 @@ public void testWhitelistHostCheckerCoreSpecific() {
 // 140	test/src	org.apache.jmeter.assertions	TestJSONPathAssertion	testGetResult_inverted_null	()V	300	314
 // 140	test/src	org.apache.jmeter.assertions	TestJSONPathAssertion	testGetResultFloat	()V	368	384
 
+```java
 @Test
 public void testGetResult_not_regexp() {
     SampleResult samplerResult = new SampleResult();
@@ -301,6 +306,7 @@ public void testGetResultFloat() {
     assertEquals(expResult.getName(), result.getName());
     assertEquals(false, result.isFailure());
 }
+```
 
 // 17	test/src	org.apache.jmeter.extractor	TestHtmlExtractorJSoup	testEmptyDefaultVariable	()V	96	103
 // 17	test/src	org.apache.jmeter.extractor	TestHtmlExtractorJSoup	testVariableExtractionWithAttribute2	()V	140	147
@@ -308,6 +314,7 @@ public void testGetResultFloat() {
 // 17	test/src	org.apache.jmeter.extractor	TestRegexExtractor	testVariableExtraction2	()V	201	208
 // 17	test/src	org.apache.jmeter.extractor	TestRegexExtractor	testVariableExtraction3	()V	220	227
 
+```java
 @Test
 public void testEmptyDefaultVariable() throws Exception {
     extractor.setExpression("p.missing");
@@ -352,7 +359,7 @@ public void testVariableExtraction3() throws Exception {
     extractor.process();
     assertEquals("_pinposition2", vars.get("regVal"));
 }
-
+```
 
 // 198	test/src	org.apache.commons.cli.avalon	ClutilTestCase	testIncomplete2ArgsMixed	()V	813	833
 // 198	test/src	org.apache.commons.cli.avalon	ClutilTestCase	testIncomplete2ArgsMixedNoEq	()V	835	855
@@ -360,6 +367,7 @@ public void testVariableExtraction3() throws Exception {
 // 198	test/src	org.apache.commons.cli.avalon	ClutilTestCase	testOptionalArgsWithArgShortEqualsBeforeOtherOpt	()V	256	278
 // 198	test/src	org.apache.commons.cli.avalon	ClutilTestCase	testOptionalArgsNoArgShortBeforeOtherOpt	()V	280	302
 
+```java
 @Test
 public void testIncomplete2ArgsMixed() {
     // "-Dstupid=","-c"
@@ -475,7 +483,7 @@ public void testOptionalArgsNoArgShortBeforeOtherOpt() {
     assertEquals(ALL_OPT, option1.getDescriptor().getId());
     assertEquals(null, option1.getArgument(0));
 }
-
+```
 
 // 302	test/src	org.apache.jmeter.functions	TestEscapeOroRegexpChars	testEscapeWithVars	()V	88	96
 // 302	test/src	org.apache.jmeter.functions	TestGroovyFunction	testSumVar	()V	80	88
@@ -483,7 +491,7 @@ public void testOptionalArgsNoArgShortBeforeOtherOpt() {
 // 302	test/src	org.apache.jmeter.functions	TestJexl2Function	testSumVar	()V	72	80
 // 302	test/src	org.apache.jmeter.functions	TestSetProperty	testSetPropertyNoReturn	()V	67	75
 
-
+```java
 @Test
 public void testEscapeWithVars() throws Exception {
     params.add(new CompoundVariable("toto(.+?)titi"));
@@ -533,6 +541,7 @@ public void testSetPropertyNoReturn() throws Exception {
     assertEquals("value1", JMeterUtils.getProperty("prop1"));
     assertEquals("", returnValue);
 }
+```
 
 ### commons-collection-4.3 (minT = 30)
 
@@ -544,6 +553,7 @@ public void testSetPropertyNoReturn() throws Exception {
 // 323	src/test/java	org.apache.commons.collections4.map	Flat3MapTest	testEntryIteratorSetValue2	()V	237	255
 // 323	src/test/java	org.apache.commons.collections4.map	Flat3MapTest	testEntryIteratorSetValue3	()V	257	276
 
+```java
 @SuppressWarnings("unchecked")
 public void testMapIteratorSetValue1() throws Exception {
     final Flat3Map<K, V> map = makeObject();
@@ -642,7 +652,7 @@ public void testEntryIteratorSetValue3() throws Exception {
     assertEquals(TWENTY, map.get(TWO));
     assertEquals("NewValue", map.get(THREE));
 }
-
+```
 
 ### commons-io-2.5
 
@@ -652,6 +662,7 @@ public void testEntryIteratorSetValue3() throws Exception {
 // 136	src/test/java	org.apache.commons.io	FilenameUtilsTestCase	testGetBaseName_with_nullByte	()V	864	871
 // 136	src/test/java	org.apache.commons.io	FilenameUtilsTestCase	testIsExtension_injection	()V	1022	1029
 
+```java
 @Test
 public void testGetPrefix_with_nullbyte() {
     try {
@@ -696,7 +707,7 @@ public void testIsExtension_injection() {
     } catch (IllegalArgumentException ignore) {
     }
 }
-
+```
 
 // 142	src/test/java	org.apache.commons.io	CopyUtilsTest	copy_byteArrayToWriter	()V	82	93
 // 142	src/test/java	org.apache.commons.io	IOUtilsWriteTestCase	testWrite_stringToOutputStream	()V	317	330
@@ -704,6 +715,7 @@ public void testIsExtension_injection() {
 // 142	src/test/java	org.apache.commons.io	IOUtilsWriteTestCase	testWrite_byteArrayToWriter	()V	89	102
 // 142	src/test/java	org.apache.commons.io	IOUtilsWriteTestCase	testWrite_charSequenceToOutputStream	()V	183	196
 
+```java
 @Test
 public void copy_byteArrayToWriter() throws Exception {
     final ByteArrayOutputStream baout = new ByteArrayOutputStream();
@@ -776,7 +788,7 @@ public void testWrite_charSequenceToOutputStream() throws Exception {
     assertEquals("Sizes differ", inData.length, baout.size());
     assertTrue("Content differs", Arrays.equals(inData, baout.toByteArray()));
 }
-
+```
 
 // 232	src/test/java	org.apache.commons.io	FileSystemUtilsTestCase	testGetFreeSpaceUnix_String_NormalResponseLinux	()V	318	326
 // 232	src/test/java	org.apache.commons.io	FileSystemUtilsTestCase	testGetFreeSpaceUnix_String_NormalResponseFreeBSD	()V	328	336
@@ -784,6 +796,7 @@ public void testWrite_charSequenceToOutputStream() throws Exception {
 // 232	src/test/java	org.apache.commons.io	FileSystemUtilsTestCase	testGetFreeSpaceUnix_String_NormalResponseKbFreeBSD	()V	350	359
 // 232	src/test/java	org.apache.commons.io	FileSystemUtilsTestCase	testGetFreeSpaceUnix_String_NormalResponseKbSolaris	()V	361	370
 
+```java
 @Test
 public void testGetFreeSpaceUnix_String_NormalResponseLinux() throws Exception {
     // from Sourceforge 'GNU bash, version 2.05b.0(1)-release (i386-redhat-linux-gnu)'
@@ -837,7 +850,7 @@ public void testGetFreeSpaceUnix_String_NormalResponseKbSolaris() throws Excepti
     final FileSystemUtils fsu = new MockFileSystemUtils(0, lines);
     assertEquals(481163L, fsu.freeSpaceUnix("/dev/dsk/x0x0x0x0", true, false, -1));
 }
-
+```
 
 // 430	src/test/java	org.apache.commons.io	FileUtilsTestCase	testWriteStringToFile1	()V	1979	1985
 // 430	src/test/java	org.apache.commons.io	FileUtilsTestCase	testWriteCharSequence1	()V	2003	2009
@@ -845,6 +858,7 @@ public void testGetFreeSpaceUnix_String_NormalResponseKbSolaris() throws Excepti
 // 430	src/test/java	org.apache.commons.io	FileUtilsTestCase	testWriteStringToFile3	()V	1995	2001
 // 430	src/test/java	org.apache.commons.io	FileUtilsTestCase	testWriteCharSequence2	()V	2011	2017
 
+```java
 @Test
 public void testWriteStringToFile1() throws Exception {
     final File file = new File(getTestDirectory(), "write.txt");
@@ -884,3 +898,4 @@ public void testWriteCharSequence2() throws Exception {
     final byte[] text = "Hello /u1234".getBytes();
     TestUtils.assertEqualContent(text, file);
 }
+```
