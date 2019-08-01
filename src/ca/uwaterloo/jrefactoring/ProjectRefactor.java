@@ -13,6 +13,9 @@ import gr.uom.java.ast.decomposition.cfg.PDGMethodEntryNode;
 import gr.uom.java.ast.decomposition.cfg.PDGNode;
 import gr.uom.java.ast.decomposition.cfg.mapping.*;
 import gr.uom.java.ast.decomposition.matching.NodePairComparisonCache;
+import ca.concordia.jdeodorant.clone.parsers.CloneGroup;
+import ca.concordia.jdeodorant.clone.parsers.CloneGroupList;
+import ca.concordia.jdeodorant.clone.parsers.CloneInstance;
 import jxl.Sheet;
 import jxl.Workbook;
 import jxl.write.Number;
@@ -162,8 +165,12 @@ public class ProjectRefactor {
                 }
 
                 String cloneType = originalSheet.getCell(ExcelFileColumns.CLONE_GROUP_INFO.getColumnNumber(), cloneGroupStartingRowNumber).getContents();
-
-
+                
+                if (cloneGroupSize > 2) {
+                	log.info("Clone Group Size is: " + cloneGroupSize);
+                	log.info("Clone Type: " + cloneType);
+                }
+                
                 boolean userSkippedGroup = Arrays.binarySearch(cloneGroupIDsToSkip, cloneGroupID) >= 0;
                 boolean repeatedCloneGroup = cloneType.equals("Repeated");
 
@@ -445,7 +452,7 @@ public class ProjectRefactor {
                         clonePairInfo.setTestPackages(testPackages);
                         clonePairInfo.setTestSourceFolders(testSourceFolders);
 
-                        if (firstIMethod != null && secondIMethod != null) {
+                        if (firstIMethod != null && secondIMethod != null && cloneGroupSize == 2) {
                             log.info(String.format("%s%%: Analyzing Clone #%s (Group %s, Pair %s-%s): %s#%s (row %s) and %s#%s (row %s)",
                                     Math.round(100 * (float) firstCloneRow / numberOfRows), cloneNumber,
                                     cloneGroupID, firstCloneNumber + 1, secondCloneNumber + 1,

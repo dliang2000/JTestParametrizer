@@ -221,7 +221,20 @@ public class ClonePairInfo {
 		}
 		return false;
 	}
-
+	
+	// current planned change for getRefactorable:
+	
+	 /*public boolean getRefactorable() {
+	  	for (List<PDGSubTreeMapperInfo> pdgSubTreeList: subtreeMappersListList) {
+	  		for (PDGSubTreeMapperInfo info: pdgSubTreeList) {
+	  			if(!info.getRefactoringWasOK()) {
+	  				return false;
+	  			}
+	  		}
+	 	}
+	  	return true;
+	}*/
+	 
 	/**
 	 * Get the list of only refactorable mappers
 	 * @return

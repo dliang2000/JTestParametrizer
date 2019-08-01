@@ -13,6 +13,9 @@ import ca.uwaterloo.jrefactoring.visitor.RFVisitor;
 import gr.uom.java.ast.decomposition.cfg.mapping.CloneStructureNode;
 import gr.uom.java.ast.decomposition.cfg.mapping.CloneType;
 import gr.uom.java.ast.decomposition.cfg.mapping.DivideAndConquerMatcher;
+import ca.concordia.jdeodorant.clone.parsers.CloneGroup;
+import ca.concordia.jdeodorant.clone.parsers.CloneGroupList;
+import ca.concordia.jdeodorant.clone.parsers.CloneInstance;
 import jxl.write.WritableSheet;
 import org.eclipse.jdt.core.ICompilationUnit;
 import org.eclipse.jdt.core.dom.*;
@@ -150,6 +153,9 @@ public class CloneRefactor {
                         repeatedNamingInfo.add(new String[] {pair1, pair2});
                         countRepeatedNaming++;
                         countSkip++;
+                        log.info("Template Name: " + templateName);
+                        log.info("Template Name 2: " + template.getTemplatName());
+                        log.info("Repeated Naming pair.");
                         continue;
                     } else {
                         templateNamingMap.put(template.getTemplatName(), getMethodPairInfo(pairInfo));
