@@ -1,0 +1,35 @@
+14:03:45.415 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer/tests_morethanpairs/jmeter_5.1.1/log.log
+14:03:45.464 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/tests_morethanpairs/jmeter_5.1.1/jmeter-5.1.1-deckard-30-0.95-0-selected-experiment.xls
+14:03:46.793 [main] INFO  - 20%: Reading information from row 2 (Clone group ID 140, clone #1)
+14:03:46.808 [main] INFO  - 20%: Generating PDG for method "testGetResult_not_regexp" in "org.apache.jmeter.assertions.TestJSONPathAssertion"
+14:03:47.222 [main] INFO  - 20%: Reading information from row 3 (Clone group ID 140, clone #2)
+14:03:47.225 [main] INFO  - 20%: Generating PDG for method "testGetResult_positive_invert" in "org.apache.jmeter.assertions.TestJSONPathAssertion"
+14:03:47.256 [main] INFO  - 20%: Analyzing Clone #1 (Group 140, Pair 1-2): org.apache.jmeter.assertions.TestJSONPathAssertion#testGetResult_not_regexp (row 2) and org.apache.jmeter.assertions.TestJSONPathAssertion#testGetResult_positive_invert (row 3)
+14:03:47.283 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+14:03:47.283 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+14:03:47.449 [main] INFO  - start to refactor clone pair
+14:03:47.450 [main] INFO  - CloneType: Type 2
+14:03:47.478 [main] ERROR - CloneStructure has PDG gap node.
+14:03:47.479 [main] INFO  - 60%: Reading information from row 4 (Clone group ID 141, clone #1)
+14:03:47.485 [main] INFO  - 60%: Generating PDG for method "testGetResult_negative_invert" in "org.apache.jmeter.assertions.TestJSONPathAssertion"
+14:03:47.535 [main] INFO  - 60%: Reading information from row 5 (Clone group ID 141, clone #2)
+14:03:47.539 [main] INFO  - 60%: Generating PDG for method "testGetResult_inverted_null" in "org.apache.jmeter.assertions.TestJSONPathAssertion"
+14:03:47.541 [main] INFO  - 60%: Analyzing Clone #2 (Group 141, Pair 1-2): org.apache.jmeter.assertions.TestJSONPathAssertion#testGetResult_negative_invert (row 4) and org.apache.jmeter.assertions.TestJSONPathAssertion#testGetResult_inverted_null (row 5)
+14:03:47.549 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+14:03:47.549 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+14:03:47.563 [main] INFO  - start to refactor clone pair
+14:03:47.563 [main] INFO  - CloneType: Type 2
+14:03:47.564 [main] ERROR - CloneStructure has PDG gap node.
+14:03:50.007 [main] INFO  - Applying changes to source files
+14:03:50.008 [main] INFO  - refactoring 0 clone method pairs.
+14:03:50.008 [main] INFO  - skipping 2 clone method pairs:
+14:03:50.008 [main] INFO  - 	0 not test cases
+14:03:50.008 [main] INFO  - 	2 containing gap nodes (type3)
+14:03:50.008 [main] INFO  - 	0 not refactorable
+14:03:50.008 [main] INFO  - 	0 repeated naming
+14:03:50.008 [main] INFO  - 	0 access issues
+14:03:50.008 [main] INFO  - type1 count: 0
+14:03:50.008 [main] INFO  - type2 count: 2
+14:03:50.008 [main] INFO  - type3 count: 0
+14:03:50.008 [main] INFO  - effective refactoring ratio: 0/0 = NaN%
+14:03:50.009 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/tests_morethanpairs/jmeter_5.1.1/jmeter-5.1.1-deckard-30-0.95-0-selected-experiment.xls, output file: /home/daveroar/git/JTestParametrizer/tests_morethanpairs/jmeter_5.1.1/jmeter-5.1.1-deckard-30-0.95-0-selected-experiment-analyzed.xls

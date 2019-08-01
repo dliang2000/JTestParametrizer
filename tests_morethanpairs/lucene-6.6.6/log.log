@@ -1,0 +1,39 @@
+14:19:25.213 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer/tests_morethanpairs/lucene-6.6.6/log.log
+14:19:25.218 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/tests_morethanpairs/lucene-6.6.6/lucene-6.6.6-deckard-30-0.95-0-selected-experiment.xls
+14:19:31.283 [main] INFO  - 20%: Reading information from row 2 (Clone group ID 1236, clone #1)
+14:19:31.345 [main] INFO  - 20%: Generating PDG for method "testSortedSetVariableLengthBigVsStoredFields" in "org.apache.lucene.codecs.lucene54.TestLucene54DocValuesFormat"
+14:19:31.810 [main] INFO  - 20%: Reading information from row 3 (Clone group ID 1236, clone #2)
+14:19:31.811 [main] INFO  - 20%: Generating PDG for method "testSortedVariableLengthManyVsStoredFields" in "org.apache.lucene.codecs.lucene54.TestLucene54DocValuesFormat"
+14:19:31.815 [main] INFO  - 20%: Analyzing Clone #1 (Group 1236, Pair 1-2): org.apache.lucene.codecs.lucene54.TestLucene54DocValuesFormat#testSortedSetVariableLengthBigVsStoredFields (row 2) and org.apache.lucene.codecs.lucene54.TestLucene54DocValuesFormat#testSortedVariableLengthManyVsStoredFields (row 3)
+14:19:31.865 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+14:19:31.866 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+14:19:31.912 [main] INFO  - Start mapping
+14:19:32.172 [main] INFO  - End mapping
+14:19:32.175 [main] INFO  - start to refactor clone pair
+14:19:32.176 [main] INFO  - CloneType: Type 2
+14:19:32.176 [main] INFO  - method pair are not test cases!
+14:19:32.176 [main] INFO  - 60%: Reading information from row 4 (Clone group ID 1237, clone #1)
+14:19:32.177 [main] INFO  - 60%: Generating PDG for method "testTermsEnumFixedWidth" in "org.apache.lucene.codecs.lucene54.TestLucene54DocValuesFormat"
+14:19:32.220 [main] INFO  - 60%: Reading information from row 5 (Clone group ID 1237, clone #2)
+14:19:32.221 [main] INFO  - 60%: Generating PDG for method "testTermsEnumVariableWidth" in "org.apache.lucene.codecs.lucene54.TestLucene54DocValuesFormat"
+14:19:32.222 [main] INFO  - 60%: Analyzing Clone #2 (Group 1237, Pair 1-2): org.apache.lucene.codecs.lucene54.TestLucene54DocValuesFormat#testTermsEnumFixedWidth (row 4) and org.apache.lucene.codecs.lucene54.TestLucene54DocValuesFormat#testTermsEnumVariableWidth (row 5)
+14:19:32.272 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+14:19:32.272 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+14:19:32.273 [main] INFO  - Start mapping
+14:19:32.279 [main] INFO  - End mapping
+14:19:32.279 [main] INFO  - start to refactor clone pair
+14:19:32.279 [main] INFO  - CloneType: Type 2
+14:19:32.279 [main] INFO  - method pair are not test cases!
+14:19:35.264 [main] INFO  - Applying changes to source files
+14:19:35.265 [main] INFO  - refactoring 0 clone method pairs.
+14:19:35.265 [main] INFO  - skipping 2 clone method pairs:
+14:19:35.265 [main] INFO  - 	2 not test cases
+14:19:35.265 [main] INFO  - 	0 containing gap nodes (type3)
+14:19:35.265 [main] INFO  - 	0 not refactorable
+14:19:35.265 [main] INFO  - 	0 repeated naming
+14:19:35.265 [main] INFO  - 	0 access issues
+14:19:35.265 [main] INFO  - type1 count: 0
+14:19:35.265 [main] INFO  - type2 count: 2
+14:19:35.265 [main] INFO  - type3 count: 0
+14:19:35.265 [main] INFO  - effective refactoring ratio: 0/0 = NaN%
+14:19:35.266 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/tests_morethanpairs/lucene-6.6.6/lucene-6.6.6-deckard-30-0.95-0-selected-experiment.xls, output file: /home/daveroar/git/JTestParametrizer/tests_morethanpairs/lucene-6.6.6/lucene-6.6.6-deckard-30-0.95-0-selected-experiment-analyzed.xls

@@ -1,0 +1,311 @@
+10:11:03.798 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer/tests_morethanpairs/commons-math-3_6_1/log.log
+10:11:03.803 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/tests_morethanpairs/commons-math-3_6_1/commons_math_3_6_1-deckard-100-0.95-0-selected-penta-experiment.xls
+10:11:05.355 [main] INFO  - Clone Group Size is: 5
+10:11:05.356 [main] INFO  - Clone Type: 
+10:11:05.358 [main] INFO  - 6%: Reading information from row 2 (Clone group ID 271, clone #1)
+10:11:05.398 [main] INFO  - 6%: Generating PDG for method "testSimpleWithDecimals" in "org.apache.commons.math3.linear.RealMatrixFormatAbstractTest"
+10:11:06.236 [main] INFO  - 6%: Reading information from row 3 (Clone group ID 271, clone #2)
+10:11:06.237 [main] INFO  - 6%: Generating PDG for method "testSimpleWithDecimalsTrunc" in "org.apache.commons.math3.linear.RealMatrixFormatAbstractTest"
+10:11:06.241 [main] INFO  - 6%: Analyzing Clone #1 (Group 271, Pair 1-2): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testSimpleWithDecimals (row 2) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testSimpleWithDecimalsTrunc (row 3)
+10:11:06.263 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:06.264 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:06.339 [main] INFO  - start to refactor clone pair
+10:11:06.340 [main] INFO  - CloneType: Type 2
+10:11:06.350 [main] INFO  - non-refactored node pair with MethodInvocation node: this.realMatrixFormatAbstractTestTestTemplate(1.23,"{{1","23,1")  <--->  this.realMatrixFormatAbstractTestTestSimpleWithDecimalsTemplate(1.232323232323,2.666666666666,"2323232323,1","6666666667}}")  (ARGUMENT_NUMBER_MISMATCH)
+10:11:06.351 [main] INFO  - 6%: Reading information from row 4 (Clone group ID 271, clone #3)
+10:11:06.352 [main] INFO  - 6%: Generating PDG for method "testNegativeComponent" in "org.apache.commons.math3.linear.RealMatrixFormatAbstractTest"
+10:11:06.431 [main] INFO  - 6%: Analyzing Clone #1 (Group 271, Pair 1-3): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testSimpleWithDecimals (row 2) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeComponent (row 4)
+10:11:06.446 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:06.447 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:06.506 [main] INFO  - start to refactor clone pair
+10:11:06.506 [main] INFO  - CloneType: Type 2
+10:11:06.507 [main] INFO  - non-refactored node pair with MethodInvocation node: this.realMatrixFormatAbstractTestTestTemplate(1.23,"{{1","23,1")  <--->  this.realMatrixFormatAbstractTestTestNegativeTemplate(-1.232323232323,1.43,"{{-1","2323232323,1","43,1")  (ARGUMENT_NUMBER_MISMATCH)
+10:11:06.507 [main] INFO  - 6%: Reading information from row 5 (Clone group ID 271, clone #4)
+10:11:06.508 [main] INFO  - 6%: Generating PDG for method "testNegativeComponent2" in "org.apache.commons.math3.linear.RealMatrixFormatAbstractTest"
+10:11:06.509 [main] INFO  - 6%: Analyzing Clone #1 (Group 271, Pair 1-4): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testSimpleWithDecimals (row 2) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeComponent2 (row 5)
+10:11:06.523 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:06.524 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:06.576 [main] INFO  - start to refactor clone pair
+10:11:06.576 [main] INFO  - CloneType: Type 2
+10:11:06.577 [main] INFO  - non-refactored node pair with MethodInvocation node: this.realMatrixFormatAbstractTestTestTemplate(1.23,"{{1","23,1")  <--->  this.realMatrixFormatAbstractTestTestNegativeTemplate(1.23,-1.434343434343,"{{1","23,-1","4343434343,1")  (ARGUMENT_NUMBER_MISMATCH)
+10:11:06.577 [main] INFO  - Template Name: realMatrixFormatAbstractTestTestTemplate
+10:11:06.577 [main] INFO  - Template Name 2: realMatrixFormatAbstractTestTestTemplate
+10:11:06.577 [main] INFO  - Repeated Naming pair.
+10:11:06.577 [main] INFO  - 6%: Reading information from row 6 (Clone group ID 271, clone #5)
+10:11:06.578 [main] INFO  - 6%: Generating PDG for method "testNegativeSecondRow" in "org.apache.commons.math3.linear.RealMatrixFormatAbstractTest"
+10:11:06.959 [main] INFO  - 6%: Analyzing Clone #1 (Group 271, Pair 1-5): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testSimpleWithDecimals (row 2) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeSecondRow (row 6)
+10:11:06.971 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:06.972 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:06.974 [main] INFO  - start to refactor clone pair
+10:11:06.974 [main] INFO  - 13%: Reading information from row 3 (Clone group ID 271, clone #2)
+10:11:06.975 [main] INFO  - 13%: Reading information from row 4 (Clone group ID 271, clone #4)
+10:11:06.976 [main] INFO  - 13%: Analyzing Clone #1 (Group 271, Pair 2-3): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testSimpleWithDecimalsTrunc (row 3) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeComponent (row 4)
+10:11:06.989 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:06.989 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.040 [main] INFO  - start to refactor clone pair
+10:11:07.041 [main] INFO  - CloneType: Type 2
+10:11:07.041 [main] INFO  - non-refactored node pair with MethodInvocation node: this.realMatrixFormatAbstractTestTestSimpleWithDecimalsTemplate(1.232323232323,2.666666666666,"2323232323,1","6666666667}}")  <--->  this.realMatrixFormatAbstractTestTestNegativeTemplate(-1.232323232323,1.43,"{{-1","2323232323,1","43,1")  (ARGUMENT_NUMBER_MISMATCH)
+10:11:07.041 [main] INFO  - Template Name: realMatrixFormatAbstractTestTestTemplate
+10:11:07.041 [main] INFO  - Template Name 2: realMatrixFormatAbstractTestTestTemplate
+10:11:07.041 [main] INFO  - Repeated Naming pair.
+10:11:07.042 [main] INFO  - 13%: Reading information from row 5 (Clone group ID 271, clone #5)
+10:11:07.043 [main] INFO  - 13%: Analyzing Clone #1 (Group 271, Pair 2-4): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testSimpleWithDecimalsTrunc (row 3) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeComponent2 (row 5)
+10:11:07.055 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:07.055 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.108 [main] INFO  - start to refactor clone pair
+10:11:07.108 [main] INFO  - CloneType: Type 2
+10:11:07.108 [main] INFO  - non-refactored node pair with MethodInvocation node: this.realMatrixFormatAbstractTestTestSimpleWithDecimalsTemplate(1.232323232323,2.666666666666,"2323232323,1","6666666667}}")  <--->  this.realMatrixFormatAbstractTestTestNegativeTemplate(1.23,-1.434343434343,"{{1","23,-1","4343434343,1")  (ARGUMENT_NUMBER_MISMATCH)
+10:11:07.109 [main] INFO  - Template Name: realMatrixFormatAbstractTestTestTemplate
+10:11:07.109 [main] INFO  - Template Name 2: realMatrixFormatAbstractTestTestTemplate
+10:11:07.109 [main] INFO  - Repeated Naming pair.
+10:11:07.109 [main] INFO  - 13%: Reading information from row 6 (Clone group ID 271, clone #6)
+10:11:07.110 [main] INFO  - 13%: Analyzing Clone #1 (Group 271, Pair 2-5): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testSimpleWithDecimalsTrunc (row 3) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeSecondRow (row 6)
+10:11:07.122 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:07.122 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.124 [main] INFO  - start to refactor clone pair
+10:11:07.124 [main] INFO  - 19%: Reading information from row 4 (Clone group ID 271, clone #3)
+10:11:07.125 [main] INFO  - 19%: Reading information from row 5 (Clone group ID 271, clone #6)
+10:11:07.125 [main] INFO  - 19%: Analyzing Clone #1 (Group 271, Pair 3-4): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeComponent (row 4) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeComponent2 (row 5)
+10:11:07.137 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:07.137 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.140 [main] INFO  - start to refactor clone pair
+10:11:07.140 [main] INFO  - CloneType: Type 2
+10:11:07.142 [main] INFO  - 19%: Reading information from row 6 (Clone group ID 271, clone #7)
+10:11:07.142 [main] INFO  - 19%: Analyzing Clone #1 (Group 271, Pair 3-5): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeComponent (row 4) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeSecondRow (row 6)
+10:11:07.153 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:07.153 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.154 [main] INFO  - start to refactor clone pair
+10:11:07.154 [main] INFO  - 25%: Reading information from row 5 (Clone group ID 271, clone #4)
+10:11:07.155 [main] INFO  - 25%: Reading information from row 6 (Clone group ID 271, clone #8)
+10:11:07.155 [main] INFO  - 25%: Analyzing Clone #1 (Group 271, Pair 4-5): org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeComponent2 (row 5) and org.apache.commons.math3.linear.RealMatrixFormatAbstractTest#testNegativeSecondRow (row 6)
+10:11:07.166 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:07.166 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.167 [main] INFO  - start to refactor clone pair
+10:11:07.167 [main] INFO  - Clone Group Size is: 5
+10:11:07.167 [main] INFO  - Clone Type: 
+10:11:07.167 [main] INFO  - 38%: Reading information from row 7 (Clone group ID 485, clone #1)
+10:11:07.208 [main] INFO  - 38%: Generating PDG for method "testSetRowMatrix" in "org.apache.commons.math3.linear.BlockFieldMatrixTest"
+10:11:07.211 [main] INFO  - 38%: Reading information from row 8 (Clone group ID 485, clone #2)
+10:11:07.214 [main] INFO  - 38%: Generating PDG for method "testSetColumnMatrix" in "org.apache.commons.math3.linear.BlockFieldMatrixTest"
+10:11:07.215 [main] INFO  - 38%: Analyzing Clone #2 (Group 485, Pair 1-2): org.apache.commons.math3.linear.BlockFieldMatrixTest#testSetRowMatrix (row 7) and org.apache.commons.math3.linear.BlockFieldMatrixTest#testSetColumnMatrix (row 8)
+10:11:07.247 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:07.247 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.250 [main] INFO  - start to refactor clone pair
+10:11:07.250 [main] INFO  - CloneType: Type 2
+10:11:07.252 [main] INFO  - 38%: Reading information from row 9 (Clone group ID 485, clone #3)
+10:11:07.288 [main] INFO  - 38%: Generating PDG for method "testSetRowMatrix" in "org.apache.commons.math3.linear.FieldMatrixImplTest"
+10:11:07.290 [main] INFO  - 38%: Analyzing Clone #2 (Group 485, Pair 1-3): org.apache.commons.math3.linear.BlockFieldMatrixTest#testSetRowMatrix (row 7) and org.apache.commons.math3.linear.FieldMatrixImplTest#testSetRowMatrix (row 9)
+10:11:07.352 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:07.352 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.356 [main] INFO  - start to refactor clone pair
+10:11:07.356 [main] INFO  - CloneType: Type 2
+10:11:07.357 [main] INFO  - Containing unrefactorable ThisExpression: this
+10:11:07.357 [main] INFO  - cannot find common interface: org.apache.commons.math3.linear.BlockFieldMatrixTest$BlockFieldMatrixTestTestSetMatrixAdapter, org.apache.commons.math3.linear.FieldMatrixImplTest$FieldMatrixImplTestTestSetMatrixAdapter
+10:11:07.357 [main] INFO  - 38%: Reading information from row 10 (Clone group ID 485, clone #4)
+10:11:07.359 [main] INFO  - 38%: Generating PDG for method "testSetColumnMatrix" in "org.apache.commons.math3.linear.FieldMatrixImplTest"
+10:11:07.359 [main] INFO  - 38%: Analyzing Clone #2 (Group 485, Pair 1-4): org.apache.commons.math3.linear.BlockFieldMatrixTest#testSetRowMatrix (row 7) and org.apache.commons.math3.linear.FieldMatrixImplTest#testSetColumnMatrix (row 10)
+10:11:07.414 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:07.414 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:07.416 [main] INFO  - start to refactor clone pair
+10:11:07.416 [main] INFO  - 38%: Reading information from row 11 (Clone group ID 485, clone #5)
+10:11:07.417 [main] INFO  - 38%: Generating PDG for method "testGetColumnVector" in "org.apache.commons.math3.linear.FieldMatrixImplTest"
+10:11:08.235 [main] INFO  - 38%: Analyzing Clone #2 (Group 485, Pair 1-5): org.apache.commons.math3.linear.BlockFieldMatrixTest#testSetRowMatrix (row 7) and org.apache.commons.math3.linear.FieldMatrixImplTest#testGetColumnVector (row 11)
+10:11:08.351 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+10:11:08.351 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 2
+10:11:08.354 [main] INFO  - start to refactor clone pair
+10:11:08.354 [main] INFO  - 44%: Reading information from row 8 (Clone group ID 485, clone #2)
+10:11:08.356 [main] INFO  - 44%: Reading information from row 9 (Clone group ID 485, clone #4)
+10:11:08.357 [main] INFO  - 44%: Analyzing Clone #2 (Group 485, Pair 2-3): org.apache.commons.math3.linear.BlockFieldMatrixTest#testSetColumnMatrix (row 8) and org.apache.commons.math3.linear.FieldMatrixImplTest#testSetRowMatrix (row 9)
+10:11:08.446 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:08.447 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:08.449 [main] INFO  - start to refactor clone pair
+10:11:08.449 [main] INFO  - 44%: Reading information from row 10 (Clone group ID 485, clone #5)
+10:11:08.451 [main] INFO  - 44%: Analyzing Clone #2 (Group 485, Pair 2-4): org.apache.commons.math3.linear.BlockFieldMatrixTest#testSetColumnMatrix (row 8) and org.apache.commons.math3.linear.FieldMatrixImplTest#testSetColumnMatrix (row 10)
+10:11:08.521 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:08.521 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:08.524 [main] INFO  - start to refactor clone pair
+10:11:08.524 [main] INFO  - CloneType: Type 2
+10:11:08.524 [main] INFO  - Containing unrefactorable ThisExpression: this
+10:11:08.524 [main] INFO  - cannot find common interface: org.apache.commons.math3.linear.BlockFieldMatrixTest$BlockFieldMatrixTestTestSetMatrixAdapter, org.apache.commons.math3.linear.FieldMatrixImplTest$FieldMatrixImplTestTestSetMatrixAdapter
+10:11:08.525 [main] INFO  - 44%: Reading information from row 11 (Clone group ID 485, clone #6)
+10:11:08.526 [main] INFO  - 44%: Analyzing Clone #2 (Group 485, Pair 2-5): org.apache.commons.math3.linear.BlockFieldMatrixTest#testSetColumnMatrix (row 8) and org.apache.commons.math3.linear.FieldMatrixImplTest#testGetColumnVector (row 11)
+10:11:09.476 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+10:11:09.476 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 2
+10:11:09.478 [main] INFO  - start to refactor clone pair
+10:11:09.479 [main] INFO  - 50%: Reading information from row 9 (Clone group ID 485, clone #3)
+10:11:09.480 [main] INFO  - 50%: Reading information from row 10 (Clone group ID 485, clone #6)
+10:11:09.482 [main] INFO  - 50%: Analyzing Clone #2 (Group 485, Pair 3-4): org.apache.commons.math3.linear.FieldMatrixImplTest#testSetRowMatrix (row 9) and org.apache.commons.math3.linear.FieldMatrixImplTest#testSetColumnMatrix (row 10)
+10:11:09.515 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+10:11:09.515 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+10:11:09.519 [main] INFO  - start to refactor clone pair
+10:11:09.519 [main] INFO  - CloneType: Type 2
+10:11:09.521 [main] INFO  - 50%: Reading information from row 11 (Clone group ID 485, clone #7)
+10:11:09.522 [main] INFO  - 50%: Analyzing Clone #2 (Group 485, Pair 3-5): org.apache.commons.math3.linear.FieldMatrixImplTest#testSetRowMatrix (row 9) and org.apache.commons.math3.linear.FieldMatrixImplTest#testGetColumnVector (row 11)
+10:11:09.560 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+10:11:09.560 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 2
+10:11:09.562 [main] INFO  - start to refactor clone pair
+10:11:09.562 [main] INFO  - 56%: Reading information from row 10 (Clone group ID 485, clone #4)
+10:11:09.564 [main] INFO  - 56%: Reading information from row 11 (Clone group ID 485, clone #8)
+10:11:09.566 [main] INFO  - 56%: Analyzing Clone #2 (Group 485, Pair 4-5): org.apache.commons.math3.linear.FieldMatrixImplTest#testSetColumnMatrix (row 10) and org.apache.commons.math3.linear.FieldMatrixImplTest#testGetColumnVector (row 11)
+10:11:09.610 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 1
+10:11:09.610 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 2
+10:11:09.612 [main] INFO  - start to refactor clone pair
+10:11:09.612 [main] INFO  - Clone Group Size is: 5
+10:11:09.612 [main] INFO  - Clone Type: 
+10:11:09.612 [main] INFO  - 69%: Reading information from row 12 (Clone group ID 1075, clone #1)
+10:11:09.624 [main] INFO  - 69%: Generating PDG for method "serialization" in "org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest"
+10:11:22.969 [main] INFO  - 69%: Reading information from row 13 (Clone group ID 1075, clone #2)
+10:11:22.979 [main] INFO  - 69%: Generating PDG for method "serialization" in "org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest"
+10:11:23.027 [main] INFO  - 69%: Analyzing Clone #3 (Group 1075, Pair 1-2): org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest#serialization (row 12) and org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest#serialization (row 13)
+10:11:23.046 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:23.046 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:23.062 [main] INFO  - Start mapping
+10:11:23.198 [main] INFO  - End mapping
+10:11:23.198 [main] INFO  - start to refactor clone pair
+10:11:23.199 [main] INFO  - CloneType: Type 2
+10:11:23.212 [main] INFO  - unrefactorable InfixExpr node pair containing local variables: maxError > 0.005  <--->  maxError < 0.003  (OPERATOR_MISMATCH)
+10:11:23.213 [main] INFO  - 69%: Reading information from row 14 (Clone group ID 1075, clone #3)
+10:11:23.240 [main] INFO  - 69%: Generating PDG for method "serialization" in "org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest"
+10:11:25.506 [main] INFO  - 69%: Analyzing Clone #3 (Group 1075, Pair 1-3): org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest#serialization (row 12) and org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest#serialization (row 14)
+10:11:25.532 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:25.532 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:25.533 [main] INFO  - Start mapping
+10:11:25.591 [main] INFO  - End mapping
+10:11:25.592 [main] INFO  - start to refactor clone pair
+10:11:25.592 [main] INFO  - CloneType: Type 2
+10:11:25.597 [main] INFO  - unrefactorable InfixExpr node pair containing local variables: maxError > 0.005  <--->  maxError < 2.2e-7  (OPERATOR_MISMATCH)
+10:11:25.597 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:25.597 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:25.597 [main] INFO  - Repeated Naming pair.
+10:11:25.597 [main] INFO  - 69%: Reading information from row 15 (Clone group ID 1075, clone #4)
+10:11:25.608 [main] INFO  - 69%: Generating PDG for method "serialization" in "org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest"
+10:11:27.718 [main] INFO  - 69%: Analyzing Clone #3 (Group 1075, Pair 1-4): org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest#serialization (row 12) and org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest#serialization (row 15)
+10:11:27.745 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:27.745 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:27.746 [main] INFO  - Start mapping
+10:11:27.968 [main] INFO  - End mapping
+10:11:27.969 [main] INFO  - start to refactor clone pair
+10:11:27.969 [main] INFO  - CloneType: Type 2
+10:11:27.974 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:27.974 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:27.974 [main] INFO  - Repeated Naming pair.
+10:11:27.975 [main] INFO  - 69%: Reading information from row 16 (Clone group ID 1075, clone #5)
+10:11:27.984 [main] INFO  - 69%: Generating PDG for method "serialization" in "org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest"
+10:11:30.107 [main] INFO  - 69%: Analyzing Clone #3 (Group 1075, Pair 1-5): org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest#serialization (row 12) and org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest#serialization (row 16)
+10:11:30.131 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:30.131 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:30.132 [main] INFO  - Start mapping
+10:11:30.176 [main] INFO  - End mapping
+10:11:30.176 [main] INFO  - start to refactor clone pair
+10:11:30.176 [main] INFO  - CloneType: Type 2
+10:11:30.181 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:30.181 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:30.181 [main] INFO  - Repeated Naming pair.
+10:11:30.181 [main] INFO  - 75%: Reading information from row 13 (Clone group ID 1075, clone #2)
+10:11:30.190 [main] INFO  - 75%: Reading information from row 14 (Clone group ID 1075, clone #4)
+10:11:30.198 [main] INFO  - 75%: Analyzing Clone #3 (Group 1075, Pair 2-3): org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest#serialization (row 13) and org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest#serialization (row 14)
+10:11:30.216 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:30.216 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:30.217 [main] INFO  - Start mapping
+10:11:30.267 [main] INFO  - End mapping
+10:11:30.268 [main] INFO  - start to refactor clone pair
+10:11:30.268 [main] INFO  - CloneType: Type 2
+10:11:30.274 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:30.274 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:30.274 [main] INFO  - Repeated Naming pair.
+10:11:30.274 [main] INFO  - 75%: Reading information from row 15 (Clone group ID 1075, clone #5)
+10:11:30.283 [main] INFO  - 75%: Analyzing Clone #3 (Group 1075, Pair 2-4): org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest#serialization (row 13) and org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest#serialization (row 15)
+10:11:30.300 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:30.300 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:30.301 [main] INFO  - Start mapping
+10:11:30.392 [main] INFO  - End mapping
+10:11:30.392 [main] INFO  - start to refactor clone pair
+10:11:30.392 [main] INFO  - CloneType: Type 2
+10:11:30.395 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:30.395 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:30.395 [main] INFO  - Repeated Naming pair.
+10:11:30.395 [main] INFO  - 75%: Reading information from row 16 (Clone group ID 1075, clone #6)
+10:11:30.405 [main] INFO  - 75%: Analyzing Clone #3 (Group 1075, Pair 2-5): org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest#serialization (row 13) and org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest#serialization (row 16)
+10:11:30.423 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:30.423 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:30.423 [main] INFO  - Start mapping
+10:11:30.468 [main] INFO  - End mapping
+10:11:30.468 [main] INFO  - start to refactor clone pair
+10:11:30.468 [main] INFO  - CloneType: Type 2
+10:11:30.474 [main] INFO  - unrefactorable InfixExpr node pair containing local variables: maxError < 0.003  <--->  maxError > 0.005  (OPERATOR_MISMATCH)
+10:11:30.474 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:30.474 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:30.474 [main] INFO  - Repeated Naming pair.
+10:11:30.474 [main] INFO  - 81%: Reading information from row 14 (Clone group ID 1075, clone #3)
+10:11:30.483 [main] INFO  - 81%: Reading information from row 15 (Clone group ID 1075, clone #6)
+10:11:30.491 [main] INFO  - 81%: Analyzing Clone #3 (Group 1075, Pair 3-4): org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest#serialization (row 14) and org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest#serialization (row 15)
+10:11:30.509 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:30.509 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:30.510 [main] INFO  - Start mapping
+10:11:30.609 [main] INFO  - End mapping
+10:11:30.610 [main] INFO  - start to refactor clone pair
+10:11:30.610 [main] INFO  - CloneType: Type 2
+10:11:30.613 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:30.613 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:30.613 [main] INFO  - Repeated Naming pair.
+10:11:30.613 [main] INFO  - 81%: Reading information from row 16 (Clone group ID 1075, clone #7)
+10:11:30.626 [main] INFO  - 81%: Analyzing Clone #3 (Group 1075, Pair 3-5): org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest#serialization (row 14) and org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest#serialization (row 16)
+10:11:30.644 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:30.644 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:30.645 [main] INFO  - Start mapping
+10:11:30.690 [main] INFO  - End mapping
+10:11:30.691 [main] INFO  - start to refactor clone pair
+10:11:30.691 [main] INFO  - CloneType: Type 2
+10:11:30.697 [main] INFO  - unrefactorable InfixExpr node pair containing local variables: maxError < 2.2e-7  <--->  maxError > 0.005  (OPERATOR_MISMATCH)
+10:11:30.697 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:30.697 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:30.697 [main] INFO  - Repeated Naming pair.
+10:11:30.697 [main] INFO  - 88%: Reading information from row 15 (Clone group ID 1075, clone #4)
+10:11:30.708 [main] INFO  - 88%: Reading information from row 16 (Clone group ID 1075, clone #8)
+10:11:30.708 [main] INFO  - 88%: Analyzing Clone #3 (Group 1075, Pair 4-5): org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest#serialization (row 15) and org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest#serialization (row 16)
+10:11:30.725 [main] INFO  - CDT 1 depth = 2, CDT 2 depth = 2
+10:11:30.726 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+10:11:30.726 [main] INFO  - Start mapping
+10:11:30.813 [main] INFO  - End mapping
+10:11:30.813 [main] INFO  - start to refactor clone pair
+10:11:30.813 [main] INFO  - CloneType: Type 2
+10:11:30.815 [main] INFO  - Template Name: stepInterpolatorTestSerializationTemplate
+10:11:30.815 [main] INFO  - Template Name 2: stepInterpolatorTestSerializationTemplate
+10:11:30.815 [main] INFO  - Repeated Naming pair.
+10:11:32.940 [main] INFO  - Applying changes to source files
+10:11:32.940 [main] INFO  - refactoring 3 clone method pairs.
+10:11:32.940 [main] INFO  - skipping 17 clone method pairs:
+10:11:32.940 [main] INFO  - 	0 not test cases
+10:11:32.940 [main] INFO  - 	0 containing gap nodes (type3)
+10:11:32.940 [main] INFO  - 	5 not refactorable
+10:11:32.940 [main] INFO  - 	12 repeated naming
+10:11:32.940 [main] INFO  - 	2 access issues
+10:11:32.940 [main] INFO  - 	 *org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testSimpleWithDecimals() <---> org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testNegativeComponent()
+10:11:32.940 [main] INFO  - 	  org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testSimpleWithDecimals() <---> org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testNegativeComponent2()
+10:11:32.940 [main] INFO  - 	 *org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testSimpleWithDecimals() <---> org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testNegativeComponent()
+10:11:32.940 [main] INFO  - 	  org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testSimpleWithDecimalsTrunc() <---> org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testNegativeComponent()
+10:11:32.940 [main] INFO  - 	 *org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testSimpleWithDecimals() <---> org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testNegativeComponent()
+10:11:32.940 [main] INFO  - 	  org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testSimpleWithDecimalsTrunc() <---> org.apache.commons.math3.linear.RealMatrixFormatAbstractTest: void testNegativeComponent2()
+10:11:32.940 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.LutherStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	 *org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.GillStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - 	  org.apache.commons.math3.ode.nonstiff.MidpointStepInterpolatorTest: void serialization() <---> org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolatorTest: void serialization()
+10:11:32.941 [main] INFO  - type1 count: 0
+10:11:32.942 [main] INFO  - type2 count: 20
+10:11:32.942 [main] INFO  - type3 count: 0
+10:11:32.958 [main] INFO  - effective refactoring ratio: 3/8 = 37.5%
+10:11:32.958 [main] INFO  - refactoring method pair: org.apache.commons.math3.linear.RealMatrixFormatAbstractTest.java#testNegativeComponent <---> org.apache.commons.math3.linear.RealMatrixFormatAbstractTest.java#testNegativeComponent2
