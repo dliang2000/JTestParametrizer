@@ -10,8 +10,6 @@ import org.eclipse.jdt.core.*;
 import org.eclipse.jface.text.BadLocationException;
 import org.eclipse.jface.text.IDocument;
 
-import ca.concordia.jdeodorant.clone.parsers.CloneGroup;
-
 import java.util.*;
 
 public class CloneItem {
@@ -21,6 +19,7 @@ public class CloneItem {
 	private int startOffsetOfCodeFragment = 0;
 	private int endOffsetOfCodeFragment = 0;
 	private String sourceCode = null;
+	private String methodName = "";
 	private IMethod iMethod;
 	private int cloneFragmentID;
 	private ICompilationUnit iCompilationUnit;
@@ -81,7 +80,15 @@ public class CloneItem {
 		return sourceCode;
 	}
 	
-	public String getFirstMethodSignature() {
+	public String getMethodName() {
+		return this.methodName;
+	}
+	
+	public void setMethodName(String methodName) {
+		this.methodName = methodName;
+	}
+	
+	public String getMethodSignature() {
 		if (iMethod != null)
 			return getMethodJavaSignature(iMethod);
 		return "";
@@ -98,22 +105,6 @@ public class CloneItem {
 
 	public void setCloneFragmentID(int cloneFragmentID) {
 		this.cloneFragmentID = cloneFragmentID;
-	}
-	
-	private String getSourceCodeStringFromICompilationUnit(int startOffset, int endOffset, ICompilationUnit iCompilationUnit) throws BadLocationException {
-		ITextFileBufferManager bufferManager = FileBuffers.getTextFileBufferManager();
-		IPath iPath = iCompilationUnit.getPath();
-
-		try {
-			bufferManager.connect(iPath, LocationKind.IFILE, null);
-			ITextFileBuffer textFileBuffer = bufferManager.getTextFileBuffer(iPath, LocationKind.IFILE);
-			IDocument iDocument = textFileBuffer.getDocument();
-			return iDocument.get(startOffset, endOffset - startOffset);
-
-		} catch (CoreException e) {
-			e.printStackTrace();
-		}
-		return null;
 	}
 	
 	public String getContainingFileFirst() {
@@ -150,6 +141,26 @@ public class CloneItem {
 
 	public void setClonePackage(String clonePackage) {
 		this.clonePackage = clonePackage;
+	}
+	
+	public boolean isClassLevelClone() {
+		return this.methodName == null;
+	}
+	
+	private String getSourceCodeStringFromICompilationUnit(int startOffset, int endOffset, ICompilationUnit iCompilationUnit) throws BadLocationException {
+		ITextFileBufferManager bufferManager = FileBuffers.getTextFileBufferManager();
+		IPath iPath = iCompilationUnit.getPath();
+
+		try {
+			bufferManager.connect(iPath, LocationKind.IFILE, null);
+			ITextFileBuffer textFileBuffer = bufferManager.getTextFileBuffer(iPath, LocationKind.IFILE);
+			IDocument iDocument = textFileBuffer.getDocument();
+			return iDocument.get(startOffset, endOffset - startOffset);
+
+		} catch (CoreException e) {
+			e.printStackTrace();
+		}
+		return null;
 	}
 	
 	private String getMethodJavaSignature(IMethod iMethod) {

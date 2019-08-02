@@ -37,12 +37,13 @@ public class CloneGroupInfo {
 	private Set<CloneItem> CloneItems = new LinkedHashSet<CloneItem>();
 	
 	private List<Long> subtreeMatchingTimeList = new ArrayList<>();
-	private List<Integer> numberOfStatementsToBeRefactored = new ArrayList<>();
-	private List<Integer> numberOfNodeComparisons = new ArrayList<>();
+	private List<Integer> numberOfStatementsToBeRefactoredList = new ArrayList<>();
+	private List<Integer> numberOfNodeComparisonsList = new ArrayList<>();
+	private List<Long> subtreeMatchingWallNanoTimeList = new ArrayList<>();
 	private AnalysisStatus status;
-	private List<List<PDGSubTreeMapperInfo>> subtreeMapperListList = new ArrayList<List<PDGSubTreeMapperInfo>>();
-	private Set<String> testPackages;
-	private Set<String> testSourceFolders;
+	private List<List<PDGSubTreeMapperInfo>> subtreeMappersListList = new ArrayList<List<PDGSubTreeMapperInfo>>();
+	private Set<String> testPackages = new HashSet<>();
+	private Set<String> testSourceFolders = new HashSet<>();
 
 	public String getProjectName() {
 		return projectName;
@@ -80,6 +81,97 @@ public class CloneGroupInfo {
 		for (CloneItem cloneItem : CloneItems)
 			copyToReturn.add(cloneItem);
 		return copyToReturn;
+	}
+	
+	public void setSubtreeMatchingTimeList(long[] subtreeMatchingTimeList) {
+		this.subtreeMatchingTimeList.clear();
+		if (subtreeMatchingTimeList != null)
+			for (long subtreeMatchingTime : subtreeMatchingTimeList)
+				this.subtreeMatchingTimeList.add(subtreeMatchingTime);
+	}
+	
+	public List<Long> getSubtreeMatchingTimeList() {
+		return this.subtreeMatchingTimeList;
+	}
+	
+	public void setNumberOfStatementsToBeRefactoredList(int[] numberOfStatementsToBeRefactoredList) {
+		this.numberOfStatementsToBeRefactoredList.clear();
+		if (numberOfStatementsToBeRefactoredList != null)
+			for (int numberOfStatementsToBeRefactored : numberOfStatementsToBeRefactoredList)
+				this.numberOfStatementsToBeRefactoredList.add(numberOfStatementsToBeRefactored);
+	}
+	
+	public List<Integer> getNumberOfStatementsToBeRefactoredList() {
+		return this.numberOfStatementsToBeRefactoredList;
+	}
+	
+	public void setNumberOfNodeComparisonsList(int[] numberOfNodeComparisonsList) {
+		this.numberOfNodeComparisonsList.clear();
+		if (numberOfNodeComparisonsList != null)
+			for (int numberOfNodeComparisons : numberOfNodeComparisonsList)
+				this.numberOfNodeComparisonsList.add(numberOfNodeComparisons);
+	}
+	
+	public List<Integer> getNumberOfNodeComparisonsList() {
+		return this.numberOfNodeComparisonsList;
+	}
+	
+	public void setSubtreeMatchingWallNanoTimeList(long[] subtreeMatchingWallNanoTimeList) {
+		this.subtreeMatchingWallNanoTimeList.clear();
+		if (subtreeMatchingWallNanoTimeList != null)
+			for (long subtreeMatchingWallNanoTime : subtreeMatchingWallNanoTimeList)
+				this.subtreeMatchingWallNanoTimeList.add(subtreeMatchingWallNanoTime);
+	}
+	
+	public List<Long> getSubtreeMatchingWallNanoTimeList() {
+		return this.subtreeMatchingWallNanoTimeList;
+	}
+	
+	public AnalysisStatus getStatus() {
+		return status;
+	}
+
+	public void setStatus(AnalysisStatus status) {
+		this.status = status;
+	}
+	
+	public List<List<PDGSubTreeMapperInfo>> getPDGSubTreeMappersInfoListList() {
+		return this.subtreeMappersListList;
+	}
+	
+	public void clearMappersInfo() {
+		this.subtreeMappersListList = new ArrayList<List<PDGSubTreeMapperInfo>>();
+	}
+	
+	public boolean getRefactorable() {
+		int count = 0;
+	  	for (List<PDGSubTreeMapperInfo> pdgSubTreeList: subtreeMappersListList) {
+	  		for (PDGSubTreeMapperInfo info: pdgSubTreeList) {
+	  			if(info.getRefactoringWasOK()) {
+	  				count++;
+	  				break;
+	  			}
+	  		}
+	 	}
+	  	return count == cloneGroupSize - 1;
+	}
+	
+	/**
+	 * Get the list of only refactorable mappers
+	 * @return
+	 */
+	public List<List<PDGSubTreeMapperInfo>> getRefactorableMappersInfo() {
+		List<List<PDGSubTreeMapperInfo>> toReturn = new ArrayList<List<PDGSubTreeMapperInfo>>();
+		for (List<PDGSubTreeMapperInfo> pdgSubTreeList : subtreeMappersListList) {
+			List<PDGSubTreeMapperInfo> pdgSubTreeToAdd = new ArrayList<>();
+			for (PDGSubTreeMapperInfo info: pdgSubTreeList) {
+	  			if(info.getRefactoringWasOK()) {
+	  				pdgSubTreeToAdd.add(info);
+	  			}
+	  		}
+			toReturn.add(pdgSubTreeToAdd);
+		}
+		return toReturn;
 	}
 	
 	public void setTestPackages(String[] testPackages) {
