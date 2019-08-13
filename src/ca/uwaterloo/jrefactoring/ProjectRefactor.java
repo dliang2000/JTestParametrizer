@@ -1,7 +1,10 @@
 package ca.uwaterloo.jrefactoring;
 
+import ca.uwaterloo.jrefactoring.match.CloneGroupInfo;
 import ca.uwaterloo.jrefactoring.match.ClonePairInfo;
+import ca.uwaterloo.jrefactoring.match.InputMethodInstance;
 import ca.uwaterloo.jrefactoring.match.InputMethods;
+import ca.uwaterloo.jrefactoring.match.InputMethodsGroup;
 import ca.uwaterloo.jrefactoring.match.PDGSubTreeMapperInfo;
 import ca.uwaterloo.jrefactoring.match.TextDiff;
 import ca.uwaterloo.jrefactoring.utility.ExcelFileColumns;
@@ -204,7 +207,10 @@ public class ProjectRefactor {
                             cloneGroupStartingRowNumber + 1,
                             cloneGroupStartingRowNumber + cloneGroupSize,
                             status));
-
+                    
+                    // for (int cloneInstance = 0; clone)
+                    
+                    
                     for (int firstCloneNumber = 0; firstCloneNumber < cloneGroupSize - 1; firstCloneNumber++) {
 
                         String fullName1 = originalSheet.getCell(ExcelFileColumns.PACKAGE_NAME.getColumnNumber(), cloneGroupStartingRowNumber + firstCloneNumber).getContents().replace(".", "/") +
@@ -452,7 +458,7 @@ public class ProjectRefactor {
                         clonePairInfo.setTestPackages(testPackages);
                         clonePairInfo.setTestSourceFolders(testSourceFolders);
 
-                        if (firstIMethod != null && secondIMethod != null && cloneGroupSize == 2) {
+                        if (firstIMethod != null && secondIMethod != null) {
                             log.info(String.format("%s%%: Analyzing Clone #%s (Group %s, Pair %s-%s): %s#%s (row %s) and %s#%s (row %s)",
                                     Math.round(100 * (float) firstCloneRow / numberOfRows), cloneNumber,
                                     cloneGroupID, firstCloneNumber + 1, secondCloneNumber + 1,
@@ -623,7 +629,52 @@ public class ProjectRefactor {
         log.info("Finished testing refactorabiliy of clones in " + originalExcelFile.getAbsolutePath() + ", output file: " + copyWorkBookFile.getAbsolutePath());
 
     }
+    
+    private void getProposedSolution(InputMethodsGroup inputMethodsGroup, CloneGroupInfo cloneGroupInfo) throws Exception {
+    	if (inputMethodsGroup.getInputMethodsSize() != cloneGroupInfo.getCloneGroupSize()) {
+    		log.error("The two input parameters do not have the matching size. Please check and debug the code.");
+    		return;
+    	}
+    	
+    	int size = cloneGroupInfo.getCloneGroupSize();
+    	
+    	SystemObject systemObject = ASTReader.getSystemObject();
+    	List<Integer> startOffsetList = new ArrayList<>();
+    	List<Integer> endOffsetList = new ArrayList<>();
 
+    	List<AbstractMethodDeclaration> methodDeclarationList = new ArrayList<>();
+    	
+    	for (InputMethodInstance inputMethodInstance: inputMethodsGroup.getInputMethodInstances()) {
+    	  startOffsetList.add(inputMethodInstance.getStartOffset());
+    	  endOffsetList.add(inputMethodInstance.getEndOffset());
+
+    	  methodDeclarationList.add(systemObject.getMethodObject(inputMethodInstance.getIMethod()));
+    	}
+    	
+    	if (checkNullForMethodObjects(methodDeclarationList)) {
+    		CompilationUnitCache.getInstance().clearCache();
+    		List<ClassDeclarationObject> classObjectList = new ArrayList<>();
+    		for (int i = 0; i < size; i++) {
+    			ClassDeclarationObject classObject = null;
+    			classObjectList.add(classObject);
+    		}
+    		
+    		for (int i = 0; i < size; i++) {
+    			
+    		}
+    	}
+
+    }
+    
+    private boolean checkNullForMethodObjects(List<AbstractMethodDeclaration> methodDeclarationList) {
+    	for (AbstractMethodDeclaration methodObject: methodDeclarationList) {
+    		if (methodObject == null || methodObject.getMethodBody() == null) {
+    			return false;
+    		}
+    	}
+    	return true;
+    }
+    
     private void getOptimalSolution(InputMethods inputMethodsInfo, ClonePairInfo pairInfo) throws Exception {
 
         int firstStartOffset = inputMethodsInfo.getStartOffset1();

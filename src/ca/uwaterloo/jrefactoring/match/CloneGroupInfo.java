@@ -36,10 +36,10 @@ public class CloneGroupInfo {
 	private int cloneGroupSize;
 	private Set<CloneItem> CloneItems = new LinkedHashSet<CloneItem>();
 	
-	private List<Long> subtreeMatchingTimeList = new ArrayList<>();
-	private List<Integer> numberOfStatementsToBeRefactoredList = new ArrayList<>();
-	private List<Integer> numberOfNodeComparisonsList = new ArrayList<>();
-	private List<Long> subtreeMatchingWallNanoTimeList = new ArrayList<>();
+	private long subtreeMatchingTimeSum = 0;
+	private int numberOfStatementsToBeRefactoredSum = 0;
+	private int numberOfNodeComparisonsSum = 0;
+	private long subtreeMatchingWallNanoTimeSum = 0;
 	private AnalysisStatus status;
 	private List<List<PDGSubTreeMapperInfo>> subtreeMappersListList = new ArrayList<List<PDGSubTreeMapperInfo>>();
 	private Set<String> testPackages = new HashSet<>();
@@ -83,48 +83,48 @@ public class CloneGroupInfo {
 		return copyToReturn;
 	}
 	
-	public void setSubtreeMatchingTimeList(long[] subtreeMatchingTimeList) {
-		this.subtreeMatchingTimeList.clear();
+	public void setSubtreeMatchingTimeSum(long[] subtreeMatchingTimeList) {
+		this.subtreeMatchingTimeSum = 0;
 		if (subtreeMatchingTimeList != null)
 			for (long subtreeMatchingTime : subtreeMatchingTimeList)
-				this.subtreeMatchingTimeList.add(subtreeMatchingTime);
+				this.subtreeMatchingTimeSum +=  subtreeMatchingTime;
 	}
 	
-	public List<Long> getSubtreeMatchingTimeList() {
-		return this.subtreeMatchingTimeList;
+	public long getSubtreeMatchingTimeSum() {
+		return this.subtreeMatchingTimeSum;
 	}
 	
-	public void setNumberOfStatementsToBeRefactoredList(int[] numberOfStatementsToBeRefactoredList) {
-		this.numberOfStatementsToBeRefactoredList.clear();
+	public void setNumberOfStatementsToBeRefactoredSum(int[] numberOfStatementsToBeRefactoredList) {
+		this.numberOfStatementsToBeRefactoredSum = 0;
 		if (numberOfStatementsToBeRefactoredList != null)
 			for (int numberOfStatementsToBeRefactored : numberOfStatementsToBeRefactoredList)
-				this.numberOfStatementsToBeRefactoredList.add(numberOfStatementsToBeRefactored);
+				this.numberOfStatementsToBeRefactoredSum += numberOfStatementsToBeRefactored;
 	}
 	
-	public List<Integer> getNumberOfStatementsToBeRefactoredList() {
-		return this.numberOfStatementsToBeRefactoredList;
+	public int getNumberOfStatementsToBeRefactoredSum() {
+		return this.numberOfStatementsToBeRefactoredSum;
 	}
 	
-	public void setNumberOfNodeComparisonsList(int[] numberOfNodeComparisonsList) {
-		this.numberOfNodeComparisonsList.clear();
+	public void setNumberOfNodeComparisonsSum(int[] numberOfNodeComparisonsList) {
+		this.numberOfNodeComparisonsSum = 0;
 		if (numberOfNodeComparisonsList != null)
 			for (int numberOfNodeComparisons : numberOfNodeComparisonsList)
-				this.numberOfNodeComparisonsList.add(numberOfNodeComparisons);
+				this.numberOfNodeComparisonsSum += numberOfNodeComparisons;
 	}
 	
-	public List<Integer> getNumberOfNodeComparisonsList() {
-		return this.numberOfNodeComparisonsList;
+	public int getNumberOfNodeComparisonsSum() {
+		return this.numberOfNodeComparisonsSum;
 	}
 	
-	public void setSubtreeMatchingWallNanoTimeList(long[] subtreeMatchingWallNanoTimeList) {
-		this.subtreeMatchingWallNanoTimeList.clear();
+	public void setSubtreeMatchingWallNanoTimeSum(long[] subtreeMatchingWallNanoTimeList) {
+		this.subtreeMatchingWallNanoTimeSum = 0;
 		if (subtreeMatchingWallNanoTimeList != null)
 			for (long subtreeMatchingWallNanoTime : subtreeMatchingWallNanoTimeList)
-				this.subtreeMatchingWallNanoTimeList.add(subtreeMatchingWallNanoTime);
+				this.subtreeMatchingWallNanoTimeSum += subtreeMatchingWallNanoTime;
 	}
 	
-	public List<Long> getSubtreeMatchingWallNanoTimeList() {
-		return this.subtreeMatchingWallNanoTimeList;
+	public long getSubtreeMatchingWallNanoTimeSum() {
+		return this.subtreeMatchingWallNanoTimeSum;
 	}
 	
 	public AnalysisStatus getStatus() {
