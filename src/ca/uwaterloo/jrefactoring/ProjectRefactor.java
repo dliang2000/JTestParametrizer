@@ -1,6 +1,7 @@
 package ca.uwaterloo.jrefactoring;
 
 import ca.uwaterloo.jrefactoring.match.CloneGroupInfo;
+import ca.uwaterloo.jrefactoring.match.CloneItem;
 import ca.uwaterloo.jrefactoring.match.ClonePairInfo;
 import ca.uwaterloo.jrefactoring.match.InputMethodInstance;
 import ca.uwaterloo.jrefactoring.match.InputMethods;
@@ -651,16 +652,54 @@ public class ProjectRefactor {
     	  methodDeclarationList.add(systemObject.getMethodObject(inputMethodInstance.getIMethod()));
     	}
     	
+    	
+    	List<InputMethodInstance> inputMethodInstancesList = inputMethodsGroup.getInputMethodInstances();
+    	List<CloneItem> cloneItemList = cloneGroupInfo.getCloneInstances();
+    	List<ExtractStatementsVisitor> visitorList = new ArrayList<>();
+    	List<ControlDependenceTreeNode> controlDependenceTreeList = new ArrayList<>();
+    	
     	if (checkNullForMethodObjects(methodDeclarationList)) {
     		CompilationUnitCache.getInstance().clearCache();
     		List<ClassDeclarationObject> classObjectList = new ArrayList<>();
     		for (int i = 0; i < size; i++) {
     			ClassDeclarationObject classObject = null;
     			classObjectList.add(classObject);
+    			
+    			if(inputMethodInstancesList.get(i).getIMethod().getDeclaringType().isAnonymous()) {
+    				classObject = systemObject.getAnonymousClassDeclaration(inputMethodInstancesList.get(i).getIMethod().getDeclaringType());
+    			} else {
+    				classObject = systemObject.getClassObject(methodDeclarationList.get(i).getClassName());
+    			}
+    			
+    			ITypeRoot typeRoot = classObject.getITypeRoot();
+    			CompilationUnitCache.getInstance().lock(typeRoot);
+    			
+    			ASTNode node = NodeFinder.perform(classObject.getClassObject().getAbstractTypeDeclaration().getRoot(), startOffsetList.get(i), endOffsetList.get(i) - startOffsetList.get(i));
+                ExtractStatementsVisitor visitor = new ExtractStatementsVisitor(node);
+                visitorList.add(visitor);
+                node.accept(visitor);
+                
+                if (visitor.getStatementsList().size() == 0)
+                    node.getParent().accept(visitor);
     		}
     		
     		for (int i = 0; i < size; i++) {
-    			
+    			// These two contain the entire nesting structure of the methods
+                ControlDependenceTreeNode controlDependenceTreePDG = new ControlDependenceTreeGenerator(inputMethodInstancesList.get(i).getPDG()).getRoot();
+                controlDependenceTreeList.add(controlDependenceTreePDG);
+                
+                log.info("CDT " + i + " depth = " + controlDependenceTreePDG.getMaxLevel());
+                
+                // Get the control predicate nodes inside the ASTNode returned by Eclipse's NodeFinder
+                List<ASTNode> controlASTNodesX = visitorList.get(i).getControlStatementsList();
+                
+                // Get the control predicate nodes inside the clone fragments
+                List<ASTNode> controlASTNodes = new ArrayList<ASTNode>();
+                
+                for (ASTNode astNode : controlASTNodesX) {
+                    if (isInside(astNode, startOffsetList.get(i), endOffsetList.get(i), cloneItemList.get(i).getICompilationUnit()))
+                        controlASTNodes.add(astNode);
+                }
     		}
     	}
 
