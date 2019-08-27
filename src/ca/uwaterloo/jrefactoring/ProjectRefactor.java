@@ -631,6 +631,9 @@ public class ProjectRefactor {
 
     }
     
+    // Potential names:
+    // determineRefactoringSolution()
+    // determineProposedSolution()
     private void getProposedSolution(InputMethodsGroup inputMethodsGroup, CloneGroupInfo cloneGroupInfo) throws Exception {
     	if (inputMethodsGroup.getInputMethodsSize() != cloneGroupInfo.getCloneGroupSize()) {
     		log.error("The two input parameters do not have the matching size. Please check and debug the code.");
@@ -663,13 +666,13 @@ public class ProjectRefactor {
     		List<ClassDeclarationObject> classObjectList = new ArrayList<>();
     		for (int i = 0; i < size; i++) {
     			ClassDeclarationObject classObject = null;
-    			classObjectList.add(classObject);
     			
     			if(inputMethodInstancesList.get(i).getIMethod().getDeclaringType().isAnonymous()) {
     				classObject = systemObject.getAnonymousClassDeclaration(inputMethodInstancesList.get(i).getIMethod().getDeclaringType());
     			} else {
     				classObject = systemObject.getClassObject(methodDeclarationList.get(i).getClassName());
     			}
+    			classObjectList.add(classObject);
     			
     			ITypeRoot typeRoot = classObject.getITypeRoot();
     			CompilationUnitCache.getInstance().lock(typeRoot);
@@ -683,6 +686,8 @@ public class ProjectRefactor {
                     node.getParent().accept(visitor);
     		}
     		
+    		List<List<ASTNode>> controlASTNodeList = new ArrayList<List<ASTNode>>();
+    		List<List<ControlDependenceTreeNode>> subTreeCDTNodeList = new ArrayList<List<ControlDependenceTreeNode>>();
     		for (int i = 0; i < size; i++) {
     			// These two contain the entire nesting structure of the methods
                 ControlDependenceTreeNode controlDependenceTreePDG = new ControlDependenceTreeGenerator(inputMethodInstancesList.get(i).getPDG()).getRoot();
@@ -700,6 +705,59 @@ public class ProjectRefactor {
                     if (isInside(astNode, startOffsetList.get(i), endOffsetList.get(i), cloneItemList.get(i).getICompilationUnit()))
                         controlASTNodes.add(astNode);
                 }
+                
+                // Get all statement nodes (including control and leaf nodes) inside the ASTNode returned by Eclipse's NodeFinder
+                List<ASTNode> ASTNodesX = visitorList.get(i).getStatementsList();
+
+                // Get all statement nodes inside the clone fragments
+                List<ASTNode> ASTNodes = new ArrayList<ASTNode>();
+                
+                for (ASTNode astNode : ASTNodesX) {
+                    if (isInside(astNode, startOffsetList.get(i), endOffsetList.get(i), cloneItemList.get(i).getICompilationUnit()))
+                    	ASTNodes.add(astNode);
+                }
+                
+                CloneItem cloneItem = new CloneItem();
+                // Get the real offsets of the AST nodes being analyzed (inside the code fragments)
+                int minStart = Integer.MAX_VALUE;
+                int maxEnd = -1;
+
+                for (ASTNode node : ASTNodes) {
+                    if (minStart > node.getStartPosition())
+                        minStart = node.getStartPosition();
+                    if (maxEnd < node.getStartPosition() + node.getLength())
+                        maxEnd = node.getStartPosition() + node.getLength();
+                }
+                
+                cloneItem.setStartOffsetOfCodeFragment(minStart);
+                cloneItem.setEndOffsetOfCodeFragment(maxEnd);
+                cloneItem.setNumberOfCloneStatements(ASTNodes.size());
+                
+                List<ControlDependenceTreeNode> CDTNodes = controlDependenceTreePDG.getNodesInBreadthFirstOrder();
+                List<ControlDependenceTreeNode> subTreeCDTNodes = getSubTreeCDTNodes(CDTNodes, controlASTNodes);
+                
+                subTreeCDTNodeList.add(subTreeCDTNodes);
+                
+                /*
+                 * Here is the part to be decided later, where the function for the pairs set 
+                 * the number of statements to be refactored by taking the minimal of the two
+                 * clone instances. However, this should be modified for clone group more than
+                 * pairs. A minimum of 0 statements may only be in one of the many clone instances,
+                 * where the rest of the group may still be refactored.
+                 */
+                
+                ICompilationUnit iCompilationUnit = (ICompilationUnit) JavaCore.create(classObjectList.get(i).getIFile());
+                cloneItem.setNumberOfPDGNodes(inputMethodInstancesList.get(i).getPDG().getTotalNumberOfStatements());
+    		}
+    		
+    		// Used for measuring time
+    		ThreadMXBean threadMXBean = ManagementFactory.getThreadMXBean();
+    		
+    		// One of the clone fragments contain no control predicate nodes
+    		if (checkControlPredicateNodesInCloneFragments(subTreeCDTNodeList)) {
+    			
+    		} else { // If we have a control structure
+    			
     		}
     	}
 
@@ -712,6 +770,15 @@ public class ProjectRefactor {
     		}
     	}
     	return true;
+    }
+    
+    private boolean checkControlPredicateNodesInCloneFragments(List<List<ControlDependenceTreeNode>> subTreeCDTNodeList) {
+    	for (List<ControlDependenceTreeNode> subTreeCDTNodes: subTreeCDTNodeList) {
+    		if (subTreeCDTNodes.size() == 0) {
+    			return true; 
+    		}
+    	}
+    	return false;
     }
     
     private void getOptimalSolution(InputMethods inputMethodsInfo, ClonePairInfo pairInfo) throws Exception {
