@@ -757,7 +757,34 @@ public class ProjectRefactor {
     		if (checkControlPredicateNodesInCloneFragments(subTreeCDTNodeList)) {
     			
     		} else { // If we have a control structure
+    			long startThreadTime = threadMXBean.getCurrentThreadCpuTime();
+    			long startWallNanoTime = System.nanoTime();
     			
+    			for (List<ControlDependenceTreeNode> subTreeCDTNodes: subTreeCDTNodeList) {
+    				List<ControlDependenceTreeNode> subTreeCDTNodesCopy = new ArrayList<ControlDependenceTreeNode>(subTreeCDTNodes);
+    				// Remove the CDT subtree nodes being part of an imcomplete if-else-if chain
+    				for (ControlDependenceTreeNode subTreeCDTNode: subTreeCDTNodesCopy) {
+    					if (subTreeCDTNode.ifStatementInsideElseIfChain()) {
+                            List<ControlDependenceTreeNode> ifParents = subTreeCDTNode.getIfParents();
+                            List<ControlDependenceTreeNode> elseIfChildren = subTreeCDTNode.getElseIfChildren();
+                            List<ControlDependenceTreeNode> treeChain = new ArrayList<ControlDependenceTreeNode>();
+                            for (ControlDependenceTreeNode ifParent : ifParents) {
+                                if (subTreeCDTNodesCopy.contains(ifParent)) {
+                                    treeChain.add(ifParent);
+                                }
+                            }
+                            for (ControlDependenceTreeNode elseIfChild : elseIfChildren) {
+                                if (subTreeCDTNodesCopy.contains(elseIfChild)) {
+                                    treeChain.add(elseIfChild);
+                                }
+                            }
+                            if (!subTreeCDTNodesCopy.containsAll(treeChain)) {
+                                subTreeCDTNodes.remove(subTreeCDTNode);
+                                subTreeCDTNodes.removeAll(subTreeCDTNode.getDescendants());
+                            }
+    					}
+    				}
+    			}
     		}
     	}
 
