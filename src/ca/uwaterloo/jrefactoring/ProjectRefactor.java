@@ -688,6 +688,10 @@ public class ProjectRefactor {
     		
     		List<List<ASTNode>> controlASTNodeList = new ArrayList<List<ASTNode>>();
     		List<List<ControlDependenceTreeNode>> subTreeCDTNodeList = new ArrayList<List<ControlDependenceTreeNode>>();
+    		
+    		List<ControlDependenceTreeNode> controlDependenceSubTreePDGList = new ArrayList<>();
+    		List<List<ControlDependenceTreeNode>> CDTNodesListList = new ArrayList<List<ControlDependenceTreeNode>>();
+    		
     		for (int i = 0; i < size; i++) {
     			// These two contain the entire nesting structure of the methods
                 ControlDependenceTreeNode controlDependenceTreePDG = new ControlDependenceTreeGenerator(inputMethodInstancesList.get(i).getPDG()).getRoot();
@@ -783,6 +787,16 @@ public class ProjectRefactor {
                                 subTreeCDTNodes.removeAll(subTreeCDTNode.getDescendants());
                             }
     					}
+    				}
+    			}
+    			
+    			if (!checkControlPredicateNodesInCloneFragments(subTreeCDTNodeList)) {
+    				// Create CDT subtree with containing only the filtered CDTNodes
+    				for (int i = 0; i < size; i++) {
+    					ControlDependenceTreeNode controlDependenceSubTreePDGX = generateControlDependenceSubTree(controlDependenceTreeList.get(i), subTreeCDTNodeList.get(i));
+    				
+    					List<ControlDependenceTreeNode> CDTNodesList = controlDependenceSubTreePDGX.getNodesInBreadthFirstOrder();
+    					
     				}
     			}
     		}
