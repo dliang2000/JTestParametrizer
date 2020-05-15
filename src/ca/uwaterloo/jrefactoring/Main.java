@@ -81,7 +81,7 @@ public class Main implements IApplication {
         // add log file
         if (cliParser.hasLogToFile()) {
             log.info("parent file " + excelFile.getParentFile());
-            String logPath = excelFile.getParentFile().getAbsolutePath() + File.pathSeparator + projectName + ".log";
+            String logPath = excelFile.getParentFile().getAbsolutePath() + File.separator + projectName + ".log";
             FileLogger.addFileAppender(logPath, false);
             log.info("log file in " + logPath);
         }
