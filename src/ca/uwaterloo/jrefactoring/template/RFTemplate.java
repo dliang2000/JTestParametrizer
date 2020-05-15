@@ -27,6 +27,7 @@ public class RFTemplate {
     private static final String THROWABLE_NAME = "Throwable";
     private static final String DEFAULT_LAMBDA_VARIABLE_NAME = "f";
     private static final String DEFAULT_LAMBDA_PARAMETER_NAME = "x";
+    private static final String DEFAULT_LAMBDA_FUNCTION_CLASS_TEMPLATE = "java.util.function.To%sFunction";
     private static final String DEFAULT_ADAPTER_VARIABLE_NAME = "adapter";
     private static final String DEFAULT_ADAPTER_METHOD_NAME = "action";
     private static final String DEFAULT_TEMPLATE_CLASS_NAME = "TestTemplates";
@@ -611,6 +612,9 @@ public class RFTemplate {
             String clazzName = CLAZZ_NAME_PREFIX + genericType;
             //String clazzName = CLAZZ_NAME_PREFIX + genericType + clazzCount++;
             clazzInstanceMap.put(genericType, clazzName);
+            if (ENABLE_LAMBDA) {
+                addLambdaInParameter(genericType);
+            }
             addClazzInParameter(genericType);
         }
         return clazzInstanceMap.get(genericType);
@@ -724,20 +728,18 @@ public class RFTemplate {
         templateMethod.typeParameters().add(typeParameter);
     }
 
+    private void addLambdaInParameter(String genericTypeName) {
+        // XXX PL figure out when we should actually add this lambda parameter...
+        //java.util.function.ToLongFunction<TAtomic> f
+        Type lambdaType = computeLambdaVariableReturnType(genericTypeName);
+        addVariableParameter(lambdaType, ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
+    }
+
     private void addClazzInParameter(String genericTypeName) {
         Type genericType = ast.newSimpleType(ast.newSimpleName(genericTypeName));
         Type classType = ast.newSimpleType(ast.newSimpleName(CLASS_NAME));
         ParameterizedType classTypeWithGenericType = ast.newParameterizedType(classType);
         classTypeWithGenericType.typeArguments().add(genericType);
-
-        // XXX PL figure out when we should actually add this lambda parameter...
-        //java.util.function.ToLongFunction<TAtomic> f
-        Type genericType1 = ast.newSimpleType(ast.newSimpleName(genericTypeName)); // need fresh genericType
-        Type openLambdaType = ast.newSimpleType(ast.newName("java.util.function.ToLongFunction"));
-        ParameterizedType lambdaType = ast.newParameterizedType(openLambdaType);
-        lambdaType.typeArguments().add(genericType1);
-        if (ENABLE_LAMBDA)
-            addVariableParameter(lambdaType, ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
 
         SimpleName clazzName = ast.newSimpleName(resolveGenericType(genericTypeName));
         addVariableParameter(classTypeWithGenericType, clazzName);
@@ -1228,11 +1230,13 @@ public class RFTemplate {
         return iTypeBinding.isTypeVariable();
     }
 
-    private void setLambdaVariableReturnType(String rt) {
-        ParameterizedType lType = ast.newParameterizedType(ast.newSimpleType(ast.newName("java.util.function.To"+rt+"Function")));
-        lambdaVariable.setType(lType);
+    private Type computeLambdaVariableReturnType(String rt) {
+        String olTypeName = String.format(DEFAULT_LAMBDA_FUNCTION_CLASS_TEMPLATE, "Long");
+        Type openLambdaType = ast.newSimpleType(ast.newName(olTypeName));
+        ParameterizedType lType = ast.newParameterizedType(openLambdaType);
         Type t = ast.newSimpleType(ast.newSimpleName(rt));
         lType.typeArguments().add(t);
+        return lType;
     }
 
     @SuppressWarnings("unchecked")
@@ -1255,15 +1259,15 @@ public class RFTemplate {
             PrimitiveType pt = (PrimitiveType) returnType;
             if (pt.getPrimitiveTypeCode() == PrimitiveType.INT) {
                 newMethodInvocation.setName(ast.newSimpleName("applyAsInt"));
-                setLambdaVariableReturnType("Int");
+                lambdaVariable.setType(computeLambdaVariableReturnType("Int"));
                 foundWinningType = true;
             } else if (pt.getPrimitiveTypeCode() == PrimitiveType.LONG) {
                 newMethodInvocation.setName(ast.newSimpleName("applyAsLong"));
-                setLambdaVariableReturnType("Long");
+                lambdaVariable.setType(computeLambdaVariableReturnType("Long"));
                 foundWinningType = true;
             } else if (pt.getPrimitiveTypeCode() == PrimitiveType.DOUBLE) {
                 newMethodInvocation.setName(ast.newSimpleName("applyAsDouble"));
-                setLambdaVariableReturnType("Double");
+                lambdaVariable.setType(computeLambdaVariableReturnType("Double"));
                 foundWinningType = true;
             }
         }
