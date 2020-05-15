@@ -183,12 +183,7 @@ public class RFTemplate {
     private void initAdapter(String adapterName) {
         // init lambda variable
         this.lambdaVariable = ast.newSingleVariableDeclaration();
-        // XXX PL need to not hardcode lambda type
-        ParameterizedType lType = ast.newParameterizedType(ast.newSimpleType(ast.newName("java.util.function.ToLongFunction")));
-        lambdaVariable.setType(lType);
         lambdaVariable.setName(ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
-        Type t = ast.newSimpleType(ast.newSimpleName("Long"));
-        lType.typeArguments().add(t);
 
         // init Adapter interface
         adapter = ast.newTypeDeclaration();
@@ -1231,6 +1226,13 @@ public class RFTemplate {
         return iTypeBinding.isTypeVariable();
     }
 
+    private void setLambdaVariableReturnType(String rt) {
+        ParameterizedType lType = ast.newParameterizedType(ast.newSimpleType(ast.newName("java.util.function.To"+rt+"Function")));
+        lambdaVariable.setType(lType);
+        Type t = ast.newSimpleType(ast.newSimpleName(rt));
+        lType.typeArguments().add(t);
+    }
+
     @SuppressWarnings("unchecked")
     public MethodInvocation createLambdaActionMethodInvocation(Expression expr, List<Expression> arguments,
             MethodInvocationPair pair, TypePair returnTypePair) {
@@ -1243,13 +1245,39 @@ public class RFTemplate {
         List<Expression> newArgs = newMethodInvocation.arguments();
         List<Type> argTypes = new ArrayList<>();
 
-        // XXX PL need to not hardcode lambda function name
-        newMethodInvocation.setName(ast.newSimpleName("applyAsLong"));
+        // XXX PL need to handle lambdas that return other than int, long, double
+        Type returnType = computeReturnTypeFromPair(returnTypePair);
+        boolean foundWinningType = false;
+
+        if (returnType.isPrimitiveType()) {
+            PrimitiveType pt = (PrimitiveType) returnType;
+            if (pt.getPrimitiveTypeCode() == PrimitiveType.INT) {
+                newMethodInvocation.setName(ast.newSimpleName("applyAsInt"));
+                setLambdaVariableReturnType("Int");
+                foundWinningType = true;
+            } else if (pt.getPrimitiveTypeCode() == PrimitiveType.LONG) {
+                newMethodInvocation.setName(ast.newSimpleName("applyAsLong"));
+                setLambdaVariableReturnType("Long");
+                foundWinningType = true;
+            } else if (pt.getPrimitiveTypeCode() == PrimitiveType.DOUBLE) {
+                newMethodInvocation.setName(ast.newSimpleName("applyAsDouble"));
+                setLambdaVariableReturnType("Double");
+                foundWinningType = true;
+            }
+        }
+        if (!foundWinningType) {
+            log.info("could not do a lambda with return type "+returnType);
+        }
+
         if (expr != null) {
             newArgs.add((Expression) ASTNode.copySubtree(ast, expr));
             argTypes.add(resolveAdapterActionArgumentType(expr, null));
         }
-        return newMethodInvocation;
+
+        if (foundWinningType)
+            return newMethodInvocation;
+        else
+            return null;
     }
 
     public MethodInvocation createAdapterActionMethod(Expression expr, List<Expression> arguments,
@@ -1258,6 +1286,10 @@ public class RFTemplate {
         boolean LAMBDA_MODE = true;
         // XXX PL need to figure out when lambdas should be created vs adapters...
         if (LAMBDA_MODE) {
+            // stash away (in global state) the body --- which expr we're supposed to put in place of method1/method2
+            method1.setProperty(ASTNodeUtil.PROPERTY_LAMBDA_PARAM, pair.getMethod1());
+            method2.setProperty(ASTNodeUtil.PROPERTY_LAMBDA_PARAM, pair.getMethod2());
+
             MethodInvocation mi = createLambdaActionMethodInvocation(expr, arguments, pair, returnTypePair);
             if (mi != null)
                 return mi;
@@ -1364,53 +1396,7 @@ public class RFTemplate {
             newMethod.setName(ast.newSimpleName(newActionName));
 
             // add method in adapter interface
-            ITypeBinding returnTypeBinding = ASTNodeUtil.getAssignmentCompatibleTypeBinding(returnTypePair);
-            TypePair boundPair = ASTNodeUtil.getJavaLangClassCaptureBounds(returnTypePair);
-            Type returnType;
-
-            if (containsTypePair(returnTypePair)) {
-
-                // add type parameter in adapter interface
-                String genericName = resolveTypePair(returnTypePair, false);
-                returnType = ast.newSimpleType(ast.newSimpleName(genericName));
-                if (!adapterTypes.contains(genericName)) {
-                    TypeParameter typeParameter = ast.newTypeParameter();
-                    typeParameter.setName(ast.newSimpleName(genericName));
-                    adapter.typeParameters().add(typeParameter);
-
-                    // add type parameter in adapter impl
-                    Type type1 = ASTNodeUtil.typeFromBinding(ast, returnTypePair.getType1());
-                    Type type2 = ASTNodeUtil.typeFromBinding(ast, returnTypePair.getType2());
-                    addTypeParameterAdapterImpl(type1, adapterImpl1.superInterfaceTypes());
-                    addTypeParameterAdapterImpl(type2, adapterImpl2.superInterfaceTypes());
-
-                    // add adapter variable
-                    addAdapterVariableTypeParameter(returnType);
-
-                    adapterTypes.add(genericName);
-                }
-
-            } else if (boundPair != null && containsTypePair(boundPair)) {
-                String genericName = resolveTypePair(boundPair, false);
-                ParameterizedType parameterizedType =
-                        ast.newParameterizedType(ASTNodeUtil.typeFromBinding(ast, returnTypePair.getType1().getErasure()));
-                WildcardType capType = ast.newWildcardType();
-                capType.setBound(ast.newSimpleType(ast.newSimpleName(genericName)), true);
-                parameterizedType.typeArguments().add(capType);
-                returnType = parameterizedType;
-
-            } else {
-                if (returnTypeBinding == null) {
-                    returnType = ast.newSimpleType(ast.newSimpleName(OBJECT_NAME));
-                    returnType.setProperty(ASTNodeUtil.PROPERTY_QUALIFIED_NAME, JAVA_OBJECT_FULL_NAME);
-
-                } else {
-                    if (!returnTypeBinding.isPrimitive() && !returnTypeBinding.getBinaryName().startsWith(JAVA_LANG_CLASS)) {
-                        addImportDeclaration(templateCU, ASTNodeUtil.createPackageName(ast, returnTypeBinding.getBinaryName()), false);
-                    }
-                    returnType = ASTNodeUtil.typeFromBinding(ast, returnTypeBinding);
-                }
-            }
+            Type returnType = computeReturnTypeFromPair(returnTypePair);
 
             // check if it needs to throw exception
             IMethodBinding methodBinding1 = pair.getMethod1().resolveMethodBinding();
@@ -1437,6 +1423,57 @@ public class RFTemplate {
         }
 
         return newMethod;
+    }
+
+    private Type computeReturnTypeFromPair(TypePair returnTypePair) {
+        ITypeBinding returnTypeBinding = ASTNodeUtil.getAssignmentCompatibleTypeBinding(returnTypePair);
+        TypePair boundPair = ASTNodeUtil.getJavaLangClassCaptureBounds(returnTypePair);
+        Type returnType;
+
+        if (containsTypePair(returnTypePair)) {
+
+            // add type parameter in adapter interface
+            String genericName = resolveTypePair(returnTypePair, false);
+            returnType = ast.newSimpleType(ast.newSimpleName(genericName));
+            if (!adapterTypes.contains(genericName)) {
+                TypeParameter typeParameter = ast.newTypeParameter();
+                typeParameter.setName(ast.newSimpleName(genericName));
+                adapter.typeParameters().add(typeParameter);
+
+                // add type parameter in adapter impl
+                Type type1 = ASTNodeUtil.typeFromBinding(ast, returnTypePair.getType1());
+                Type type2 = ASTNodeUtil.typeFromBinding(ast, returnTypePair.getType2());
+                addTypeParameterAdapterImpl(type1, adapterImpl1.superInterfaceTypes());
+                addTypeParameterAdapterImpl(type2, adapterImpl2.superInterfaceTypes());
+
+                // add adapter variable
+                addAdapterVariableTypeParameter(returnType);
+
+                adapterTypes.add(genericName);
+            }
+
+        } else if (boundPair != null && containsTypePair(boundPair)) {
+            String genericName = resolveTypePair(boundPair, false);
+            ParameterizedType parameterizedType =
+                    ast.newParameterizedType(ASTNodeUtil.typeFromBinding(ast, returnTypePair.getType1().getErasure()));
+            WildcardType capType = ast.newWildcardType();
+            capType.setBound(ast.newSimpleType(ast.newSimpleName(genericName)), true);
+            parameterizedType.typeArguments().add(capType);
+            returnType = parameterizedType;
+
+        } else {
+            if (returnTypeBinding == null) {
+                returnType = ast.newSimpleType(ast.newSimpleName(OBJECT_NAME));
+                returnType.setProperty(ASTNodeUtil.PROPERTY_QUALIFIED_NAME, JAVA_OBJECT_FULL_NAME);
+
+            } else {
+                if (!returnTypeBinding.isPrimitive() && !returnTypeBinding.getBinaryName().startsWith(JAVA_LANG_CLASS)) {
+                    addImportDeclaration(templateCU, ASTNodeUtil.createPackageName(ast, returnTypeBinding.getBinaryName()), false);
+                }
+                returnType = ASTNodeUtil.typeFromBinding(ast, returnTypeBinding);
+            }
+        }
+        return returnType;
     }
 
     public MethodInvocation createAdapterActionMethod(Expression e1, Expression e2, Type returnType) {
@@ -1513,7 +1550,7 @@ public class RFTemplate {
         modifyMethod(method2, adapterImpl2, templateArguments2, Pair.member2);
     }
 
-    /** swaps out the implementation of method with a call to templateMethod */
+    /** swaps out the implementation of method body with a call to templateMethod */
     private void modifyMethod(MethodDeclaration method, TypeDeclaration adapterImpl, List<Expression> arguments, Pair pair) {
         // create new method invocation
         MethodInvocation methodInvocation = ast.newMethodInvocation();
@@ -1545,6 +1582,7 @@ public class RFTemplate {
         }
 
         if (hasLambda) {
+            // currently support single-arg lambdas that return int, long, or double
             LambdaExpression lambdaExpression = ast.newLambdaExpression();
             // XXX PL args and body
             // was: target.get()
@@ -1555,8 +1593,11 @@ public class RFTemplate {
             lambdaExpression.parameters().add(arg);
 
             MethodInvocation body = ast.newMethodInvocation();
-            body.setExpression(ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
-            body.setName(ast.newSimpleName("get"));
+            if (method.properties().containsKey(ASTNodeUtil.PROPERTY_LAMBDA_PARAM)) {
+                body = (MethodInvocation) ASTNode.copySubtree(ast,
+                        (ASTNode)method.getProperty(ASTNodeUtil.PROPERTY_LAMBDA_PARAM));
+                body.setExpression(ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
+            }
 
             lambdaExpression.setBody(body);
 

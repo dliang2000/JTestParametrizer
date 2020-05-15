@@ -18,6 +18,7 @@ public class ASTNodeUtil {
     public static final String PROPERTY_TYPE_BINDING = "type";
     public static final String PROPERTY_QUALIFIED_NAME = "qualifiedName";
     public static final String PROPERTY_PAIR = "pair";
+    public static final String PROPERTY_LAMBDA_PARAM = "lambdaParam";
     private static final String JAVA_LANG_CLASS = "java.lang.Class";
 
     public static Type typeFromBinding(AST ast, ITypeBinding typeBinding) {
