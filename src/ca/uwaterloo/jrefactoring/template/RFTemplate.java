@@ -44,6 +44,7 @@ public class RFTemplate {
     private static final String JAVA_OBJECT_FULL_NAME = "java.lang.Object";
     private static final Set<String> javaObjectMethodNames = new HashSet<>(Arrays.asList("hashCode", "equals", "clone",
             "toString", "finalize"));
+    private static final boolean ENABLE_LAMBDA = true;
 
     private AST ast;
     private MethodDeclaration templateMethod;
@@ -735,7 +736,8 @@ public class RFTemplate {
         Type openLambdaType = ast.newSimpleType(ast.newName("java.util.function.ToLongFunction"));
         ParameterizedType lambdaType = ast.newParameterizedType(openLambdaType);
         lambdaType.typeArguments().add(genericType1);
-        addVariableParameter(lambdaType, ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
+        if (ENABLE_LAMBDA)
+            addVariableParameter(lambdaType, ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
 
         SimpleName clazzName = ast.newSimpleName(resolveGenericType(genericTypeName));
         addVariableParameter(classTypeWithGenericType, clazzName);
@@ -1283,9 +1285,9 @@ public class RFTemplate {
     public MethodInvocation createAdapterActionMethod(Expression expr, List<Expression> arguments,
                                                       MethodInvocationPair pair, TypePair returnTypePair) {
 
-        boolean LAMBDA_MODE = true;
+        boolean ENABLE_THIS_LAMBDA = true;
         // XXX PL need to figure out when lambdas should be created vs adapters...
-        if (LAMBDA_MODE) {
+        if (ENABLE_LAMBDA && ENABLE_THIS_LAMBDA) {
             // stash away (in global state) the body --- which expr we're supposed to put in place of method1/method2
             method1.setProperty(ASTNodeUtil.PROPERTY_LAMBDA_PARAM, pair.getMethod1());
             method2.setProperty(ASTNodeUtil.PROPERTY_LAMBDA_PARAM, pair.getMethod2());
@@ -1581,7 +1583,7 @@ public class RFTemplate {
             }
         }
 
-        if (hasLambda) {
+        if (ENABLE_LAMBDA && hasLambda) {
             // currently support single-arg lambdas that return int, long, or double
             LambdaExpression lambdaExpression = ast.newLambdaExpression();
             // XXX PL args and body
