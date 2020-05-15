@@ -67,7 +67,7 @@ public class CloneRefactor {
 
         assert pairInfo.getPDFSubTreeMappersInfoList().size() == 1;
 
-        log.info("start to refactor clone pair");
+        log.info("considering clone pair");
         for (PDGSubTreeMapperInfo mapperInfo : pairInfo.getPDFSubTreeMappersInfoList()) {
 
             // achieve the clone structure root node and clone type
@@ -98,7 +98,7 @@ public class CloneRefactor {
 
                     // check if methods are test cases
                     if (!ASTNodeUtil.isTestCase(method1) || !ASTNodeUtil.isTestCase(method2)) {
-                        log.info("method pair are not test cases!");
+                        log.info("marked non-refactorable: method pair are not test cases!");
                         countNonTestCase++;
                         countSkip++;
                         return;
@@ -117,6 +117,7 @@ public class CloneRefactor {
                     if (!template.isRefactorable()) {
                         countGapNode++;
                         countSkip++;
+                        log.info("marked non-refactorable: gap node");
                         continue;
                     }
 
@@ -125,7 +126,7 @@ public class CloneRefactor {
                         rfRoot.accept(new RFVisitor(template));
                     } catch (Exception e) {
                         e.printStackTrace();
-                        log.info("exception: " + e.toString());
+                        log.info("marked non-refactorable: exception " + e.toString());
                         countNonRefactorable++;
                         countSkip++;
                         continue;
@@ -138,7 +139,7 @@ public class CloneRefactor {
 
                     // check template argument size
                     if (template.getTemplateArguments1().size() > parameterNum) {
-                        log.info("too many parameters");
+                        log.info("marked non-refactorable: too many parameters");
                         countNonRefactorable++;
                         countSkip++;
                         continue;
@@ -165,14 +166,16 @@ public class CloneRefactor {
                     if (template.isRefactorable()) {
                         refactorableTemplates.add(template);
                         markRefactorability(firstCloneNumber, secondCloneNumber, firstCloneRow, copySheet, 1.0);
+                        log.info("marked refactorable");
                     } else {
                         markRefactorability(firstCloneNumber, secondCloneNumber, firstCloneRow, copySheet, 0.0);
                         countNonRefactorable++;
                         countSkip++;
+                        log.info("marked non-refactorable");
                     }
 
                     // print out the template
-                    System.out.println("----------------------------------------------------------");
+                    //System.out.println("----------------------------------------------------------");
                     //System.out.println(template);
 
                 }
