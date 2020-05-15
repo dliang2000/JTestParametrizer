@@ -32,88 +32,88 @@ public class Main implements IApplication {
 
         if (cliParser.showHelp()) {
             cliParser.printHelp();
-        } else {
-
-            // load java project from the workspace
-            String projectName = "";
-            IJavaProject jProject = null;
-
-            if (cliParser.getProjectDescritionFile() != null) {
-
-                IProjectDescription projectDescription = ResourcesPlugin.getWorkspace().
-                        loadProjectDescription(new Path(cliParser.getProjectDescritionFile()));
-
-                projectName = projectDescription.getName();
-                IProject project = ResourcesPlugin.getWorkspace().getRoot().getProject(projectName);
-
-                if (!project.exists()) {
-                    project.create(projectDescription, null);
-                }
-                if (!project.isOpen()) {
-                    project.open(null);
-                }
-                if (project.hasNature(JavaCore.NATURE_ID)) {
-                    jProject = JavaCore.create(project);
-                }
-
-            } else if (cliParser.getProjectName() != null) {
-                projectName = cliParser.getProjectName();
-                jProject = findJavaProjectInWorkspace(projectName);
-            }
-
-            if (jProject == null) {
-                throw new RuntimeException("The project \"" + projectName + "\" is not opened in the workspace. Cannot continue.");
-            }
-
-            parseJavaProject(jProject);
-
-            IProject project = jProject.getProject();
-            project.setDescription(project.getDescription(), ~IProject.KEEP_HISTORY, new NullProgressMonitor());
-
-            // get excel file
-            File excelFile = new File(cliParser.getExcelFilePath());
-
-            if (!excelFile.exists()) {
-                throw new FileNotFoundException("Excel file " + excelFile.getAbsolutePath() + " was not found.");
-            } else {
-                log.info("Excel file found: " + excelFile.getAbsolutePath());
-            }
-
-            // add log file
-            if (cliParser.hasLogToFile()) {
-                String logPath = excelFile.getParentFile().getAbsolutePath() + "/log.log";
-                FileLogger.addFileAppender(logPath, false);
-                log.info("log file in " + logPath);
-            }
-
-            // refactor the clone candidates
-            int startFrom = cliParser.getStartingRow();
-            boolean appendResults = cliParser.getAppendResults();
-            int[] cloneGroupIDsToSkip = cliParser.getCloneGroupIDsToSkip();
-            int[] cloneGroupIdsToAnalyze = cliParser.getCloneGroupIDsToAnalyze();
-            String[] testPackages = cliParser.getTestPackages();
-            String[] testSourceFolders = cliParser.getTestSourceFolders();
-
-            //MethodRefactor methodRefactor = new MethodRefactor();
-            //methodRefactor.refactor(jProject, excelFile, startFrom, appendResults, cloneGroupIDsToSkip,
-            //        cloneGroupIdsToAnalyze, testPackages, testSourceFolders);
-
-            boolean applyChanges = cliParser.hasApplyChanges();
-            String packageName = cliParser.getRefactoringPackage();
-
-            ProjectRefactor projectRefactor = ProjectRefactor.getInstance();
-            projectRefactor.refactor(jProject, excelFile, startFrom, appendResults, cloneGroupIDsToSkip,
-                    cloneGroupIdsToAnalyze, testPackages, testSourceFolders, packageName, applyChanges);
+            return IApplication.EXIT_OK;
         }
+        // load java project from the workspace
+        String projectName = "";
+        IJavaProject jProject = null;
+
+        if (cliParser.getProjectDescriptionFile() != null) {
+
+            IProjectDescription projectDescription = ResourcesPlugin.getWorkspace().
+                    loadProjectDescription(new Path(cliParser.getProjectDescriptionFile()));
+
+            projectName = projectDescription.getName();
+            IProject project = ResourcesPlugin.getWorkspace().getRoot().getProject(projectName);
+
+            if (!project.exists()) {
+                project.create(projectDescription, null);
+            }
+            if (!project.isOpen()) {
+                project.open(null);
+            }
+            if (project.hasNature(JavaCore.NATURE_ID)) {
+                jProject = JavaCore.create(project);
+            }
+
+        } else if (cliParser.getProjectName() != null) {
+            projectName = cliParser.getProjectName();
+            jProject = findJavaProjectInWorkspace(projectName);
+        }
+        if (jProject == null) {
+            throw new RuntimeException("The project \"" + projectName + "\" is not opened in the workspace. Cannot continue.");
+        }
+
+        parseJavaProject(jProject);
+
+        IProject project = jProject.getProject();
+        project.setDescription(project.getDescription(), ~IProject.KEEP_HISTORY, new NullProgressMonitor());
+
+        // get excel file
+        File excelFile = new File(cliParser.getExcelFilePath()).getAbsoluteFile();
+
+        if (!excelFile.exists()) {
+            throw new FileNotFoundException("Excel file " + excelFile.getAbsolutePath() + " was not found.");
+        } else {
+            log.info("Excel file found: " + excelFile.getAbsolutePath());
+        }
+
+        // add log file
+        if (cliParser.hasLogToFile()) {
+            log.info("parent file " + excelFile.getParentFile());
+            String logPath = excelFile.getParentFile().getAbsolutePath() + File.pathSeparator + projectName + ".log";
+            FileLogger.addFileAppender(logPath, false);
+            log.info("log file in " + logPath);
+        }
+
+        // refactor the clone candidates
+        int startFrom = cliParser.getStartingRow();
+        boolean appendResults = cliParser.getAppendResults();
+        int[] cloneGroupIDsToSkip = cliParser.getCloneGroupIDsToSkip();
+        int[] cloneGroupIdsToAnalyze = cliParser.getCloneGroupIDsToAnalyze();
+        String[] testPackages = cliParser.getTestPackages();
+        String[] testSourceFolders = cliParser.getTestSourceFolders();
+
+        //MethodRefactor methodRefactor = new MethodRefactor();
+        //methodRefactor.refactor(jProject, excelFile, startFrom, appendResults, cloneGroupIDsToSkip,
+        //        cloneGroupIdsToAnalyze, testPackages, testSourceFolders);
+
+        boolean applyChanges = cliParser.hasApplyChanges();
+        String packageName = cliParser.getRefactoringPackage();
+
+        ProjectRefactor projectRefactor = ProjectRefactor.getInstance();
+        projectRefactor.refactor(jProject, excelFile, startFrom, appendResults, cloneGroupIDsToSkip,
+                cloneGroupIdsToAnalyze, testPackages, testSourceFolders, packageName, applyChanges);
+
         return IApplication.EXIT_OK;
     }
 
     private IJavaProject findJavaProjectInWorkspace(String projectName) throws CoreException {
         IJavaProject jProject = null;
+
         for (IProject project : ResourcesPlugin.getWorkspace().getRoot().getProjects()) {
             if (project.hasNature(JavaCore.NATURE_ID) && project.getName().equals(projectName)) {
                 if (!project.isOpen()) {
-                    log.info("open java project: " + project.getName());
                     project.open(null);
                 }
                 jProject = JavaCore.create(project);

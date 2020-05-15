@@ -50,7 +50,7 @@ public class CloneRefactor {
             return;
         } else if (pairInfo.getFirstClass().equals(pairInfo.getSecondClass())
                 && pairInfo.getFirstMethodSignature().equals(pairInfo.getSecondMethodSignature())) {
-            log.info("skip the pairs with same method");
+            log.info("skip pairs within the same method");
             return;
         }
 
