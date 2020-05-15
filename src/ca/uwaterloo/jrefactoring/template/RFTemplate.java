@@ -25,6 +25,8 @@ public class RFTemplate {
     private static final String CLASS_NAME = "Class";
     private static final String EXCEPTION_NAME = "Exception";
     private static final String THROWABLE_NAME = "Throwable";
+    private static final String DEFAULT_LAMBDA_VARIABLE_NAME = "f";
+    private static final String DEFAULT_LAMBDA_PARAMETER_NAME = "x";
     private static final String DEFAULT_ADAPTER_VARIABLE_NAME = "adapter";
     private static final String DEFAULT_ADAPTER_METHOD_NAME = "action";
     private static final String DEFAULT_TEMPLATE_CLASS_NAME = "TestTemplates";
@@ -57,6 +59,7 @@ public class RFTemplate {
     private Map<String, String> nameMap1;
     private Map<String, String> nameMap2;
     private Map<String, Integer> parameterMap;
+    private SingleVariableDeclaration lambdaVariable;
     private SingleVariableDeclaration adapterVariable;
     private Set<String> adapterTypes;
     private Map<ClassInstanceCreation, Type> instanceCreationTypeMap;
@@ -78,6 +81,7 @@ public class RFTemplate {
     private int typeCount;
     private int actionCount;
     private int variableCount;
+    private boolean hasLambda;
     private boolean hasAdapterVariable;
     private List<NodePair> unrefactoredList;
     private Map<String, Integer> adapterActionNameMap;
@@ -110,6 +114,7 @@ public class RFTemplate {
         this.typeCount = 1;
         this.actionCount = 1;
         this.variableCount = 1;
+        this.hasLambda = false;
         this.hasAdapterVariable = false;
         this.templateArguments1 = new ArrayList<>();
         this.templateArguments2 = new ArrayList<>();
@@ -176,6 +181,15 @@ public class RFTemplate {
     }
 
     private void initAdapter(String adapterName) {
+        // init lambda variable
+        this.lambdaVariable = ast.newSingleVariableDeclaration();
+        // XXX PL need to not hardcode lambda type
+        ParameterizedType lType = ast.newParameterizedType(ast.newSimpleType(ast.newName("java.util.function.ToLongFunction")));
+        lambdaVariable.setType(lType);
+        lambdaVariable.setName(ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
+        Type t = ast.newSimpleType(ast.newSimpleName("Long"));
+        lType.typeArguments().add(t);
+
         // init Adapter interface
         adapter = ast.newTypeDeclaration();
         Modifier publicModifier = ast.newModifier(Modifier.ModifierKeyword.PUBLIC_KEYWORD);
@@ -720,6 +734,14 @@ public class RFTemplate {
         ParameterizedType classTypeWithGenericType = ast.newParameterizedType(classType);
         classTypeWithGenericType.typeArguments().add(genericType);
 
+        // XXX PL figure out when we should actually add this lambda parameter...
+        //java.util.function.ToLongFunction<TAtomic> f
+        Type genericType1 = ast.newSimpleType(ast.newSimpleName(genericTypeName)); // need fresh genericType
+        Type openLambdaType = ast.newSimpleType(ast.newName("java.util.function.ToLongFunction"));
+        ParameterizedType lambdaType = ast.newParameterizedType(openLambdaType);
+        lambdaType.typeArguments().add(genericType1);
+        addVariableParameter(lambdaType, ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
+
         SimpleName clazzName = ast.newSimpleName(resolveGenericType(genericTypeName));
         addVariableParameter(classTypeWithGenericType, clazzName);
 
@@ -1182,6 +1204,10 @@ public class RFTemplate {
         }
     }
 
+    private void addLambda() {
+        hasLambda = true;
+    }
+
     private boolean containsTypeVariable(ITypeBinding iTypeBinding) {
         if (iTypeBinding == null) {
             return false;
@@ -1205,8 +1231,37 @@ public class RFTemplate {
         return iTypeBinding.isTypeVariable();
     }
 
+    @SuppressWarnings("unchecked")
+    public MethodInvocation createLambdaActionMethodInvocation(Expression expr, List<Expression> arguments,
+            MethodInvocationPair pair, TypePair returnTypePair) {
+        addLambda();
+
+        // create new method invocation
+        MethodInvocation newMethodInvocation = ast.newMethodInvocation();
+        newMethodInvocation.setExpression(ast.newSimpleName(lambdaVariable.getName().getIdentifier()));
+
+        List<Expression> newArgs = newMethodInvocation.arguments();
+        List<Type> argTypes = new ArrayList<>();
+
+        // XXX PL need to not hardcode lambda function name
+        newMethodInvocation.setName(ast.newSimpleName("applyAsLong"));
+        if (expr != null) {
+            newArgs.add((Expression) ASTNode.copySubtree(ast, expr));
+            argTypes.add(resolveAdapterActionArgumentType(expr, null));
+        }
+        return newMethodInvocation;
+    }
+
     public MethodInvocation createAdapterActionMethod(Expression expr, List<Expression> arguments,
                                                       MethodInvocationPair pair, TypePair returnTypePair) {
+
+        boolean LAMBDA_MODE = true;
+        // XXX PL need to figure out when lambdas should be created vs adapters...
+        if (LAMBDA_MODE) {
+            MethodInvocation mi = createLambdaActionMethodInvocation(expr, arguments, pair, returnTypePair);
+            if (mi != null)
+                return mi;
+        }
 
         addAdapterVariableParameter();
 
@@ -1458,6 +1513,7 @@ public class RFTemplate {
         modifyMethod(method2, adapterImpl2, templateArguments2, Pair.member2);
     }
 
+    /** swaps out the implementation of method with a call to templateMethod */
     private void modifyMethod(MethodDeclaration method, TypeDeclaration adapterImpl, List<Expression> arguments, Pair pair) {
         // create new method invocation
         MethodInvocation methodInvocation = ast.newMethodInvocation();
@@ -1486,6 +1542,25 @@ public class RFTemplate {
                     methodInvocation.typeArguments().add(type);
                 }
             }
+        }
+
+        if (hasLambda) {
+            LambdaExpression lambdaExpression = ast.newLambdaExpression();
+            // XXX PL args and body
+            // was: target.get()
+            // want: (AtomicInteger target) -> target.get();
+
+            VariableDeclarationFragment arg = ast.newVariableDeclarationFragment();
+            arg.setName(ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
+            lambdaExpression.parameters().add(arg);
+
+            MethodInvocation body = ast.newMethodInvocation();
+            body.setExpression(ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
+            body.setName(ast.newSimpleName("get"));
+
+            lambdaExpression.setBody(body);
+
+            args.add(lambdaExpression);
         }
 
         if (hasAdapterVariable) {
