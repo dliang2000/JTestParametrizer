@@ -391,12 +391,19 @@ public class ASTNodeUtil {
     }
 
     public static boolean isTestCase(MethodDeclaration method) {
-    	List<IExtendedModifier> extendedModifiers = method.modifiers();   	
+        // JUnit 3
+        if (method.getName().getIdentifier().startsWith("test") && Modifier.isPublic(method.getModifiers()) && method.parameters().size() == 0 && isVoid(method.getReturnType2()))
+            return true;
+
+        // JUnit 4+
+	@SuppressWarnings("unchecked")
+    	List<IExtendedModifier> extendedModifiers = method.modifiers();
     	for(IExtendedModifier extendedModifier : extendedModifiers) {
 			if(extendedModifier.isAnnotation()) {
 				Annotation annotation = (Annotation)extendedModifier;
-				return Modifier.isPublic(method.getModifiers()) && method.parameters().size() == 0 
-						&& isVoid(method.getReturnType2()) && annotation.getTypeName().getFullyQualifiedName().equals("Test");
+				if (Modifier.isPublic(method.getModifiers()) && method.parameters().size() == 0 
+						&& isVoid(method.getReturnType2()) && annotation.getTypeName().getFullyQualifiedName().equals("Test"))
+				    return true;
 			}
 		}
         return false;
