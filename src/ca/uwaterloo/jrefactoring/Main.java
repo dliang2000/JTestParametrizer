@@ -112,13 +112,15 @@ public class Main implements IApplication {
         IJavaProject jProject = null;
 
         for (IProject project : ResourcesPlugin.getWorkspace().getRoot().getProjects()) {
-            if (project.hasNature(JavaCore.NATURE_ID) && project.getName().equals(projectName)) {
+            if (project.getName().contentEquals(projectName)) {
                 if (!project.isOpen()) {
                     project.open(null);
                 }
-                jProject = JavaCore.create(project);
-                log.info("Project " + projectName + " was found in the workspace");
-                break;
+                if (project.hasNature(JavaCore.NATURE_ID)) {
+                    jProject = JavaCore.create(project);
+                    log.info("Project " + projectName + " was found in the workspace");
+                    break;
+                }
             }
         }
         return jProject;
