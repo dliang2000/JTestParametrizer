@@ -444,7 +444,7 @@ public class CLIParser {
 		return getValue("mpass", "");
 	}
 
-	public String getProjectDescritionFile() {
+	public String getProjectDescriptionFile() {
 		return getValue("project-description");
 	}
 
