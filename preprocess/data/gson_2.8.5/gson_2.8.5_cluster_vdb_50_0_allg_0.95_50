@@ -1,0 +1,907 @@
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:36:168 NODE_KIND:153 nVARs:68 NUM_NODE:2622 TBID:98 TEID:1087
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:36:168 NODE_KIND:182 nVARs:68 NUM_NODE:2621 TBID:98 TEID:1087
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:34:118 NODE_KIND:153 nVARs:51 NUM_NODE:2715 TBID:135 TEID:1081
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:34:118 NODE_KIND:182 nVARs:51 NUM_NODE:2714 TBID:135 TEID:1081
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/VersioningTest.java LINE:32:139 NODE_KIND:153 nVARs:59 NUM_NODE:2667 TBID:69 TEID:986
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/VersioningTest.java LINE:32:139 NODE_KIND:182 nVARs:59 NUM_NODE:2666 TBID:69 TEID:986
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:540:11 NODE_KIND:113 nVARs:13 NUM_NODE:135 TBID:3204 TEID:3268
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:552:11 NODE_KIND:113 nVARs:13 NUM_NODE:135 TBID:3269 TEID:3333
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:580:11 NODE_KIND:113 nVARs:13 NUM_NODE:135 TBID:3390 TEID:3454
+000000005	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1720:11 NODE_KIND:113 nVARs:14 NUM_NODE:138 TBID:10098 TEID:10164
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/TestTypes.java LINE:78:9 NODE_KIND:182 nVARs:18 NUM_NODE:141 TBID:304 TEID:367
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/TestTypes.java LINE:87:9 NODE_KIND:182 nVARs:19 NUM_NODE:141 TBID:368 TEID:431
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java LINE:156:13 NODE_KIND:153 nVARs:5 NUM_NODE:132 TBID:305 TEID:357
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java LINE:156:13 NODE_KIND:182 nVARs:5 NUM_NODE:131 TBID:305 TEID:357
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:45:6 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:132 TEID:181
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:59:6 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:233 TEID:282
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:66:6 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:283 TEID:332
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:87:7 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:435 TEID:484
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:128:7 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:686 TEID:735
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:167:10 NODE_KIND:121 nVARs:14 NUM_NODE:140 TBID:973 TEID:1040
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:123:10 NODE_KIND:121 nVARs:14 NUM_NODE:140 TBID:704 TEID:771
+
+000000039	dist:2.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:109:11 NODE_KIND:113 nVARs:15 NUM_NODE:137 TBID:587 TEID:653
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CircularReferenceTest.java LINE:47:11 NODE_KIND:113 nVARs:12 NUM_NODE:138 TBID:140 TEID:204
+
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:81:11 NODE_KIND:182 nVARs:18 NUM_NODE:130 TBID:370 TEID:436
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:116:11 NODE_KIND:182 nVARs:18 NUM_NODE:130 TBID:559 TEID:625
+
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonTreeWriterTest.java LINE:98:9 NODE_KIND:113 nVARs:12 NUM_NODE:129 TBID:479 TEID:542
+000000036	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonTreeWriterTest.java LINE:108:9 NODE_KIND:113 nVARs:12 NUM_NODE:129 TBID:543 TEID:606
+
+000000037	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:61:11 NODE_KIND:121 nVARs:13 NUM_NODE:140 TBID:183 TEID:243
+000000038	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:62:9 NODE_KIND:121 nVARs:13 NUM_NODE:138 TBID:184 TEID:242
+
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:132:10 NODE_KIND:113 nVARs:14 NUM_NODE:129 TBID:701 TEID:762
+000000039	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:109:11 NODE_KIND:113 nVARs:15 NUM_NODE:137 TBID:587 TEID:653
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:33:108 NODE_KIND:153 nVARs:41 NUM_NODE:1161 TBID:63 TEID:567
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:33:108 NODE_KIND:182 nVARs:41 NUM_NODE:1160 TBID:63 TEID:567
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/OverrideCoreTypeAdaptersTest.java LINE:28:50 NODE_KIND:153 nVARs:35 NUM_NODE:1210 TBID:50 TEID:491
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/OverrideCoreTypeAdaptersTest.java LINE:28:50 NODE_KIND:182 nVARs:35 NUM_NODE:1209 TBID:50 TEID:491
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonArrayTest.java LINE:26:77 NODE_KIND:153 nVARs:37 NUM_NODE:1479 TBID:25 TEID:577
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonArrayTest.java LINE:26:77 NODE_KIND:182 nVARs:37 NUM_NODE:1478 TBID:25 TEID:577
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/PrettyPrintingTest.java LINE:39:85 NODE_KIND:153 nVARs:52 NUM_NODE:1452 TBID:115 TEID:664
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/PrettyPrintingTest.java LINE:39:85 NODE_KIND:182 nVARs:52 NUM_NODE:1451 TBID:115 TEID:664
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ParameterizedTypesTest.java LINE:385:80 NODE_KIND:153 nVARs:21 NUM_NODE:1421 TBID:304 TEID:786
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ParameterizedTypesTest.java LINE:385:80 NODE_KIND:182 nVARs:21 NUM_NODE:1420 TBID:304 TEID:786
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonTreeTest.java LINE:20:70 NODE_KIND:153 nVARs:51 NUM_NODE:1436 TBID:88 TEID:581
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonTreeTest.java LINE:20:70 NODE_KIND:182 nVARs:51 NUM_NODE:1435 TBID:88 TEID:581
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonArrayTest.java LINE:29:134 NODE_KIND:153 nVARs:25 NUM_NODE:1973 TBID:32 TEID:753
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonArrayTest.java LINE:29:134 NODE_KIND:182 nVARs:25 NUM_NODE:1972 TBID:32 TEID:753
+
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:82:11 NODE_KIND:113 nVARs:10 NUM_NODE:334 TBID:470 TEID:580
+000000019	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:82:11 NODE_KIND:113 nVARs:10 NUM_NODE:334 TBID:431 TEID:541
+
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:130:15 NODE_KIND:113 nVARs:10 NUM_NODE:348 TBID:871 TEID:996
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:127:15 NODE_KIND:113 nVARs:10 NUM_NODE:348 TBID:832 TEID:957
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:194:14 NODE_KIND:113 nVARs:20 NUM_NODE:336 TBID:804 TEID:923
+000000025	dist:5.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:239:15 NODE_KIND:113 nVARs:22 NUM_NODE:354 TBID:1140 TEID:1264
+
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/GsonTest.java LINE:35:46 NODE_KIND:153 nVARs:36 NUM_NODE:348 TBID:93 TEID:259
+000000029	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/GsonTest.java LINE:35:46 NODE_KIND:182 nVARs:36 NUM_NODE:347 TBID:93 TEID:259
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:40:307 NODE_KIND:153 nVARs:81 NUM_NODE:4314 TBID:100 TEID:1743
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:40:307 NODE_KIND:182 nVARs:81 NUM_NODE:4313 TBID:100 TEID:1743
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ReadersWritersTest.java LINE:42:94 NODE_KIND:153 nVARs:56 NUM_NODE:1675 TBID:132 TEID:775
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ReadersWritersTest.java LINE:42:94 NODE_KIND:182 nVARs:56 NUM_NODE:1674 TBID:132 TEID:775
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:37:121 NODE_KIND:153 nVARs:55 NUM_NODE:1644 TBID:108 TEID:797
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:37:121 NODE_KIND:182 nVARs:55 NUM_NODE:1643 TBID:108 TEID:797
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:34:77 NODE_KIND:153 nVARs:35 NUM_NODE:1609 TBID:98 TEID:644
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:34:77 NODE_KIND:182 nVARs:35 NUM_NODE:1608 TBID:98 TEID:644
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ArrayTest.java LINE:39:230 NODE_KIND:153 nVARs:95 NUM_NODE:4940 TBID:121 TEID:1778
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ArrayTest.java LINE:39:230 NODE_KIND:182 nVARs:95 NUM_NODE:4939 TBID:121 TEID:1778
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:31:217 NODE_KIND:153 nVARs:73 NUM_NODE:5023 TBID:39 TEID:1798
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:31:217 NODE_KIND:182 nVARs:73 NUM_NODE:5022 TBID:39 TEID:1798
+
+
+000000004	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/PrimitiveTypeAdapter.java LINE:32:41 NODE_KIND:113 nVARs:32 NUM_NODE:720 TBID:49 TEID:328
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/PrimitiveTypeAdapter.java LINE:30:44 NODE_KIND:153 nVARs:33 NUM_NODE:730 TBID:45 TEID:329
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/PrimitiveTypeAdapter.java LINE:30:44 NODE_KIND:182 nVARs:33 NUM_NODE:729 TBID:45 TEID:329
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/MoreAsserts.java LINE:29:45 NODE_KIND:153 nVARs:24 NUM_NODE:748 TBID:23 TEID:316
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/MoreAsserts.java LINE:29:45 NODE_KIND:182 nVARs:24 NUM_NODE:747 TBID:23 TEID:316
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/SecurityTest.java LINE:30:57 NODE_KIND:153 nVARs:30 NUM_NODE:725 TBID:47 TEID:323
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/SecurityTest.java LINE:30:57 NODE_KIND:182 nVARs:30 NUM_NODE:724 TBID:47 TEID:323
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/GsonVersionDiagnosticsTest.java LINE:37:60 NODE_KIND:153 nVARs:46 NUM_NODE:738 TBID:95 TEID:411
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/GsonVersionDiagnosticsTest.java LINE:37:60 NODE_KIND:182 nVARs:46 NUM_NODE:737 TBID:95 TEID:411
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/LongSerializationPolicyTest.java LINE:27:38 NODE_KIND:153 nVARs:31 NUM_NODE:748 TBID:14 TEID:304
+000000013	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/LongSerializationPolicyTest.java LINE:27:38 NODE_KIND:182 nVARs:31 NUM_NODE:747 TBID:14 TEID:304
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/EscapingTest.java LINE:32:61 NODE_KIND:153 nVARs:43 NUM_NODE:1341 TBID:61 TEID:517
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/EscapingTest.java LINE:32:61 NODE_KIND:182 nVARs:43 NUM_NODE:1340 TBID:61 TEID:517
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomSerializerTest.java LINE:43:60 NODE_KIND:153 nVARs:44 NUM_NODE:1291 TBID:166 TEID:673
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomSerializerTest.java LINE:43:60 NODE_KIND:182 nVARs:44 NUM_NODE:1290 TBID:166 TEID:673
+
+
+000000067	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:111:8 NODE_KIND:113 nVARs:12 NUM_NODE:157 TBID:625 TEID:689
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:153:9 NODE_KIND:113 nVARs:13 NUM_NODE:159 TBID:720 TEID:785
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:666:11 NODE_KIND:113 nVARs:10 NUM_NODE:148 TBID:3874 TEID:3942
+000000005	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1643:11 NODE_KIND:113 nVARs:11 NUM_NODE:148 TBID:9390 TEID:9458
+
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:74:7 NODE_KIND:113 nVARs:11 NUM_NODE:163 TBID:381 TEID:433
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:82:7 NODE_KIND:113 nVARs:11 NUM_NODE:163 TBID:434 TEID:486
+000000022	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:441:7 NODE_KIND:113 nVARs:11 NUM_NODE:163 TBID:2529 TEID:2581
+000000021	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:404:7 NODE_KIND:113 nVARs:12 NUM_NODE:152 TBID:2330 TEID:2380
+
+000000027	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:395:8 NODE_KIND:113 nVARs:15 NUM_NODE:149 TBID:2499 TEID:2555
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:328:7 NODE_KIND:113 nVARs:12 NUM_NODE:151 TBID:1899 TEID:1955
+
+000000036	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ExclusionStrategyFunctionalTest.java LINE:170:16 NODE_KIND:153 nVARs:6 NUM_NODE:158 TBID:205 TEID:274
+000000037	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ExclusionStrategyFunctionalTest.java LINE:170:16 NODE_KIND:182 nVARs:6 NUM_NODE:157 TBID:205 TEID:274
+
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:50:6 NODE_KIND:113 nVARs:11 NUM_NODE:151 TBID:181 TEID:231
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:57:6 NODE_KIND:113 nVARs:11 NUM_NODE:151 TBID:232 TEID:282
+
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:72:17 NODE_KIND:121 nVARs:17 NUM_NODE:162 TBID:231 TEID:314
+000000044	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:73:15 NODE_KIND:121 nVARs:17 NUM_NODE:160 TBID:232 TEID:313
+
+000000045	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:103:16 NODE_KIND:121 nVARs:16 NUM_NODE:156 TBID:399 TEID:478
+000000046	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:104:14 NODE_KIND:121 nVARs:16 NUM_NODE:154 TBID:400 TEID:477
+
+000000051	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:109:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:574 TEID:631
+000000052	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:116:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:632 TEID:689
+000000053	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:123:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:690 TEID:747
+000000054	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:130:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:748 TEID:805
+000000055	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:137:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:806 TEID:863
+000000056	dist:2.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:144:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:864 TEID:921
+000000057	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:151:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:922 TEID:976
+000000058	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:158:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:977 TEID:1031
+000000059	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:165:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1032 TEID:1086
+000000060	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:172:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1087 TEID:1141
+000000061	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:179:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1142 TEID:1196
+000000062	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:186:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1197 TEID:1251
+
+000000064	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:113:5 NODE_KIND:121 nVARs:10 NUM_NODE:162 TBID:742 TEID:791
+000000063	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:110:5 NODE_KIND:121 nVARs:10 NUM_NODE:162 TBID:703 TEID:752
+
+000000066	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:93:8 NODE_KIND:113 nVARs:12 NUM_NODE:157 TBID:505 TEID:569
+000000067	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:111:8 NODE_KIND:113 nVARs:12 NUM_NODE:157 TBID:625 TEID:689
+
+000000070	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/VersionExclusionStrategyTest.java LINE:31:5 NODE_KIND:113 nVARs:12 NUM_NODE:155 TBID:50 TEID:103
+000000071	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/VersionExclusionStrategyTest.java LINE:37:5 NODE_KIND:113 nVARs:12 NUM_NODE:161 TBID:104 TEID:159
+000000072	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/VersionExclusionStrategyTest.java LINE:43:5 NODE_KIND:113 nVARs:12 NUM_NODE:161 TBID:160 TEID:215
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CircularReferenceTest.java LINE:38:89 NODE_KIND:153 nVARs:55 NUM_NODE:1106 TBID:106 TEID:585
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CircularReferenceTest.java LINE:38:89 NODE_KIND:182 nVARs:55 NUM_NODE:1105 TBID:106 TEID:585
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ParameterizedTypeFixtures.java LINE:36:89 NODE_KIND:153 nVARs:39 NUM_NODE:1053 TBID:23 TEID:429
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ParameterizedTypeFixtures.java LINE:36:89 NODE_KIND:182 nVARs:39 NUM_NODE:1052 TBID:23 TEID:429
+
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeVariableTest.java LINE:131:9 NODE_KIND:153 nVARs:7 NUM_NODE:110 TBID:90 TEID:140
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeVariableTest.java LINE:131:9 NODE_KIND:182 nVARs:7 NUM_NODE:109 TBID:90 TEID:140
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:431:8 NODE_KIND:182 nVARs:15 NUM_NODE:108 TBID:2719 TEID:2768
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NullObjectAndFieldTest.java LINE:194:8 NODE_KIND:182 nVARs:16 NUM_NODE:108 TBID:1014 TEID:1063
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:148:9 NODE_KIND:182 nVARs:13 NUM_NODE:112 TBID:851 TEID:910
+000000012	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:111:9 NODE_KIND:182 nVARs:14 NUM_NODE:112 TBID:614 TEID:673
+000000013	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:151:9 NODE_KIND:182 nVARs:14 NUM_NODE:112 TBID:830 TEID:889
+000000014	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:170:9 NODE_KIND:182 nVARs:14 NUM_NODE:114 TBID:921 TEID:981
+000000015	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:180:9 NODE_KIND:182 nVARs:14 NUM_NODE:114 TBID:982 TEID:1042
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:123:8 NODE_KIND:113 nVARs:14 NUM_NODE:104 TBID:890 TEID:943
+000000019	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:132:8 NODE_KIND:113 nVARs:14 NUM_NODE:106 TBID:944 TEID:999
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonArrayTest.java LINE:26:77 NODE_KIND:153 nVARs:37 NUM_NODE:1479 TBID:25 TEID:577
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonArrayTest.java LINE:26:77 NODE_KIND:182 nVARs:37 NUM_NODE:1478 TBID:25 TEID:577
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/StringTest.java LINE:13:128 NODE_KIND:153 nVARs:38 NUM_NODE:2101 TBID:25 TEID:740
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/StringTest.java LINE:13:128 NODE_KIND:182 nVARs:38 NUM_NODE:2100 TBID:25 TEID:740
+
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:347:10 NODE_KIND:113 nVARs:16 NUM_NODE:214 TBID:2075 TEID:2159
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:358:10 NODE_KIND:113 nVARs:16 NUM_NODE:214 TBID:2160 TEID:2244
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/MoreAsserts.java LINE:31:9 NODE_KIND:113 nVARs:7 NUM_NODE:210 TBID:27 TEID:104
+000000011	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/MoreAsserts.java LINE:41:9 NODE_KIND:113 nVARs:8 NUM_NODE:212 TBID:105 TEID:182
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/MapTest.java LINE:637:12 NODE_KIND:153 nVARs:14 NUM_NODE:203 TBID:706 TEID:807
+000000019	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/MapTest.java LINE:637:12 NODE_KIND:182 nVARs:14 NUM_NODE:202 TBID:706 TEID:807
+
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:38:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:124 TEID:188
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:46:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:189 TEID:253
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:80:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:462 TEID:526
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:228:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:1243 TEID:1307
+000000038	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:93:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:437 TEID:501
+
+000000044	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:40:12 NODE_KIND:113 nVARs:10 NUM_NODE:208 TBID:190 TEID:279
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:40:12 NODE_KIND:113 nVARs:10 NUM_NODE:208 TBID:151 TEID:240
+
+000000050	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/LongSerializationPolicyTest.java LINE:39:7 NODE_KIND:113 nVARs:11 NUM_NODE:201 TBID:88 TEID:161
+000000051	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/LongSerializationPolicyTest.java LINE:57:7 NODE_KIND:113 nVARs:11 NUM_NODE:201 TBID:230 TEID:303
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InheritanceTest.java LINE:48:230 NODE_KIND:153 nVARs:92 NUM_NODE:4076 TBID:199 TEID:1735
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InheritanceTest.java LINE:48:230 NODE_KIND:182 nVARs:92 NUM_NODE:4075 TBID:199 TEID:1735
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:40:307 NODE_KIND:153 nVARs:81 NUM_NODE:4314 TBID:100 TEID:1743
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:40:307 NODE_KIND:182 nVARs:81 NUM_NODE:4313 TBID:100 TEID:1743
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderPathTest.java LINE:33:214 NODE_KIND:153 nVARs:48 NUM_NODE:3489 TBID:115 TEID:1606
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderPathTest.java LINE:33:214 NODE_KIND:182 nVARs:48 NUM_NODE:3488 TBID:115 TEID:1606
+
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ObjectTypeAdapterTest.java LINE:25:39 NODE_KIND:153 nVARs:36 NUM_NODE:849 TBID:42 TEID:345
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ObjectTypeAdapterTest.java LINE:25:39 NODE_KIND:182 nVARs:36 NUM_NODE:848 TBID:42 TEID:345
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldNamingTest.java LINE:31:59 NODE_KIND:153 nVARs:34 NUM_NODE:861 TBID:114 TEID:406
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldNamingTest.java LINE:31:59 NODE_KIND:182 nVARs:34 NUM_NODE:860 TBID:114 TEID:406
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldExclusionTest.java LINE:31:62 NODE_KIND:153 nVARs:24 NUM_NODE:858 TBID:34 TEID:380
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldExclusionTest.java LINE:31:62 NODE_KIND:182 nVARs:24 NUM_NODE:857 TBID:34 TEID:380
+
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilTest.java LINE:29:34 NODE_KIND:153 nVARs:25 NUM_NODE:581 TBID:39 TEID:242
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilTest.java LINE:29:34 NODE_KIND:182 nVARs:25 NUM_NODE:580 TBID:39 TEID:242
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/VersionExclusionStrategyTest.java LINE:28:28 NODE_KIND:153 nVARs:19 NUM_NODE:577 TBID:36 TEID:239
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/VersionExclusionStrategyTest.java LINE:28:28 NODE_KIND:182 nVARs:19 NUM_NODE:576 TBID:36 TEID:239
+
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:72:11 NODE_KIND:113 nVARs:11 NUM_NODE:121 TBID:323 TEID:382
+000000002	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:322:8 NODE_KIND:113 nVARs:11 NUM_NODE:117 TBID:1746 TEID:1800
+
+000000018	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:301:11 NODE_KIND:113 nVARs:14 NUM_NODE:115 TBID:1779 TEID:1841
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:601:12 NODE_KIND:113 nVARs:13 NUM_NODE:118 TBID:3300 TEID:3364
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:614:12 NODE_KIND:113 nVARs:13 NUM_NODE:118 TBID:3365 TEID:3429
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:148:9 NODE_KIND:182 nVARs:13 NUM_NODE:112 TBID:851 TEID:910
+000000011	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:111:9 NODE_KIND:182 nVARs:14 NUM_NODE:112 TBID:614 TEID:673
+000000012	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:151:9 NODE_KIND:182 nVARs:14 NUM_NODE:112 TBID:830 TEID:889
+000000013	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:170:9 NODE_KIND:182 nVARs:14 NUM_NODE:114 TBID:921 TEID:981
+000000014	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:180:9 NODE_KIND:182 nVARs:14 NUM_NODE:114 TBID:982 TEID:1042
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/LeniencyTest.java LINE:29:18 NODE_KIND:153 nVARs:11 NUM_NODE:80 TBID:62 TEID:112
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/LeniencyTest.java LINE:29:18 NODE_KIND:182 nVARs:11 NUM_NODE:79 TBID:62 TEID:112
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonObjectTest.java LINE:28:174 NODE_KIND:153 nVARs:67 NUM_NODE:2892 TBID:25 TEID:1071
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonObjectTest.java LINE:28:174 NODE_KIND:182 nVARs:67 NUM_NODE:2891 TBID:25 TEID:1071
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:42:222 NODE_KIND:153 nVARs:93 NUM_NODE:3070 TBID:182 TEID:1485
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:42:222 NODE_KIND:182 nVARs:93 NUM_NODE:3069 TBID:182 TEID:1485
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NullObjectAndFieldTest.java LINE:42:199 NODE_KIND:153 nVARs:83 NUM_NODE:3068 TBID:139 TEID:1298
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NullObjectAndFieldTest.java LINE:42:199 NODE_KIND:182 nVARs:83 NUM_NODE:3067 TBID:139 TEID:1298
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:30:210 NODE_KIND:153 nVARs:76 NUM_NODE:3072 TBID:91 TEID:1303
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:30:210 NODE_KIND:182 nVARs:76 NUM_NODE:3071 TBID:91 TEID:1303
+
+
+000000008	dist:2.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:270:10 NODE_KIND:113 nVARs:10 NUM_NODE:102 TBID:1659 TEID:1710
+000000009	dist:2.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:281:10 NODE_KIND:113 nVARs:10 NUM_NODE:102 TBID:1711 TEID:1762
+000000007	dist:2.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:259:10 NODE_KIND:113 nVARs:11 NUM_NODE:102 TBID:1607 TEID:1658
+000000010	dist:2.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:325:10 NODE_KIND:113 nVARs:11 NUM_NODE:102 TBID:1971 TEID:2022
+000000011	dist:2.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:336:10 NODE_KIND:113 nVARs:11 NUM_NODE:102 TBID:2023 TEID:2074
+000000012	dist:2.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:369:10 NODE_KIND:113 nVARs:11 NUM_NODE:102 TBID:2245 TEID:2296
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:96:10 NODE_KIND:113 nVARs:11 NUM_NODE:102 TBID:442 TEID:494
+000000004	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:142:10 NODE_KIND:113 nVARs:11 NUM_NODE:102 TBID:667 TEID:719
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:107:10 NODE_KIND:113 nVARs:11 NUM_NODE:96 TBID:495 TEID:550
+000000003	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:130:11 NODE_KIND:113 nVARs:11 NUM_NODE:99 TBID:609 TEID:666
+000000005	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:561:11 NODE_KIND:113 nVARs:11 NUM_NODE:99 TBID:3118 TEID:3175
+000000002	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:118:11 NODE_KIND:113 nVARs:12 NUM_NODE:99 TBID:551 TEID:608
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:123:8 NODE_KIND:113 nVARs:14 NUM_NODE:104 TBID:890 TEID:943
+000000019	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:132:8 NODE_KIND:113 nVARs:14 NUM_NODE:106 TBID:944 TEID:999
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/UnsafeAllocatorInstantiationTest.java LINE:39:9 NODE_KIND:113 nVARs:12 NUM_NODE:101 TBID:41 TEID:92
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/UnsafeAllocatorInstantiationTest.java LINE:53:9 NODE_KIND:113 nVARs:12 NUM_NODE:101 TBID:93 TEID:144
+
+
+000000003	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:107:11 NODE_KIND:113 nVARs:12 NUM_NODE:185 TBID:678 TEID:757
+000000004	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:136:11 NODE_KIND:113 nVARs:12 NUM_NODE:185 TBID:890 TEID:969
+000000005	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:148:11 NODE_KIND:113 nVARs:12 NUM_NODE:185 TBID:970 TEID:1049
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:163:11 NODE_KIND:113 nVARs:13 NUM_NODE:185 TBID:786 TEID:862
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/TestTypes.java LINE:212:17 NODE_KIND:113 nVARs:9 NUM_NODE:196 TBID:1069 TEID:1146
+000000010	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/TestTypes.java LINE:334:14 NODE_KIND:113 nVARs:10 NUM_NODE:192 TBID:1650 TEID:1724
+
+000000037	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InheritanceTest.java LINE:57:5 NODE_KIND:113 nVARs:9 NUM_NODE:192 TBID:233 TEID:288
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:145:5 NODE_KIND:113 nVARs:9 NUM_NODE:192 TBID:871 TEID:926
+
+000000026	dist:3.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:374:11 NODE_KIND:113 nVARs:15 NUM_NODE:192 TBID:2367 TEID:2437
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:336:11 NODE_KIND:113 nVARs:16 NUM_NODE:186 TBID:2123 TEID:2196
+000000053	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:28:9 NODE_KIND:113 nVARs:14 NUM_NODE:189 TBID:66 TEID:141
+000000054	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:75:9 NODE_KIND:113 nVARs:14 NUM_NODE:189 TBID:375 TEID:450
+
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:165:14 NODE_KIND:182 nVARs:21 NUM_NODE:190 TBID:943 TEID:1042
+000000034	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:121:14 NODE_KIND:182 nVARs:21 NUM_NODE:190 TBID:674 TEID:773
+
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/EscapingTest.java LINE:49:11 NODE_KIND:113 nVARs:9 NUM_NODE:194 TBID:163 TEID:237
+000000052	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:120:9 NODE_KIND:113 nVARs:10 NUM_NODE:192 TBID:793 TEID:870
+000000050	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:117:9 NODE_KIND:113 nVARs:10 NUM_NODE:192 TBID:754 TEID:831
+
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:38:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:124 TEID:188
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:46:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:189 TEID:253
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:80:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:462 TEID:526
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:228:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:1243 TEID:1307
+000000045	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:93:7 NODE_KIND:113 nVARs:13 NUM_NODE:195 TBID:437 TEID:501
+
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java LINE:15:8 NODE_KIND:113 nVARs:12 NUM_NODE:182 TBID:65 TEID:124
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java LINE:41:8 NODE_KIND:113 nVARs:12 NUM_NODE:182 TBID:252 TEID:311
+
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/DefaultTypeAdaptersTest.java LINE:715:16 NODE_KIND:153 nVARs:20 NUM_NODE:185 TBID:773 TEID:862
+000000044	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/DefaultTypeAdaptersTest.java LINE:715:16 NODE_KIND:182 nVARs:20 NUM_NODE:184 TBID:773 TEID:862
+
+000000051	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:108:4 NODE_KIND:121 nVARs:11 NUM_NODE:189 TBID:683 TEID:741
+000000049	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:105:4 NODE_KIND:121 nVARs:11 NUM_NODE:189 TBID:644 TEID:702
+
+000000058	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonParserTest.java LINE:58:7 NODE_KIND:113 nVARs:14 NUM_NODE:186 TBID:224 TEID:294
+000000059	dist:3.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonParserTest.java LINE:100:7 NODE_KIND:113 nVARs:14 NUM_NODE:199 TBID:502 TEID:576
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1113:35 NODE_KIND:113 nVARs:10 NUM_NODE:364 TBID:6240 TEID:6419
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1180:35 NODE_KIND:113 nVARs:10 NUM_NODE:364 TBID:6624 TEID:6803
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderPathTest.java LINE:221:19 NODE_KIND:113 nVARs:11 NUM_NODE:367 TBID:1431 TEID:1587
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderPathTest.java LINE:201:19 NODE_KIND:113 nVARs:13 NUM_NODE:367 TBID:1274 TEID:1430
+
+000000014	dist:5.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:98:25 NODE_KIND:113 nVARs:26 NUM_NODE:379 TBID:337 TEID:500
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:67:26 NODE_KIND:113 nVARs:27 NUM_NODE:385 TBID:169 TEID:336
+
+000000019	dist:2.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:166:17 NODE_KIND:121 nVARs:16 NUM_NODE:367 TBID:675 TEID:802
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:165:19 NODE_KIND:113 nVARs:17 NUM_NODE:374 TBID:669 TEID:803
+
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonStreamParserTest.java LINE:27:48 NODE_KIND:153 nVARs:23 NUM_NODE:623 TBID:21 TEID:309
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonStreamParserTest.java LINE:27:48 NODE_KIND:182 nVARs:23 NUM_NODE:622 TBID:21 TEID:309
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/GsonBuilderTest.java LINE:32:56 NODE_KIND:153 nVARs:43 NUM_NODE:642 TBID:54 TEID:331
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/GsonBuilderTest.java LINE:32:56 NODE_KIND:182 nVARs:43 NUM_NODE:641 TBID:54 TEID:331
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JavaSerializationTest.java LINE:37:39 NODE_KIND:153 nVARs:41 NUM_NODE:640 TBID:97 TEID:336
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JavaSerializationTest.java LINE:37:39 NODE_KIND:182 nVARs:41 NUM_NODE:639 TBID:97 TEID:336
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ObjectTypeAdapterTest.java LINE:25:39 NODE_KIND:153 nVARs:36 NUM_NODE:849 TBID:42 TEID:345
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ObjectTypeAdapterTest.java LINE:25:39 NODE_KIND:182 nVARs:36 NUM_NODE:848 TBID:42 TEID:345
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldNamingTest.java LINE:31:59 NODE_KIND:153 nVARs:34 NUM_NODE:861 TBID:114 TEID:406
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldNamingTest.java LINE:31:59 NODE_KIND:182 nVARs:34 NUM_NODE:860 TBID:114 TEID:406
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InstanceCreatorTest.java LINE:41:56 NODE_KIND:153 nVARs:36 NUM_NODE:809 TBID:130 TEID:461
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InstanceCreatorTest.java LINE:41:56 NODE_KIND:182 nVARs:36 NUM_NODE:808 TBID:130 TEID:461
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/DelegateTypeAdapterTest.java LINE:38:57 NODE_KIND:153 nVARs:43 NUM_NODE:833 TBID:119 TEID:443
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/DelegateTypeAdapterTest.java LINE:38:57 NODE_KIND:182 nVARs:43 NUM_NODE:832 TBID:119 TEID:443
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldExclusionTest.java LINE:31:62 NODE_KIND:153 nVARs:24 NUM_NODE:858 TBID:34 TEID:380
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldExclusionTest.java LINE:31:62 NODE_KIND:182 nVARs:24 NUM_NODE:857 TBID:34 TEID:380
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/RawSerializationTest.java LINE:31:71 NODE_KIND:153 nVARs:30 NUM_NODE:801 TBID:50 TEID:344
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/RawSerializationTest.java LINE:31:71 NODE_KIND:182 nVARs:30 NUM_NODE:800 TBID:50 TEID:344
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/JavaVersionTest.java LINE:29:53 NODE_KIND:153 nVARs:12 NUM_NODE:825 TBID:37 TEID:314
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/JavaVersionTest.java LINE:29:53 NODE_KIND:182 nVARs:12 NUM_NODE:824 TBID:37 TEID:314
+
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultMapJsonSerializerTest.java LINE:31:34 NODE_KIND:153 nVARs:28 NUM_NODE:533 TBID:48 TEID:250
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultMapJsonSerializerTest.java LINE:31:34 NODE_KIND:182 nVARs:28 NUM_NODE:532 TBID:48 TEID:250
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InternationalizationTest.java LINE:28:44 NODE_KIND:153 nVARs:19 NUM_NODE:522 TBID:25 TEID:213
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InternationalizationTest.java LINE:28:44 NODE_KIND:182 nVARs:19 NUM_NODE:521 TBID:25 TEID:213
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/SerializedNameTest.java LINE:23:31 NODE_KIND:153 nVARs:14 NUM_NODE:516 TBID:36 TEID:209
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/SerializedNameTest.java LINE:23:31 NODE_KIND:182 nVARs:14 NUM_NODE:515 TBID:36 TEID:209
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/GsonTypesTest.java LINE:25:50 NODE_KIND:153 nVARs:25 NUM_NODE:514 TBID:41 TEID:235
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/GsonTypesTest.java LINE:25:50 NODE_KIND:182 nVARs:25 NUM_NODE:513 TBID:41 TEID:235
+
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InterfaceTest.java LINE:29:44 NODE_KIND:153 nVARs:21 NUM_NODE:409 TBID:25 TEID:200
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InterfaceTest.java LINE:29:44 NODE_KIND:182 nVARs:21 NUM_NODE:408 TBID:25 TEID:200
+
+000000014	dist:5.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:98:25 NODE_KIND:113 nVARs:26 NUM_NODE:379 TBID:337 TEID:500
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:67:26 NODE_KIND:113 nVARs:27 NUM_NODE:385 TBID:169 TEID:336
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/InnerClassExclusionStrategyTest.java LINE:28:31 NODE_KIND:153 nVARs:24 NUM_NODE:395 TBID:34 TEID:189
+000000021	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/InnerClassExclusionStrategyTest.java LINE:28:31 NODE_KIND:182 nVARs:24 NUM_NODE:394 TBID:34 TEID:189
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonObjectTest.java LINE:28:174 NODE_KIND:153 nVARs:67 NUM_NODE:2892 TBID:25 TEID:1071
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonObjectTest.java LINE:28:174 NODE_KIND:182 nVARs:67 NUM_NODE:2891 TBID:25 TEID:1071
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:34:118 NODE_KIND:153 nVARs:51 NUM_NODE:2715 TBID:135 TEID:1081
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:34:118 NODE_KIND:182 nVARs:51 NUM_NODE:2714 TBID:135 TEID:1081
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/VersioningTest.java LINE:32:139 NODE_KIND:153 nVARs:59 NUM_NODE:2667 TBID:69 TEID:986
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/VersioningTest.java LINE:32:139 NODE_KIND:182 nVARs:59 NUM_NODE:2666 TBID:69 TEID:986
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java LINE:11:55 NODE_KIND:153 nVARs:29 NUM_NODE:1132 TBID:43 TEID:433
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java LINE:11:55 NODE_KIND:182 nVARs:29 NUM_NODE:1131 TBID:43 TEID:433
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CircularReferenceTest.java LINE:38:89 NODE_KIND:153 nVARs:55 NUM_NODE:1106 TBID:106 TEID:585
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CircularReferenceTest.java LINE:38:89 NODE_KIND:182 nVARs:55 NUM_NODE:1105 TBID:106 TEID:585
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:33:108 NODE_KIND:153 nVARs:41 NUM_NODE:1161 TBID:63 TEID:567
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:33:108 NODE_KIND:182 nVARs:41 NUM_NODE:1160 TBID:63 TEID:567
+
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ParameterizedTypeTest.java LINE:34:24 NODE_KIND:153 nVARs:19 NUM_NODE:250 TBID:23 TEID:132
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ParameterizedTypeTest.java LINE:34:24 NODE_KIND:182 nVARs:19 NUM_NODE:249 TBID:23 TEID:132
+
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldExclusionTest.java LINE:42:11 NODE_KIND:113 nVARs:15 NUM_NODE:252 TBID:76 TEID:167
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/FieldExclusionTest.java LINE:61:11 NODE_KIND:113 nVARs:15 NUM_NODE:252 TBID:223 TEID:314
+
+000000049	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:217:22 NODE_KIND:182 nVARs:9 NUM_NODE:241 TBID:1205 TEID:1302
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/StreamingTypeAdaptersTest.java LINE:218:17 NODE_KIND:153 nVARs:9 NUM_NODE:238 TBID:219 TEID:310
+
+000000038	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonNullTest.java LINE:25:16 NODE_KIND:153 nVARs:12 NUM_NODE:256 TBID:25 TEID:134
+000000039	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonNullTest.java LINE:25:16 NODE_KIND:182 nVARs:12 NUM_NODE:255 TBID:25 TEID:134
+
+000000042	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:31:8 NODE_KIND:113 nVARs:8 NUM_NODE:239 TBID:108 TEID:189
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:31:8 NODE_KIND:113 nVARs:8 NUM_NODE:239 TBID:69 TEID:150
+
+000000044	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultInetAddressTypeAdapterTest.java LINE:28:18 NODE_KIND:153 nVARs:17 NUM_NODE:241 TBID:21 TEID:112
+000000045	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultInetAddressTypeAdapterTest.java LINE:28:18 NODE_KIND:182 nVARs:17 NUM_NODE:240 TBID:21 TEID:112
+
+000000046	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ParameterizedTypeFixtures.java LINE:58:18 NODE_KIND:121 nVARs:16 NUM_NODE:258 TBID:151 TEID:251
+000000047	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ParameterizedTypeFixtures.java LINE:60:15 NODE_KIND:121 nVARs:16 NUM_NODE:256 TBID:152 TEID:250
+
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:35:10 NODE_KIND:113 nVARs:13 NUM_NODE:322 TBID:142 TEID:242
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:105:10 NODE_KIND:113 nVARs:14 NUM_NODE:322 TBID:765 TEID:865
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/UnsafeAllocatorInstantiationTest.java LINE:24:51 NODE_KIND:153 nVARs:18 NUM_NODE:315 TBID:16 TEID:184
+000000022	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/UnsafeAllocatorInstantiationTest.java LINE:24:51 NODE_KIND:182 nVARs:18 NUM_NODE:314 TBID:16 TEID:184
+
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:82:11 NODE_KIND:113 nVARs:10 NUM_NODE:334 TBID:470 TEID:580
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:82:11 NODE_KIND:113 nVARs:10 NUM_NODE:334 TBID:431 TEID:541
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonParserTest.java LINE:34:93 NODE_KIND:153 nVARs:64 NUM_NODE:1816 TBID:70 TEID:759
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonParserTest.java LINE:34:93 NODE_KIND:182 nVARs:64 NUM_NODE:1815 TBID:70 TEID:759
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomDeserializerTest.java LINE:39:102 NODE_KIND:153 nVARs:56 NUM_NODE:1262 TBID:114 TEID:632
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomDeserializerTest.java LINE:39:102 NODE_KIND:182 nVARs:56 NUM_NODE:1261 TBID:114 TEID:632
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomSerializerTest.java LINE:43:60 NODE_KIND:153 nVARs:44 NUM_NODE:1291 TBID:166 TEID:673
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomSerializerTest.java LINE:43:60 NODE_KIND:182 nVARs:44 NUM_NODE:1290 TBID:166 TEID:673
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeHierarchyAdapterTest.java LINE:35:187 NODE_KIND:153 nVARs:57 NUM_NODE:3240 TBID:115 TEID:1246
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeHierarchyAdapterTest.java LINE:35:187 NODE_KIND:182 nVARs:57 NUM_NODE:3239 TBID:115 TEID:1246
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1735:29 NODE_KIND:121 nVARs:26 NUM_NODE:462 TBID:10205 TEID:10400
+000000002	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1736:27 NODE_KIND:121 nVARs:26 NUM_NODE:460 TBID:10206 TEID:10399
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:104:15 NODE_KIND:113 nVARs:21 NUM_NODE:462 TBID:637 TEID:792
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:101:15 NODE_KIND:113 nVARs:21 NUM_NODE:462 TBID:598 TEID:753
+
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InterfaceTest.java LINE:29:44 NODE_KIND:153 nVARs:21 NUM_NODE:409 TBID:25 TEID:200
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InterfaceTest.java LINE:29:44 NODE_KIND:182 nVARs:21 NUM_NODE:408 TBID:25 TEID:200
+
+
+000000014	dist:3.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderPathTest.java LINE:183:10 NODE_KIND:113 nVARs:12 NUM_NODE:175 TBID:1152 TEID:1229
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:107:11 NODE_KIND:113 nVARs:12 NUM_NODE:185 TBID:678 TEID:757
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:136:11 NODE_KIND:113 nVARs:12 NUM_NODE:185 TBID:890 TEID:969
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:148:11 NODE_KIND:113 nVARs:12 NUM_NODE:185 TBID:970 TEID:1049
+
+000000012	dist:3.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1227:10 NODE_KIND:113 nVARs:14 NUM_NODE:172 TBID:6857 TEID:6932
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:451:13 NODE_KIND:113 nVARs:15 NUM_NODE:175 TBID:2734 TEID:2815
+
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonObjectTest.java LINE:46:11 NODE_KIND:113 nVARs:14 NUM_NODE:181 TBID:140 TEID:204
+000000016	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonObjectTest.java LINE:69:11 NODE_KIND:113 nVARs:14 NUM_NODE:181 TBID:270 TEID:334
+
+000000038	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:237:7 NODE_KIND:113 nVARs:11 NUM_NODE:179 TBID:1308 TEID:1366
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:95:6 NODE_KIND:113 nVARs:11 NUM_NODE:177 TBID:527 TEID:584
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:429:8 NODE_KIND:113 nVARs:10 NUM_NODE:176 TBID:2468 TEID:2528
+000000041	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java LINE:15:8 NODE_KIND:113 nVARs:12 NUM_NODE:182 TBID:65 TEID:124
+000000042	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java LINE:41:8 NODE_KIND:113 nVARs:12 NUM_NODE:182 TBID:252 TEID:311
+
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:62:7 NODE_KIND:113 nVARs:11 NUM_NODE:179 TBID:320 TEID:378
+000000038	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:237:7 NODE_KIND:113 nVARs:11 NUM_NODE:179 TBID:1308 TEID:1366
+000000041	dist:3.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java LINE:15:8 NODE_KIND:113 nVARs:12 NUM_NODE:182 TBID:65 TEID:124
+000000042	dist:3.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java LINE:41:8 NODE_KIND:113 nVARs:12 NUM_NODE:182 TBID:252 TEID:311
+
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:166:12 NODE_KIND:113 nVARs:19 NUM_NODE:176 TBID:950 TEID:1041
+000000036	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:122:12 NODE_KIND:113 nVARs:19 NUM_NODE:176 TBID:681 TEID:772
+
+000000043	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomDeserializerTest.java LINE:59:7 NODE_KIND:113 nVARs:16 NUM_NODE:179 TBID:235 TEID:297
+000000037	dist:2.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:207:10 NODE_KIND:113 nVARs:12 NUM_NODE:178 TBID:1148 TEID:1208
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NullObjectAndFieldTest.java LINE:121:8 NODE_KIND:113 nVARs:15 NUM_NODE:177 TBID:575 TEID:638
+
+000000044	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/DefaultTypeAdaptersTest.java LINE:715:16 NODE_KIND:153 nVARs:20 NUM_NODE:185 TBID:773 TEID:862
+000000045	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/DefaultTypeAdaptersTest.java LINE:715:16 NODE_KIND:182 nVARs:20 NUM_NODE:184 TBID:773 TEID:862
+
+
+000000018	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:108:15 NODE_KIND:113 nVARs:23 NUM_NODE:294 TBID:601 TEID:712
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:89:15 NODE_KIND:113 nVARs:24 NUM_NODE:291 TBID:491 TEID:600
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:74:9 NODE_KIND:113 nVARs:12 NUM_NODE:280 TBID:355 TEID:441
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:84:9 NODE_KIND:113 nVARs:12 NUM_NODE:280 TBID:442 TEID:528
+
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:55:9 NODE_KIND:113 nVARs:14 NUM_NODE:279 TBID:320 TEID:408
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:65:9 NODE_KIND:113 nVARs:14 NUM_NODE:279 TBID:409 TEID:497
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:95:9 NODE_KIND:113 nVARs:14 NUM_NODE:279 TBID:676 TEID:764
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:75:9 NODE_KIND:113 nVARs:15 NUM_NODE:279 TBID:498 TEID:586
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:85:9 NODE_KIND:113 nVARs:15 NUM_NODE:279 TBID:587 TEID:675
+
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/MapAsArrayTypeAdapterTest.java LINE:119:18 NODE_KIND:153 nVARs:10 NUM_NODE:277 TBID:120 TEID:231
+000000032	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/MapAsArrayTypeAdapterTest.java LINE:119:18 NODE_KIND:182 nVARs:10 NUM_NODE:276 TBID:120 TEID:231
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:209:11 NODE_KIND:113 nVARs:17 NUM_NODE:284 TBID:924 TEID:1020
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:255:11 NODE_KIND:113 nVARs:17 NUM_NODE:284 TBID:1265 TEID:1361
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:36:1752 NODE_KIND:153 nVARs:209 NUM_NODE:24431 TBID:177 TEID:10419
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:36:1752 NODE_KIND:182 nVARs:209 NUM_NODE:24430 TBID:177 TEID:10419
+
+
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeHierarchyAdapterTest.java LINE:35:187 NODE_KIND:153 nVARs:57 NUM_NODE:3240 TBID:115 TEID:1246
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeHierarchyAdapterTest.java LINE:35:187 NODE_KIND:182 nVARs:57 NUM_NODE:3239 TBID:115 TEID:1246
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:42:222 NODE_KIND:153 nVARs:93 NUM_NODE:3070 TBID:182 TEID:1485
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:42:222 NODE_KIND:182 nVARs:93 NUM_NODE:3069 TBID:182 TEID:1485
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NullObjectAndFieldTest.java LINE:42:199 NODE_KIND:153 nVARs:83 NUM_NODE:3068 TBID:139 TEID:1298
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NullObjectAndFieldTest.java LINE:42:199 NODE_KIND:182 nVARs:83 NUM_NODE:3067 TBID:139 TEID:1298
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:30:210 NODE_KIND:153 nVARs:76 NUM_NODE:3072 TBID:91 TEID:1303
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:30:210 NODE_KIND:182 nVARs:76 NUM_NODE:3071 TBID:91 TEID:1303
+
+
+000000003	dist:5.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1735:29 NODE_KIND:121 nVARs:26 NUM_NODE:462 TBID:10205 TEID:10400
+000000004	dist:6.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1736:27 NODE_KIND:121 nVARs:26 NUM_NODE:460 TBID:10206 TEID:10399
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1735:29 NODE_KIND:121 nVARs:28 NUM_NODE:482 TBID:10198 TEID:10400
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/PrimitiveCharacterTest.java LINE:29:27 NODE_KIND:153 nVARs:15 NUM_NODE:467 TBID:25 TEID:183
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/PrimitiveCharacterTest.java LINE:29:27 NODE_KIND:182 nVARs:15 NUM_NODE:466 TBID:25 TEID:183
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:104:15 NODE_KIND:113 nVARs:21 NUM_NODE:462 TBID:637 TEID:792
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:101:15 NODE_KIND:113 nVARs:21 NUM_NODE:462 TBID:598 TEID:753
+
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/MapTest.java LINE:615:21 NODE_KIND:153 nVARs:10 NUM_NODE:271 TBID:599 TEID:705
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/MapTest.java LINE:615:21 NODE_KIND:182 nVARs:10 NUM_NODE:270 TBID:599 TEID:705
+
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:74:9 NODE_KIND:113 nVARs:12 NUM_NODE:280 TBID:355 TEID:441
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:84:9 NODE_KIND:113 nVARs:12 NUM_NODE:280 TBID:442 TEID:528
+
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:55:9 NODE_KIND:113 nVARs:14 NUM_NODE:279 TBID:320 TEID:408
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:65:9 NODE_KIND:113 nVARs:14 NUM_NODE:279 TBID:409 TEID:497
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:95:9 NODE_KIND:113 nVARs:14 NUM_NODE:279 TBID:676 TEID:764
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:75:9 NODE_KIND:113 nVARs:15 NUM_NODE:279 TBID:498 TEID:586
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java LINE:85:9 NODE_KIND:113 nVARs:15 NUM_NODE:279 TBID:587 TEID:675
+
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/MapAsArrayTypeAdapterTest.java LINE:119:18 NODE_KIND:153 nVARs:10 NUM_NODE:277 TBID:120 TEID:231
+000000036	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/MapAsArrayTypeAdapterTest.java LINE:119:18 NODE_KIND:182 nVARs:10 NUM_NODE:276 TBID:120 TEID:231
+
+000000038	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomSerializerTest.java LINE:45:10 NODE_KIND:113 nVARs:22 NUM_NODE:268 TBID:172 TEID:273
+000000039	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomSerializerTest.java LINE:56:10 NODE_KIND:113 nVARs:22 NUM_NODE:268 TBID:274 TEID:375
+
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonNullTest.java LINE:25:16 NODE_KIND:153 nVARs:12 NUM_NODE:256 TBID:25 TEID:134
+000000041	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonNullTest.java LINE:25:16 NODE_KIND:182 nVARs:12 NUM_NODE:255 TBID:25 TEID:134
+
+000000044	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ParameterizedTypeFixtures.java LINE:58:18 NODE_KIND:121 nVARs:16 NUM_NODE:258 TBID:151 TEID:251
+000000045	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/ParameterizedTypeFixtures.java LINE:60:15 NODE_KIND:121 nVARs:16 NUM_NODE:256 TBID:152 TEID:250
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultDateTypeAdapterTest.java LINE:35:169 NODE_KIND:153 nVARs:63 NUM_NODE:3822 TBID:67 TEID:1353
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultDateTypeAdapterTest.java LINE:35:169 NODE_KIND:182 nVARs:63 NUM_NODE:3821 TBID:67 TEID:1353
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:37:270 NODE_KIND:153 nVARs:79 NUM_NODE:3989 TBID:117 TEID:1775
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:37:270 NODE_KIND:182 nVARs:79 NUM_NODE:3988 TBID:117 TEID:1775
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InheritanceTest.java LINE:48:230 NODE_KIND:153 nVARs:92 NUM_NODE:4076 TBID:199 TEID:1735
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InheritanceTest.java LINE:48:230 NODE_KIND:182 nVARs:92 NUM_NODE:4075 TBID:199 TEID:1735
+
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InternationalizationTest.java LINE:28:44 NODE_KIND:153 nVARs:19 NUM_NODE:522 TBID:25 TEID:213
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InternationalizationTest.java LINE:28:44 NODE_KIND:182 nVARs:19 NUM_NODE:521 TBID:25 TEID:213
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/SerializedNameTest.java LINE:23:31 NODE_KIND:153 nVARs:14 NUM_NODE:516 TBID:36 TEID:209
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/SerializedNameTest.java LINE:23:31 NODE_KIND:182 nVARs:14 NUM_NODE:515 TBID:36 TEID:209
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/GsonTypesTest.java LINE:25:50 NODE_KIND:153 nVARs:25 NUM_NODE:514 TBID:41 TEID:235
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/GsonTypesTest.java LINE:25:50 NODE_KIND:182 nVARs:25 NUM_NODE:513 TBID:41 TEID:235
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonTreeReaderTest.java LINE:25:26 NODE_KIND:153 nVARs:22 NUM_NODE:509 TBID:63 TEID:254
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonTreeReaderTest.java LINE:25:26 NODE_KIND:182 nVARs:22 NUM_NODE:508 TBID:63 TEID:254
+
+
+000000006	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:108:15 NODE_KIND:113 nVARs:23 NUM_NODE:294 TBID:601 TEID:712
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:89:15 NODE_KIND:113 nVARs:24 NUM_NODE:291 TBID:491 TEID:600
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/UnsafeAllocatorInstantiationTest.java LINE:24:51 NODE_KIND:153 nVARs:18 NUM_NODE:315 TBID:16 TEID:184
+000000015	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/UnsafeAllocatorInstantiationTest.java LINE:24:51 NODE_KIND:182 nVARs:18 NUM_NODE:314 TBID:16 TEID:184
+
+
+000000007	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1061:7 NODE_KIND:113 nVARs:8 NUM_NODE:145 TBID:5936 TEID:5991
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:524:7 NODE_KIND:113 nVARs:10 NUM_NODE:146 TBID:3091 TEID:3147
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:532:7 NODE_KIND:113 nVARs:10 NUM_NODE:145 TBID:3148 TEID:3203
+000000004	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:568:7 NODE_KIND:113 nVARs:10 NUM_NODE:145 TBID:3334 TEID:3389
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:634:7 NODE_KIND:113 nVARs:10 NUM_NODE:145 TBID:3658 TEID:3713
+000000009	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1587:6 NODE_KIND:113 nVARs:11 NUM_NODE:140 TBID:8976 TEID:9027
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:666:11 NODE_KIND:113 nVARs:10 NUM_NODE:148 TBID:3874 TEID:3942
+000000011	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1643:11 NODE_KIND:113 nVARs:11 NUM_NODE:148 TBID:9390 TEID:9458
+
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/TestTypes.java LINE:78:9 NODE_KIND:182 nVARs:18 NUM_NODE:141 TBID:304 TEID:367
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/TestTypes.java LINE:87:9 NODE_KIND:182 nVARs:19 NUM_NODE:141 TBID:368 TEID:431
+
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:45:6 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:132 TEID:181
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:59:6 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:233 TEID:282
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:66:6 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:283 TEID:332
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:87:7 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:435 TEID:484
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:128:7 NODE_KIND:113 nVARs:13 NUM_NODE:138 TBID:686 TEID:735
+
+000000039	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:395:8 NODE_KIND:113 nVARs:15 NUM_NODE:149 TBID:2499 TEID:2555
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:52:6 NODE_KIND:113 nVARs:15 NUM_NODE:145 TBID:182 TEID:232
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:73:6 NODE_KIND:113 nVARs:15 NUM_NODE:145 TBID:333 TEID:383
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:80:6 NODE_KIND:113 nVARs:15 NUM_NODE:145 TBID:384 TEID:434
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:95:7 NODE_KIND:113 nVARs:15 NUM_NODE:145 TBID:485 TEID:535
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:136:7 NODE_KIND:113 nVARs:15 NUM_NODE:145 TBID:736 TEID:786
+000000035	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:328:7 NODE_KIND:113 nVARs:12 NUM_NODE:151 TBID:1899 TEID:1955
+
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java LINE:144:6 NODE_KIND:113 nVARs:14 NUM_NODE:143 TBID:787 TEID:838
+000000037	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ReadersWritersTest.java LINE:58:6 NODE_KIND:113 nVARs:12 NUM_NODE:141 TBID:215 TEID:265
+000000050	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/VersioningTest.java LINE:64:6 NODE_KIND:113 nVARs:13 NUM_NODE:145 TBID:269 TEID:322
+
+000000047	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:50:6 NODE_KIND:113 nVARs:11 NUM_NODE:151 TBID:181 TEID:231
+000000048	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JavaUtilConcurrentAtomicTest.java LINE:57:6 NODE_KIND:113 nVARs:11 NUM_NODE:151 TBID:232 TEID:282
+000000036	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:404:7 NODE_KIND:113 nVARs:12 NUM_NODE:152 TBID:2330 TEID:2380
+
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java LINE:167:10 NODE_KIND:121 nVARs:14 NUM_NODE:140 TBID:973 TEID:1040
+000000042	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:123:10 NODE_KIND:121 nVARs:14 NUM_NODE:140 TBID:704 TEID:771
+
+000000061	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:143:12 NODE_KIND:113 nVARs:16 NUM_NODE:145 TBID:763 TEID:836
+000000046	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CircularReferenceTest.java LINE:47:11 NODE_KIND:113 nVARs:12 NUM_NODE:138 TBID:140 TEID:204
+
+000000055	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:94:6 NODE_KIND:113 nVARs:9 NUM_NODE:146 TBID:581 TEID:636
+000000053	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:94:6 NODE_KIND:113 nVARs:9 NUM_NODE:146 TBID:542 TEID:597
+
+000000058	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:61:11 NODE_KIND:121 nVARs:13 NUM_NODE:140 TBID:183 TEID:243
+000000059	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:62:9 NODE_KIND:121 nVARs:13 NUM_NODE:138 TBID:184 TEID:242
+
+
+000000025	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:85:7 NODE_KIND:113 nVARs:12 NUM_NODE:125 TBID:451 TEID:504
+000000008	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1300:7 NODE_KIND:113 nVARs:11 NUM_NODE:124 TBID:7333 TEID:7385
+000000009	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1308:7 NODE_KIND:113 nVARs:11 NUM_NODE:124 TBID:7386 TEID:7438
+000000002	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:47:7 NODE_KIND:113 nVARs:12 NUM_NODE:126 TBID:257 TEID:311
+000000003	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:67:7 NODE_KIND:113 nVARs:12 NUM_NODE:126 TBID:402 TEID:456
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:374:8 NODE_KIND:113 nVARs:11 NUM_NODE:128 TBID:2010 TEID:2065
+
+000000006	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1080:11 NODE_KIND:113 nVARs:10 NUM_NODE:124 TBID:6045 TEID:6108
+000000007	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1101:11 NODE_KIND:113 nVARs:10 NUM_NODE:124 TBID:6176 TEID:6239
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:768:11 NODE_KIND:113 nVARs:12 NUM_NODE:124 TBID:4364 TEID:4427
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java LINE:79:13 NODE_KIND:153 nVARs:8 NUM_NODE:124 TBID:165 TEID:220
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java LINE:79:13 NODE_KIND:182 nVARs:8 NUM_NODE:123 TBID:165 TEID:220
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java LINE:116:13 NODE_KIND:153 nVARs:6 NUM_NODE:129 TBID:231 TEID:289
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java LINE:116:13 NODE_KIND:182 nVARs:6 NUM_NODE:128 TBID:231 TEID:289
+
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java LINE:156:13 NODE_KIND:153 nVARs:5 NUM_NODE:132 TBID:305 TEID:357
+000000016	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java LINE:156:13 NODE_KIND:182 nVARs:5 NUM_NODE:131 TBID:305 TEID:357
+
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:81:11 NODE_KIND:182 nVARs:18 NUM_NODE:130 TBID:370 TEID:436
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:116:11 NODE_KIND:182 nVARs:18 NUM_NODE:130 TBID:559 TEID:625
+
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonTreeWriterTest.java LINE:98:9 NODE_KIND:113 nVARs:12 NUM_NODE:129 TBID:479 TEID:542
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonTreeWriterTest.java LINE:108:9 NODE_KIND:113 nVARs:12 NUM_NODE:129 TBID:543 TEID:606
+
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:298:11 NODE_KIND:182 nVARs:9 NUM_NODE:120 TBID:1548 TEID:1602
+000000032	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:321:13 NODE_KIND:182 nVARs:10 NUM_NODE:126 TBID:1643 TEID:1701
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultDateTypeAdapterTest.java LINE:150:9 NODE_KIND:113 nVARs:19 NUM_NODE:233 TBID:986 TEID:1061
+000000025	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:98:10 NODE_KIND:113 nVARs:15 NUM_NODE:237 TBID:518 TEID:596
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:873:25 NODE_KIND:113 nVARs:8 NUM_NODE:228 TBID:4970 TEID:5090
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:916:25 NODE_KIND:113 nVARs:8 NUM_NODE:228 TBID:5206 TEID:5326
+
+000000048	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/MixedStreamTest.java LINE:217:22 NODE_KIND:182 nVARs:9 NUM_NODE:241 TBID:1205 TEID:1302
+000000019	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/StreamingTypeAdaptersTest.java LINE:218:17 NODE_KIND:153 nVARs:9 NUM_NODE:238 TBID:219 TEID:310
+000000020	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/StreamingTypeAdaptersTest.java LINE:218:17 NODE_KIND:182 nVARs:9 NUM_NODE:237 TBID:219 TEID:310
+
+000000031	dist:2.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:276:7 NODE_KIND:113 nVARs:16 NUM_NODE:229 TBID:1559 TEID:1633
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:54:9 NODE_KIND:113 nVARs:17 NUM_NODE:232 TBID:254 TEID:334
+
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:31:8 NODE_KIND:113 nVARs:8 NUM_NODE:239 TBID:108 TEID:189
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:31:8 NODE_KIND:113 nVARs:8 NUM_NODE:239 TBID:69 TEID:150
+
+000000044	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultInetAddressTypeAdapterTest.java LINE:28:18 NODE_KIND:153 nVARs:17 NUM_NODE:241 TBID:21 TEID:112
+000000045	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultInetAddressTypeAdapterTest.java LINE:28:18 NODE_KIND:182 nVARs:17 NUM_NODE:240 TBID:21 TEID:112
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:48:418 NODE_KIND:153 nVARs:146 NUM_NODE:7032 TBID:196 TEID:2942
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:48:418 NODE_KIND:182 nVARs:146 NUM_NODE:7031 TBID:196 TEID:2942
+
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1050:10 NODE_KIND:113 nVARs:8 NUM_NODE:92 TBID:5883 TEID:5935
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1069:10 NODE_KIND:113 nVARs:8 NUM_NODE:92 TBID:5992 TEID:6044
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1216:10 NODE_KIND:113 nVARs:9 NUM_NODE:92 TBID:6804 TEID:6856
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1238:10 NODE_KIND:113 nVARs:9 NUM_NODE:92 TBID:6933 TEID:6985
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:56:452 NODE_KIND:153 nVARs:166 NUM_NODE:7202 TBID:292 TEID:2923
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:56:452 NODE_KIND:182 nVARs:166 NUM_NODE:7201 TBID:292 TEID:2923
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:48:418 NODE_KIND:153 nVARs:146 NUM_NODE:7032 TBID:196 TEID:2942
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:48:418 NODE_KIND:182 nVARs:146 NUM_NODE:7031 TBID:196 TEID:2942
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:62:7 NODE_KIND:113 nVARs:9 NUM_NODE:87 TBID:328 TEID:378
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:62:7 NODE_KIND:113 nVARs:9 NUM_NODE:87 TBID:289 TEID:339
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/TestTypes.java LINE:38:384 NODE_KIND:153 nVARs:102 NUM_NODE:4798 TBID:108 TEID:2029
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/TestTypes.java LINE:38:384 NODE_KIND:182 nVARs:102 NUM_NODE:4797 TBID:108 TEID:2029
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ArrayTest.java LINE:39:230 NODE_KIND:153 nVARs:95 NUM_NODE:4940 TBID:121 TEID:1778
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ArrayTest.java LINE:39:230 NODE_KIND:182 nVARs:95 NUM_NODE:4939 TBID:121 TEID:1778
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:30:196 NODE_KIND:153 nVARs:77 NUM_NODE:4851 TBID:101 TEID:1704
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:30:196 NODE_KIND:182 nVARs:77 NUM_NODE:4850 TBID:101 TEID:1704
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/FieldAttributesTest.java LINE:33:50 NODE_KIND:153 nVARs:38 NUM_NODE:608 TBID:50 TEID:317
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/FieldAttributesTest.java LINE:33:50 NODE_KIND:182 nVARs:38 NUM_NODE:607 TBID:50 TEID:317
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonStreamParserTest.java LINE:27:48 NODE_KIND:153 nVARs:23 NUM_NODE:623 TBID:21 TEID:309
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonStreamParserTest.java LINE:27:48 NODE_KIND:182 nVARs:23 NUM_NODE:622 TBID:21 TEID:309
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultDateTypeAdapterTest.java LINE:35:169 NODE_KIND:153 nVARs:63 NUM_NODE:3822 TBID:67 TEID:1353
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/DefaultDateTypeAdapterTest.java LINE:35:169 NODE_KIND:182 nVARs:63 NUM_NODE:3821 TBID:67 TEID:1353
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:25:288 NODE_KIND:153 nVARs:61 NUM_NODE:3714 TBID:54 TEID:1842
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:25:288 NODE_KIND:182 nVARs:61 NUM_NODE:3713 TBID:54 TEID:1842
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:29:122 NODE_KIND:153 nVARs:61 NUM_NODE:2474 TBID:62 TEID:1019
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:29:122 NODE_KIND:182 nVARs:61 NUM_NODE:2473 TBID:62 TEID:1019
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:26:623 NODE_KIND:153 nVARs:93 NUM_NODE:7821 TBID:44 TEID:3544
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java LINE:26:623 NODE_KIND:182 nVARs:93 NUM_NODE:7820 TBID:44 TEID:3544
+
+
+000000036	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonElementReaderTest.java LINE:38:10 NODE_KIND:113 nVARs:18 NUM_NODE:219 TBID:142 TEID:231
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:347:10 NODE_KIND:113 nVARs:16 NUM_NODE:214 TBID:2075 TEID:2159
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:358:10 NODE_KIND:113 nVARs:16 NUM_NODE:214 TBID:2160 TEID:2244
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:800:19 NODE_KIND:113 nVARs:10 NUM_NODE:220 TBID:4522 TEID:4627
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:834:19 NODE_KIND:113 nVARs:10 NUM_NODE:220 TBID:4730 TEID:4835
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:873:25 NODE_KIND:113 nVARs:8 NUM_NODE:228 TBID:4970 TEID:5090
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:916:25 NODE_KIND:113 nVARs:8 NUM_NODE:228 TBID:5206 TEID:5326
+
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/reflect/UnsafeReflectionAccessorTest.java LINE:30:22 NODE_KIND:153 nVARs:18 NUM_NODE:220 TBID:47 TEID:143
+000000031	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/reflect/UnsafeReflectionAccessorTest.java LINE:30:22 NODE_KIND:182 nVARs:18 NUM_NODE:219 TBID:47 TEID:143
+
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:40:12 NODE_KIND:113 nVARs:10 NUM_NODE:208 TBID:190 TEID:279
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:40:12 NODE_KIND:113 nVARs:10 NUM_NODE:208 TBID:151 TEID:240
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LazilyParsedNumberTest.java LINE:20:13 NODE_KIND:153 nVARs:11 NUM_NODE:221 TBID:16 TEID:97
+000000035	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LazilyParsedNumberTest.java LINE:20:13 NODE_KIND:182 nVARs:11 NUM_NODE:220 TBID:16 TEID:97
+
+000000040	dist:2.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:151:8 NODE_KIND:121 nVARs:8 NUM_NODE:209 TBID:601 TEID:667
+000000039	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/metrics/PerformanceTest.java LINE:150:10 NODE_KIND:113 nVARs:9 NUM_NODE:216 TBID:595 TEID:668
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:36:1752 NODE_KIND:153 nVARs:209 NUM_NODE:24431 TBID:177 TEID:10419
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:36:1752 NODE_KIND:182 nVARs:209 NUM_NODE:24430 TBID:177 TEID:10419
+
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/MoreAsserts.java LINE:29:45 NODE_KIND:153 nVARs:24 NUM_NODE:748 TBID:23 TEID:316
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/common/MoreAsserts.java LINE:29:45 NODE_KIND:182 nVARs:24 NUM_NODE:747 TBID:23 TEID:316
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InstanceCreatorTest.java LINE:41:56 NODE_KIND:153 nVARs:36 NUM_NODE:809 TBID:130 TEID:461
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/InstanceCreatorTest.java LINE:41:56 NODE_KIND:182 nVARs:36 NUM_NODE:808 TBID:130 TEID:461
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/RawSerializationTest.java LINE:31:71 NODE_KIND:153 nVARs:30 NUM_NODE:801 TBID:50 TEID:344
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/RawSerializationTest.java LINE:31:71 NODE_KIND:182 nVARs:30 NUM_NODE:800 TBID:50 TEID:344
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/LongSerializationPolicyTest.java LINE:27:38 NODE_KIND:153 nVARs:31 NUM_NODE:748 TBID:14 TEID:304
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/LongSerializationPolicyTest.java LINE:27:38 NODE_KIND:182 nVARs:31 NUM_NODE:747 TBID:14 TEID:304
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ReadersWritersTest.java LINE:42:94 NODE_KIND:153 nVARs:56 NUM_NODE:1675 TBID:132 TEID:775
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ReadersWritersTest.java LINE:42:94 NODE_KIND:182 nVARs:56 NUM_NODE:1674 TBID:132 TEID:775
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonTreeWriterTest.java LINE:23:153 NODE_KIND:153 nVARs:42 NUM_NODE:1702 TBID:34 TEID:923
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/bind/JsonTreeWriterTest.java LINE:23:153 NODE_KIND:182 nVARs:42 NUM_NODE:1701 TBID:34 TEID:923
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonArrayTest.java LINE:29:134 NODE_KIND:153 nVARs:25 NUM_NODE:1973 TBID:32 TEID:753
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonArrayTest.java LINE:29:134 NODE_KIND:182 nVARs:25 NUM_NODE:1972 TBID:32 TEID:753
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/StringTest.java LINE:13:128 NODE_KIND:153 nVARs:38 NUM_NODE:2101 TBID:25 TEID:740
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/StringTest.java LINE:13:128 NODE_KIND:182 nVARs:38 NUM_NODE:2100 TBID:25 TEID:740
+
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:38:8 NODE_KIND:113 nVARs:11 NUM_NODE:169 TBID:189 TEID:256
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:442:8 NODE_KIND:113 nVARs:11 NUM_NODE:169 TBID:2666 TEID:2733
+
+000000006	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:511:12 NODE_KIND:113 nVARs:14 NUM_NODE:167 TBID:3015 TEID:3090
+000000007	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:596:12 NODE_KIND:113 nVARs:14 NUM_NODE:168 TBID:3455 TEID:3531
+000000008	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:621:12 NODE_KIND:113 nVARs:14 NUM_NODE:168 TBID:3581 TEID:3657
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:451:13 NODE_KIND:113 nVARs:15 NUM_NODE:175 TBID:2734 TEID:2815
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1655:12 NODE_KIND:113 nVARs:12 NUM_NODE:167 TBID:9459 TEID:9534
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:1527:12 NODE_KIND:113 nVARs:13 NUM_NODE:167 TBID:8567 TEID:8642
+000000006	dist:2.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:511:12 NODE_KIND:113 nVARs:14 NUM_NODE:167 TBID:3015 TEID:3090
+000000007	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:596:12 NODE_KIND:113 nVARs:14 NUM_NODE:168 TBID:3455 TEID:3531
+000000008	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java LINE:621:12 NODE_KIND:113 nVARs:14 NUM_NODE:168 TBID:3581 TEID:3657
+
+000000029	dist:3.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java LINE:190:7 NODE_KIND:113 nVARs:12 NUM_NODE:159 TBID:1043 TEID:1098
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/SecurityTest.java LINE:78:8 NODE_KIND:113 nVARs:15 NUM_NODE:167 TBID:264 TEID:322
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:74:7 NODE_KIND:113 nVARs:11 NUM_NODE:163 TBID:381 TEID:433
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:82:7 NODE_KIND:113 nVARs:11 NUM_NODE:163 TBID:434 TEID:486
+000000023	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ObjectTest.java LINE:441:7 NODE_KIND:113 nVARs:11 NUM_NODE:163 TBID:2529 TEID:2581
+
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java LINE:386:8 NODE_KIND:113 nVARs:14 NUM_NODE:169 TBID:2438 TEID:2498
+000000035	dist:3.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/JsonAdapterSerializerDeserializerTest.java LINE:128:7 NODE_KIND:113 nVARs:10 NUM_NODE:167 TBID:626 TEID:681
+
+000000036	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:72:17 NODE_KIND:121 nVARs:17 NUM_NODE:162 TBID:231 TEID:314
+000000037	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java LINE:73:15 NODE_KIND:121 nVARs:17 NUM_NODE:160 TBID:232 TEID:313
+
+000000038	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/EnumTest.java LINE:182:11 NODE_KIND:153 nVARs:22 NUM_NODE:164 TBID:174 TEID:255
+000000039	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/functional/EnumTest.java LINE:182:11 NODE_KIND:182 nVARs:22 NUM_NODE:163 TBID:174 TEID:255
+
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:102:6 NODE_KIND:113 nVARs:8 NUM_NODE:165 TBID:513 TEID:573
+000000042	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:109:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:574 TEID:631
+000000043	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:116:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:632 TEID:689
+000000044	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:123:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:690 TEID:747
+000000045	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:130:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:748 TEID:805
+000000046	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:137:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:806 TEID:863
+000000047	dist:2.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:144:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:864 TEID:921
+000000048	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:151:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:922 TEID:976
+000000049	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:158:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:977 TEID:1031
+000000050	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:165:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1032 TEID:1086
+
+000000042	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:109:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:574 TEID:631
+000000043	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:116:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:632 TEID:689
+000000044	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:123:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:690 TEID:747
+000000045	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:130:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:748 TEID:805
+000000046	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:137:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:806 TEID:863
+000000047	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:144:6 NODE_KIND:113 nVARs:8 NUM_NODE:162 TBID:864 TEID:921
+000000048	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:151:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:922 TEID:976
+000000049	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:158:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:977 TEID:1031
+000000050	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:165:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1032 TEID:1086
+000000051	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:172:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1087 TEID:1141
+000000052	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:179:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1142 TEID:1196
+000000053	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/JsonPrimitiveTest.java LINE:186:6 NODE_KIND:113 nVARs:8 NUM_NODE:159 TBID:1197 TEID:1251
+
+000000056	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedHashTreeMapTest.java LINE:113:5 NODE_KIND:121 nVARs:10 NUM_NODE:162 TBID:742 TEID:791
+000000055	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/internal/LinkedTreeMapTest.java LINE:110:5 NODE_KIND:121 nVARs:10 NUM_NODE:162 TBID:703 TEID:752
+
+000000060	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/VersionExclusionStrategyTest.java LINE:37:5 NODE_KIND:113 nVARs:12 NUM_NODE:161 TBID:104 TEID:159
+000000061	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/VersionExclusionStrategyTest.java LINE:43:5 NODE_KIND:113 nVARs:12 NUM_NODE:161 TBID:160 TEID:215
+
+000000063	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/LongSerializationPolicyTest.java LINE:29:9 NODE_KIND:113 nVARs:17 NUM_NODE:165 TBID:20 TEID:87
+000000064	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/gson-2.8.5-original/gson/src/test/java/com/google/gson/LongSerializationPolicyTest.java LINE:47:9 NODE_KIND:113 nVARs:17 NUM_NODE:165 TBID:162 TEID:229
+
