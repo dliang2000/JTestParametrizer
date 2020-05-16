@@ -84,6 +84,8 @@ public class RFTemplate {
     private int actionCount;
     private int variableCount;
     private boolean hasLambda;
+    private boolean lambdaParameterAdded;
+    private Type lambdaParameterType;
     private boolean hasAdapterVariable;
     private List<NodePair> unrefactoredList;
     private Map<String, Integer> adapterActionNameMap;
@@ -117,6 +119,8 @@ public class RFTemplate {
         this.actionCount = 1;
         this.variableCount = 1;
         this.hasLambda = false;
+        this.lambdaParameterAdded = false;
+        this.lambdaParameterType = null;
         this.hasAdapterVariable = false;
         this.templateArguments1 = new ArrayList<>();
         this.templateArguments2 = new ArrayList<>();
@@ -612,9 +616,7 @@ public class RFTemplate {
             String clazzName = CLAZZ_NAME_PREFIX + genericType;
             //String clazzName = CLAZZ_NAME_PREFIX + genericType + clazzCount++;
             clazzInstanceMap.put(genericType, clazzName);
-            if (ENABLE_LAMBDA) {
-                addLambdaInParameter(genericType);
-            }
+            recordLambdaForParameter(genericType);
             addClazzInParameter(genericType);
         }
         return clazzInstanceMap.get(genericType);
@@ -728,11 +730,15 @@ public class RFTemplate {
         templateMethod.typeParameters().add(typeParameter);
     }
 
-    private void addLambdaInParameter(String genericTypeName) {
-        // XXX PL figure out when we should actually add this lambda parameter...
-        //java.util.function.ToLongFunction<TAtomic> f
-        Type lambdaType = computeLambdaVariableReturnType(genericTypeName);
-        addVariableParameter(lambdaType, ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME));
+    private void recordLambdaForParameter(String genericTypeName) {
+        lambdaParameterType = computeLambdaVariableReturnType(genericTypeName);
+    }
+
+    private void actuallyAddLambdaParameter() {
+        if (!lambdaParameterAdded && lambdaParameterType != null) {
+            lambdaParameterAdded = true;
+            addVariableParameter(lambdaParameterType, ast.newSimpleName(DEFAULT_LAMBDA_VARIABLE_NAME), 0);
+        }
     }
 
     private void addClazzInParameter(String genericTypeName) {
@@ -1204,7 +1210,9 @@ public class RFTemplate {
     }
 
     private void addLambda() {
-        hasLambda = true;
+        if (ENABLE_LAMBDA) {
+            hasLambda = true;
+        }
     }
 
     private boolean containsTypeVariable(ITypeBinding iTypeBinding) {
@@ -1242,8 +1250,6 @@ public class RFTemplate {
     @SuppressWarnings("unchecked")
     public MethodInvocation createLambdaActionMethodInvocation(Expression expr, List<Expression> arguments,
             MethodInvocationPair pair, TypePair returnTypePair) {
-        addLambda();
-
         // create new method invocation
         MethodInvocation newMethodInvocation = ast.newMethodInvocation();
         newMethodInvocation.setExpression(ast.newSimpleName(lambdaVariable.getName().getIdentifier()));
@@ -1280,9 +1286,11 @@ public class RFTemplate {
             argTypes.add(resolveAdapterActionArgumentType(expr, null));
         }
 
-        if (foundWinningType)
+        if (foundWinningType) {
+            addLambda();
+            actuallyAddLambdaParameter();
             return newMethodInvocation;
-        else
+        } else
             return null;
     }
 
