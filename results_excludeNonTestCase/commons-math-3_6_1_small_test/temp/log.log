@@ -1,0 +1,51 @@
+01:46:26.643 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/commons-math-3_6_1_small_test/log.log
+01:46:26.650 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/commons-math-3_6_1_small_test/commons_math_3_6_1-deckard-30-0.95-0-small-test.xls
+01:46:28.053 [main] INFO  - Clone Group Size is: 3
+01:46:28.053 [main] INFO  - Clone Type: 
+01:46:28.054 [main] INFO  - 20%: Reading information from row 2 (Clone group ID 77, clone #1)
+01:46:28.093 [main] INFO  - 20%: Generating PDG for method "testAddFail" in "org.apache.commons.math3.linear.Array2DRowRealMatrixTest"
+01:46:28.890 [main] INFO  - 20%: Reading information from row 3 (Clone group ID 77, clone #2)
+01:46:28.958 [main] INFO  - 20%: Generating PDG for method "testAddFail" in "org.apache.commons.math3.linear.BlockRealMatrixTest"
+01:46:29.053 [main] INFO  - 20%: Analyzing Clone #1 (Group 77, Pair 1-2): org.apache.commons.math3.linear.Array2DRowRealMatrixTest#testAddFail (row 2) and org.apache.commons.math3.linear.BlockRealMatrixTest#testAddFail (row 3)
+01:46:29.133 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+01:46:29.133 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+01:46:29.147 [main] INFO  - bottomUpSubTreeMatches size = 1
+01:46:29.147 [main] INFO  - fullTreeMatch = true
+01:46:29.147 [main] INFO  - Start mapping
+01:46:29.235 [main] INFO  - End mapping
+01:46:29.239 [main] INFO  - start to refactor clone pair
+01:46:29.239 [main] INFO  - CloneType: Type 2
+01:46:29.254 [main] INFO  - Same method found in common super class [org.apache.commons.math3.linear.AbstractRealMatrix]: add
+01:46:29.255 [main] INFO  - 20%: Reading information from row 4 (Clone group ID 77, clone #3)
+01:46:29.280 [main] INFO  - 20%: Generating PDG for method "testAddFail" in "org.apache.commons.math3.linear.SparseRealMatrixTest"
+01:46:29.365 [main] INFO  - 20%: Analyzing Clone #1 (Group 77, Pair 1-3): org.apache.commons.math3.linear.Array2DRowRealMatrixTest#testAddFail (row 2) and org.apache.commons.math3.linear.SparseRealMatrixTest#testAddFail (row 4)
+01:46:29.413 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+01:46:29.413 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+01:46:29.414 [main] INFO  - bottomUpSubTreeMatches size = 1
+01:46:29.414 [main] INFO  - fullTreeMatch = true
+01:46:29.414 [main] INFO  - Start mapping
+01:46:29.538 [main] INFO  - End mapping
+01:46:29.539 [main] INFO  - start to refactor clone pair
+01:46:29.539 [main] INFO  - CloneType: Type 2
+01:46:29.541 [main] INFO  - non-refactored node pair with initializer node: new Array2DRowRealMatrix(testData)  <--->  createSparseMatrix(testData)  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+01:46:29.542 [main] INFO  - non-refactored node pair with initializer node: new Array2DRowRealMatrix(testData2)  <--->  createSparseMatrix(testData2)  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+01:46:29.542 [main] INFO  - Template Name: realMatrixTestTestAddFailTemplate
+01:46:29.542 [main] INFO  - Template Name 2: realMatrixTestTestAddFailTemplate
+01:46:29.542 [main] INFO  - Repeated Naming pair.
+01:46:29.542 [main] INFO  - 40%: Reading information from row 3 (Clone group ID 77, clone #2)
+01:46:29.572 [main] INFO  - 40%: Reading information from row 4 (Clone group ID 77, clone #4)
+01:46:29.573 [main] INFO  - 40%: Analyzing Clone #1 (Group 77, Pair 2-3): org.apache.commons.math3.linear.BlockRealMatrixTest#testAddFail (row 3) and org.apache.commons.math3.linear.SparseRealMatrixTest#testAddFail (row 4)
+01:46:29.613 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+01:46:29.614 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+01:46:29.614 [main] INFO  - bottomUpSubTreeMatches size = 1
+01:46:29.615 [main] INFO  - fullTreeMatch = true
+01:46:29.615 [main] INFO  - Start mapping
+01:46:29.692 [main] INFO  - End mapping
+01:46:29.692 [main] INFO  - start to refactor clone pair
+01:46:29.692 [main] INFO  - CloneType: Type 2
+01:46:29.693 [main] INFO  - non-refactored node pair with initializer node: new BlockRealMatrix(testData)  <--->  createSparseMatrix(testData)  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+01:46:29.694 [main] INFO  - non-refactored node pair with initializer node: new BlockRealMatrix(testData2)  <--->  createSparseMatrix(testData2)  (SUBCLASS_TYPE_MISMATCH, TYPE_COMPATIBLE_REPLACEMENT)
+01:46:29.694 [main] INFO  - Template Name: realMatrixTestTestAddFailTemplate
+01:46:29.694 [main] INFO  - Template Name 2: realMatrixTestTestAddFailTemplate
+01:46:29.694 [main] INFO  - Repeated Naming pair.
+01:46:30.980 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/commons-math-3_6_1_small_test/commons_math_3_6_1-deckard-30-0.95-0-small-test.xls, output file: /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/commons-math-3_6_1_small_test/commons_math_3_6_1-deckard-30-0.95-0-small-test-analyzed.xls

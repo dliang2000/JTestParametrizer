@@ -1,0 +1,82 @@
+00:46:39.800 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/commons-math-3_6_1_small_test/test/log.log
+00:46:39.810 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/commons-math-3_6_1_small_test/test/commons_math_3_6_1-deckard-30-1.0-0-selected.xls
+00:46:41.401 [main] INFO  - 8%: Reading information from row 2 (Clone group ID 574, clone #1)
+00:46:41.455 [main] INFO  - 8%: Generating PDG for method "testAddFail" in "org.apache.commons.math3.linear.BlockFieldMatrixTest"
+00:46:42.099 [main] INFO  - 8%: Reading information from row 3 (Clone group ID 574, clone #2)
+00:46:42.142 [main] INFO  - 8%: Generating PDG for method "testAddFail" in "org.apache.commons.math3.linear.FieldMatrixImplTest"
+00:46:42.448 [main] INFO  - 8%: Analyzing Clone #1 (Group 574, Pair 1-2): org.apache.commons.math3.linear.BlockFieldMatrixTest#testAddFail (row 2) and org.apache.commons.math3.linear.FieldMatrixImplTest#testAddFail (row 3)
+00:46:42.519 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+00:46:42.519 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+00:46:42.532 [main] INFO  - bottomUpSubTreeMatches size = 1
+00:46:42.532 [main] INFO  - fullTreeMatch = true
+00:46:42.532 [main] INFO  - Start mapping
+00:46:42.578 [main] INFO  - End mapping
+00:46:42.583 [main] INFO  - start to refactor clone pair
+00:46:42.583 [main] INFO  - CloneType: Type 2
+00:46:42.601 [main] INFO  - Same method found in common super class [org.apache.commons.math3.linear.AbstractFieldMatrix<org.apache.commons.math3.fraction.Fraction>]: add
+00:46:42.602 [main] INFO  - 25%: Reading information from row 4 (Clone group ID 662, clone #1)
+00:46:42.638 [main] INFO  - 25%: Generating PDG for method "testVarAddition" in "org.apache.commons.math3.analysis.differentiation.SparseGradientTest"
+00:46:44.474 [main] INFO  - 25%: Reading information from row 5 (Clone group ID 662, clone #2)
+00:46:44.475 [main] INFO  - 25%: Generating PDG for method "testSubtraction" in "org.apache.commons.math3.analysis.differentiation.SparseGradientTest"
+00:46:44.482 [main] INFO  - 25%: Analyzing Clone #2 (Group 662, Pair 1-2): org.apache.commons.math3.analysis.differentiation.SparseGradientTest#testVarAddition (row 4) and org.apache.commons.math3.analysis.differentiation.SparseGradientTest#testSubtraction (row 5)
+00:46:44.506 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+00:46:44.506 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+00:46:44.632 [main] INFO  - start to refactor clone pair
+00:46:44.632 [main] INFO  - CloneType: Type 2
+00:46:44.639 [main] INFO  - unrefactorable InfixExpr node pair containing local variables: v1 + v2  <--->  v1 - v2  (OPERATOR_MISMATCH)
+00:46:44.641 [main] INFO  - 42%: Reading information from row 6 (Clone group ID 505, clone #1)
+00:46:44.666 [main] INFO  - 42%: Generating PDG for method "testParametricUsage2" in "org.apache.commons.math3.analysis.function.GaussianTest"
+00:46:44.737 [main] INFO  - 42%: Reading information from row 7 (Clone group ID 505, clone #2)
+00:46:44.739 [main] INFO  - 42%: Generating PDG for method "testParametricUsage5" in "org.apache.commons.math3.analysis.function.GaussianTest"
+00:46:44.740 [main] INFO  - 42%: Analyzing Clone #3 (Group 505, Pair 1-2): org.apache.commons.math3.analysis.function.GaussianTest#testParametricUsage2 (row 6) and org.apache.commons.math3.analysis.function.GaussianTest#testParametricUsage5 (row 7)
+00:46:44.756 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+00:46:44.756 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+00:46:44.760 [main] INFO  - start to refactor clone pair
+00:46:44.761 [main] INFO  - CloneType: Type 2
+00:46:44.762 [main] ERROR - CloneStructure has PDG gap node.
+00:46:44.762 [main] INFO  - 58%: Reading information from row 8 (Clone group ID 317, clone #1)
+00:46:44.829 [main] INFO  - 58%: Generating PDG for method "testComposeVectorOperator" in "org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDSTest"
+00:46:45.425 [main] INFO  - 58%: Reading information from row 9 (Clone group ID 317, clone #2)
+00:46:45.426 [main] INFO  - 58%: Generating PDG for method "testComposeFrameTransform" in "org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDSTest"
+00:46:45.430 [main] INFO  - 58%: Analyzing Clone #4 (Group 317, Pair 1-2): org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDSTest#testComposeVectorOperator (row 8) and org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDSTest#testComposeFrameTransform (row 9)
+00:46:45.471 [main] INFO  - CDT 1 depth = 3, CDT 2 depth = 3
+00:46:45.472 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+00:46:45.473 [main] INFO  - bottomUpSubTreeMatches size = 1
+00:46:45.473 [main] INFO  - fullTreeMatch = true
+00:46:45.473 [main] INFO  - Start mapping
+00:46:45.504 [main] INFO  - End mapping
+00:46:45.505 [main] INFO  - start to refactor clone pair
+00:46:45.505 [main] INFO  - CloneType: Type 2
+00:46:45.508 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+00:46:45.509 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+00:46:45.510 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+00:46:45.510 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+00:46:45.511 [main] INFO  - 75%: Reading information from row 10 (Clone group ID 318, clone #1)
+00:46:45.512 [main] INFO  - 75%: Generating PDG for method "testComposeInverseVectorOperator" in "org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDSTest"
+00:46:45.751 [main] INFO  - 75%: Reading information from row 11 (Clone group ID 318, clone #2)
+00:46:45.787 [main] INFO  - 75%: Generating PDG for method "testComposeVectorOperator" in "org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest"
+00:46:45.798 [main] INFO  - 75%: Analyzing Clone #5 (Group 318, Pair 1-2): org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDSTest#testComposeInverseVectorOperator (row 10) and org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest#testComposeVectorOperator (row 11)
+00:46:45.859 [main] INFO  - CDT 1 depth = 3, CDT 2 depth = 3
+00:46:45.860 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+00:46:45.861 [main] INFO  - bottomUpSubTreeMatches size = 1
+00:46:45.861 [main] INFO  - fullTreeMatch = true
+00:46:45.861 [main] INFO  - Start mapping
+00:46:45.920 [main] INFO  - End mapping
+00:46:45.921 [main] INFO  - start to refactor clone pair
+00:46:45.921 [main] INFO  - CloneType: Type 2
+00:46:45.922 [main] ERROR - CloneStructure has PDG gap node.
+00:46:47.805 [main] INFO  - Applying changes to source files
+00:46:47.806 [main] INFO  - refactoring 2 clone method pairs.
+00:46:47.806 [main] INFO  - skipping 3 clone method pairs:
+00:46:47.806 [main] INFO  - 	0 not test cases
+00:46:47.806 [main] INFO  - 	2 containing gap nodes (type3)
+00:46:47.806 [main] INFO  - 	1 not refactorable
+00:46:47.806 [main] INFO  - 	0 repeated naming
+00:46:47.806 [main] INFO  - 	0 access issues
+00:46:47.806 [main] INFO  - type1 count: 0
+00:46:47.806 [main] INFO  - type2 count: 5
+00:46:47.806 [main] INFO  - type3 count: 0
+00:46:47.807 [main] INFO  - effective refactoring ratio: 2/3 = 66.7%
+00:46:47.807 [main] INFO  - refactoring method pair: org.apache.commons.math3.linear.BlockFieldMatrixTest.java#testAddFail <---> org.apache.commons.math3.linear.FieldMatrixImplTest.java#testAddFail
+00:46:48.414 [main] INFO  - refactoring method pair: org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDSTest.java#testComposeVectorOperator <---> org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDSTest.java#testComposeFrameTransform
+00:46:49.154 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/commons-math-3_6_1_small_test/test/commons_math_3_6_1-deckard-30-1.0-0-selected.xls, output file: /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/commons-math-3_6_1_small_test/test/commons_math_3_6_1-deckard-30-1.0-0-selected-analyzed.xls
