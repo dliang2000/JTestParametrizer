@@ -1,0 +1,908 @@
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/MatrixUtilsTest.java LINE:37:448 NODE_KIND:153 nVARs:134 NUM_NODE:9131 TBID:134 TEID:3363
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/MatrixUtilsTest.java LINE:37:448 NODE_KIND:182 nVARs:134 NUM_NODE:9130 TBID:134 TEID:3363
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:33:666 NODE_KIND:153 nVARs:176 NUM_NODE:14903 TBID:101 TEID:5016
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:33:666 NODE_KIND:182 nVARs:176 NUM_NODE:14902 TBID:101 TEID:5016
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:35:748 NODE_KIND:153 nVARs:166 NUM_NODE:14580 TBID:125 TEID:4744
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:35:748 NODE_KIND:182 nVARs:166 NUM_NODE:14579 TBID:125 TEID:4744
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:36:746 NODE_KIND:153 nVARs:162 NUM_NODE:15131 TBID:110 TEID:5514
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:36:746 NODE_KIND:182 nVARs:162 NUM_NODE:15130 TBID:110 TEID:5514
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:26:177 NODE_KIND:153 nVARs:66 NUM_NODE:3948 TBID:45 TEID:1330
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:26:177 NODE_KIND:182 nVARs:66 NUM_NODE:3947 TBID:45 TEID:1330
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:26:196 NODE_KIND:153 nVARs:65 NUM_NODE:3738 TBID:45 TEID:1297
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:26:196 NODE_KIND:182 nVARs:65 NUM_NODE:3737 TBID:45 TEID:1297
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BiDiagonalTransformerTest.java LINE:27:178 NODE_KIND:153 nVARs:58 NUM_NODE:3789 TBID:77 TEID:1474
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BiDiagonalTransformerTest.java LINE:27:178 NODE_KIND:182 nVARs:58 NUM_NODE:3788 TBID:77 TEID:1474
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:26:208 NODE_KIND:153 nVARs:67 NUM_NODE:3955 TBID:32 TEID:1416
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:26:208 NODE_KIND:182 nVARs:67 NUM_NODE:3954 TBID:32 TEID:1416
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:748:59 NODE_KIND:121 nVARs:29 NUM_NODE:1021 TBID:4748 TEID:5057
+000000001	dist:11.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:748:59 NODE_KIND:121 nVARs:29 NUM_NODE:975 TBID:4764 TEID:5057
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:160:58 NODE_KIND:113 nVARs:51 NUM_NODE:1000 TBID:1149 TEID:1499
+000000004	dist:12.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:330:57 NODE_KIND:113 nVARs:54 NUM_NODE:1047 TBID:2168 TEID:2531
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:482:18 NODE_KIND:113 nVARs:17 NUM_NODE:238 TBID:4897 TEID:4997
+000000003	dist:5.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUSolverTest.java LINE:80:19 NODE_KIND:113 nVARs:17 NUM_NODE:246 TBID:431 TEID:534
+000000004	dist:5.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUSolverTest.java LINE:101:19 NODE_KIND:113 nVARs:17 NUM_NODE:246 TBID:535 TEID:638
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:345:18 NODE_KIND:113 nVARs:17 NUM_NODE:238 TBID:3851 TEID:3951
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1001:18 NODE_KIND:113 nVARs:15 NUM_NODE:262 TBID:9032 TEID:9134
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:761:18 NODE_KIND:113 nVARs:15 NUM_NODE:262 TBID:7085 TEID:7187
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:70:9 NODE_KIND:113 nVARs:13 NUM_NODE:246 TBID:337 TEID:440
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:69:9 NODE_KIND:113 nVARs:13 NUM_NODE:246 TBID:324 TEID:427
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java LINE:31:338 NODE_KIND:153 nVARs:92 NUM_NODE:7748 TBID:101 TEID:2714
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java LINE:31:338 NODE_KIND:182 nVARs:92 NUM_NODE:7747 TBID:101 TEID:2714
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:27:277 NODE_KIND:153 nVARs:66 NUM_NODE:7735 TBID:62 TEID:2800
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:27:277 NODE_KIND:182 nVARs:66 NUM_NODE:7734 TBID:62 TEID:2800
+
+
+000000049	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:101:11 NODE_KIND:113 nVARs:13 NUM_NODE:328 TBID:1053 TEID:1166
+000000059	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:101:11 NODE_KIND:113 nVARs:13 NUM_NODE:328 TBID:1035 TEID:1148
+000000085	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:127:11 NODE_KIND:113 nVARs:15 NUM_NODE:338 TBID:1965 TEID:2082
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:110:11 NODE_KIND:113 nVARs:14 NUM_NODE:328 TBID:1008 TEID:1119
+
+000000051	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:614:22 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:4947 TEID:5063
+000000053	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:658:22 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:5181 TEID:5297
+000000052	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:637:20 NODE_KIND:113 nVARs:17 NUM_NODE:311 TBID:5064 TEID:5180
+000000054	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:681:20 NODE_KIND:113 nVARs:17 NUM_NODE:311 TBID:5298 TEID:5414
+000000057	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:744:20 NODE_KIND:113 nVARs:18 NUM_NODE:312 TBID:5662 TEID:5776
+000000058	dist:5.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:765:20 NODE_KIND:113 nVARs:20 NUM_NODE:324 TBID:5777 TEID:5896
+000000061	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:660:20 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:5537 TEID:5653
+000000062	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:681:20 NODE_KIND:113 nVARs:17 NUM_NODE:311 TBID:5654 TEID:5770
+000000063	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:742:20 NODE_KIND:113 nVARs:17 NUM_NODE:311 TBID:6031 TEID:6147
+000000064	dist:6.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:783:20 NODE_KIND:113 nVARs:18 NUM_NODE:320 TBID:6295 TEID:6413
+000000066	dist:5.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:865:20 NODE_KIND:113 nVARs:20 NUM_NODE:324 TBID:6791 TEID:6910
+000000088	dist:6.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:477:20 NODE_KIND:113 nVARs:17 NUM_NODE:327 TBID:4912 TEID:5034
+000000089	dist:6.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:498:20 NODE_KIND:113 nVARs:17 NUM_NODE:327 TBID:5035 TEID:5157
+000000090	dist:6.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:540:20 NODE_KIND:113 nVARs:19 NUM_NODE:327 TBID:5295 TEID:5417
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:468:20 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:3527 TEID:3640
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:489:20 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:3641 TEID:3754
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:531:20 NODE_KIND:113 nVARs:18 NUM_NODE:312 TBID:3877 TEID:3990
+
+000000055	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:702:20 NODE_KIND:113 nVARs:18 NUM_NODE:342 TBID:5415 TEID:5537
+000000056	dist:4.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:723:20 NODE_KIND:113 nVARs:20 NUM_NODE:339 TBID:5538 TEID:5661
+000000058	dist:7.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:765:20 NODE_KIND:113 nVARs:20 NUM_NODE:324 TBID:5777 TEID:5896
+000000064	dist:6.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:783:20 NODE_KIND:113 nVARs:18 NUM_NODE:320 TBID:6295 TEID:6413
+000000065	dist:4.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:804:20 NODE_KIND:113 nVARs:20 NUM_NODE:339 TBID:6414 TEID:6537
+000000066	dist:7.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:865:20 NODE_KIND:113 nVARs:20 NUM_NODE:324 TBID:6791 TEID:6910
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:510:20 NODE_KIND:113 nVARs:18 NUM_NODE:342 TBID:3755 TEID:3876
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1389:23 NODE_KIND:121 nVARs:17 NUM_NODE:326 TBID:9024 TEID:9148
+000000011	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1635:24 NODE_KIND:121 nVARs:17 NUM_NODE:345 TBID:10290 TEID:10419
+000000010	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1476:23 NODE_KIND:121 nVARs:19 NUM_NODE:317 TBID:9429 TEID:9549
+000000012	dist:7.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1726:24 NODE_KIND:121 nVARs:19 NUM_NODE:336 TBID:10746 TEID:10871
+
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:219:25 NODE_KIND:113 nVARs:21 NUM_NODE:314 TBID:1500 TEID:1621
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:245:25 NODE_KIND:113 nVARs:21 NUM_NODE:314 TBID:1622 TEID:1743
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:320:25 NODE_KIND:113 nVARs:21 NUM_NODE:314 TBID:1993 TEID:2114
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:346:25 NODE_KIND:113 nVARs:21 NUM_NODE:314 TBID:2115 TEID:2236
+
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskySolverTest.java LINE:36:24 NODE_KIND:113 nVARs:20 NUM_NODE:312 TBID:118 TEID:249
+000000072	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUSolverTest.java LINE:74:24 NODE_KIND:113 nVARs:20 NUM_NODE:312 TBID:328 TEID:459
+000000073	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUSolverTest.java LINE:100:24 NODE_KIND:113 nVARs:20 NUM_NODE:312 TBID:460 TEID:591
+000000037	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueSolverTest.java LINE:41:24 NODE_KIND:113 nVARs:20 NUM_NODE:312 TBID:130 TEID:261
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:159:18 NODE_KIND:121 nVARs:11 NUM_NODE:323 TBID:1076 TEID:1187
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:178:18 NODE_KIND:121 nVARs:11 NUM_NODE:323 TBID:1206 TEID:1317
+
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:160:11 NODE_KIND:113 nVARs:14 NUM_NODE:348 TBID:1917 TEID:2042
+000000074	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:102:11 NODE_KIND:113 nVARs:14 NUM_NODE:348 TBID:1929 TEID:2054
+000000085	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:127:11 NODE_KIND:113 nVARs:15 NUM_NODE:338 TBID:1965 TEID:2082
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:279:9 NODE_KIND:121 nVARs:15 NUM_NODE:349 TBID:2980 TEID:3096
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:290:9 NODE_KIND:121 nVARs:15 NUM_NODE:349 TBID:3110 TEID:3226
+
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:619:24 NODE_KIND:121 nVARs:17 NUM_NODE:323 TBID:6152 TEID:6275
+000000075	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:479:25 NODE_KIND:121 nVARs:17 NUM_NODE:329 TBID:5108 TEID:5233
+
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:741:20 NODE_KIND:113 nVARs:17 NUM_NODE:342 TBID:7199 TEID:7333
+000000029	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:805:20 NODE_KIND:113 nVARs:17 NUM_NODE:320 TBID:7642 TEID:7772
+000000028	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:762:20 NODE_KIND:113 nVARs:18 NUM_NODE:331 TBID:7334 TEID:7462
+000000030	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:826:20 NODE_KIND:113 nVARs:18 NUM_NODE:331 TBID:7773 TEID:7901
+000000076	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:581:22 NODE_KIND:113 nVARs:17 NUM_NODE:342 TBID:5934 TEID:6068
+000000078	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:625:22 NODE_KIND:113 nVARs:17 NUM_NODE:342 TBID:6198 TEID:6332
+000000077	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:604:20 NODE_KIND:113 nVARs:18 NUM_NODE:331 TBID:6069 TEID:6197
+000000079	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:648:20 NODE_KIND:113 nVARs:18 NUM_NODE:331 TBID:6333 TEID:6461
+000000080	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:711:20 NODE_KIND:113 nVARs:19 NUM_NODE:332 TBID:6748 TEID:6874
+
+000000029	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:805:20 NODE_KIND:113 nVARs:17 NUM_NODE:320 TBID:7642 TEID:7772
+000000028	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:762:20 NODE_KIND:113 nVARs:18 NUM_NODE:331 TBID:7334 TEID:7462
+000000030	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:826:20 NODE_KIND:113 nVARs:18 NUM_NODE:331 TBID:7773 TEID:7901
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:931:20 NODE_KIND:113 nVARs:19 NUM_NODE:310 TBID:8531 TEID:8653
+000000077	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:604:20 NODE_KIND:113 nVARs:18 NUM_NODE:331 TBID:6069 TEID:6197
+000000079	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:648:20 NODE_KIND:113 nVARs:18 NUM_NODE:331 TBID:6333 TEID:6461
+000000080	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:711:20 NODE_KIND:113 nVARs:19 NUM_NODE:332 TBID:6748 TEID:6874
+000000088	dist:7.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:477:20 NODE_KIND:113 nVARs:17 NUM_NODE:327 TBID:4912 TEID:5034
+000000089	dist:7.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:498:20 NODE_KIND:113 nVARs:17 NUM_NODE:327 TBID:5035 TEID:5157
+000000090	dist:7.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:540:20 NODE_KIND:113 nVARs:19 NUM_NODE:327 TBID:5295 TEID:5417
+
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BiDiagonalTransformerTest.java LINE:48:12 NODE_KIND:113 nVARs:14 NUM_NODE:330 TBID:228 TEID:367
+000000039	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:279:12 NODE_KIND:113 nVARs:13 NUM_NODE:309 TBID:1607 TEID:1738
+
+000000044	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java LINE:46:14 NODE_KIND:113 nVARs:16 NUM_NODE:335 TBID:176 TEID:288
+000000045	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java LINE:61:14 NODE_KIND:113 nVARs:16 NUM_NODE:335 TBID:289 TEID:401
+
+000000047	dist:7.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java LINE:276:16 NODE_KIND:121 nVARs:23 NUM_NODE:332 TBID:1935 TEID:2054
+000000046	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java LINE:275:18 NODE_KIND:113 nVARs:25 NUM_NODE:347 TBID:1924 TEID:2055
+
+000000069	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:170:18 NODE_KIND:121 nVARs:15 NUM_NODE:344 TBID:1488 TEID:1609
+000000070	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:189:18 NODE_KIND:121 nVARs:15 NUM_NODE:344 TBID:1628 TEID:1749
+
+000000082	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:260:23 NODE_KIND:121 nVARs:19 NUM_NODE:325 TBID:2483 TEID:2610
+000000083	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:349:23 NODE_KIND:121 nVARs:21 NUM_NODE:316 TBID:2930 TEID:3053
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:395:14 NODE_KIND:113 nVARs:15 NUM_NODE:530 TBID:2217 TEID:2361
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:410:14 NODE_KIND:113 nVARs:16 NUM_NODE:530 TBID:2362 TEID:2506
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java LINE:129:20 NODE_KIND:113 nVARs:15 NUM_NODE:540 TBID:861 TEID:1041
+000000008	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java LINE:150:20 NODE_KIND:113 nVARs:15 NUM_NODE:540 TBID:1042 TEID:1222
+000000009	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java LINE:193:19 NODE_KIND:113 nVARs:16 NUM_NODE:563 TBID:1399 TEID:1585
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:110:15 NODE_KIND:121 nVARs:26 NUM_NODE:521 TBID:746 TEID:901
+000000012	dist:7.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:194:23 NODE_KIND:121 nVARs:29 NUM_NODE:519 TBID:1333 TEID:1498
+000000013	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:366:20 NODE_KIND:121 nVARs:30 NUM_NODE:530 TBID:2363 TEID:2530
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:276:15 NODE_KIND:121 nVARs:26 NUM_NODE:521 TBID:1590 TEID:1745
+000000026	dist:9.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:458:16 NODE_KIND:121 nVARs:30 NUM_NODE:529 TBID:2865 TEID:3028
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:136:16 NODE_KIND:121 nVARs:28 NUM_NODE:562 TBID:983 TEID:1147
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:302:16 NODE_KIND:121 nVARs:28 NUM_NODE:562 TBID:1827 TEID:1991
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:415:17 NODE_KIND:121 nVARs:31 NUM_NODE:567 TBID:2735 TEID:2909
+000000025	dist:5.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:458:16 NODE_KIND:121 nVARs:30 NUM_NODE:572 TBID:2851 TEID:3028
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:460:21 NODE_KIND:113 nVARs:25 NUM_NODE:551 TBID:4697 TEID:4896
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:323:21 NODE_KIND:113 nVARs:25 NUM_NODE:551 TBID:3651 TEID:3850
+
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:783:21 NODE_KIND:113 nVARs:19 NUM_NODE:535 TBID:7463 TEID:7641
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:847:21 NODE_KIND:113 nVARs:19 NUM_NODE:535 TBID:7902 TEID:8080
+000000019	dist:8.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1040:20 NODE_KIND:113 nVARs:21 NUM_NODE:514 TBID:9269 TEID:9437
+000000020	dist:8.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1103:20 NODE_KIND:113 nVARs:21 NUM_NODE:514 TBID:9687 TEID:9855
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HilbertMatrix.java LINE:22:54 NODE_KIND:153 nVARs:20 NUM_NODE:571 TBID:24 TEID:231
+000000022	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HilbertMatrix.java LINE:22:54 NODE_KIND:182 nVARs:20 NUM_NODE:570 TBID:24 TEID:231
+
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:134:24 NODE_KIND:113 nVARs:20 NUM_NODE:557 TBID:783 TEID:963
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:171:24 NODE_KIND:113 nVARs:20 NUM_NODE:557 TBID:1021 TEID:1201
+000000037	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:133:24 NODE_KIND:113 nVARs:20 NUM_NODE:557 TBID:779 TEID:959
+000000038	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:170:24 NODE_KIND:113 nVARs:20 NUM_NODE:557 TBID:1017 TEID:1197
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRSolverTest.java LINE:145:23 NODE_KIND:113 nVARs:31 NUM_NODE:526 TBID:755 TEID:937
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRSolverTest.java LINE:148:23 NODE_KIND:113 nVARs:31 NUM_NODE:526 TBID:673 TEID:855
+
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:187:23 NODE_KIND:113 nVARs:20 NUM_NODE:534 TBID:1622 TEID:1784
+000000036	dist:10.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:409:21 NODE_KIND:113 nVARs:24 NUM_NODE:526 TBID:3384 TEID:3544
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:37:1135 NODE_KIND:153 nVARs:236 NUM_NODE:26104 TBID:140 TEID:8760
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:37:1135 NODE_KIND:182 nVARs:236 NUM_NODE:26103 TBID:140 TEID:8760
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:39:1107 NODE_KIND:153 nVARs:212 NUM_NODE:26275 TBID:166 TEID:9180
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:39:1107 NODE_KIND:182 nVARs:212 NUM_NODE:26274 TBID:166 TEID:9180
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:61:1912 NODE_KIND:153 nVARs:333 NUM_NODE:33813 TBID:528 TEID:11963
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:61:1912 NODE_KIND:182 nVARs:333 NUM_NODE:33812 TBID:528 TEID:11963
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:40:1337 NODE_KIND:153 nVARs:238 NUM_NODE:36209 TBID:154 TEID:12328
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:40:1337 NODE_KIND:182 nVARs:238 NUM_NODE:36208 TBID:154 TEID:12328
+
+
+000000010	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:418:32 NODE_KIND:113 nVARs:32 NUM_NODE:1136 TBID:3103 TEID:3476
+000000011	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:463:32 NODE_KIND:113 nVARs:32 NUM_NODE:1136 TBID:3704 TEID:4077
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:367:34 NODE_KIND:113 nVARs:32 NUM_NODE:1136 TBID:2605 TEID:2975
+
+000000002	dist:13.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:748:59 NODE_KIND:121 nVARs:29 NUM_NODE:1021 TBID:4748 TEID:5057
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:746:62 NODE_KIND:113 nVARs:31 NUM_NODE:1078 TBID:4721 TEID:5058
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/InverseHilbertMatrix.java LINE:27:75 NODE_KIND:153 nVARs:27 NUM_NODE:1053 TBID:50 TEID:391
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/InverseHilbertMatrix.java LINE:27:75 NODE_KIND:182 nVARs:27 NUM_NODE:1052 TBID:50 TEID:391
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:216:35 NODE_KIND:113 nVARs:18 NUM_NODE:732 TBID:892 TEID:1110
+000000001	dist:4.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:262:36 NODE_KIND:113 nVARs:19 NUM_NODE:727 TBID:1180 TEID:1395
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:101:25 NODE_KIND:113 nVARs:34 NUM_NODE:727 TBID:680 TEID:902
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:267:25 NODE_KIND:113 nVARs:34 NUM_NODE:727 TBID:1524 TEID:1746
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:127:26 NODE_KIND:113 nVARs:36 NUM_NODE:811 TBID:903 TEID:1148
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:293:26 NODE_KIND:113 nVARs:36 NUM_NODE:811 TBID:1747 TEID:1992
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:510:45 NODE_KIND:113 nVARs:43 NUM_NODE:728 TBID:3340 TEID:3612
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:594:45 NODE_KIND:113 nVARs:43 NUM_NODE:728 TBID:3749 TEID:4021
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:556:46 NODE_KIND:113 nVARs:46 NUM_NODE:775 TBID:3613 TEID:3898
+000000013	dist:11.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:640:47 NODE_KIND:113 nVARs:48 NUM_NODE:816 TBID:4022 TEID:4322
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:61:1912 NODE_KIND:153 nVARs:333 NUM_NODE:33813 TBID:528 TEID:11963
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:61:1912 NODE_KIND:182 nVARs:333 NUM_NODE:33812 TBID:528 TEID:11963
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:189:25 NODE_KIND:113 nVARs:21 NUM_NODE:597 TBID:1516 TEID:1683
+000000001	dist:7.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:309:25 NODE_KIND:113 nVARs:25 NUM_NODE:581 TBID:2280 TEID:2443
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:78:22 NODE_KIND:113 nVARs:32 NUM_NODE:623 TBID:487 TEID:679
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:244:22 NODE_KIND:113 nVARs:32 NUM_NODE:623 TBID:1331 TEID:1523
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:136:16 NODE_KIND:121 nVARs:28 NUM_NODE:605 TBID:969 TEID:1147
+000000008	dist:10.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:415:17 NODE_KIND:121 nVARs:31 NUM_NODE:610 TBID:2721 TEID:2909
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:302:16 NODE_KIND:121 nVARs:28 NUM_NODE:605 TBID:1813 TEID:1991
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:136:16 NODE_KIND:121 nVARs:28 NUM_NODE:562 TBID:983 TEID:1147
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:302:16 NODE_KIND:121 nVARs:28 NUM_NODE:562 TBID:1827 TEID:1991
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:415:17 NODE_KIND:121 nVARs:31 NUM_NODE:567 TBID:2735 TEID:2909
+000000008	dist:9.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:415:17 NODE_KIND:121 nVARs:31 NUM_NODE:610 TBID:2721 TEID:2909
+000000015	dist:5.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:458:16 NODE_KIND:121 nVARs:30 NUM_NODE:572 TBID:2851 TEID:3028
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HilbertMatrix.java LINE:22:54 NODE_KIND:153 nVARs:20 NUM_NODE:571 TBID:24 TEID:231
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HilbertMatrix.java LINE:22:54 NODE_KIND:182 nVARs:20 NUM_NODE:570 TBID:24 TEID:231
+
+000000020	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:131:15 NODE_KIND:121 nVARs:2 NUM_NODE:619 TBID:726 TEID:883
+000000019	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:129:18 NODE_KIND:113 nVARs:4 NUM_NODE:629 TBID:718 TEID:884
+
+
+000000003	dist:15.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:1070:71 NODE_KIND:113 nVARs:18 NUM_NODE:1584 TBID:8164 TEID:8678
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:583:79 NODE_KIND:113 nVARs:19 NUM_NODE:1639 TBID:4239 TEID:4772
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:514:52 NODE_KIND:113 nVARs:28 NUM_NODE:1719 TBID:5068 TEID:5621
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:377:49 NODE_KIND:113 nVARs:28 NUM_NODE:1719 TBID:4024 TEID:4577
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:27:260 NODE_KIND:153 nVARs:77 NUM_NODE:4974 TBID:45 TEID:1787
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:27:260 NODE_KIND:182 nVARs:77 NUM_NODE:4973 TBID:45 TEID:1787
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ArrayRealVectorTest.java LINE:27:146 NODE_KIND:153 nVARs:54 NUM_NODE:4864 TBID:38 TEID:1499
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ArrayRealVectorTest.java LINE:27:146 NODE_KIND:182 nVARs:54 NUM_NODE:4863 TBID:38 TEID:1499
+
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:395:14 NODE_KIND:113 nVARs:15 NUM_NODE:530 TBID:2217 TEID:2361
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:410:14 NODE_KIND:113 nVARs:16 NUM_NODE:530 TBID:2362 TEID:2506
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1510:25 NODE_KIND:121 nVARs:21 NUM_NODE:472 TBID:9613 TEID:9782
+000000009	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1764:26 NODE_KIND:121 nVARs:21 NUM_NODE:491 TBID:10976 TEID:11150
+000000010	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1857:26 NODE_KIND:121 nVARs:23 NUM_NODE:479 TBID:11477 TEID:11645
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:110:15 NODE_KIND:121 nVARs:26 NUM_NODE:521 TBID:746 TEID:901
+000000015	dist:7.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:194:23 NODE_KIND:121 nVARs:29 NUM_NODE:519 TBID:1333 TEID:1498
+000000017	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:366:20 NODE_KIND:121 nVARs:30 NUM_NODE:530 TBID:2363 TEID:2530
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:276:15 NODE_KIND:121 nVARs:26 NUM_NODE:521 TBID:1590 TEID:1745
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:110:15 NODE_KIND:121 nVARs:26 NUM_NODE:478 TBID:760 TEID:901
+000000016	dist:7.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:194:23 NODE_KIND:121 nVARs:29 NUM_NODE:476 TBID:1347 TEID:1498
+000000018	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:366:20 NODE_KIND:121 nVARs:30 NUM_NODE:487 TBID:2377 TEID:2530
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:276:15 NODE_KIND:121 nVARs:26 NUM_NODE:478 TBID:1604 TEID:1745
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:418:13 NODE_KIND:113 nVARs:12 NUM_NODE:505 TBID:4310 TEID:4472
+000000046	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:283:11 NODE_KIND:113 nVARs:12 NUM_NODE:516 TBID:3262 TEID:3426
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:687:26 NODE_KIND:113 nVARs:20 NUM_NODE:492 TBID:6841 TEID:7022
+000000047	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:527:26 NODE_KIND:113 nVARs:20 NUM_NODE:492 TBID:5576 TEID:5757
+
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:783:21 NODE_KIND:113 nVARs:19 NUM_NODE:535 TBID:7463 TEID:7641
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:847:21 NODE_KIND:113 nVARs:19 NUM_NODE:535 TBID:7902 TEID:8080
+000000024	dist:8.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:911:19 NODE_KIND:113 nVARs:20 NUM_NODE:503 TBID:8363 TEID:8530
+000000025	dist:8.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:973:19 NODE_KIND:113 nVARs:20 NUM_NODE:503 TBID:8792 TEID:8959
+000000026	dist:8.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1040:20 NODE_KIND:113 nVARs:21 NUM_NODE:514 TBID:9269 TEID:9437
+000000027	dist:8.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1103:20 NODE_KIND:113 nVARs:21 NUM_NODE:514 TBID:9687 TEID:9855
+
+000000015	dist:9.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:194:23 NODE_KIND:121 nVARs:29 NUM_NODE:519 TBID:1333 TEID:1498
+000000017	dist:8.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:366:20 NODE_KIND:121 nVARs:30 NUM_NODE:530 TBID:2363 TEID:2530
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:458:16 NODE_KIND:121 nVARs:30 NUM_NODE:529 TBID:2865 TEID:3028
+
+000000035	dist:5.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:502:20 NODE_KIND:121 nVARs:29 NUM_NODE:484 TBID:3141 TEID:3325
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:501:22 NODE_KIND:113 nVARs:30 NUM_NODE:497 TBID:3132 TEID:3326
+
+000000039	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRSolverTest.java LINE:145:23 NODE_KIND:113 nVARs:31 NUM_NODE:526 TBID:755 TEID:937
+000000050	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRSolverTest.java LINE:148:23 NODE_KIND:113 nVARs:31 NUM_NODE:526 TBID:673 TEID:855
+
+000000051	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:647:26 NODE_KIND:121 nVARs:24 NUM_NODE:501 TBID:4676 TEID:4856
+000000052	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:742:26 NODE_KIND:121 nVARs:26 NUM_NODE:489 TBID:5225 TEID:5399
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:216:35 NODE_KIND:113 nVARs:18 NUM_NODE:732 TBID:892 TEID:1110
+000000001	dist:4.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:262:36 NODE_KIND:113 nVARs:19 NUM_NODE:727 TBID:1180 TEID:1395
+
+000000006	dist:11.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1628:36 NODE_KIND:113 nVARs:25 NUM_NODE:683 TBID:10239 TEID:10470
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1503:34 NODE_KIND:113 nVARs:27 NUM_NODE:667 TBID:9562 TEID:9790
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:101:25 NODE_KIND:113 nVARs:34 NUM_NODE:727 TBID:680 TEID:902
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:267:25 NODE_KIND:113 nVARs:34 NUM_NODE:727 TBID:1524 TEID:1746
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:306:23 NODE_KIND:113 nVARs:35 NUM_NODE:670 TBID:1962 TEID:2167
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:407:23 NODE_KIND:113 nVARs:35 NUM_NODE:670 TBID:2456 TEID:2661
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:510:45 NODE_KIND:113 nVARs:43 NUM_NODE:728 TBID:3340 TEID:3612
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:594:45 NODE_KIND:113 nVARs:43 NUM_NODE:728 TBID:3749 TEID:4021
+
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:30:334 NODE_KIND:153 nVARs:85 NUM_NODE:6387 TBID:66 TEID:2331
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:30:334 NODE_KIND:182 nVARs:85 NUM_NODE:6386 TBID:66 TEID:2331
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java LINE:30:302 NODE_KIND:153 nVARs:101 NUM_NODE:6345 TBID:60 TEID:2301
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java LINE:30:302 NODE_KIND:182 nVARs:101 NUM_NODE:6344 TBID:60 TEID:2301
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/OpenMapRealMatrixTest.java LINE:23:27 NODE_KIND:153 nVARs:21 NUM_NODE:392 TBID:38 TEID:177
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/OpenMapRealMatrixTest.java LINE:23:27 NODE_KIND:182 nVARs:21 NUM_NODE:391 TBID:38 TEID:177
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:634:13 NODE_KIND:113 nVARs:17 NUM_NODE:413 TBID:3858 TEID:3980
+000000006	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:732:13 NODE_KIND:113 nVARs:18 NUM_NODE:404 TBID:4600 TEID:4720
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:683:13 NODE_KIND:113 nVARs:17 NUM_NODE:377 TBID:4230 TEID:4343
+000000006	dist:7.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:732:13 NODE_KIND:113 nVARs:18 NUM_NODE:404 TBID:4600 TEID:4720
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:87:12 NODE_KIND:121 nVARs:23 NUM_NODE:374 TBID:567 TEID:678
+000000011	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:316:12 NODE_KIND:121 nVARs:24 NUM_NODE:385 TBID:2053 TEID:2166
+000000010	dist:6.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:199:14 NODE_KIND:121 nVARs:26 NUM_NODE:378 TBID:1369 TEID:1488
+000000012	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:371:13 NODE_KIND:121 nVARs:27 NUM_NODE:389 TBID:2399 TEID:2520
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:253:12 NODE_KIND:121 nVARs:23 NUM_NODE:374 TBID:1411 TEID:1522
+000000024	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:417:12 NODE_KIND:121 nVARs:24 NUM_NODE:385 TBID:2547 TEID:2660
+
+000000033	dist:7.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:419:20 NODE_KIND:113 nVARs:18 NUM_NODE:383 TBID:2548 TEID:2677
+000000035	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:463:17 NODE_KIND:121 nVARs:19 NUM_NODE:411 TBID:2781 TEID:2915
+000000030	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:88:17 NODE_KIND:121 nVARs:17 NUM_NODE:401 TBID:438 TEID:564
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:86:20 NODE_KIND:113 nVARs:19 NUM_NODE:411 TBID:430 TEID:565
+000000031	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:109:18 NODE_KIND:121 nVARs:20 NUM_NODE:399 TBID:588 TEID:716
+000000014	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:92:17 NODE_KIND:121 nVARs:17 NUM_NODE:401 TBID:546 TEID:672
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:90:20 NODE_KIND:113 nVARs:19 NUM_NODE:411 TBID:538 TEID:673
+000000015	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:113:18 NODE_KIND:121 nVARs:20 NUM_NODE:399 TBID:696 TEID:824
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:159:18 NODE_KIND:121 nVARs:12 NUM_NODE:371 TBID:1058 TEID:1187
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:178:18 NODE_KIND:121 nVARs:12 NUM_NODE:371 TBID:1188 TEID:1317
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:588:28 NODE_KIND:113 nVARs:20 NUM_NODE:389 TBID:5963 TEID:6123
+000000049	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:448:28 NODE_KIND:113 nVARs:20 NUM_NODE:389 TBID:4919 TEID:5079
+
+000000019	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:890:20 NODE_KIND:113 nVARs:23 NUM_NODE:380 TBID:8218 TEID:8362
+000000051	dist:6.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:669:20 NODE_KIND:113 nVARs:19 NUM_NODE:372 TBID:6462 TEID:6602
+000000052	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:690:20 NODE_KIND:113 nVARs:23 NUM_NODE:380 TBID:6603 TEID:6747
+000000059	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:519:20 NODE_KIND:113 nVARs:19 NUM_NODE:367 TBID:5158 TEID:5294
+
+000000039	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:813:19 NODE_KIND:113 nVARs:16 NUM_NODE:377 TBID:6060 TEID:6187
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1020:19 NODE_KIND:113 nVARs:17 NUM_NODE:388 TBID:9135 TEID:9268
+000000045	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:932:19 NODE_KIND:113 nVARs:16 NUM_NODE:377 TBID:7216 TEID:7343
+000000053	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:780:19 NODE_KIND:113 nVARs:17 NUM_NODE:388 TBID:7188 TEID:7321
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1139:13 NODE_KIND:113 nVARs:17 NUM_NODE:412 TBID:9980 TEID:10134
+000000054	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:857:13 NODE_KIND:113 nVARs:17 NUM_NODE:412 TBID:7695 TEID:7849
+000000060	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:569:13 NODE_KIND:113 nVARs:18 NUM_NODE:402 TBID:5490 TEID:5636
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:422:16 NODE_KIND:121 nVARs:15 NUM_NODE:370 TBID:2558 TEID:2676
+000000033	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:419:20 NODE_KIND:113 nVARs:18 NUM_NODE:383 TBID:2548 TEID:2677
+000000036	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:463:17 NODE_KIND:121 nVARs:18 NUM_NODE:368 TBID:2795 TEID:2915
+000000030	dist:8.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:88:17 NODE_KIND:121 nVARs:17 NUM_NODE:401 TBID:438 TEID:564
+000000014	dist:8.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:92:17 NODE_KIND:121 nVARs:17 NUM_NODE:401 TBID:546 TEID:672
+
+000000038	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:579:25 NODE_KIND:121 nVARs:17 NUM_NODE:387 TBID:4734 TEID:4872
+000000037	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:549:25 NODE_KIND:121 nVARs:19 NUM_NODE:409 TBID:4562 TEID:4704
+
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:1125:12 NODE_KIND:121 nVARs:6 NUM_NODE:398 TBID:8491 TEID:8593
+000000042	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:1126:10 NODE_KIND:121 nVARs:6 NUM_NODE:396 TBID:8492 TEID:8592
+
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:340:13 NODE_KIND:113 nVARs:19 NUM_NODE:407 TBID:2869 TEID:2993
+000000044	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:354:13 NODE_KIND:113 nVARs:19 NUM_NODE:407 TBID:2994 TEID:3118
+
+000000047	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:170:18 NODE_KIND:121 nVARs:16 NUM_NODE:392 TBID:1470 TEID:1609
+000000048	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:189:18 NODE_KIND:121 nVARs:16 NUM_NODE:392 TBID:1610 TEID:1749
+
+000000055	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:1111:12 NODE_KIND:121 nVARs:9 NUM_NODE:407 TBID:8896 TEID:9004
+000000056	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:1112:10 NODE_KIND:121 nVARs:9 NUM_NODE:405 TBID:8897 TEID:9003
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1159:82 NODE_KIND:113 nVARs:19 NUM_NODE:2391 TBID:10172 TEID:10945
+000000003	dist:18.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:594:78 NODE_KIND:113 nVARs:21 NUM_NODE:2432 TBID:5637 TEID:6416
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskyDecompositionTest.java LINE:23:116 NODE_KIND:153 nVARs:43 NUM_NODE:2409 TBID:25 TEID:815
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskyDecompositionTest.java LINE:23:116 NODE_KIND:182 nVARs:43 NUM_NODE:2408 TBID:25 TEID:815
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:27:260 NODE_KIND:153 nVARs:77 NUM_NODE:4974 TBID:45 TEID:1787
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:27:260 NODE_KIND:182 nVARs:77 NUM_NODE:4973 TBID:45 TEID:1787
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:28:660 NODE_KIND:153 nVARs:152 NUM_NODE:12841 TBID:84 TEID:4323
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:28:660 NODE_KIND:182 nVARs:152 NUM_NODE:12840 TBID:84 TEID:4323
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorFormatAbstractTest.java LINE:29:327 NODE_KIND:153 nVARs:77 NUM_NODE:5740 TBID:59 TEID:2065
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorFormatAbstractTest.java LINE:29:327 NODE_KIND:182 nVARs:77 NUM_NODE:5739 TBID:59 TEID:2065
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:23:269 NODE_KIND:153 nVARs:65 NUM_NODE:5569 TBID:25 TEID:1956
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:23:269 NODE_KIND:182 nVARs:65 NUM_NODE:5568 TBID:25 TEID:1956
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:40:1337 NODE_KIND:153 nVARs:238 NUM_NODE:36209 TBID:154 TEID:12328
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:40:1337 NODE_KIND:182 nVARs:238 NUM_NODE:36208 TBID:154 TEID:12328
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:30:334 NODE_KIND:153 nVARs:85 NUM_NODE:6387 TBID:66 TEID:2331
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:30:334 NODE_KIND:182 nVARs:85 NUM_NODE:6386 TBID:66 TEID:2331
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java LINE:30:302 NODE_KIND:153 nVARs:101 NUM_NODE:6345 TBID:60 TEID:2301
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueDecompositionTest.java LINE:30:302 NODE_KIND:182 nVARs:101 NUM_NODE:6344 TBID:60 TEID:2301
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:514:52 NODE_KIND:113 nVARs:28 NUM_NODE:1719 TBID:5068 TEID:5621
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:377:49 NODE_KIND:113 nVARs:28 NUM_NODE:1719 TBID:4024 TEID:4577
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueSolverTest.java LINE:25:135 NODE_KIND:153 nVARs:51 NUM_NODE:2108 TBID:38 TEID:783
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueSolverTest.java LINE:25:135 NODE_KIND:182 nVARs:51 NUM_NODE:2107 TBID:38 TEID:783
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUSolverTest.java LINE:25:145 NODE_KIND:153 nVARs:41 NUM_NODE:2009 TBID:38 TEID:785
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUSolverTest.java LINE:25:145 NODE_KIND:182 nVARs:41 NUM_NODE:2008 TBID:38 TEID:785
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java LINE:47:104 NODE_KIND:153 nVARs:60 NUM_NODE:2120 TBID:338 TEID:1025
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java LINE:47:104 NODE_KIND:182 nVARs:60 NUM_NODE:2119 TBID:338 TEID:1025
+
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:127:26 NODE_KIND:113 nVARs:36 NUM_NODE:811 TBID:903 TEID:1148
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:293:26 NODE_KIND:113 nVARs:36 NUM_NODE:811 TBID:1747 TEID:1992
+
+000000009	dist:8.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:482:14 NODE_KIND:113 nVARs:8 NUM_NODE:814 TBID:2917 TEID:3131
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:133:15 NODE_KIND:113 nVARs:10 NUM_NODE:845 TBID:826 TEID:1048
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:212:39 NODE_KIND:113 nVARs:25 NUM_NODE:828 TBID:1413 TEID:1682
+000000006	dist:4.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:253:38 NODE_KIND:113 nVARs:25 NUM_NODE:837 TBID:1683 TEID:1955
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:33:666 NODE_KIND:153 nVARs:176 NUM_NODE:14903 TBID:101 TEID:5016
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:33:666 NODE_KIND:182 nVARs:176 NUM_NODE:14902 TBID:101 TEID:5016
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:35:748 NODE_KIND:153 nVARs:166 NUM_NODE:14580 TBID:125 TEID:4744
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:35:748 NODE_KIND:182 nVARs:166 NUM_NODE:14579 TBID:125 TEID:4744
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:26:177 NODE_KIND:153 nVARs:66 NUM_NODE:3948 TBID:45 TEID:1330
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:26:177 NODE_KIND:182 nVARs:66 NUM_NODE:3947 TBID:45 TEID:1330
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:26:208 NODE_KIND:153 nVARs:67 NUM_NODE:3955 TBID:32 TEID:1416
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:26:208 NODE_KIND:182 nVARs:67 NUM_NODE:3954 TBID:32 TEID:1416
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:938:29 NODE_KIND:113 nVARs:21 NUM_NODE:895 TBID:5929 TEID:6182
+000000001	dist:8.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1274:30 NODE_KIND:113 nVARs:23 NUM_NODE:904 TBID:8085 TEID:8333
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:30:573 NODE_KIND:153 nVARs:112 NUM_NODE:11297 TBID:110 TEID:3899
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:30:573 NODE_KIND:182 nVARs:112 NUM_NODE:11296 TBID:110 TEID:3899
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:482:18 NODE_KIND:113 nVARs:17 NUM_NODE:238 TBID:4897 TEID:4997
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:345:18 NODE_KIND:113 nVARs:17 NUM_NODE:238 TBID:3851 TEID:3951
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/TriDiagonalTransformerTest.java LINE:27:152 NODE_KIND:153 nVARs:63 NUM_NODE:3181 TBID:45 TEID:1122
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/TriDiagonalTransformerTest.java LINE:27:152 NODE_KIND:182 nVARs:63 NUM_NODE:3180 TBID:45 TEID:1122
+
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUSolverTest.java LINE:26:152 NODE_KIND:182 nVARs:55 NUM_NODE:3077 TBID:64 TEID:1146
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUSolverTest.java LINE:26:152 NODE_KIND:153 nVARs:55 NUM_NODE:3078 TBID:64 TEID:1146
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenSolverTest.java LINE:28:173 NODE_KIND:153 nVARs:63 NUM_NODE:3307 TBID:58 TEID:1153
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenSolverTest.java LINE:28:173 NODE_KIND:182 nVARs:63 NUM_NODE:3306 TBID:58 TEID:1153
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRSolverTest.java LINE:27:170 NODE_KIND:153 nVARs:66 NUM_NODE:3157 TBID:45 TEID:1170
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRSolverTest.java LINE:27:170 NODE_KIND:182 nVARs:66 NUM_NODE:3156 TBID:45 TEID:1170
+
+
+000000003	dist:8.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:520:16 NODE_KIND:121 nVARs:12 NUM_NODE:418 TBID:3223 TEID:3349
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:518:19 NODE_KIND:113 nVARs:14 NUM_NODE:450 TBID:3208 TEID:3350
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:634:13 NODE_KIND:113 nVARs:17 NUM_NODE:413 TBID:3858 TEID:3980
+000000005	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:732:13 NODE_KIND:113 nVARs:18 NUM_NODE:404 TBID:4600 TEID:4720
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1416:49 NODE_KIND:113 nVARs:19 NUM_NODE:427 TBID:9157 TEID:9365
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1539:49 NODE_KIND:113 nVARs:19 NUM_NODE:427 TBID:9791 TEID:9999
+000000011	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1666:49 NODE_KIND:113 nVARs:19 NUM_NODE:440 TBID:10471 TEID:10682
+000000012	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1797:49 NODE_KIND:113 nVARs:19 NUM_NODE:440 TBID:11202 TEID:11413
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:87:12 NODE_KIND:121 nVARs:23 NUM_NODE:417 TBID:553 TEID:678
+000000014	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:316:12 NODE_KIND:121 nVARs:24 NUM_NODE:428 TBID:2039 TEID:2166
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:253:12 NODE_KIND:121 nVARs:23 NUM_NODE:417 TBID:1397 TEID:1522
+000000026	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:417:12 NODE_KIND:121 nVARs:24 NUM_NODE:428 TBID:2533 TEID:2660
+
+000000038	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:463:17 NODE_KIND:121 nVARs:19 NUM_NODE:411 TBID:2781 TEID:2915
+000000037	dist:4.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:460:21 NODE_KIND:113 nVARs:22 NUM_NODE:424 TBID:2771 TEID:2916
+000000034	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:88:17 NODE_KIND:121 nVARs:17 NUM_NODE:401 TBID:438 TEID:564
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:86:20 NODE_KIND:113 nVARs:19 NUM_NODE:411 TBID:430 TEID:565
+000000036	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:109:18 NODE_KIND:121 nVARs:20 NUM_NODE:399 TBID:588 TEID:716
+000000016	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:92:17 NODE_KIND:121 nVARs:17 NUM_NODE:401 TBID:546 TEID:672
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:90:20 NODE_KIND:113 nVARs:19 NUM_NODE:411 TBID:538 TEID:673
+000000018	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:113:18 NODE_KIND:121 nVARs:20 NUM_NODE:399 TBID:696 TEID:824
+
+000000038	dist:8.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:463:17 NODE_KIND:121 nVARs:19 NUM_NODE:411 TBID:2781 TEID:2915
+000000037	dist:7.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:460:21 NODE_KIND:113 nVARs:22 NUM_NODE:424 TBID:2771 TEID:2916
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:109:18 NODE_KIND:121 nVARs:21 NUM_NODE:442 TBID:574 TEID:716
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:113:18 NODE_KIND:121 nVARs:21 NUM_NODE:442 TBID:682 TEID:824
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:389:13 NODE_KIND:113 nVARs:21 NUM_NODE:425 TBID:4038 TEID:4173
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:403:13 NODE_KIND:113 nVARs:21 NUM_NODE:425 TBID:4174 TEID:4309
+000000046	dist:7.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:340:13 NODE_KIND:113 nVARs:19 NUM_NODE:407 TBID:2869 TEID:2993
+000000047	dist:7.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:354:13 NODE_KIND:113 nVARs:19 NUM_NODE:407 TBID:2994 TEID:3118
+
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:716:23 NODE_KIND:121 nVARs:16 NUM_NODE:432 TBID:7051 TEID:7197
+000000048	dist:8.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:608:23 NODE_KIND:121 nVARs:17 NUM_NODE:441 TBID:5224 TEID:5368
+000000054	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:556:23 NODE_KIND:121 nVARs:16 NUM_NODE:432 TBID:5786 TEID:5932
+
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1139:13 NODE_KIND:113 nVARs:17 NUM_NODE:412 TBID:9980 TEID:10134
+000000055	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:857:13 NODE_KIND:113 nVARs:17 NUM_NODE:412 TBID:7695 TEID:7849
+000000064	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:569:13 NODE_KIND:113 nVARs:18 NUM_NODE:402 TBID:5490 TEID:5636
+
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/MatrixUtilsTest.java LINE:252:12 NODE_KIND:113 nVARs:18 NUM_NODE:429 TBID:1672 TEID:1807
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/MatrixUtilsTest.java LINE:265:12 NODE_KIND:113 nVARs:18 NUM_NODE:429 TBID:1808 TEID:1943
+
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:1124:14 NODE_KIND:121 nVARs:7 NUM_NODE:443 TBID:8476 TEID:8594
+000000044	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:1125:12 NODE_KIND:121 nVARs:7 NUM_NODE:441 TBID:8477 TEID:8593
+
+000000050	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:635:23 NODE_KIND:121 nVARs:15 NUM_NODE:419 TBID:5395 TEID:5535
+000000048	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:608:23 NODE_KIND:121 nVARs:17 NUM_NODE:441 TBID:5224 TEID:5368
+
+000000051	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:825:18 NODE_KIND:113 nVARs:17 NUM_NODE:450 TBID:6538 TEID:6679
+000000052	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:886:18 NODE_KIND:113 nVARs:17 NUM_NODE:450 TBID:6911 TEID:7052
+
+000000057	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:1111:12 NODE_KIND:121 nVARs:9 NUM_NODE:407 TBID:8896 TEID:9004
+000000058	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:1112:10 NODE_KIND:121 nVARs:9 NUM_NODE:405 TBID:8897 TEID:9003
+
+000000059	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:287:49 NODE_KIND:113 nVARs:21 NUM_NODE:433 TBID:2619 TEID:2834
+000000060	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:414:49 NODE_KIND:113 nVARs:21 NUM_NODE:433 TBID:3330 TEID:3545
+000000061	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:545:49 NODE_KIND:113 nVARs:21 NUM_NODE:450 TBID:4091 TEID:4311
+000000062	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:680:49 NODE_KIND:113 nVARs:21 NUM_NODE:450 TBID:4909 TEID:5129
+
+
+000000048	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:702:20 NODE_KIND:113 nVARs:18 NUM_NODE:342 TBID:5415 TEID:5537
+000000051	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:854:20 NODE_KIND:113 nVARs:18 NUM_NODE:351 TBID:6299 TEID:6424
+000000049	dist:4.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:723:20 NODE_KIND:113 nVARs:20 NUM_NODE:339 TBID:5538 TEID:5661
+000000029	dist:7.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1082:20 NODE_KIND:113 nVARs:19 NUM_NODE:363 TBID:9555 TEID:9686
+000000056	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:993:20 NODE_KIND:113 nVARs:18 NUM_NODE:351 TBID:7604 TEID:7729
+000000054	dist:4.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:804:20 NODE_KIND:113 nVARs:20 NUM_NODE:339 TBID:6414 TEID:6537
+000000072	dist:7.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:821:20 NODE_KIND:113 nVARs:19 NUM_NODE:363 TBID:7439 TEID:7570
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:510:20 NODE_KIND:113 nVARs:18 NUM_NODE:342 TBID:3755 TEID:3876
+
+000000052	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:890:13 NODE_KIND:113 nVARs:16 NUM_NODE:367 TBID:6551 TEID:6684
+000000057	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:1049:13 NODE_KIND:113 nVARs:16 NUM_NODE:343 TBID:8005 TEID:8132
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:560:13 NODE_KIND:113 nVARs:17 NUM_NODE:355 TBID:4057 TEID:4185
+
+000000006	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:875:7 NODE_KIND:121 nVARs:25 NUM_NODE:341 TBID:5456 TEID:5583
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:874:9 NODE_KIND:113 nVARs:26 NUM_NODE:352 TBID:5448 TEID:5584
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1635:24 NODE_KIND:121 nVARs:17 NUM_NODE:345 TBID:10290 TEID:10419
+000000009	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1726:24 NODE_KIND:121 nVARs:19 NUM_NODE:336 TBID:10746 TEID:10871
+
+000000012	dist:5.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:143:8 NODE_KIND:121 nVARs:19 NUM_NODE:360 TBID:1043 TEID:1146
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:87:12 NODE_KIND:121 nVARs:23 NUM_NODE:374 TBID:567 TEID:678
+000000013	dist:6.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:199:14 NODE_KIND:121 nVARs:26 NUM_NODE:378 TBID:1369 TEID:1488
+000000032	dist:5.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:309:8 NODE_KIND:121 nVARs:19 NUM_NODE:360 TBID:1887 TEID:1990
+000000031	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:253:12 NODE_KIND:121 nVARs:23 NUM_NODE:374 TBID:1411 TEID:1522
+
+000000046	dist:8.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:125:14 NODE_KIND:113 nVARs:20 NUM_NODE:344 TBID:1240 TEID:1354
+000000040	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:422:16 NODE_KIND:121 nVARs:15 NUM_NODE:370 TBID:2558 TEID:2676
+000000041	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:463:17 NODE_KIND:121 nVARs:18 NUM_NODE:368 TBID:2795 TEID:2915
+000000037	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:88:17 NODE_KIND:121 nVARs:16 NUM_NODE:358 TBID:452 TEID:564
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:92:17 NODE_KIND:121 nVARs:16 NUM_NODE:358 TBID:560 TEID:672
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:159:18 NODE_KIND:121 nVARs:12 NUM_NODE:371 TBID:1058 TEID:1187
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUDecompositionTest.java LINE:178:18 NODE_KIND:121 nVARs:12 NUM_NODE:371 TBID:1188 TEID:1317
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:160:11 NODE_KIND:113 nVARs:14 NUM_NODE:348 TBID:1917 TEID:2042
+000000064	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:102:11 NODE_KIND:113 nVARs:14 NUM_NODE:348 TBID:1929 TEID:2054
+000000075	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:127:11 NODE_KIND:113 nVARs:15 NUM_NODE:338 TBID:1965 TEID:2082
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:279:9 NODE_KIND:121 nVARs:15 NUM_NODE:349 TBID:2980 TEID:3096
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:290:9 NODE_KIND:121 nVARs:15 NUM_NODE:349 TBID:3110 TEID:3226
+
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:590:25 NODE_KIND:121 nVARs:19 NUM_NODE:351 TBID:5993 TEID:6122
+000000065	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:450:25 NODE_KIND:121 nVARs:19 NUM_NODE:351 TBID:4949 TEID:5078
+
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:617:27 NODE_KIND:113 nVARs:18 NUM_NODE:361 TBID:6124 TEID:6276
+000000066	dist:2.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:477:28 NODE_KIND:113 nVARs:18 NUM_NODE:367 TBID:5080 TEID:5234
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:654:9 NODE_KIND:121 nVARs:8 NUM_NODE:361 TBID:6368 TEID:6474
+000000053	dist:5.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:572:9 NODE_KIND:121 nVARs:7 NUM_NODE:357 TBID:4734 TEID:4836
+
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:741:20 NODE_KIND:113 nVARs:17 NUM_NODE:342 TBID:7199 TEID:7333
+000000026	dist:4.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:869:20 NODE_KIND:113 nVARs:19 NUM_NODE:350 TBID:8081 TEID:8217
+000000067	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:581:22 NODE_KIND:113 nVARs:17 NUM_NODE:342 TBID:5934 TEID:6068
+000000068	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:625:22 NODE_KIND:113 nVARs:17 NUM_NODE:342 TBID:6198 TEID:6332
+
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:890:20 NODE_KIND:113 nVARs:23 NUM_NODE:380 TBID:8218 TEID:8362
+000000028	dist:4.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:952:20 NODE_KIND:113 nVARs:23 NUM_NODE:360 TBID:8654 TEID:8791
+000000069	dist:6.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:669:20 NODE_KIND:113 nVARs:19 NUM_NODE:372 TBID:6462 TEID:6602
+000000070	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:690:20 NODE_KIND:113 nVARs:23 NUM_NODE:380 TBID:6603 TEID:6747
+000000071	dist:4.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:732:20 NODE_KIND:113 nVARs:23 NUM_NODE:360 TBID:6875 TEID:7012
+000000077	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:519:20 NODE_KIND:113 nVARs:19 NUM_NODE:367 TBID:5158 TEID:5294
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:81:18 NODE_KIND:113 nVARs:16 NUM_NODE:351 TBID:441 TEID:548
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRDecompositionTest.java LINE:107:18 NODE_KIND:113 nVARs:16 NUM_NODE:351 TBID:605 TEID:712
+000000062	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:80:18 NODE_KIND:113 nVARs:16 NUM_NODE:351 TBID:428 TEID:535
+000000063	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRDecompositionTest.java LINE:106:18 NODE_KIND:113 nVARs:16 NUM_NODE:351 TBID:601 TEID:708
+
+000000050	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:813:19 NODE_KIND:113 nVARs:16 NUM_NODE:377 TBID:6060 TEID:6187
+000000055	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:932:19 NODE_KIND:113 nVARs:16 NUM_NODE:377 TBID:7216 TEID:7343
+
+000000060	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:170:18 NODE_KIND:121 nVARs:15 NUM_NODE:344 TBID:1488 TEID:1609
+000000061	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:189:18 NODE_KIND:121 nVARs:15 NUM_NODE:344 TBID:1628 TEID:1749
+
+000000073	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:514:24 NODE_KIND:121 nVARs:20 NUM_NODE:355 TBID:3903 TEID:4038
+000000074	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:607:24 NODE_KIND:121 nVARs:22 NUM_NODE:346 TBID:4407 TEID:4538
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskySolverTest.java LINE:25:88 NODE_KIND:153 nVARs:29 NUM_NODE:1331 TBID:38 TEID:489
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskySolverTest.java LINE:25:88 NODE_KIND:182 nVARs:29 NUM_NODE:1330 TBID:38 TEID:489
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:568:19 NODE_KIND:113 nVARs:16 NUM_NODE:1324 TBID:5622 TEID:5962
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:666:20 NODE_KIND:113 nVARs:16 NUM_NODE:1324 TBID:6500 TEID:6840
+000000009	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:497:19 NODE_KIND:113 nVARs:15 NUM_NODE:1314 TBID:4078 TEID:4412
+000000010	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:585:20 NODE_KIND:113 nVARs:15 NUM_NODE:1314 TBID:4862 TEID:5196
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:428:19 NODE_KIND:113 nVARs:16 NUM_NODE:1324 TBID:4578 TEID:4918
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:506:20 NODE_KIND:113 nVARs:16 NUM_NODE:1324 TBID:5235 TEID:5575
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RectangularCholeskyDecompositionTest.java LINE:23:92 NODE_KIND:153 nVARs:30 NUM_NODE:1451 TBID:25 TEID:458
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RectangularCholeskyDecompositionTest.java LINE:23:92 NODE_KIND:182 nVARs:30 NUM_NODE:1450 TBID:25 TEID:458
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorTest.java LINE:30:204 NODE_KIND:153 nVARs:50 NUM_NODE:1462 TBID:54 TEID:698
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorTest.java LINE:30:204 NODE_KIND:182 nVARs:50 NUM_NODE:1461 TBID:54 TEID:698
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:224:39 NODE_KIND:113 nVARs:28 NUM_NODE:1380 TBID:1881 TEID:2340
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUDecompositionTest.java LINE:265:38 NODE_KIND:113 nVARs:28 NUM_NODE:1379 TBID:2341 TEID:2799
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:36:672 NODE_KIND:153 nVARs:172 NUM_NODE:19898 TBID:140 TEID:6709
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:36:672 NODE_KIND:182 nVARs:172 NUM_NODE:19897 TBID:140 TEID:6709
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:37:1135 NODE_KIND:153 nVARs:236 NUM_NODE:26104 TBID:140 TEID:8760
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:37:1135 NODE_KIND:182 nVARs:236 NUM_NODE:26103 TBID:140 TEID:8760
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:38:1243 NODE_KIND:153 nVARs:237 NUM_NODE:26635 TBID:128 TEID:8988
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:38:1243 NODE_KIND:182 nVARs:237 NUM_NODE:26634 TBID:128 TEID:8988
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:39:1107 NODE_KIND:153 nVARs:212 NUM_NODE:26275 TBID:166 TEID:9180
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:39:1107 NODE_KIND:182 nVARs:212 NUM_NODE:26274 TBID:166 TEID:9180
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUSolverTest.java LINE:25:145 NODE_KIND:153 nVARs:41 NUM_NODE:2009 TBID:38 TEID:785
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUSolverTest.java LINE:25:145 NODE_KIND:182 nVARs:41 NUM_NODE:2008 TBID:38 TEID:785
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskySolverTest.java LINE:25:88 NODE_KIND:153 nVARs:29 NUM_NODE:1331 TBID:38 TEID:489
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskySolverTest.java LINE:25:88 NODE_KIND:182 nVARs:29 NUM_NODE:1330 TBID:38 TEID:489
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:568:19 NODE_KIND:113 nVARs:16 NUM_NODE:1324 TBID:5622 TEID:5962
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:666:20 NODE_KIND:113 nVARs:16 NUM_NODE:1324 TBID:6500 TEID:6840
+000000009	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:497:19 NODE_KIND:113 nVARs:15 NUM_NODE:1314 TBID:4078 TEID:4412
+000000010	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:585:20 NODE_KIND:113 nVARs:15 NUM_NODE:1314 TBID:4862 TEID:5196
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:428:19 NODE_KIND:113 nVARs:16 NUM_NODE:1324 TBID:4578 TEID:4918
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:506:20 NODE_KIND:113 nVARs:16 NUM_NODE:1324 TBID:5235 TEID:5575
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:161:46 NODE_KIND:113 nVARs:16 NUM_NODE:1224 TBID:753 TEID:1089
+000000007	dist:6.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:208:44 NODE_KIND:113 nVARs:16 NUM_NODE:1230 TBID:1090 TEID:1433
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUSolverTest.java LINE:26:152 NODE_KIND:153 nVARs:55 NUM_NODE:3078 TBID:64 TEID:1146
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldLUSolverTest.java LINE:26:152 NODE_KIND:182 nVARs:55 NUM_NODE:3077 TBID:64 TEID:1146
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRSolverTest.java LINE:27:176 NODE_KIND:153 nVARs:70 NUM_NODE:2975 TBID:45 TEID:1111
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRSolverTest.java LINE:27:176 NODE_KIND:182 nVARs:70 NUM_NODE:2974 TBID:45 TEID:1111
+
+
+000000005	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1216:21 NODE_KIND:121 nVARs:17 NUM_NODE:470 TBID:7777 TEID:7922
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1215:23 NODE_KIND:113 nVARs:18 NUM_NODE:482 TBID:7768 TEID:7923
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1510:25 NODE_KIND:121 nVARs:21 NUM_NODE:472 TBID:9613 TEID:9782
+000000009	dist:5.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1764:26 NODE_KIND:121 nVARs:21 NUM_NODE:491 TBID:10976 TEID:11150
+000000007	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1599:25 NODE_KIND:121 nVARs:23 NUM_NODE:460 TBID:10063 TEID:10226
+000000011	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1857:26 NODE_KIND:121 nVARs:23 NUM_NODE:479 TBID:11477 TEID:11645
+000000064	dist:8.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:385:25 NODE_KIND:121 nVARs:23 NUM_NODE:471 TBID:3149 TEID:3321
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1666:49 NODE_KIND:113 nVARs:19 NUM_NODE:440 TBID:10471 TEID:10682
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1797:49 NODE_KIND:113 nVARs:19 NUM_NODE:440 TBID:11202 TEID:11413
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java LINE:40:18 NODE_KIND:113 nVARs:12 NUM_NODE:466 TBID:156 TEID:305
+000000013	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/DiagonalMatrixTest.java LINE:59:19 NODE_KIND:113 nVARs:12 NUM_NODE:477 TBID:306 TEID:457
+
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:110:15 NODE_KIND:121 nVARs:26 NUM_NODE:478 TBID:760 TEID:901
+000000016	dist:7.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:194:23 NODE_KIND:121 nVARs:29 NUM_NODE:476 TBID:1347 TEID:1498
+000000017	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:366:20 NODE_KIND:121 nVARs:30 NUM_NODE:487 TBID:2377 TEID:2530
+000000029	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:276:15 NODE_KIND:121 nVARs:26 NUM_NODE:478 TBID:1604 TEID:1745
+
+000000033	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:109:18 NODE_KIND:121 nVARs:21 NUM_NODE:442 TBID:574 TEID:716
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:107:21 NODE_KIND:113 nVARs:23 NUM_NODE:452 TBID:566 TEID:717
+000000019	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:113:18 NODE_KIND:121 nVARs:21 NUM_NODE:442 TBID:682 TEID:824
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SchurTransformerTest.java LINE:111:21 NODE_KIND:113 nVARs:23 NUM_NODE:452 TBID:674 TEID:825
+
+000000022	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/TriDiagonalTransformerTest.java LINE:127:10 NODE_KIND:121 nVARs:4 NUM_NODE:467 TBID:734 TEID:854
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/TriDiagonalTransformerTest.java LINE:125:13 NODE_KIND:113 nVARs:6 NUM_NODE:477 TBID:726 TEID:855
+
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:226:18 NODE_KIND:113 nVARs:20 NUM_NODE:469 TBID:2435 TEID:2604
+000000057	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:167:18 NODE_KIND:113 nVARs:20 NUM_NODE:469 TBID:2314 TEID:2483
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:689:23 NODE_KIND:121 nVARs:18 NUM_NODE:454 TBID:6871 TEID:7021
+000000048	dist:8.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:608:23 NODE_KIND:121 nVARs:17 NUM_NODE:441 TBID:5224 TEID:5368
+000000047	dist:8.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:606:26 NODE_KIND:113 nVARs:19 NUM_NODE:473 TBID:5197 TEID:5369
+000000058	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:529:23 NODE_KIND:121 nVARs:18 NUM_NODE:454 TBID:5606 TEID:5756
+
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:714:26 NODE_KIND:113 nVARs:18 NUM_NODE:470 TBID:7023 TEID:7198
+000000059	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:554:26 NODE_KIND:113 nVARs:18 NUM_NODE:470 TBID:5758 TEID:5933
+
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HilbertMatrix.java LINE:50:25 NODE_KIND:113 nVARs:16 NUM_NODE:471 TBID:74 TEID:230
+000000039	dist:7.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/InverseHilbertMatrix.java LINE:75:26 NODE_KIND:113 nVARs:17 NUM_NODE:482 TBID:233 TEID:390
+
+000000028	dist:7.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:61:29 NODE_KIND:121 nVARs:20 NUM_NODE:452 TBID:270 TEID:428
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:60:33 NODE_KIND:121 nVARs:21 NUM_NODE:486 TBID:265 TEID:436
+
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:1124:14 NODE_KIND:121 nVARs:7 NUM_NODE:443 TBID:8476 TEID:8594
+000000044	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:1125:12 NODE_KIND:121 nVARs:7 NUM_NODE:441 TBID:8477 TEID:8593
+
+000000049	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:633:26 NODE_KIND:113 nVARs:17 NUM_NODE:451 TBID:5370 TEID:5536
+000000047	dist:9.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:606:26 NODE_KIND:113 nVARs:19 NUM_NODE:473 TBID:5197 TEID:5369
+
+000000050	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:702:18 NODE_KIND:113 nVARs:16 NUM_NODE:466 TBID:5771 TEID:5917
+000000051	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:763:19 NODE_KIND:113 nVARs:16 NUM_NODE:466 TBID:6148 TEID:6294
+000000052	dist:4.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:825:18 NODE_KIND:113 nVARs:17 NUM_NODE:450 TBID:6538 TEID:6679
+000000053	dist:4.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:886:18 NODE_KIND:113 nVARs:17 NUM_NODE:450 TBID:6911 TEID:7052
+000000054	dist:5.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:952:19 NODE_KIND:113 nVARs:18 NUM_NODE:469 TBID:7344 TEID:7492
+000000055	dist:5.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:1014:19 NODE_KIND:113 nVARs:18 NUM_NODE:469 TBID:7730 TEID:7878
+
+000000060	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:1110:14 NODE_KIND:121 nVARs:10 NUM_NODE:452 TBID:8881 TEID:9005
+000000061	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:1111:12 NODE_KIND:121 nVARs:10 NUM_NODE:450 TBID:8882 TEID:9004
+
+000000007	dist:8.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:1599:25 NODE_KIND:121 nVARs:23 NUM_NODE:460 TBID:10063 TEID:10226
+000000064	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:385:25 NODE_KIND:121 nVARs:23 NUM_NODE:471 TBID:3149 TEID:3321
+000000065	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:476:25 NODE_KIND:121 nVARs:25 NUM_NODE:459 TBID:3641 TEID:3807
+000000068	dist:8.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:742:26 NODE_KIND:121 nVARs:26 NUM_NODE:489 TBID:5225 TEID:5399
+
+000000066	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:545:49 NODE_KIND:113 nVARs:21 NUM_NODE:450 TBID:4091 TEID:4311
+000000067	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldVectorTest.java LINE:680:49 NODE_KIND:113 nVARs:21 NUM_NODE:450 TBID:4909 TEID:5129
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:30:573 NODE_KIND:153 nVARs:112 NUM_NODE:11297 TBID:110 TEID:3899
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:30:573 NODE_KIND:182 nVARs:112 NUM_NODE:11296 TBID:110 TEID:3899
+
+
+000000031	dist:5.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:332:10 NODE_KIND:113 nVARs:18 NUM_NODE:302 TBID:2554 TEID:2660
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:281:10 NODE_KIND:113 nVARs:17 NUM_NODE:296 TBID:2092 TEID:2191
+
+000000033	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:614:22 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:4947 TEID:5063
+000000035	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:658:22 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:5181 TEID:5297
+000000034	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:637:20 NODE_KIND:113 nVARs:17 NUM_NODE:311 TBID:5064 TEID:5180
+000000036	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:681:20 NODE_KIND:113 nVARs:17 NUM_NODE:311 TBID:5298 TEID:5414
+000000037	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:744:20 NODE_KIND:113 nVARs:18 NUM_NODE:312 TBID:5662 TEID:5776
+000000043	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:660:20 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:5537 TEID:5653
+000000044	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:681:20 NODE_KIND:113 nVARs:17 NUM_NODE:311 TBID:5654 TEID:5770
+000000046	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:742:20 NODE_KIND:113 nVARs:17 NUM_NODE:311 TBID:6031 TEID:6147
+000000047	dist:6.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:783:20 NODE_KIND:113 nVARs:18 NUM_NODE:320 TBID:6295 TEID:6413
+000000048	dist:6.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:844:20 NODE_KIND:113 nVARs:18 NUM_NODE:290 TBID:6680 TEID:6790
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:468:20 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:3527 TEID:3640
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:489:20 NODE_KIND:113 nVARs:16 NUM_NODE:312 TBID:3641 TEID:3754
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:531:20 NODE_KIND:113 nVARs:18 NUM_NODE:312 TBID:3877 TEID:3990
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:219:25 NODE_KIND:113 nVARs:21 NUM_NODE:314 TBID:1500 TEID:1621
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:245:25 NODE_KIND:113 nVARs:21 NUM_NODE:314 TBID:1622 TEID:1743
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:320:25 NODE_KIND:113 nVARs:21 NUM_NODE:314 TBID:1993 TEID:2114
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:346:25 NODE_KIND:113 nVARs:21 NUM_NODE:314 TBID:2115 TEID:2236
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskySolverTest.java LINE:36:24 NODE_KIND:113 nVARs:20 NUM_NODE:312 TBID:118 TEID:249
+000000052	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUSolverTest.java LINE:74:24 NODE_KIND:113 nVARs:20 NUM_NODE:312 TBID:328 TEID:459
+000000053	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/LUSolverTest.java LINE:100:24 NODE_KIND:113 nVARs:20 NUM_NODE:312 TBID:460 TEID:591
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SingularValueSolverTest.java LINE:41:24 NODE_KIND:113 nVARs:20 NUM_NODE:312 TBID:130 TEID:261
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:433:10 NODE_KIND:113 nVARs:18 NUM_NODE:303 TBID:4473 TEID:4598
+000000054	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:296:10 NODE_KIND:113 nVARs:18 NUM_NODE:303 TBID:3427 TEID:3552
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:805:20 NODE_KIND:113 nVARs:17 NUM_NODE:320 TBID:7642 TEID:7772
+000000012	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:931:20 NODE_KIND:113 nVARs:19 NUM_NODE:310 TBID:8531 TEID:8653
+
+000000038	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:833:20 NODE_KIND:113 nVARs:17 NUM_NODE:288 TBID:6188 TEID:6298
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1061:20 NODE_KIND:113 nVARs:18 NUM_NODE:300 TBID:9438 TEID:9554
+000000045	dist:6.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:721:20 NODE_KIND:113 nVARs:16 NUM_NODE:290 TBID:5918 TEID:6030
+000000049	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:972:20 NODE_KIND:113 nVARs:17 NUM_NODE:288 TBID:7493 TEID:7603
+000000048	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:844:20 NODE_KIND:113 nVARs:18 NUM_NODE:290 TBID:6680 TEID:6790
+000000055	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:800:20 NODE_KIND:113 nVARs:18 NUM_NODE:300 TBID:7322 TEID:7438
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:54:14 NODE_KIND:113 nVARs:14 NUM_NODE:283 TBID:217 TEID:317
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:69:15 NODE_KIND:113 nVARs:14 NUM_NODE:283 TBID:318 TEID:418
+000000016	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:85:15 NODE_KIND:113 nVARs:14 NUM_NODE:284 TBID:419 TEID:520
+000000017	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:101:15 NODE_KIND:113 nVARs:14 NUM_NODE:284 TBID:521 TEID:622
+000000018	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:117:15 NODE_KIND:113 nVARs:14 NUM_NODE:284 TBID:623 TEID:724
+
+000000039	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:239:9 NODE_KIND:121 nVARs:11 NUM_NODE:301 TBID:1982 TEID:2082
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:250:9 NODE_KIND:121 nVARs:11 NUM_NODE:301 TBID:2093 TEID:2193
+
+000000058	dist:5.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java LINE:141:7 NODE_KIND:121 nVARs:21 NUM_NODE:289 TBID:916 TEID:1023
+000000057	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealVectorTest.java LINE:139:10 NODE_KIND:113 nVARs:23 NUM_NODE:303 TBID:906 TEID:1024
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenSolverTest.java LINE:28:173 NODE_KIND:153 nVARs:63 NUM_NODE:3307 TBID:58 TEID:1153
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenSolverTest.java LINE:28:173 NODE_KIND:182 nVARs:63 NUM_NODE:3306 TBID:58 TEID:1153
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RectangularCholeskyDecompositionTest.java LINE:23:92 NODE_KIND:153 nVARs:30 NUM_NODE:1451 TBID:25 TEID:458
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RectangularCholeskyDecompositionTest.java LINE:23:92 NODE_KIND:182 nVARs:30 NUM_NODE:1450 TBID:25 TEID:458
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorTest.java LINE:30:204 NODE_KIND:153 nVARs:50 NUM_NODE:1462 TBID:54 TEID:698
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorTest.java LINE:30:204 NODE_KIND:182 nVARs:50 NUM_NODE:1461 TBID:54 TEID:698
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:598:20 NODE_KIND:113 nVARs:21 NUM_NODE:660 TBID:3603 TEID:3792
+000000001	dist:6.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:648:19 NODE_KIND:113 nVARs:21 NUM_NODE:639 TBID:3981 TEID:4164
+000000002	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorAbstractTest.java LINE:697:19 NODE_KIND:113 nVARs:22 NUM_NODE:666 TBID:4344 TEID:4534
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:78:22 NODE_KIND:113 nVARs:32 NUM_NODE:623 TBID:487 TEID:679
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:244:22 NODE_KIND:113 nVARs:32 NUM_NODE:623 TBID:1331 TEID:1523
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:271:34 NODE_KIND:113 nVARs:23 NUM_NODE:659 TBID:1744 TEID:1961
+000000013	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:372:34 NODE_KIND:113 nVARs:23 NUM_NODE:660 TBID:2237 TEID:2455
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:306:23 NODE_KIND:113 nVARs:35 NUM_NODE:670 TBID:1962 TEID:2167
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:407:23 NODE_KIND:113 nVARs:35 NUM_NODE:670 TBID:2456 TEID:2661
+
+000000017	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:131:15 NODE_KIND:121 nVARs:2 NUM_NODE:619 TBID:726 TEID:883
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/HessenbergTransformerTest.java LINE:129:18 NODE_KIND:113 nVARs:4 NUM_NODE:629 TBID:718 TEID:884
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/QRSolverTest.java LINE:112:32 NODE_KIND:113 nVARs:26 NUM_NODE:658 TBID:524 TEID:754
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RRQRSolverTest.java LINE:114:33 NODE_KIND:113 nVARs:26 NUM_NODE:658 TBID:442 TEID:672
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:198:25 NODE_KIND:113 nVARs:24 NUM_NODE:638 TBID:2468 TEID:2656
+000000025	dist:10.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:318:25 NODE_KIND:113 nVARs:26 NUM_NODE:611 TBID:3397 TEID:3578
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskyDecompositionTest.java LINE:23:116 NODE_KIND:153 nVARs:43 NUM_NODE:2409 TBID:25 TEID:815
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/CholeskyDecompositionTest.java LINE:23:116 NODE_KIND:182 nVARs:43 NUM_NODE:2408 TBID:25 TEID:815
+
+
+000000009	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:141:16 NODE_KIND:113 nVARs:19 NUM_NODE:284 TBID:790 TEID:895
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealVectorFormatAbstractTest.java LINE:121:16 NODE_KIND:113 nVARs:17 NUM_NODE:278 TBID:596 TEID:696
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockFieldMatrixTest.java LINE:1001:18 NODE_KIND:113 nVARs:15 NUM_NODE:262 TBID:9032 TEID:9134
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/FieldMatrixImplTest.java LINE:761:18 NODE_KIND:113 nVARs:15 NUM_NODE:262 TBID:7085 TEID:7187
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:54:14 NODE_KIND:113 nVARs:14 NUM_NODE:283 TBID:217 TEID:317
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:69:15 NODE_KIND:113 nVARs:14 NUM_NODE:283 TBID:318 TEID:418
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:85:15 NODE_KIND:113 nVARs:14 NUM_NODE:284 TBID:419 TEID:520
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:101:15 NODE_KIND:113 nVARs:14 NUM_NODE:284 TBID:521 TEID:622
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/RealMatrixFormatAbstractTest.java LINE:117:15 NODE_KIND:113 nVARs:14 NUM_NODE:284 TBID:623 TEID:724
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/MatrixUtilsTest.java LINE:137:19 NODE_KIND:113 nVARs:17 NUM_NODE:269 TBID:1023 TEID:1137
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/MatrixUtilsTest.java LINE:175:20 NODE_KIND:113 nVARs:17 NUM_NODE:269 TBID:1218 TEID:1332
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:386:18 NODE_KIND:113 nVARs:17 NUM_NODE:272 TBID:2936 TEID:3038
+000000016	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:833:20 NODE_KIND:113 nVARs:17 NUM_NODE:288 TBID:6188 TEID:6298
+000000021	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:972:20 NODE_KIND:113 nVARs:17 NUM_NODE:288 TBID:7493 TEID:7603
+000000025	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseFieldMatrixTest.java LINE:344:18 NODE_KIND:113 nVARs:17 NUM_NODE:271 TBID:3579 TEID:3679
+
+000000018	dist:6.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:543:20 NODE_KIND:121 nVARs:15 NUM_NODE:269 TBID:4570 TEID:4669
+000000017	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:519:20 NODE_KIND:121 nVARs:17 NUM_NODE:291 TBID:4440 TEID:4543
+
+000000019	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:721:20 NODE_KIND:113 nVARs:16 NUM_NODE:290 TBID:5918 TEID:6030
+000000020	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:844:20 NODE_KIND:113 nVARs:18 NUM_NODE:290 TBID:6680 TEID:6790
+
+
+000000009	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/Array2DRowRealMatrixTest.java LINE:418:32 NODE_KIND:113 nVARs:32 NUM_NODE:1136 TBID:3103 TEID:3476
+000000010	dist:4.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/BlockRealMatrixTest.java LINE:463:32 NODE_KIND:113 nVARs:32 NUM_NODE:1136 TBID:3704 TEID:4077
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SparseRealMatrixTest.java LINE:367:34 NODE_KIND:113 nVARs:32 NUM_NODE:1136 TBID:2605 TEID:2975
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/ConjugateGradientTest.java LINE:388:45 NODE_KIND:113 nVARs:44 NUM_NODE:1219 TBID:2532 TEID:2910
+000000003	dist:10.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/SymmLQTest.java LINE:431:44 NODE_KIND:113 nVARs:43 NUM_NODE:1181 TBID:2662 TEID:3029
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:161:46 NODE_KIND:113 nVARs:16 NUM_NODE:1224 TBID:753 TEID:1089
+000000007	dist:6.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-math-MATH_3_6_1/src/test/java/org/apache/commons/math3/linear/EigenDecompositionTest.java LINE:208:44 NODE_KIND:113 nVARs:16 NUM_NODE:1230 TBID:1090 TEID:1433
+

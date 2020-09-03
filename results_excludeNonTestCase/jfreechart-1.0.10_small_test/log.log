@@ -1,0 +1,29 @@
+01:03:26.017 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jfreechart-1.0.10_small_test/log.log
+01:03:26.085 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jfreechart-1.0.10_small_test/jfreechart-1.0.10-30-1.0-0-deckard-selected.xls
+01:03:27.271 [main] INFO  - 25%: Reading information from row 2 (Clone group ID 8, clone #1)
+01:03:27.277 [main] INFO  - 25%: Generating PDG for method "testCloning" in "org.jfree.chart.axis.junit.CategoryAxis3DTests"
+01:03:27.439 [main] INFO  - 25%: Reading information from row 3 (Clone group ID 8, clone #2)
+01:03:27.453 [main] INFO  - 25%: Generating PDG for method "testCloning" in "org.jfree.chart.axis.junit.ColorBarTests"
+01:03:31.138 [main] INFO  - 25%: Analyzing Clone #1 (Group 8, Pair 1-2): org.jfree.chart.axis.junit.CategoryAxis3DTests#testCloning (row 2) and org.jfree.chart.axis.junit.ColorBarTests#testCloning (row 3)
+01:03:31.194 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+01:03:31.194 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+01:03:31.245 [main] INFO  - bottomUpSubTreeMatches size = 1
+01:03:31.245 [main] INFO  - fullTreeMatch = true
+01:03:31.245 [main] INFO  - Start mapping
+01:03:31.340 [main] INFO  - End mapping
+01:03:31.371 [main] INFO  - start to refactor clone pair
+01:03:31.373 [main] INFO  - CloneType: Type 2
+01:03:31.412 [main] ERROR - CloneStructure has PDG gap node.
+01:03:33.643 [main] INFO  - Applying changes to source files
+01:03:33.643 [main] INFO  - refactoring 0 clone method pairs.
+01:03:33.643 [main] INFO  - skipping 1 clone method pairs:
+01:03:33.644 [main] INFO  - 	0 not test cases
+01:03:33.644 [main] INFO  - 	1 containing gap nodes (type3)
+01:03:33.644 [main] INFO  - 	0 not refactorable
+01:03:33.644 [main] INFO  - 	0 repeated naming
+01:03:33.644 [main] INFO  - 	0 access issues
+01:03:33.644 [main] INFO  - type1 count: 0
+01:03:33.644 [main] INFO  - type2 count: 1
+01:03:33.644 [main] INFO  - type3 count: 0
+01:03:33.644 [main] INFO  - effective refactoring ratio: 0/0 = NaN%
+01:03:33.644 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jfreechart-1.0.10_small_test/jfreechart-1.0.10-30-1.0-0-deckard-selected.xls, output file: /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jfreechart-1.0.10_small_test/jfreechart-1.0.10-30-1.0-0-deckard-selected-analyzed.xls

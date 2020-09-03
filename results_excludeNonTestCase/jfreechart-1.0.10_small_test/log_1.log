@@ -1,0 +1,31 @@
+01:22:17.618 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jfreechart-1.0.10_small_test/log.log
+01:22:17.674 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jfreechart-1.0.10_small_test/jfreechart-1.0.10-30-1.0-0-deckard-selected-1.xls
+01:22:18.861 [main] INFO  - 25%: Reading information from row 2 (Clone group ID 8, clone #1)
+01:22:18.877 [main] INFO  - 25%: Generating PDG for method "testCloning" in "org.jfree.chart.axis.junit.CategoryAxis3DTests"
+01:22:19.040 [main] INFO  - 25%: Reading information from row 3 (Clone group ID 8, clone #2)
+01:22:19.059 [main] INFO  - 25%: Generating PDG for method "testCloning" in "org.jfree.chart.axis.junit.CategoryAxisTests"
+01:22:19.079 [main] INFO  - 25%: Analyzing Clone #1 (Group 8, Pair 1-2): org.jfree.chart.axis.junit.CategoryAxis3DTests#testCloning (row 2) and org.jfree.chart.axis.junit.CategoryAxisTests#testCloning (row 3)
+01:22:19.128 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+01:22:19.129 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+01:22:19.185 [main] INFO  - bottomUpSubTreeMatches size = 1
+01:22:19.185 [main] INFO  - fullTreeMatch = true
+01:22:19.185 [main] INFO  - Start mapping
+01:22:19.386 [main] INFO  - End mapping
+01:22:19.418 [main] INFO  - start to refactor clone pair
+01:22:19.419 [main] INFO  - CloneType: Type 2
+01:22:19.463 [main] INFO  - Same method found in common super class [org.jfree.chart.axis.CategoryAxis]: clone
+01:22:19.467 [main] INFO  - Same method found in common super class [org.jfree.chart.axis.CategoryAxis]: equals
+01:22:21.654 [main] INFO  - Applying changes to source files
+01:22:21.655 [main] INFO  - refactoring 1 clone method pairs.
+01:22:21.655 [main] INFO  - skipping 0 clone method pairs:
+01:22:21.655 [main] INFO  - 	0 not test cases
+01:22:21.655 [main] INFO  - 	0 containing gap nodes (type3)
+01:22:21.655 [main] INFO  - 	0 not refactorable
+01:22:21.655 [main] INFO  - 	0 repeated naming
+01:22:21.655 [main] INFO  - 	0 access issues
+01:22:21.655 [main] INFO  - type1 count: 0
+01:22:21.655 [main] INFO  - type2 count: 1
+01:22:21.655 [main] INFO  - type3 count: 0
+01:22:21.656 [main] INFO  - effective refactoring ratio: 1/1 = 100.0%
+01:22:21.656 [main] INFO  - refactoring method pair: org.jfree.chart.axis.junit.CategoryAxis3DTests.java#testCloning <---> org.jfree.chart.axis.junit.CategoryAxisTests.java#testCloning
+01:22:22.578 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jfreechart-1.0.10_small_test/jfreechart-1.0.10-30-1.0-0-deckard-selected-1.xls, output file: /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jfreechart-1.0.10_small_test/jfreechart-1.0.10-30-1.0-0-deckard-selected-1-analyzed.xls

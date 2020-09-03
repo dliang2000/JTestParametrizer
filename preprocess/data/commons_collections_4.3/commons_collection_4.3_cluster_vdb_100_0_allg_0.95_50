@@ -1,0 +1,945 @@
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSetTest.java LINE:34:258 NODE_KIND:153 nVARs:67 NUM_NODE:5370 TBID:64 TEID:1915
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSetTest.java LINE:34:258 NODE_KIND:182 nVARs:67 NUM_NODE:5369 TBID:64 TEID:1915
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/CollatingIteratorTest.java LINE:30:231 NODE_KIND:153 nVARs:63 NUM_NODE:5525 TBID:52 TEID:2130
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/CollatingIteratorTest.java LINE:30:231 NODE_KIND:182 nVARs:63 NUM_NODE:5524 TBID:52 TEID:2130
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:31:339 NODE_KIND:153 nVARs:42 NUM_NODE:5375 TBID:56 TEID:2119
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:31:339 NODE_KIND:182 nVARs:42 NUM_NODE:5374 TBID:56 TEID:2119
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/AbstractBagTest.java LINE:611:64 NODE_KIND:153 nVARs:23 NUM_NODE:520 TBID:216 TEID:509
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/AbstractBagTest.java LINE:611:64 NODE_KIND:182 nVARs:23 NUM_NODE:519 TBID:216 TEID:509
+000000031	dist:4.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/AbstractMultiSetTest.java LINE:607:64 NODE_KIND:182 nVARs:23 NUM_NODE:527 TBID:216 TEID:515
+000000030	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/AbstractMultiSetTest.java LINE:607:64 NODE_KIND:153 nVARs:23 NUM_NODE:528 TBID:216 TEID:515
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableSetTest.java LINE:34:65 NODE_KIND:153 nVARs:32 NUM_NODE:492 TBID:61 TEID:292
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableSetTest.java LINE:34:65 NODE_KIND:182 nVARs:32 NUM_NODE:491 TBID:61 TEID:292
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:919:67 NODE_KIND:153 nVARs:25 NUM_NODE:494 TBID:760 TEID:1038
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:919:67 NODE_KIND:182 nVARs:25 NUM_NODE:493 TBID:760 TEID:1038
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMapTest.java LINE:61:8 NODE_KIND:121 nVARs:16 NUM_NODE:501 TBID:227 TEID:365
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMapTest.java LINE:84:8 NODE_KIND:121 nVARs:16 NUM_NODE:501 TBID:480 TEID:618
+
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java LINE:1732:65 NODE_KIND:153 nVARs:26 NUM_NODE:493 TBID:733 TEID:1020
+000000016	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java LINE:1732:65 NODE_KIND:182 nVARs:26 NUM_NODE:492 TBID:733 TEID:1020
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/UnmodifiableOrderedMapTest.java LINE:30:71 NODE_KIND:153 nVARs:30 NUM_NODE:502 TBID:40 TEID:283
+000000019	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/UnmodifiableOrderedMapTest.java LINE:30:71 NODE_KIND:182 nVARs:30 NUM_NODE:501 TBID:40 TEID:283
+
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:197:31 NODE_KIND:113 nVARs:28 NUM_NODE:523 TBID:1270 TEID:1504
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:125:31 NODE_KIND:113 nVARs:28 NUM_NODE:523 TBID:620 TEID:854
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:156:31 NODE_KIND:113 nVARs:28 NUM_NODE:523 TBID:856 TEID:1090
+
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/EqualPredicateTest.java LINE:27:41 NODE_KIND:153 nVARs:25 NUM_NODE:491 TBID:71 TEID:261
+000000033	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/EqualPredicateTest.java LINE:27:41 NODE_KIND:182 nVARs:25 NUM_NODE:490 TBID:71 TEID:261
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java LINE:93:27 NODE_KIND:113 nVARs:17 NUM_NODE:510 TBID:372 TEID:578
+000000036	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SkippingIteratorTest.java LINE:95:26 NODE_KIND:113 nVARs:16 NUM_NODE:494 TBID:380 TEID:580
+
+000000039	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/FixedSizeListTest.java LINE:31:56 NODE_KIND:153 nVARs:29 NUM_NODE:523 TBID:39 TEID:265
+000000040	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/FixedSizeListTest.java LINE:31:56 NODE_KIND:182 nVARs:29 NUM_NODE:522 TBID:39 TEID:265
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/DefaultedMapTest.java LINE:34:116 NODE_KIND:153 nVARs:36 NUM_NODE:2545 TBID:82 TEID:934
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/DefaultedMapTest.java LINE:34:116 NODE_KIND:182 nVARs:36 NUM_NODE:2544 TBID:82 TEID:934
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/FactoryUtilsTest.java LINE:40:234 NODE_KIND:153 nVARs:78 NUM_NODE:2728 TBID:130 TEID:1246
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/FactoryUtilsTest.java LINE:40:234 NODE_KIND:182 nVARs:78 NUM_NODE:2727 TBID:130 TEID:1246
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/SplitMapUtilsTest.java LINE:39:202 NODE_KIND:153 nVARs:75 NUM_NODE:2579 TBID:126 TEID:1234
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/SplitMapUtilsTest.java LINE:39:202 NODE_KIND:182 nVARs:75 NUM_NODE:2578 TBID:126 TEID:1234
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractObjectTest.java LINE:42:295 NODE_KIND:153 nVARs:82 NUM_NODE:2533 TBID:86 TEID:1097
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractObjectTest.java LINE:42:295 NODE_KIND:182 nVARs:82 NUM_NODE:2532 TBID:86 TEID:1097
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/IterableUtilsTest.java LINE:46:585 NODE_KIND:153 nVARs:117 NUM_NODE:10444 TBID:175 TEID:3786
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/IterableUtilsTest.java LINE:46:585 NODE_KIND:182 nVARs:117 NUM_NODE:10443 TBID:175 TEID:3786
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/TreeBagTest.java LINE:32:84 NODE_KIND:153 nVARs:38 NUM_NODE:1031 TBID:58 TEID:479
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/TreeBagTest.java LINE:32:84 NODE_KIND:182 nVARs:38 NUM_NODE:1030 TBID:58 TEID:479
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/CollectionSortedBagTest.java LINE:37:122 NODE_KIND:153 nVARs:44 NUM_NODE:991 TBID:81 TEID:483
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/CollectionSortedBagTest.java LINE:37:122 NODE_KIND:182 nVARs:44 NUM_NODE:990 TBID:81 TEID:483
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedSortedBagTest.java LINE:34:81 NODE_KIND:153 nVARs:43 NUM_NODE:1032 TBID:71 TEID:491
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedSortedBagTest.java LINE:34:81 NODE_KIND:182 nVARs:43 NUM_NODE:1031 TBID:71 TEID:491
+
+000000009	dist:5.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:354:56 NODE_KIND:113 nVARs:40 NUM_NODE:993 TBID:199 TEID:597
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:350:61 NODE_KIND:153 nVARs:41 NUM_NODE:1012 TBID:183 TEID:598
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:350:61 NODE_KIND:182 nVARs:41 NUM_NODE:1011 TBID:183 TEID:598
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/QueueUtilsTest.java LINE:37:84 NODE_KIND:153 nVARs:35 NUM_NODE:983 TBID:125 TEID:547
+000000015	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/QueueUtilsTest.java LINE:37:84 NODE_KIND:182 nVARs:35 NUM_NODE:982 TBID:125 TEID:547
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/UnmodifiableMapEntryTest.java LINE:32:81 NODE_KIND:153 nVARs:31 NUM_NODE:998 TBID:57 TEID:450
+000000017	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/UnmodifiableMapEntryTest.java LINE:32:81 NODE_KIND:182 nVARs:31 NUM_NODE:997 TBID:57 TEID:450
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/MultiSetUtilsTest.java LINE:32:98 NODE_KIND:153 nVARs:42 NUM_NODE:1041 TBID:63 TEID:495
+000000019	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/MultiSetUtilsTest.java LINE:32:98 NODE_KIND:182 nVARs:42 NUM_NODE:1040 TBID:63 TEID:495
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/AbstractNullComparatorTest.java LINE:30:97 NODE_KIND:153 nVARs:26 NUM_NODE:994 TBID:46 TEID:468
+000000021	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/AbstractNullComparatorTest.java LINE:30:97 NODE_KIND:182 nVARs:26 NUM_NODE:993 TBID:46 TEID:468
+
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIteratorTest.java LINE:29:85 NODE_KIND:153 nVARs:33 NUM_NODE:959 TBID:36 TEID:452
+000000024	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIteratorTest.java LINE:29:85 NODE_KIND:182 nVARs:33 NUM_NODE:958 TBID:36 TEID:452
+
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIteratorTest.java LINE:27:91 NODE_KIND:153 nVARs:43 NUM_NODE:1029 TBID:32 TEID:454
+000000026	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIteratorTest.java LINE:27:91 NODE_KIND:182 nVARs:43 NUM_NODE:1028 TBID:32 TEID:454
+
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ArrayListIteratorTest.java LINE:27:94 NODE_KIND:153 nVARs:44 NUM_NODE:998 TBID:32 TEID:434
+000000028	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ArrayListIteratorTest.java LINE:27:94 NODE_KIND:182 nVARs:44 NUM_NODE:997 TBID:32 TEID:434
+
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/PredicatedQueueTest.java LINE:35:85 NODE_KIND:153 nVARs:40 NUM_NODE:981 TBID:83 TEID:495
+000000033	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/PredicatedQueueTest.java LINE:35:85 NODE_KIND:182 nVARs:40 NUM_NODE:980 TBID:83 TEID:495
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/MapUtilsTest.java LINE:57:808 NODE_KIND:153 nVARs:149 NUM_NODE:15550 TBID:289 TEID:5986
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/MapUtilsTest.java LINE:57:808 NODE_KIND:182 nVARs:149 NUM_NODE:15549 TBID:289 TEID:5986
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:38:771 NODE_KIND:153 nVARs:136 NUM_NODE:16502 TBID:113 TEID:5710
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:38:771 NODE_KIND:182 nVARs:136 NUM_NODE:16501 TBID:113 TEID:5710
+
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:55:32 NODE_KIND:113 nVARs:18 NUM_NODE:813 TBID:190 TEID:457
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSetTest.java LINE:64:34 NODE_KIND:113 nVARs:18 NUM_NODE:813 TBID:228 TEID:495
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/MapBackedSet2Test.java LINE:50:32 NODE_KIND:113 nVARs:18 NUM_NODE:813 TBID:152 TEID:419
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIterator2Test.java LINE:29:74 NODE_KIND:153 nVARs:32 NUM_NODE:843 TBID:36 TEID:394
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIterator2Test.java LINE:29:74 NODE_KIND:182 nVARs:32 NUM_NODE:842 TBID:36 TEID:394
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractListTest.java LINE:1138:73 NODE_KIND:153 nVARs:29 NUM_NODE:834 TBID:409 TEID:795
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractListTest.java LINE:1138:73 NODE_KIND:182 nVARs:29 NUM_NODE:833 TBID:409 TEID:795
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedBagTest.java LINE:34:104 NODE_KIND:153 nVARs:50 NUM_NODE:1554 TBID:71 TEID:661
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedBagTest.java LINE:34:104 NODE_KIND:182 nVARs:50 NUM_NODE:1553 TBID:71 TEID:661
+000000009	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/PredicatedMultiSetTest.java LINE:34:104 NODE_KIND:182 nVARs:50 NUM_NODE:1551 TBID:71 TEID:660
+000000008	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/PredicatedMultiSetTest.java LINE:34:104 NODE_KIND:153 nVARs:50 NUM_NODE:1552 TBID:71 TEID:660
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/EnumerationUtilsTest.java LINE:36:75 NODE_KIND:153 nVARs:46 NUM_NODE:1586 TBID:88 TEID:670
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/EnumerationUtilsTest.java LINE:36:75 NODE_KIND:182 nVARs:46 NUM_NODE:1585 TBID:88 TEID:670
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/BagUtilsTest.java LINE:38:139 NODE_KIND:153 nVARs:44 NUM_NODE:1589 TBID:169 TEID:845
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/BagUtilsTest.java LINE:38:139 NODE_KIND:182 nVARs:44 NUM_NODE:1588 TBID:169 TEID:845
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/AbstractMapEntryTest.java LINE:34:125 NODE_KIND:153 nVARs:36 NUM_NODE:1566 TBID:42 TEID:649
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/AbstractMapEntryTest.java LINE:34:125 NODE_KIND:182 nVARs:36 NUM_NODE:1565 TBID:42 TEID:649
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedBagTest.java LINE:34:104 NODE_KIND:153 nVARs:50 NUM_NODE:1554 TBID:71 TEID:661
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedBagTest.java LINE:34:104 NODE_KIND:182 nVARs:50 NUM_NODE:1553 TBID:71 TEID:661
+000000012	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/PredicatedMultiSetTest.java LINE:34:104 NODE_KIND:182 nVARs:50 NUM_NODE:1551 TBID:71 TEID:660
+000000011	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/PredicatedMultiSetTest.java LINE:34:104 NODE_KIND:153 nVARs:50 NUM_NODE:1552 TBID:71 TEID:660
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/EnumerationUtilsTest.java LINE:36:75 NODE_KIND:153 nVARs:46 NUM_NODE:1586 TBID:88 TEID:670
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/EnumerationUtilsTest.java LINE:36:75 NODE_KIND:182 nVARs:46 NUM_NODE:1585 TBID:88 TEID:670
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableNavigableSetTest.java LINE:36:134 NODE_KIND:153 nVARs:52 NUM_NODE:1657 TBID:71 TEID:726
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableNavigableSetTest.java LINE:36:134 NODE_KIND:182 nVARs:52 NUM_NODE:1656 TBID:71 TEID:726
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/BagUtilsTest.java LINE:38:139 NODE_KIND:153 nVARs:44 NUM_NODE:1589 TBID:169 TEID:845
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/BagUtilsTest.java LINE:38:139 NODE_KIND:182 nVARs:44 NUM_NODE:1588 TBID:169 TEID:845
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/AbstractMapEntryTest.java LINE:34:125 NODE_KIND:153 nVARs:36 NUM_NODE:1566 TBID:42 TEID:649
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/AbstractMapEntryTest.java LINE:34:125 NODE_KIND:182 nVARs:36 NUM_NODE:1565 TBID:42 TEID:649
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonListIteratorTest.java LINE:28:112 NODE_KIND:153 nVARs:37 NUM_NODE:1686 TBID:36 TEID:690
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonListIteratorTest.java LINE:28:112 NODE_KIND:182 nVARs:37 NUM_NODE:1685 TBID:36 TEID:690
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionBuilderTest.java LINE:35:110 NODE_KIND:153 nVARs:48 NUM_NODE:1405 TBID:82 TEID:682
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionBuilderTest.java LINE:35:110 NODE_KIND:182 nVARs:48 NUM_NODE:1404 TBID:82 TEID:682
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionTest.java LINE:33:104 NODE_KIND:153 nVARs:46 NUM_NODE:1410 TBID:63 TEID:622
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionTest.java LINE:33:104 NODE_KIND:182 nVARs:46 NUM_NODE:1409 TBID:63 TEID:622
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractLinkedListTest.java LINE:38:184 NODE_KIND:153 nVARs:48 NUM_NODE:1360 TBID:57 TEID:723
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractLinkedListTest.java LINE:38:184 NODE_KIND:182 nVARs:48 NUM_NODE:1359 TBID:57 TEID:723
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ArrayStackTest.java LINE:27:96 NODE_KIND:153 nVARs:29 NUM_NODE:1297 TBID:23 TEID:491
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ArrayStackTest.java LINE:27:96 NODE_KIND:182 nVARs:29 NUM_NODE:1296 TBID:23 TEID:491
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/UnmodifiableListTest.java LINE:30:158 NODE_KIND:153 nVARs:46 NUM_NODE:1330 TBID:39 TEID:659
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/UnmodifiableListTest.java LINE:30:158 NODE_KIND:182 nVARs:46 NUM_NODE:1329 TBID:39 TEID:659
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/TreeBagTest.java LINE:32:84 NODE_KIND:153 nVARs:38 NUM_NODE:1031 TBID:58 TEID:479
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/TreeBagTest.java LINE:32:84 NODE_KIND:182 nVARs:38 NUM_NODE:1030 TBID:58 TEID:479
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedSortedBagTest.java LINE:34:81 NODE_KIND:153 nVARs:43 NUM_NODE:1032 TBID:71 TEID:491
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedSortedBagTest.java LINE:34:81 NODE_KIND:182 nVARs:43 NUM_NODE:1031 TBID:71 TEID:491
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:118:37 NODE_KIND:113 nVARs:20 NUM_NODE:1094 TBID:731 TEID:1068
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSetTest.java LINE:129:37 NODE_KIND:113 nVARs:20 NUM_NODE:1094 TBID:769 TEID:1106
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/MapBackedSet2Test.java LINE:29:63 NODE_KIND:153 nVARs:30 NUM_NODE:1096 TBID:38 TEID:438
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/MapBackedSet2Test.java LINE:29:63 NODE_KIND:182 nVARs:30 NUM_NODE:1095 TBID:38 TEID:438
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LazyMapTest.java LINE:35:71 NODE_KIND:153 nVARs:40 NUM_NODE:1043 TBID:81 TEID:480
+000000013	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LazyMapTest.java LINE:35:71 NODE_KIND:182 nVARs:40 NUM_NODE:1042 TBID:81 TEID:480
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/MultiSetUtilsTest.java LINE:32:98 NODE_KIND:153 nVARs:42 NUM_NODE:1041 TBID:63 TEID:495
+000000017	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/MultiSetUtilsTest.java LINE:32:98 NODE_KIND:182 nVARs:42 NUM_NODE:1040 TBID:63 TEID:495
+
+000000019	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIteratorTest.java LINE:27:91 NODE_KIND:153 nVARs:43 NUM_NODE:1029 TBID:32 TEID:454
+000000020	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIteratorTest.java LINE:27:91 NODE_KIND:182 nVARs:43 NUM_NODE:1028 TBID:32 TEID:454
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedBagTest.java LINE:104:20 NODE_KIND:113 nVARs:15 NUM_NODE:282 TBID:530 TEID:648
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/PredicatedMultiSetTest.java LINE:104:20 NODE_KIND:113 nVARs:15 NUM_NODE:282 TBID:529 TEID:647
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:863:42 NODE_KIND:153 nVARs:18 NUM_NODE:298 TBID:590 TEID:758
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:863:42 NODE_KIND:182 nVARs:18 NUM_NODE:297 TBID:590 TEID:758
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceIdentityMapTest.java LINE:296:24 NODE_KIND:113 nVARs:18 NUM_NODE:273 TBID:1124 TEID:1232
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceMapTest.java LINE:240:22 NODE_KIND:113 nVARs:18 NUM_NODE:273 TBID:610 TEID:718
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:233:41 NODE_KIND:182 nVARs:18 NUM_NODE:281 TBID:1518 TEID:1673
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:161:41 NODE_KIND:182 nVARs:18 NUM_NODE:281 TBID:868 TEID:1023
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:426:39 NODE_KIND:182 nVARs:18 NUM_NODE:281 TBID:3148 TEID:3303
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:467:39 NODE_KIND:182 nVARs:18 NUM_NODE:281 TBID:3304 TEID:3459
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/FixedSizeMapTest.java LINE:30:45 NODE_KIND:153 nVARs:19 NUM_NODE:275 TBID:36 TEID:175
+000000017	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/FixedSizeMapTest.java LINE:30:45 NODE_KIND:182 nVARs:19 NUM_NODE:274 TBID:36 TEID:175
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingIteratorTest.java LINE:67:15 NODE_KIND:113 nVARs:14 NUM_NODE:287 TBID:168 TEID:273
+000000025	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingIteratorTest.java LINE:87:15 NODE_KIND:113 nVARs:14 NUM_NODE:298 TBID:274 TEID:381
+000000029	dist:3.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:152:15 NODE_KIND:113 nVARs:12 NUM_NODE:295 TBID:634 TEID:739
+
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIterator2Test.java LINE:83:18 NODE_KIND:113 nVARs:10 NUM_NODE:282 TBID:281 TEID:393
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIteratorTest.java LINE:94:18 NODE_KIND:113 nVARs:10 NUM_NODE:282 TBID:339 TEID:451
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractListTest.java LINE:1350:37 NODE_KIND:153 nVARs:20 NUM_NODE:273 TBID:861 TEID:1014
+000000035	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractListTest.java LINE:1350:37 NODE_KIND:182 nVARs:20 NUM_NODE:272 TBID:861 TEID:1014
+
+000000036	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/NodeCachingLinkedListTest.java LINE:88:23 NODE_KIND:121 nVARs:9 NUM_NODE:278 TBID:411 TEID:532
+000000037	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/NodeCachingLinkedListTest.java LINE:115:22 NODE_KIND:121 nVARs:9 NUM_NODE:278 TBID:580 TEID:701
+
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:88:29 NODE_KIND:113 nVARs:19 NUM_NODE:877 TBID:458 TEID:730
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSetTest.java LINE:99:29 NODE_KIND:113 nVARs:19 NUM_NODE:877 TBID:496 TEID:768
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/IdentityMap.java LINE:47:160 NODE_KIND:153 nVARs:51 NUM_NODE:903 TBID:46 TEID:464
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/IdentityMap.java LINE:47:160 NODE_KIND:182 nVARs:51 NUM_NODE:902 TBID:46 TEID:464
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/NodeListIteratorTest.java LINE:30:108 NODE_KIND:153 nVARs:43 NUM_NODE:916 TBID:64 TEID:439
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/NodeListIteratorTest.java LINE:30:108 NODE_KIND:182 nVARs:43 NUM_NODE:915 TBID:64 TEID:439
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableMapIteratorTest.java LINE:31:65 NODE_KIND:153 nVARs:33 NUM_NODE:901 TBID:71 TEID:444
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableMapIteratorTest.java LINE:31:65 NODE_KIND:182 nVARs:33 NUM_NODE:900 TBID:71 TEID:444
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIterator2Test.java LINE:29:74 NODE_KIND:153 nVARs:32 NUM_NODE:843 TBID:36 TEID:394
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIterator2Test.java LINE:29:74 NODE_KIND:182 nVARs:32 NUM_NODE:842 TBID:36 TEID:394
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:29:140 NODE_KIND:153 nVARs:41 NUM_NODE:3216 TBID:32 TEID:1081
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:29:140 NODE_KIND:182 nVARs:41 NUM_NODE:3215 TBID:32 TEID:1081
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/TransformedSortedMapTest.java LINE:37:163 NODE_KIND:153 nVARs:54 NUM_NODE:3327 TBID:92 TEID:1152
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/TransformedSortedMapTest.java LINE:37:163 NODE_KIND:182 nVARs:54 NUM_NODE:3326 TBID:92 TEID:1152
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceIdentityMapTest.java LINE:33:300 NODE_KIND:153 nVARs:77 NUM_NODE:3333 TBID:78 TEID:1285
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceIdentityMapTest.java LINE:33:300 NODE_KIND:182 nVARs:77 NUM_NODE:3332 TBID:78 TEID:1285
+
+
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:55:32 NODE_KIND:113 nVARs:18 NUM_NODE:813 TBID:190 TEID:457
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSetTest.java LINE:64:34 NODE_KIND:113 nVARs:18 NUM_NODE:813 TBID:228 TEID:495
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/MapBackedSet2Test.java LINE:50:32 NODE_KIND:113 nVARs:18 NUM_NODE:813 TBID:152 TEID:419
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/DefaultMapEntryTest.java LINE:31:67 NODE_KIND:153 nVARs:27 NUM_NODE:785 TBID:46 TEID:360
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/DefaultMapEntryTest.java LINE:31:67 NODE_KIND:182 nVARs:27 NUM_NODE:784 TBID:46 TEID:360
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/PredicatedBagTest.java LINE:72:17 NODE_KIND:113 nVARs:20 NUM_NODE:658 TBID:254 TEID:456
+000000007	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/PredicatedMultiSetTest.java LINE:72:17 NODE_KIND:113 nVARs:20 NUM_NODE:656 TBID:254 TEID:455
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/TransformingComparatorTest.java LINE:31:60 NODE_KIND:153 nVARs:31 NUM_NODE:646 TBID:65 TEID:322
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/TransformingComparatorTest.java LINE:31:60 NODE_KIND:182 nVARs:31 NUM_NODE:645 TBID:65 TEID:322
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractIteratorTest.java LINE:34:158 NODE_KIND:153 nVARs:29 NUM_NODE:677 TBID:36 TEID:415
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractIteratorTest.java LINE:34:158 NODE_KIND:182 nVARs:29 NUM_NODE:676 TBID:36 TEID:415
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/trie/UnmodifiableTrieTest.java LINE:32:91 NODE_KIND:153 nVARs:34 NUM_NODE:638 TBID:64 TEID:353
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/trie/UnmodifiableTrieTest.java LINE:32:91 NODE_KIND:182 nVARs:34 NUM_NODE:637 TBID:64 TEID:353
+
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/AbstractSortedBagTest.java LINE:30:129 NODE_KIND:153 nVARs:40 NUM_NODE:1140 TBID:29 TEID:503
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/AbstractSortedBagTest.java LINE:30:129 NODE_KIND:182 nVARs:40 NUM_NODE:1139 TBID:29 TEID:503
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:118:37 NODE_KIND:113 nVARs:20 NUM_NODE:1094 TBID:731 TEID:1068
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSetTest.java LINE:129:37 NODE_KIND:113 nVARs:20 NUM_NODE:1094 TBID:769 TEID:1106
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/MapBackedSet2Test.java LINE:29:63 NODE_KIND:153 nVARs:30 NUM_NODE:1096 TBID:38 TEID:438
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/MapBackedSet2Test.java LINE:29:63 NODE_KIND:182 nVARs:30 NUM_NODE:1095 TBID:38 TEID:438
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/TiedMapEntryTest.java LINE:30:56 NODE_KIND:153 nVARs:23 NUM_NODE:1121 TBID:42 TEID:433
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/TiedMapEntryTest.java LINE:30:56 NODE_KIND:182 nVARs:23 NUM_NODE:1120 TBID:42 TEID:433
+
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableNavigableSetTest.java LINE:109:39 NODE_KIND:113 nVARs:16 NUM_NODE:316 TBID:529 TEID:692
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableSortedSetTest.java LINE:104:39 NODE_KIND:113 nVARs:16 NUM_NODE:316 TBID:416 TEID:579
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:61:10 NODE_KIND:113 nVARs:11 NUM_NODE:338 TBID:246 TEID:355
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:72:10 NODE_KIND:113 nVARs:11 NUM_NODE:338 TBID:356 TEID:465
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:130:24 NODE_KIND:113 nVARs:19 NUM_NODE:311 TBID:808 TEID:967
+000000015	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:155:25 NODE_KIND:113 nVARs:19 NUM_NODE:319 TBID:968 TEID:1133
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:58:24 NODE_KIND:113 nVARs:19 NUM_NODE:311 TBID:158 TEID:317
+000000019	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:83:25 NODE_KIND:113 nVARs:19 NUM_NODE:319 TBID:318 TEID:483
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:61:24 NODE_KIND:113 nVARs:19 NUM_NODE:311 TBID:187 TEID:346
+000000022	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:86:25 NODE_KIND:113 nVARs:19 NUM_NODE:319 TBID:347 TEID:512
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:181:15 NODE_KIND:113 nVARs:23 NUM_NODE:324 TBID:1134 TEID:1269
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:109:15 NODE_KIND:113 nVARs:23 NUM_NODE:324 TBID:484 TEID:619
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:112:15 NODE_KIND:113 nVARs:23 NUM_NODE:324 TBID:513 TEID:648
+
+000000033	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/MultiKeyTest.java LINE:152:11 NODE_KIND:113 nVARs:17 NUM_NODE:322 TBID:1264 TEID:1365
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/MultiKeyTest.java LINE:164:11 NODE_KIND:113 nVARs:17 NUM_NODE:322 TBID:1366 TEID:1467
+
+000000050	dist:4.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractMapIteratorTest.java LINE:170:16 NODE_KIND:121 nVARs:19 NUM_NODE:322 TBID:439 TEID:544
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:113:18 NODE_KIND:121 nVARs:19 NUM_NODE:335 TBID:413 TEID:521
+000000039	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:95:18 NODE_KIND:121 nVARs:20 NUM_NODE:335 TBID:296 TEID:404
+
+000000046	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ArrayListIteratorTest.java LINE:56:29 NODE_KIND:113 nVARs:22 NUM_NODE:323 TBID:138 TEID:271
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIteratorTest.java LINE:53:29 NODE_KIND:113 nVARs:22 NUM_NODE:323 TBID:148 TEID:281
+
+000000045	dist:3.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/IteratorEnumerationTest.java LINE:33:20 NODE_KIND:113 nVARs:18 NUM_NODE:324 TBID:53 TEID:182
+000000044	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/IteratorEnumerationTest.java LINE:31:23 NODE_KIND:182 nVARs:19 NUM_NODE:333 TBID:49 TEID:183
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/IteratorEnumerationTest.java LINE:31:23 NODE_KIND:153 nVARs:19 NUM_NODE:334 TBID:49 TEID:183
+
+000000047	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIterator2Test.java LINE:23:35 NODE_KIND:153 nVARs:16 NUM_NODE:338 TBID:11 TEID:165
+000000048	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIterator2Test.java LINE:23:35 NODE_KIND:182 nVARs:16 NUM_NODE:337 TBID:11 TEID:165
+
+000000051	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/NodeCachingLinkedListTest.java LINE:88:23 NODE_KIND:121 nVARs:11 NUM_NODE:321 TBID:397 TEID:532
+000000052	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/NodeCachingLinkedListTest.java LINE:115:22 NODE_KIND:121 nVARs:11 NUM_NODE:321 TBID:566 TEID:701
+
+000000053	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/SynchronizedQueueTest.java LINE:33:31 NODE_KIND:153 nVARs:25 NUM_NODE:324 TBID:50 TEID:190
+000000054	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/SynchronizedQueueTest.java LINE:33:31 NODE_KIND:182 nVARs:25 NUM_NODE:323 TBID:50 TEID:190
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/MultiKeyTest.java LINE:38:262 NODE_KIND:153 nVARs:79 NUM_NODE:5970 TBID:98 TEID:2106
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/MultiKeyTest.java LINE:38:262 NODE_KIND:182 nVARs:79 NUM_NODE:5969 TBID:98 TEID:2106
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/MultiKeyTest.java LINE:38:262 NODE_KIND:153 nVARs:79 NUM_NODE:5970 TBID:98 TEID:2106
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/MultiKeyTest.java LINE:38:262 NODE_KIND:182 nVARs:79 NUM_NODE:5969 TBID:98 TEID:2106
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/CollatingIteratorTest.java LINE:30:231 NODE_KIND:153 nVARs:63 NUM_NODE:5525 TBID:52 TEID:2130
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/CollatingIteratorTest.java LINE:30:231 NODE_KIND:182 nVARs:63 NUM_NODE:5524 TBID:52 TEID:2130
+
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedNavigableSetTest.java LINE:95:19 NODE_KIND:113 nVARs:16 NUM_NODE:428 TBID:397 TEID:548
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSortedSetTest.java LINE:95:19 NODE_KIND:113 nVARs:16 NUM_NODE:428 TBID:397 TEID:548
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:1000:56 NODE_KIND:153 nVARs:23 NUM_NODE:426 TBID:1040 TEID:1282
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:1000:56 NODE_KIND:182 nVARs:23 NUM_NODE:425 TBID:1040 TEID:1282
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapDecoratorTest.java LINE:30:60 NODE_KIND:153 nVARs:22 NUM_NODE:424 TBID:36 TEID:261
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapDecoratorTest.java LINE:30:60 NODE_KIND:182 nVARs:22 NUM_NODE:423 TBID:36 TEID:261
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:416:63 NODE_KIND:153 nVARs:20 NUM_NODE:428 TBID:600 TEID:842
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:416:63 NODE_KIND:182 nVARs:20 NUM_NODE:427 TBID:600 TEID:842
+
+000000019	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/AbstractNullComparatorTest.java LINE:46:38 NODE_KIND:182 nVARs:19 NUM_NODE:402 TBID:123 TEID:294
+000000020	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/AbstractNullComparatorTest.java LINE:88:38 NODE_KIND:182 nVARs:19 NUM_NODE:413 TBID:295 TEID:467
+
+000000024	dist:5.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:72:23 NODE_KIND:113 nVARs:16 NUM_NODE:413 TBID:194 TEID:353
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SkippingIteratorTest.java LINE:219:25 NODE_KIND:113 nVARs:21 NUM_NODE:416 TBID:994 TEID:1165
+
+000000024	dist:4.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:72:23 NODE_KIND:113 nVARs:16 NUM_NODE:413 TBID:194 TEID:353
+000000025	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:100:26 NODE_KIND:113 nVARs:17 NUM_NODE:432 TBID:354 TEID:521
+
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceIdentityMapTest.java LINE:296:24 NODE_KIND:113 nVARs:18 NUM_NODE:273 TBID:1124 TEID:1232
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceMapTest.java LINE:240:22 NODE_KIND:113 nVARs:18 NUM_NODE:273 TBID:610 TEID:718
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/CompositeMapTest.java LINE:104:12 NODE_KIND:113 nVARs:16 NUM_NODE:267 TBID:565 TEID:664
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/CompositeMapTest.java LINE:117:12 NODE_KIND:113 nVARs:16 NUM_NODE:267 TBID:665 TEID:764
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/FixedSizeMapTest.java LINE:30:45 NODE_KIND:153 nVARs:19 NUM_NODE:275 TBID:36 TEID:175
+000000013	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/FixedSizeMapTest.java LINE:30:45 NODE_KIND:182 nVARs:19 NUM_NODE:274 TBID:36 TEID:175
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/properties/SortedPropertiesTest.java LINE:25:14 NODE_KIND:153 nVARs:15 NUM_NODE:265 TBID:32 TEID:133
+000000017	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/properties/SortedPropertiesTest.java LINE:25:14 NODE_KIND:182 nVARs:15 NUM_NODE:264 TBID:32 TEID:133
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/ComparableComparatorTest.java LINE:28:33 NODE_KIND:153 nVARs:16 NUM_NODE:269 TBID:32 TEID:156
+000000019	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/ComparableComparatorTest.java LINE:28:33 NODE_KIND:182 nVARs:16 NUM_NODE:268 TBID:32 TEID:156
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectGraphIteratorTest.java LINE:354:18 NODE_KIND:153 nVARs:14 NUM_NODE:265 TBID:253 TEID:353
+000000022	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectGraphIteratorTest.java LINE:354:18 NODE_KIND:182 nVARs:14 NUM_NODE:264 TBID:253 TEID:353
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractListTest.java LINE:1350:37 NODE_KIND:153 nVARs:20 NUM_NODE:273 TBID:861 TEID:1014
+000000025	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractListTest.java LINE:1350:37 NODE_KIND:182 nVARs:20 NUM_NODE:272 TBID:861 TEID:1014
+
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/NodeCachingLinkedListTest.java LINE:88:23 NODE_KIND:121 nVARs:9 NUM_NODE:278 TBID:411 TEID:532
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/NodeCachingLinkedListTest.java LINE:115:22 NODE_KIND:121 nVARs:9 NUM_NODE:278 TBID:580 TEID:701
+
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableNavigableSetTest.java LINE:109:39 NODE_KIND:113 nVARs:16 NUM_NODE:316 TBID:529 TEID:692
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableSortedSetTest.java LINE:104:39 NODE_KIND:113 nVARs:16 NUM_NODE:316 TBID:416 TEID:579
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:863:42 NODE_KIND:153 nVARs:18 NUM_NODE:298 TBID:590 TEID:758
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:863:42 NODE_KIND:182 nVARs:18 NUM_NODE:297 TBID:590 TEID:758
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:130:24 NODE_KIND:113 nVARs:19 NUM_NODE:311 TBID:808 TEID:967
+000000009	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:155:25 NODE_KIND:113 nVARs:19 NUM_NODE:319 TBID:968 TEID:1133
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:58:24 NODE_KIND:113 nVARs:19 NUM_NODE:311 TBID:158 TEID:317
+000000011	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:83:25 NODE_KIND:113 nVARs:19 NUM_NODE:319 TBID:318 TEID:483
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:61:24 NODE_KIND:113 nVARs:19 NUM_NODE:311 TBID:187 TEID:346
+000000013	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:86:25 NODE_KIND:113 nVARs:19 NUM_NODE:319 TBID:347 TEID:512
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingIteratorTest.java LINE:87:15 NODE_KIND:113 nVARs:14 NUM_NODE:298 TBID:274 TEID:381
+000000026	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:152:15 NODE_KIND:113 nVARs:12 NUM_NODE:295 TBID:634 TEID:739
+000000025	dist:2.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:131:16 NODE_KIND:113 nVARs:13 NUM_NODE:303 TBID:522 TEID:633
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/UnmodifiableBoundedCollectionTest.java LINE:32:70 NODE_KIND:153 nVARs:36 NUM_NODE:707 TBID:67 TEID:382
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/UnmodifiableBoundedCollectionTest.java LINE:32:70 NODE_KIND:182 nVARs:36 NUM_NODE:706 TBID:67 TEID:382
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/HashedMapTest.java LINE:27:53 NODE_KIND:153 nVARs:31 NUM_NODE:711 TBID:29 TEID:312
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/HashedMapTest.java LINE:27:53 NODE_KIND:182 nVARs:31 NUM_NODE:710 TBID:29 TEID:312
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractSortedMapTest.java LINE:112:98 NODE_KIND:153 nVARs:32 NUM_NODE:684 TBID:81 TEID:458
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractSortedMapTest.java LINE:112:98 NODE_KIND:182 nVARs:32 NUM_NODE:683 TBID:81 TEID:458
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractIteratorTest.java LINE:34:158 NODE_KIND:153 nVARs:29 NUM_NODE:677 TBID:36 TEID:415
+000000015	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractIteratorTest.java LINE:34:158 NODE_KIND:182 nVARs:29 NUM_NODE:676 TBID:36 TEID:415
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/UnmodifiableQueueTest.java LINE:33:91 NODE_KIND:153 nVARs:38 NUM_NODE:681 TBID:63 TEID:406
+000000017	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/UnmodifiableQueueTest.java LINE:33:91 NODE_KIND:182 nVARs:38 NUM_NODE:680 TBID:63 TEID:406
+
+
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/UnmodifiableBagTest.java LINE:34:75 NODE_KIND:182 nVARs:35 NUM_NODE:549 TBID:71 TEID:333
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/UnmodifiableBagTest.java LINE:34:75 NODE_KIND:153 nVARs:35 NUM_NODE:550 TBID:71 TEID:333
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/UnmodifiableSortedBagTest.java LINE:34:75 NODE_KIND:153 nVARs:35 NUM_NODE:550 TBID:71 TEID:333
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/UnmodifiableSortedBagTest.java LINE:34:75 NODE_KIND:182 nVARs:35 NUM_NODE:549 TBID:71 TEID:333
+000000031	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/UnmodifiableMultiSetTest.java LINE:33:75 NODE_KIND:182 nVARs:34 NUM_NODE:549 TBID:58 TEID:320
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/UnmodifiableMultiSetTest.java LINE:33:75 NODE_KIND:153 nVARs:34 NUM_NODE:550 TBID:58 TEID:320
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/CollectionBagTest.java LINE:36:83 NODE_KIND:153 nVARs:34 NUM_NODE:589 TBID:70 TEID:324
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/CollectionBagTest.java LINE:36:83 NODE_KIND:182 nVARs:34 NUM_NODE:588 TBID:70 TEID:324
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/UnmodifiableCollectionTest.java LINE:32:73 NODE_KIND:153 nVARs:32 NUM_NODE:581 TBID:50 TEID:326
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/UnmodifiableCollectionTest.java LINE:32:73 NODE_KIND:182 nVARs:32 NUM_NODE:580 TBID:50 TEID:326
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/UnmodifiableBidiMapTest.java LINE:32:68 NODE_KIND:153 nVARs:35 NUM_NODE:565 TBID:65 TEID:343
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/UnmodifiableBidiMapTest.java LINE:32:68 NODE_KIND:182 nVARs:35 NUM_NODE:564 TBID:65 TEID:343
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java LINE:1811:88 NODE_KIND:153 nVARs:29 NUM_NODE:561 TBID:1022 TEID:1339
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java LINE:1811:88 NODE_KIND:182 nVARs:29 NUM_NODE:560 TBID:1022 TEID:1339
+
+000000019	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:279:18 NODE_KIND:113 nVARs:24 NUM_NODE:576 TBID:2274 TEID:2459
+000000020	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:298:19 NODE_KIND:113 nVARs:24 NUM_NODE:584 TBID:2460 TEID:2651
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:218:18 NODE_KIND:113 nVARs:25 NUM_NODE:573 TBID:1707 TEID:1889
+000000017	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:237:19 NODE_KIND:113 nVARs:25 NUM_NODE:581 TBID:1890 TEID:2078
+000000018	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:257:20 NODE_KIND:113 nVARs:25 NUM_NODE:589 TBID:2079 TEID:2273
+
+000000019	dist:6.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:279:18 NODE_KIND:113 nVARs:24 NUM_NODE:576 TBID:2274 TEID:2459
+000000020	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:298:19 NODE_KIND:113 nVARs:24 NUM_NODE:584 TBID:2460 TEID:2651
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:318:20 NODE_KIND:113 nVARs:24 NUM_NODE:592 TBID:2652 TEID:2849
+000000017	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:237:19 NODE_KIND:113 nVARs:25 NUM_NODE:581 TBID:1890 TEID:2078
+000000018	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:257:20 NODE_KIND:113 nVARs:25 NUM_NODE:589 TBID:2079 TEID:2273
+
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/DefaultedMapTest.java LINE:66:18 NODE_KIND:113 nVARs:15 NUM_NODE:559 TBID:304 TEID:483
+000000024	dist:4.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/DefaultedMapTest.java LINE:85:18 NODE_KIND:113 nVARs:17 NUM_NODE:575 TBID:484 TEID:668
+
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/CatchAndRethrowClosureTest.java LINE:26:68 NODE_KIND:153 nVARs:27 NUM_NODE:589 TBID:54 TEID:387
+000000033	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/CatchAndRethrowClosureTest.java LINE:26:68 NODE_KIND:182 nVARs:27 NUM_NODE:588 TBID:54 TEID:387
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/ReverseComparatorTest.java LINE:34:63 NODE_KIND:153 nVARs:36 NUM_NODE:589 TBID:74 TEID:315
+000000035	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/ReverseComparatorTest.java LINE:34:63 NODE_KIND:182 nVARs:36 NUM_NODE:588 TBID:74 TEID:315
+
+000000038	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableListIteratorTest.java LINE:31:63 NODE_KIND:153 nVARs:35 NUM_NODE:591 TBID:57 TEID:324
+000000039	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableListIteratorTest.java LINE:31:63 NODE_KIND:182 nVARs:35 NUM_NODE:590 TBID:57 TEID:324
+
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableSortedSetTest.java LINE:36:129 NODE_KIND:153 nVARs:51 NUM_NODE:1252 TBID:71 TEID:613
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableSortedSetTest.java LINE:36:129 NODE_KIND:182 nVARs:51 NUM_NODE:1251 TBID:71 TEID:613
+
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedNavigableSetTest.java LINE:37:97 NODE_KIND:182 nVARs:46 NUM_NODE:1271 TBID:88 TEID:589
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedNavigableSetTest.java LINE:37:97 NODE_KIND:153 nVARs:46 NUM_NODE:1272 TBID:88 TEID:589
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSortedSetTest.java LINE:37:97 NODE_KIND:153 nVARs:46 NUM_NODE:1272 TBID:88 TEID:589
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSortedSetTest.java LINE:37:97 NODE_KIND:182 nVARs:46 NUM_NODE:1271 TBID:88 TEID:589
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSetTest.java LINE:31:95 NODE_KIND:153 nVARs:40 NUM_NODE:1219 TBID:49 TEID:516
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSetTest.java LINE:31:95 NODE_KIND:182 nVARs:40 NUM_NODE:1218 TBID:49 TEID:516
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LazySortedMapTest.java LINE:38:95 NODE_KIND:153 nVARs:50 NUM_NODE:1260 TBID:106 TEID:587
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LazySortedMapTest.java LINE:38:95 NODE_KIND:182 nVARs:50 NUM_NODE:1259 TBID:106 TEID:587
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractIterableMapTest.java LINE:32:180 NODE_KIND:153 nVARs:50 NUM_NODE:1275 TBID:78 TEID:842
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractIterableMapTest.java LINE:32:180 NODE_KIND:182 nVARs:50 NUM_NODE:1274 TBID:78 TEID:842
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ArrayStackTest.java LINE:27:96 NODE_KIND:153 nVARs:29 NUM_NODE:1297 TBID:23 TEID:491
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ArrayStackTest.java LINE:27:96 NODE_KIND:182 nVARs:29 NUM_NODE:1296 TBID:23 TEID:491
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:29:140 NODE_KIND:153 nVARs:41 NUM_NODE:3216 TBID:32 TEID:1081
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/ListOrderedSet2Test.java LINE:29:140 NODE_KIND:182 nVARs:41 NUM_NODE:3215 TBID:32 TEID:1081
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractSortedSetTest.java LINE:35:309 NODE_KIND:153 nVARs:65 NUM_NODE:3172 TBID:43 TEID:1266
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractSortedSetTest.java LINE:35:309 NODE_KIND:182 nVARs:65 NUM_NODE:3171 TBID:43 TEID:1266
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMapTest.java LINE:34:110 NODE_KIND:153 nVARs:43 NUM_NODE:3129 TBID:82 TEID:1036
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMapTest.java LINE:34:110 NODE_KIND:182 nVARs:43 NUM_NODE:3128 TBID:82 TEID:1036
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/ComparatorChainTest.java LINE:30:200 NODE_KIND:153 nVARs:61 NUM_NODE:3136 TBID:46 TEID:1166
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/ComparatorChainTest.java LINE:30:200 NODE_KIND:182 nVARs:61 NUM_NODE:3135 TBID:46 TEID:1166
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SkippingIteratorTest.java LINE:29:271 NODE_KIND:153 nVARs:53 NUM_NODE:3188 TBID:60 TEID:1434
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SkippingIteratorTest.java LINE:29:271 NODE_KIND:182 nVARs:53 NUM_NODE:3187 TBID:60 TEID:1434
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractMapIteratorTest.java LINE:36:298 NODE_KIND:153 nVARs:60 NUM_NODE:3068 TBID:50 TEID:1398
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractMapIteratorTest.java LINE:36:298 NODE_KIND:182 nVARs:60 NUM_NODE:3067 TBID:50 TEID:1398
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractLinkedListTest.java LINE:25:168 NODE_KIND:153 nVARs:41 NUM_NODE:3067 TBID:18 TEID:1192
+000000013	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractLinkedListTest.java LINE:25:168 NODE_KIND:182 nVARs:41 NUM_NODE:3066 TBID:18 TEID:1192
+
+
+000000008	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:485:50 NODE_KIND:182 nVARs:24 NUM_NODE:344 TBID:844 TEID:1053
+000000007	dist:3.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:485:50 NODE_KIND:153 nVARs:24 NUM_NODE:345 TBID:844 TEID:1053
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapTest.java LINE:159:50 NODE_KIND:182 nVARs:24 NUM_NODE:344 TBID:803 TEID:1008
+000000026	dist:3.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractOrderedMapTest.java LINE:194:50 NODE_KIND:182 nVARs:23 NUM_NODE:340 TBID:955 TEID:1162
+000000021	dist:2.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:345:50 NODE_KIND:182 nVARs:24 NUM_NODE:344 TBID:2865 TEID:3074
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/FixedSizeSortedMapTest.java LINE:32:57 NODE_KIND:153 nVARs:23 NUM_NODE:342 TBID:43 TEID:212
+000000017	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/FixedSizeSortedMapTest.java LINE:32:57 NODE_KIND:182 nVARs:23 NUM_NODE:341 TBID:43 TEID:212
+
+000000019	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:61:10 NODE_KIND:113 nVARs:11 NUM_NODE:338 TBID:246 TEID:355
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:72:10 NODE_KIND:113 nVARs:11 NUM_NODE:338 TBID:356 TEID:465
+
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:477:18 NODE_KIND:113 nVARs:14 NUM_NODE:360 TBID:3658 TEID:3772
+000000023	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:496:18 NODE_KIND:113 nVARs:14 NUM_NODE:360 TBID:3773 TEID:3887
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:515:18 NODE_KIND:113 nVARs:14 NUM_NODE:360 TBID:3888 TEID:4002
+
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:388:13 NODE_KIND:113 nVARs:12 NUM_NODE:351 TBID:2866 TEID:2993
+000000029	dist:5.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:402:13 NODE_KIND:113 nVARs:12 NUM_NODE:351 TBID:2994 TEID:3121
+
+000000042	dist:4.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:113:18 NODE_KIND:121 nVARs:19 NUM_NODE:335 TBID:413 TEID:521
+000000040	dist:4.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:95:18 NODE_KIND:121 nVARs:20 NUM_NODE:335 TBID:296 TEID:404
+000000041	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:113:18 NODE_KIND:121 nVARs:20 NUM_NODE:354 TBID:405 TEID:521
+000000039	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:95:18 NODE_KIND:121 nVARs:21 NUM_NODE:354 TBID:288 TEID:404
+
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ArrayListIterator2Test.java LINE:23:29 NODE_KIND:153 nVARs:16 NUM_NODE:346 TBID:11 TEID:167
+000000044	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ArrayListIterator2Test.java LINE:23:29 NODE_KIND:182 nVARs:16 NUM_NODE:345 TBID:11 TEID:167
+
+000000047	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/IteratorEnumerationTest.java LINE:31:23 NODE_KIND:182 nVARs:19 NUM_NODE:333 TBID:49 TEID:183
+000000046	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/IteratorEnumerationTest.java LINE:31:23 NODE_KIND:153 nVARs:19 NUM_NODE:334 TBID:49 TEID:183
+
+000000048	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIterator2Test.java LINE:23:35 NODE_KIND:153 nVARs:16 NUM_NODE:338 TBID:11 TEID:165
+000000049	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIterator2Test.java LINE:23:35 NODE_KIND:182 nVARs:16 NUM_NODE:337 TBID:11 TEID:165
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ListUtilsTest.java LINE:37:442 NODE_KIND:153 nVARs:131 NUM_NODE:7849 TBID:101 TEID:2899
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ListUtilsTest.java LINE:37:442 NODE_KIND:182 nVARs:131 NUM_NODE:7848 TBID:101 TEID:2899
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ListUtilsTest.java LINE:37:442 NODE_KIND:153 nVARs:131 NUM_NODE:7849 TBID:101 TEID:2899
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ListUtilsTest.java LINE:37:442 NODE_KIND:182 nVARs:131 NUM_NODE:7848 TBID:101 TEID:2899
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/DefaultedMapTest.java LINE:34:116 NODE_KIND:153 nVARs:36 NUM_NODE:2545 TBID:82 TEID:934
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/DefaultedMapTest.java LINE:34:116 NODE_KIND:182 nVARs:36 NUM_NODE:2544 TBID:82 TEID:934
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/DefaultKeyValueTest.java LINE:31:158 NODE_KIND:153 nVARs:39 NUM_NODE:2410 TBID:42 TEID:960
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/DefaultKeyValueTest.java LINE:31:158 NODE_KIND:182 nVARs:39 NUM_NODE:2409 TBID:42 TEID:960
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/SplitMapUtilsTest.java LINE:39:202 NODE_KIND:153 nVARs:75 NUM_NODE:2579 TBID:126 TEID:1234
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/SplitMapUtilsTest.java LINE:39:202 NODE_KIND:182 nVARs:75 NUM_NODE:2578 TBID:126 TEID:1234
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingIteratorTest.java LINE:32:171 NODE_KIND:153 nVARs:32 NUM_NODE:2494 TBID:56 TEID:1018
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingIteratorTest.java LINE:32:171 NODE_KIND:182 nVARs:32 NUM_NODE:2493 TBID:56 TEID:1018
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractObjectTest.java LINE:42:295 NODE_KIND:153 nVARs:82 NUM_NODE:2533 TBID:86 TEID:1097
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractObjectTest.java LINE:42:295 NODE_KIND:182 nVARs:82 NUM_NODE:2532 TBID:86 TEID:1097
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionTest.java LINE:104:19 NODE_KIND:113 nVARs:18 NUM_NODE:460 TBID:448 TEID:609
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSetTest.java LINE:89:23 NODE_KIND:113 nVARs:17 NUM_NODE:460 TBID:342 TEID:503
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedNavigableSetTest.java LINE:95:19 NODE_KIND:113 nVARs:16 NUM_NODE:428 TBID:397 TEID:548
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSortedSetTest.java LINE:95:19 NODE_KIND:113 nVARs:16 NUM_NODE:428 TBID:397 TEID:548
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMapTest.java LINE:61:8 NODE_KIND:121 nVARs:15 NUM_NODE:455 TBID:243 TEID:365
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMapTest.java LINE:84:8 NODE_KIND:121 nVARs:15 NUM_NODE:455 TBID:496 TEID:618
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:416:63 NODE_KIND:153 nVARs:20 NUM_NODE:428 TBID:600 TEID:842
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractBidiMapTest.java LINE:416:63 NODE_KIND:182 nVARs:20 NUM_NODE:427 TBID:600 TEID:842
+
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/UnmodifiableSortedMapTest.java LINE:30:71 NODE_KIND:153 nVARs:28 NUM_NODE:466 TBID:36 TEID:266
+000000019	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/UnmodifiableSortedMapTest.java LINE:30:71 NODE_KIND:182 nVARs:28 NUM_NODE:465 TBID:36 TEID:266
+
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractArrayListTest.java LINE:27:36 NODE_KIND:153 nVARs:21 NUM_NODE:440 TBID:29 TEID:204
+000000028	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractArrayListTest.java LINE:27:36 NODE_KIND:182 nVARs:21 NUM_NODE:439 TBID:29 TEID:204
+
+000000032	dist:4.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ArrayListIteratorTest.java LINE:89:30 NODE_KIND:113 nVARs:24 NUM_NODE:448 TBID:272 TEID:433
+000000030	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ObjectArrayListIteratorTest.java LINE:86:30 NODE_KIND:113 nVARs:24 NUM_NODE:460 TBID:282 TEID:453
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:171:27 NODE_KIND:113 nVARs:20 NUM_NODE:454 TBID:740 TEID:928
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:202:27 NODE_KIND:113 nVARs:20 NUM_NODE:454 TBID:929 TEID:1117
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/UnmodifiableMultiValuedMapTest.java LINE:145:29 NODE_KIND:113 nVARs:16 NUM_NODE:218 TBID:571 TEID:703
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/UnmodifiableMultiValuedMapTest.java LINE:175:29 NODE_KIND:113 nVARs:16 NUM_NODE:218 TBID:704 TEID:836
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/UnmodifiableMultiValuedMapTest.java LINE:234:29 NODE_KIND:113 nVARs:16 NUM_NODE:218 TBID:956 TEID:1088
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapTest.java LINE:60:16 NODE_KIND:113 nVARs:21 NUM_NODE:213 TBID:223 TEID:328
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractOrderedMapTest.java LINE:101:16 NODE_KIND:113 nVARs:21 NUM_NODE:213 TBID:371 TEID:476
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/junit/SetDefaultLocaleTestRule.java LINE:29:30 NODE_KIND:153 nVARs:16 NUM_NODE:209 TBID:47 TEID:160
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/junit/SetDefaultLocaleTestRule.java LINE:29:30 NODE_KIND:182 nVARs:16 NUM_NODE:208 TBID:47 TEID:160
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/AbstractQueueTest.java LINE:43:39 NODE_KIND:153 nVARs:20 NUM_NODE:213 TBID:80 TEID:180
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/AbstractQueueTest.java LINE:43:39 NODE_KIND:182 nVARs:20 NUM_NODE:212 TBID:80 TEID:180
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/UnmodifiableBoundedCollectionTest.java LINE:32:70 NODE_KIND:153 nVARs:36 NUM_NODE:707 TBID:67 TEID:382
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/UnmodifiableBoundedCollectionTest.java LINE:32:70 NODE_KIND:182 nVARs:36 NUM_NODE:706 TBID:67 TEID:382
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/HashedMapTest.java LINE:27:53 NODE_KIND:153 nVARs:31 NUM_NODE:711 TBID:29 TEID:312
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/HashedMapTest.java LINE:27:53 NODE_KIND:182 nVARs:31 NUM_NODE:710 TBID:29 TEID:312
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableNavigableSetTest.java LINE:36:134 NODE_KIND:153 nVARs:52 NUM_NODE:1657 TBID:71 TEID:726
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableNavigableSetTest.java LINE:36:134 NODE_KIND:182 nVARs:52 NUM_NODE:1656 TBID:71 TEID:726
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/UnmodifiableMultiValuedMapTest.java LINE:39:233 NODE_KIND:153 nVARs:65 NUM_NODE:1738 TBID:117 TEID:1089
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/UnmodifiableMultiValuedMapTest.java LINE:39:233 NODE_KIND:182 nVARs:65 NUM_NODE:1737 TBID:117 TEID:1089
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:39:127 NODE_KIND:153 nVARs:52 NUM_NODE:1709 TBID:71 TEID:764
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:39:127 NODE_KIND:182 nVARs:52 NUM_NODE:1708 TBID:71 TEID:764
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonListIteratorTest.java LINE:28:112 NODE_KIND:153 nVARs:37 NUM_NODE:1686 TBID:36 TEID:690
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonListIteratorTest.java LINE:28:112 NODE_KIND:182 nVARs:37 NUM_NODE:1685 TBID:36 TEID:690
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/NodeCachingLinkedListTest.java LINE:30:129 NODE_KIND:153 nVARs:49 NUM_NODE:1732 TBID:43 TEID:753
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/NodeCachingLinkedListTest.java LINE:30:129 NODE_KIND:182 nVARs:49 NUM_NODE:1731 TBID:43 TEID:753
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/PredicatedListTest.java LINE:31:120 NODE_KIND:153 nVARs:41 NUM_NODE:1707 TBID:49 TEID:689
+000000013	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/PredicatedListTest.java LINE:31:120 NODE_KIND:182 nVARs:41 NUM_NODE:1706 TBID:49 TEID:689
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/MapUtilsTest.java LINE:57:808 NODE_KIND:153 nVARs:149 NUM_NODE:15550 TBID:289 TEID:5986
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/MapUtilsTest.java LINE:57:808 NODE_KIND:182 nVARs:149 NUM_NODE:15549 TBID:289 TEID:5986
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/IdentityMap.java LINE:47:160 NODE_KIND:153 nVARs:51 NUM_NODE:903 TBID:46 TEID:464
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/IdentityMap.java LINE:47:160 NODE_KIND:182 nVARs:51 NUM_NODE:902 TBID:46 TEID:464
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/NodeListIteratorTest.java LINE:30:108 NODE_KIND:153 nVARs:43 NUM_NODE:916 TBID:64 TEID:439
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/NodeListIteratorTest.java LINE:30:108 NODE_KIND:182 nVARs:43 NUM_NODE:915 TBID:64 TEID:439
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIteratorTest.java LINE:29:85 NODE_KIND:153 nVARs:33 NUM_NODE:959 TBID:36 TEID:452
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIteratorTest.java LINE:29:85 NODE_KIND:182 nVARs:33 NUM_NODE:958 TBID:36 TEID:452
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableOrderedMapIteratorTest.java LINE:32:66 NODE_KIND:153 nVARs:35 NUM_NODE:937 TBID:78 TEID:464
+000000012	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableOrderedMapIteratorTest.java LINE:32:66 NODE_KIND:182 nVARs:35 NUM_NODE:936 TBID:78 TEID:464
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableMapIteratorTest.java LINE:31:65 NODE_KIND:153 nVARs:33 NUM_NODE:901 TBID:71 TEID:444
+000000015	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableMapIteratorTest.java LINE:31:65 NODE_KIND:182 nVARs:33 NUM_NODE:900 TBID:71 TEID:444
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/PassiveExpiringMapTest.java LINE:33:229 NODE_KIND:153 nVARs:71 NUM_NODE:4411 TBID:67 TEID:1681
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/PassiveExpiringMapTest.java LINE:33:229 NODE_KIND:182 nVARs:71 NUM_NODE:4410 TBID:67 TEID:1681
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/sequence/SequencesComparatorTest.java LINE:29:100 NODE_KIND:153 nVARs:47 NUM_NODE:2191 TBID:67 TEID:823
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/sequence/SequencesComparatorTest.java LINE:29:100 NODE_KIND:182 nVARs:47 NUM_NODE:2190 TBID:67 TEID:823
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ComparatorUtilsTest.java LINE:31:94 NODE_KIND:153 nVARs:25 NUM_NODE:2174 TBID:53 TEID:749
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ComparatorUtilsTest.java LINE:31:94 NODE_KIND:182 nVARs:25 NUM_NODE:2173 TBID:53 TEID:749
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ReverseListIteratorTest.java LINE:31:131 NODE_KIND:153 nVARs:40 NUM_NODE:2125 TBID:57 TEID:895
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ReverseListIteratorTest.java LINE:31:131 NODE_KIND:182 nVARs:40 NUM_NODE:2124 TBID:57 TEID:895
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionBuilderTest.java LINE:35:110 NODE_KIND:153 nVARs:48 NUM_NODE:1405 TBID:82 TEID:682
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionBuilderTest.java LINE:35:110 NODE_KIND:182 nVARs:48 NUM_NODE:1404 TBID:82 TEID:682
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionTest.java LINE:33:104 NODE_KIND:153 nVARs:46 NUM_NODE:1410 TBID:63 TEID:622
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionTest.java LINE:33:104 NODE_KIND:182 nVARs:46 NUM_NODE:1409 TBID:63 TEID:622
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapTest.java LINE:60:16 NODE_KIND:113 nVARs:21 NUM_NODE:213 TBID:223 TEID:328
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractOrderedMapTest.java LINE:101:16 NODE_KIND:113 nVARs:21 NUM_NODE:213 TBID:371 TEID:476
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/DualLinkedHashBidiMapTest.java LINE:27:38 NODE_KIND:153 nVARs:15 NUM_NODE:198 TBID:29 TEID:131
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/DualLinkedHashBidiMapTest.java LINE:27:38 NODE_KIND:182 nVARs:15 NUM_NODE:197 TBID:29 TEID:131
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractMapIteratorTest.java LINE:290:20 NODE_KIND:113 nVARs:20 NUM_NODE:205 TBID:1184 TEID:1290
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractMapIteratorTest.java LINE:312:20 NODE_KIND:113 nVARs:20 NUM_NODE:205 TBID:1291 TEID:1397
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/junit/SetDefaultLocaleTestRule.java LINE:29:30 NODE_KIND:153 nVARs:16 NUM_NODE:209 TBID:47 TEID:160
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/junit/SetDefaultLocaleTestRule.java LINE:29:30 NODE_KIND:182 nVARs:16 NUM_NODE:208 TBID:47 TEID:160
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/AbstractQueueTest.java LINE:43:39 NODE_KIND:153 nVARs:20 NUM_NODE:213 TBID:80 TEID:180
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/queue/AbstractQueueTest.java LINE:43:39 NODE_KIND:182 nVARs:20 NUM_NODE:212 TBID:80 TEID:180
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractMapIteratorTest.java LINE:36:298 NODE_KIND:153 nVARs:60 NUM_NODE:3068 TBID:50 TEID:1398
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractMapIteratorTest.java LINE:36:298 NODE_KIND:182 nVARs:60 NUM_NODE:3067 TBID:50 TEID:1398
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractLinkedListTest.java LINE:25:168 NODE_KIND:153 nVARs:41 NUM_NODE:3067 TBID:18 TEID:1192
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/AbstractLinkedListTest.java LINE:25:168 NODE_KIND:182 nVARs:41 NUM_NODE:3066 TBID:18 TEID:1192
+
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/CompositeMapTest.java LINE:29:125 NODE_KIND:153 nVARs:40 NUM_NODE:1893 TBID:32 TEID:779
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/CompositeMapTest.java LINE:29:125 NODE_KIND:182 nVARs:40 NUM_NODE:1892 TBID:32 TEID:779
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractListIteratorTest.java LINE:33:238 NODE_KIND:153 nVARs:49 NUM_NODE:1891 TBID:32 TEID:919
+000000006	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractListIteratorTest.java LINE:33:238 NODE_KIND:182 nVARs:49 NUM_NODE:1890 TBID:32 TEID:919
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/GrowthListTest.java LINE:29:140 NODE_KIND:153 nVARs:43 NUM_NODE:1870 TBID:39 TEID:762
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/GrowthListTest.java LINE:29:140 NODE_KIND:182 nVARs:43 NUM_NODE:1869 TBID:39 TEID:762
+
+
+000000012	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:477:18 NODE_KIND:113 nVARs:14 NUM_NODE:360 TBID:3658 TEID:3772
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:496:18 NODE_KIND:113 nVARs:14 NUM_NODE:360 TBID:3773 TEID:3887
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:515:18 NODE_KIND:113 nVARs:14 NUM_NODE:360 TBID:3888 TEID:4002
+
+000000021	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/TestUtils.java LINE:28:56 NODE_KIND:153 nVARs:25 NUM_NODE:375 TBID:61 TEID:219
+000000022	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/TestUtils.java LINE:28:56 NODE_KIND:182 nVARs:25 NUM_NODE:374 TBID:61 TEID:219
+
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:113:18 NODE_KIND:121 nVARs:20 NUM_NODE:354 TBID:405 TEID:521
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractOrderedMapIteratorTest.java LINE:95:18 NODE_KIND:121 nVARs:21 NUM_NODE:354 TBID:288 TEID:404
+
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:36:271 NODE_KIND:153 nVARs:86 NUM_NODE:4134 TBID:103 TEID:1821
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:36:271 NODE_KIND:182 nVARs:86 NUM_NODE:4133 TBID:103 TEID:1821
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceMapTest.java LINE:42:310 NODE_KIND:153 nVARs:95 NUM_NODE:2776 TBID:155 TEID:1258
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceMapTest.java LINE:42:310 NODE_KIND:182 nVARs:95 NUM_NODE:2775 TBID:155 TEID:1258
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/FactoryUtilsTest.java LINE:40:234 NODE_KIND:153 nVARs:78 NUM_NODE:2728 TBID:130 TEID:1246
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/FactoryUtilsTest.java LINE:40:234 NODE_KIND:182 nVARs:78 NUM_NODE:2727 TBID:130 TEID:1246
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractNavigableSetTest.java LINE:35:304 NODE_KIND:153 nVARs:76 NUM_NODE:3675 TBID:43 TEID:1405
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractNavigableSetTest.java LINE:35:304 NODE_KIND:182 nVARs:76 NUM_NODE:3674 TBID:43 TEID:1405
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ZippingIteratorTest.java LINE:27:163 NODE_KIND:153 nVARs:43 NUM_NODE:3679 TBID:29 TEID:1432
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ZippingIteratorTest.java LINE:27:163 NODE_KIND:182 nVARs:43 NUM_NODE:3678 TBID:29 TEID:1432
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/PassiveExpiringMapTest.java LINE:33:229 NODE_KIND:153 nVARs:71 NUM_NODE:4411 TBID:67 TEID:1681
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/PassiveExpiringMapTest.java LINE:33:229 NODE_KIND:182 nVARs:71 NUM_NODE:4410 TBID:67 TEID:1681
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:36:271 NODE_KIND:153 nVARs:86 NUM_NODE:4134 TBID:103 TEID:1821
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:36:271 NODE_KIND:182 nVARs:86 NUM_NODE:4133 TBID:103 TEID:1821
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java LINE:29:342 NODE_KIND:153 nVARs:57 NUM_NODE:4274 TBID:60 TEID:1856
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java LINE:29:342 NODE_KIND:182 nVARs:57 NUM_NODE:4273 TBID:60 TEID:1856
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:38:771 NODE_KIND:153 nVARs:136 NUM_NODE:16502 TBID:113 TEID:5710
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:38:771 NODE_KIND:182 nVARs:136 NUM_NODE:16501 TBID:113 TEID:5710
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/AbstractSortedBagTest.java LINE:41:26 NODE_KIND:113 nVARs:15 NUM_NODE:387 TBID:56 TEID:208
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractSortedSetTest.java LINE:51:26 NODE_KIND:113 nVARs:15 NUM_NODE:387 TBID:70 TEID:222
+
+000000004	dist:4.8	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractNavigableSetTest.java LINE:86:17 NODE_KIND:121 nVARs:13 NUM_NODE:386 TBID:179 TEID:301
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractNavigableSetTest.java LINE:86:17 NODE_KIND:121 nVARs:14 NUM_NODE:405 TBID:171 TEID:301
+
+000000008	dist:1.4	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceIdentityMapTest.java LINE:278:16 NODE_KIND:113 nVARs:20 NUM_NODE:393 TBID:990 TEID:1123
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ReferenceMapTest.java LINE:222:16 NODE_KIND:113 nVARs:20 NUM_NODE:393 TBID:476 TEID:609
+
+000000015	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/IteratorIterableTest.java LINE:28:32 NODE_KIND:153 nVARs:25 NUM_NODE:396 TBID:50 TEID:214
+000000016	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/IteratorIterableTest.java LINE:28:32 NODE_KIND:182 nVARs:25 NUM_NODE:395 TBID:50 TEID:214
+
+000000024	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/junit/AbstractAvailableLocalesTest.java LINE:34:43 NODE_KIND:153 nVARs:29 NUM_NODE:395 TBID:113 TEID:265
+000000025	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/junit/AbstractAvailableLocalesTest.java LINE:34:43 NODE_KIND:182 nVARs:29 NUM_NODE:394 TBID:113 TEID:265
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractSetTest.java LINE:42:27 NODE_KIND:153 nVARs:17 NUM_NODE:231 TBID:52 TEID:152
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractSetTest.java LINE:42:27 NODE_KIND:182 nVARs:17 NUM_NODE:230 TBID:52 TEID:152
+
+000000011	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIterator2Test.java LINE:65:17 NODE_KIND:113 nVARs:16 NUM_NODE:237 TBID:181 TEID:280
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SingletonIteratorTest.java LINE:66:17 NODE_KIND:113 nVARs:16 NUM_NODE:237 TBID:167 TEID:266
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java LINE:352:18 NODE_KIND:113 nVARs:19 NUM_NODE:235 TBID:1749 TEID:1855
+000000008	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/SkippingIteratorTest.java LINE:281:18 NODE_KIND:113 nVARs:19 NUM_NODE:224 TBID:1329 TEID:1433
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/DualLinkedHashBidiMapTest.java LINE:27:38 NODE_KIND:153 nVARs:15 NUM_NODE:198 TBID:29 TEID:131
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/DualLinkedHashBidiMapTest.java LINE:27:38 NODE_KIND:182 nVARs:15 NUM_NODE:197 TBID:29 TEID:131
+
+
+000000001	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/SynchronizedCollectionTest.java LINE:29:37 NODE_KIND:153 nVARs:19 NUM_NODE:255 TBID:32 TEID:159
+000000002	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/SynchronizedCollectionTest.java LINE:29:37 NODE_KIND:182 nVARs:19 NUM_NODE:254 TBID:32 TEID:159
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/CollatingIteratorTest.java LINE:209:14 NODE_KIND:113 nVARs:18 NUM_NODE:253 TBID:1684 TEID:1788
+000000008	dist:3.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ZippingIteratorTest.java LINE:160:14 NODE_KIND:113 nVARs:17 NUM_NODE:248 TBID:1203 TEID:1305
+
+
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/UnmodifiableBagTest.java LINE:34:75 NODE_KIND:182 nVARs:35 NUM_NODE:549 TBID:71 TEID:333
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/UnmodifiableBagTest.java LINE:34:75 NODE_KIND:153 nVARs:35 NUM_NODE:550 TBID:71 TEID:333
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/UnmodifiableSortedBagTest.java LINE:34:75 NODE_KIND:153 nVARs:35 NUM_NODE:550 TBID:71 TEID:333
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/UnmodifiableSortedBagTest.java LINE:34:75 NODE_KIND:182 nVARs:35 NUM_NODE:549 TBID:71 TEID:333
+000000023	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/UnmodifiableMultiSetTest.java LINE:33:75 NODE_KIND:182 nVARs:34 NUM_NODE:549 TBID:58 TEID:320
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/UnmodifiableMultiSetTest.java LINE:33:75 NODE_KIND:153 nVARs:34 NUM_NODE:550 TBID:58 TEID:320
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/AbstractBagTest.java LINE:611:64 NODE_KIND:153 nVARs:23 NUM_NODE:520 TBID:216 TEID:509
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/AbstractBagTest.java LINE:611:64 NODE_KIND:182 nVARs:23 NUM_NODE:519 TBID:216 TEID:509
+000000025	dist:4.1	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/AbstractMultiSetTest.java LINE:607:64 NODE_KIND:182 nVARs:23 NUM_NODE:527 TBID:216 TEID:515
+000000024	dist:4.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multiset/AbstractMultiSetTest.java LINE:607:64 NODE_KIND:153 nVARs:23 NUM_NODE:528 TBID:216 TEID:515
+
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java LINE:1811:88 NODE_KIND:153 nVARs:29 NUM_NODE:561 TBID:1022 TEID:1339
+000000010	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java LINE:1811:88 NODE_KIND:182 nVARs:29 NUM_NODE:560 TBID:1022 TEID:1339
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/LinkedMapTest.java LINE:197:31 NODE_KIND:113 nVARs:28 NUM_NODE:523 TBID:1270 TEID:1504
+000000018	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:125:31 NODE_KIND:113 nVARs:28 NUM_NODE:523 TBID:620 TEID:854
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:156:31 NODE_KIND:113 nVARs:28 NUM_NODE:523 TBID:856 TEID:1090
+
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ComparatorUtilsTest.java LINE:56:25 NODE_KIND:113 nVARs:13 NUM_NODE:534 TBID:277 TEID:447
+000000027	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/ComparatorUtilsTest.java LINE:82:25 NODE_KIND:113 nVARs:13 NUM_NODE:534 TBID:448 TEID:618
+
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableIteratorTest.java LINE:31:53 NODE_KIND:153 nVARs:33 NUM_NODE:543 TBID:57 TEID:300
+000000029	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableIteratorTest.java LINE:31:53 NODE_KIND:182 nVARs:33 NUM_NODE:542 TBID:57 TEID:300
+
+000000035	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/FixedSizeListTest.java LINE:31:56 NODE_KIND:153 nVARs:29 NUM_NODE:523 TBID:39 TEID:265
+000000036	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/FixedSizeListTest.java LINE:31:56 NODE_KIND:182 nVARs:29 NUM_NODE:522 TBID:39 TEID:265
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/IndexedCollectionTest.java LINE:35:133 NODE_KIND:153 nVARs:52 NUM_NODE:1995 TBID:67 TEID:829
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/IndexedCollectionTest.java LINE:35:133 NODE_KIND:182 nVARs:52 NUM_NODE:1994 TBID:67 TEID:829
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapTest.java LINE:35:176 NODE_KIND:153 nVARs:60 NUM_NODE:1962 TBID:99 TEID:1009
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapTest.java LINE:35:176 NODE_KIND:182 nVARs:60 NUM_NODE:1961 TBID:99 TEID:1009
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/CompositeMapTest.java LINE:29:125 NODE_KIND:153 nVARs:40 NUM_NODE:1893 TBID:32 TEID:779
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/CompositeMapTest.java LINE:29:125 NODE_KIND:182 nVARs:40 NUM_NODE:1892 TBID:32 TEID:779
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/BooleanComparatorTest.java LINE:29:140 NODE_KIND:153 nVARs:41 NUM_NODE:1987 TBID:39 TEID:775
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/BooleanComparatorTest.java LINE:29:140 NODE_KIND:182 nVARs:41 NUM_NODE:1986 TBID:39 TEID:775
+
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractListIteratorTest.java LINE:33:238 NODE_KIND:153 nVARs:49 NUM_NODE:1891 TBID:32 TEID:919
+000000009	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/AbstractListIteratorTest.java LINE:33:238 NODE_KIND:182 nVARs:49 NUM_NODE:1890 TBID:32 TEID:919
+
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/GrowthListTest.java LINE:29:140 NODE_KIND:153 nVARs:43 NUM_NODE:1870 TBID:39 TEID:762
+000000011	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/GrowthListTest.java LINE:29:140 NODE_KIND:182 nVARs:43 NUM_NODE:1869 TBID:39 TEID:762
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/CollectionBagTest.java LINE:36:83 NODE_KIND:153 nVARs:34 NUM_NODE:589 TBID:70 TEID:324
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bag/CollectionBagTest.java LINE:36:83 NODE_KIND:182 nVARs:34 NUM_NODE:588 TBID:70 TEID:324
+
+000000005	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapTest.java LINE:111:34 NODE_KIND:113 nVARs:29 NUM_NODE:606 TBID:530 TEID:768
+000000012	dist:4.9	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractOrderedMapTest.java LINE:152:36 NODE_KIND:113 nVARs:29 NUM_NODE:626 TBID:694 TEID:941
+
+000000010	dist:1.7	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:298:19 NODE_KIND:113 nVARs:24 NUM_NODE:584 TBID:2460 TEID:2651
+000000011	dist:5.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:318:20 NODE_KIND:113 nVARs:24 NUM_NODE:592 TBID:2652 TEID:2849
+000000008	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:237:19 NODE_KIND:113 nVARs:25 NUM_NODE:581 TBID:1890 TEID:2078
+000000009	dist:3.5	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/Flat3MapTest.java LINE:257:20 NODE_KIND:113 nVARs:25 NUM_NODE:589 TBID:2079 TEID:2273
+
+000000014	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/CatchAndRethrowClosureTest.java LINE:26:68 NODE_KIND:153 nVARs:27 NUM_NODE:589 TBID:54 TEID:387
+000000015	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/CatchAndRethrowClosureTest.java LINE:26:68 NODE_KIND:182 nVARs:27 NUM_NODE:588 TBID:54 TEID:387
+
+000000016	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/ReverseComparatorTest.java LINE:34:63 NODE_KIND:153 nVARs:36 NUM_NODE:589 TBID:74 TEID:315
+000000017	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/ReverseComparatorTest.java LINE:34:63 NODE_KIND:182 nVARs:36 NUM_NODE:588 TBID:74 TEID:315
+
+000000021	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableListIteratorTest.java LINE:31:63 NODE_KIND:182 nVARs:35 NUM_NODE:590 TBID:57 TEID:324
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/UnmodifiableListIteratorTest.java LINE:31:63 NODE_KIND:153 nVARs:35 NUM_NODE:591 TBID:57 TEID:324
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractOrderedMapTest.java LINE:38:215 NODE_KIND:153 nVARs:69 NUM_NODE:2294 TBID:126 TEID:1184
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractOrderedMapTest.java LINE:38:215 NODE_KIND:182 nVARs:69 NUM_NODE:2293 TBID:126 TEID:1184
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/DefaultKeyValueTest.java LINE:31:158 NODE_KIND:153 nVARs:39 NUM_NODE:2410 TBID:42 TEID:960
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/DefaultKeyValueTest.java LINE:31:158 NODE_KIND:182 nVARs:39 NUM_NODE:2409 TBID:42 TEID:960
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/IndexedCollectionTest.java LINE:35:133 NODE_KIND:153 nVARs:52 NUM_NODE:1995 TBID:67 TEID:829
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/IndexedCollectionTest.java LINE:35:133 NODE_KIND:182 nVARs:52 NUM_NODE:1994 TBID:67 TEID:829
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:34:193 NODE_KIND:153 nVARs:60 NUM_NODE:2051 TBID:67 TEID:1057
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMap2Test.java LINE:34:193 NODE_KIND:182 nVARs:60 NUM_NODE:2050 TBID:67 TEID:1057
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/BooleanComparatorTest.java LINE:29:140 NODE_KIND:153 nVARs:41 NUM_NODE:1987 TBID:39 TEID:775
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/comparators/BooleanComparatorTest.java LINE:29:140 NODE_KIND:182 nVARs:41 NUM_NODE:1986 TBID:39 TEID:775
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ReverseListIteratorTest.java LINE:31:131 NODE_KIND:153 nVARs:40 NUM_NODE:2125 TBID:57 TEID:895
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ReverseListIteratorTest.java LINE:31:131 NODE_KIND:182 nVARs:40 NUM_NODE:2124 TBID:57 TEID:895
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/collection/PredicatedCollectionTest.java LINE:104:19 NODE_KIND:113 nVARs:18 NUM_NODE:460 TBID:448 TEID:609
+000000046	dist:3.3	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/PredicatedListTest.java LINE:84:23 NODE_KIND:113 nVARs:17 NUM_NODE:471 TBID:323 TEID:486
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSetTest.java LINE:89:23 NODE_KIND:113 nVARs:17 NUM_NODE:460 TBID:342 TEID:503
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableSetTest.java LINE:34:65 NODE_KIND:153 nVARs:32 NUM_NODE:492 TBID:61 TEID:292
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/UnmodifiableSetTest.java LINE:34:65 NODE_KIND:182 nVARs:32 NUM_NODE:491 TBID:61 TEID:292
+
+000000007	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:919:67 NODE_KIND:153 nVARs:25 NUM_NODE:494 TBID:760 TEID:1038
+000000008	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMapTest.java LINE:919:67 NODE_KIND:182 nVARs:25 NUM_NODE:493 TBID:760 TEID:1038
+
+000000016	dist:6.2	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/TransformedSortedMapTest.java LINE:119:8 NODE_KIND:121 nVARs:15 NUM_NODE:473 TBID:510 TEID:640
+000000009	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMapTest.java LINE:61:8 NODE_KIND:121 nVARs:15 NUM_NODE:455 TBID:243 TEID:365
+000000010	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMapTest.java LINE:84:8 NODE_KIND:121 nVARs:15 NUM_NODE:455 TBID:496 TEID:618
+
+000000013	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java LINE:1732:65 NODE_KIND:153 nVARs:26 NUM_NODE:493 TBID:733 TEID:1020
+000000014	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/AbstractMapTest.java LINE:1732:65 NODE_KIND:182 nVARs:26 NUM_NODE:492 TBID:733 TEID:1020
+
+000000020	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/UnmodifiableSortedMapTest.java LINE:30:71 NODE_KIND:153 nVARs:28 NUM_NODE:466 TBID:36 TEID:266
+000000021	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/UnmodifiableSortedMapTest.java LINE:30:71 NODE_KIND:182 nVARs:28 NUM_NODE:465 TBID:36 TEID:266
+
+000000022	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/UnmodifiableMapTest.java LINE:31:71 NODE_KIND:153 nVARs:29 NUM_NODE:471 TBID:47 TEID:267
+000000023	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/UnmodifiableMapTest.java LINE:31:71 NODE_KIND:182 nVARs:29 NUM_NODE:470 TBID:47 TEID:267
+
+000000026	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractTreeMapTest.java LINE:27:35 NODE_KIND:153 nVARs:20 NUM_NODE:474 TBID:29 TEID:213
+000000027	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/AbstractTreeMapTest.java LINE:27:35 NODE_KIND:182 nVARs:20 NUM_NODE:473 TBID:29 TEID:213
+
+000000028	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/DefaultMapEntryTest.java LINE:59:23 NODE_KIND:113 nVARs:20 NUM_NODE:475 TBID:123 TEID:293
+000000030	dist:4.6	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/keyvalue/UnmodifiableMapEntryTest.java LINE:60:22 NODE_KIND:113 nVARs:21 NUM_NODE:474 TBID:134 TEID:302
+
+000000032	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/EqualPredicateTest.java LINE:27:41 NODE_KIND:153 nVARs:25 NUM_NODE:491 TBID:71 TEID:261
+000000033	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/EqualPredicateTest.java LINE:27:41 NODE_KIND:182 nVARs:25 NUM_NODE:490 TBID:71 TEID:261
+
+000000034	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/AbstractAnyAllOnePredicateTest.java LINE:33:48 NODE_KIND:153 nVARs:21 NUM_NODE:473 TBID:66 TEID:237
+000000035	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/functors/AbstractAnyAllOnePredicateTest.java LINE:33:48 NODE_KIND:182 nVARs:21 NUM_NODE:472 TBID:66 TEID:237
+
+000000039	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java LINE:250:27 NODE_KIND:113 nVARs:21 NUM_NODE:480 TBID:1136 TEID:1329
+000000040	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/BoundedIteratorTest.java LINE:282:27 NODE_KIND:113 nVARs:21 NUM_NODE:480 TBID:1330 TEID:1523
+
+000000042	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:171:27 NODE_KIND:113 nVARs:20 NUM_NODE:454 TBID:740 TEID:928
+000000043	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/LoopingListIteratorTest.java LINE:202:27 NODE_KIND:113 nVARs:20 NUM_NODE:454 TBID:929 TEID:1117
+
+000000044	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/Collections701Test.java LINE:31:27 NODE_KIND:153 nVARs:22 NUM_NODE:467 TBID:60 TEID:252
+000000045	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/list/Collections701Test.java LINE:31:27 NODE_KIND:182 nVARs:22 NUM_NODE:466 TBID:60 TEID:252
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:37:495 NODE_KIND:153 nVARs:103 NUM_NODE:9131 TBID:88 TEID:3493
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/ListOrderedMapTest.java LINE:37:495 NODE_KIND:182 nVARs:103 NUM_NODE:9130 TBID:88 TEID:3493
+
+000000002	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/TransformerUtilsTest.java LINE:46:449 NODE_KIND:153 nVARs:105 NUM_NODE:8863 TBID:196 TEID:3445
+000000003	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/TransformerUtilsTest.java LINE:46:449 NODE_KIND:182 nVARs:105 NUM_NODE:8862 TBID:196 TEID:3445
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/TransformerUtilsTest.java LINE:46:449 NODE_KIND:153 nVARs:105 NUM_NODE:8863 TBID:196 TEID:3445
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/TransformerUtilsTest.java LINE:46:449 NODE_KIND:182 nVARs:105 NUM_NODE:8862 TBID:196 TEID:3445
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSetTest.java LINE:31:95 NODE_KIND:153 nVARs:40 NUM_NODE:1219 TBID:49 TEID:516
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/PredicatedSetTest.java LINE:31:95 NODE_KIND:182 nVARs:40 NUM_NODE:1218 TBID:49 TEID:516
+
+000000004	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/SingletonMapTest.java LINE:31:157 NODE_KIND:153 nVARs:51 NUM_NODE:1214 TBID:69 TEID:572
+000000005	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/SingletonMapTest.java LINE:31:157 NODE_KIND:182 nVARs:51 NUM_NODE:1213 TBID:69 TEID:572
+
+000000006	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/StaticBucketMapTest.java LINE:28:72 NODE_KIND:153 nVARs:30 NUM_NODE:1188 TBID:29 TEID:457
+000000007	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/map/StaticBucketMapTest.java LINE:28:72 NODE_KIND:182 nVARs:30 NUM_NODE:1187 TBID:29 TEID:457
+
+
+000000000	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractNavigableSetTest.java LINE:35:304 NODE_KIND:153 nVARs:76 NUM_NODE:3675 TBID:43 TEID:1405
+000000001	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/set/AbstractNavigableSetTest.java LINE:35:304 NODE_KIND:182 nVARs:76 NUM_NODE:3674 TBID:43 TEID:1405
+
+000000003	dist:0.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ZippingIteratorTest.java LINE:27:163 NODE_KIND:153 nVARs:43 NUM_NODE:3679 TBID:29 TEID:1432
+000000004	dist:1.0	FILE /home/daveroar/Graduation_Studies/ThesisWork/OpenSourceProjects/commons-collections-collections-4.3/src/test/java/org/apache/commons/collections4/iterators/ZippingIteratorTest.java LINE:27:163 NODE_KIND:182 nVARs:43 NUM_NODE:3678 TBID:29 TEID:1432
+

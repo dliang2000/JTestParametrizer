@@ -1,0 +1,85 @@
+22:03:33.785 [main] INFO  - log file in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jodatime-2.10_small_test/log.log
+22:03:33.791 [main] INFO  - Testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jodatime-2.10_small_test/joda-time-2.10-deckard-30-1.0-0-selected.xls
+22:03:34.811 [main] INFO  - 9%: Reading information from row 2 (Clone group ID 89, clone #1)
+22:03:34.817 [main] INFO  - 9%: Generating PDG for method "testFormatPrefixSimple1" in "org.joda.time.format.TestPeriodFormatterBuilder"
+22:03:35.675 [main] INFO  - 9%: Reading information from row 3 (Clone group ID 89, clone #2)
+22:03:35.677 [main] INFO  - 9%: Generating PDG for method "testFormatPrefixSimple2" in "org.joda.time.format.TestPeriodFormatterBuilder"
+22:03:35.681 [main] INFO  - 9%: Analyzing Clone #1 (Group 89, Pair 1-2): org.joda.time.format.TestPeriodFormatterBuilder#testFormatPrefixSimple1 (row 2) and org.joda.time.format.TestPeriodFormatterBuilder#testFormatPrefixSimple2 (row 3)
+22:03:35.712 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+22:03:35.712 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+22:03:35.841 [main] INFO  - start to refactor clone pair
+22:03:35.842 [main] INFO  - CloneType: Type 2
+22:03:35.855 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+22:03:35.876 [main] INFO  - 27%: Reading information from row 4 (Clone group ID 359, clone #1)
+22:03:35.908 [main] INFO  - 27%: Generating PDG for method "testGet_DateTimeField" in "org.joda.time.TestInstant_Basics"
+22:03:38.176 [main] INFO  - 27%: Reading information from row 5 (Clone group ID 359, clone #2)
+22:03:38.210 [main] INFO  - 27%: Generating PDG for method "testGet_DateTimeField" in "org.joda.time.TestMutableDateTime_Basics"
+22:03:38.250 [main] INFO  - 27%: Analyzing Clone #2 (Group 359, Pair 1-2): org.joda.time.TestInstant_Basics#testGet_DateTimeField (row 4) and org.joda.time.TestMutableDateTime_Basics#testGet_DateTimeField (row 5)
+22:03:38.307 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+22:03:38.308 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+22:03:38.330 [main] INFO  - bottomUpSubTreeMatches size = 1
+22:03:38.330 [main] INFO  - fullTreeMatch = true
+22:03:38.331 [main] INFO  - Start mapping
+22:03:38.844 [main] INFO  - End mapping
+22:03:38.845 [main] INFO  - start to refactor clone pair
+22:03:38.845 [main] INFO  - CloneType: Type 2
+22:03:38.849 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.850 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.850 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.850 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.851 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.851 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.852 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.852 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.852 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.853 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.853 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.854 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.854 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.854 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.855 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.855 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.855 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.856 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.856 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.857 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.857 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.857 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.858 [main] INFO  - Same method found in common super class [org.joda.time.base.AbstractInstant]: get
+22:03:38.858 [main] INFO  - 45%: Reading information from row 6 (Clone group ID 1152, clone #1)
+22:03:38.881 [main] INFO  - 45%: Generating PDG for method "testConstructor_nullDateTimeZone" in "org.joda.time.TestDateMidnight_Constructors"
+22:03:39.082 [main] INFO  - 45%: Reading information from row 7 (Clone group ID 1152, clone #2)
+22:03:39.084 [main] INFO  - 45%: Generating PDG for method "testConstructor_nullChronology" in "org.joda.time.TestDateMidnight_Constructors"
+22:03:39.087 [main] INFO  - 45%: Analyzing Clone #3 (Group 1152, Pair 1-2): org.joda.time.TestDateMidnight_Constructors#testConstructor_nullDateTimeZone (row 6) and org.joda.time.TestDateMidnight_Constructors#testConstructor_nullChronology (row 7)
+22:03:39.108 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+22:03:39.108 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+22:03:39.141 [main] INFO  - start to refactor clone pair
+22:03:39.142 [main] INFO  - CloneType: Type 2
+22:03:39.144 [main] INFO  - unrefactorable castExpr node pair: (DateTimeZone)null, (Chronology)null
+22:03:39.145 [main] INFO  - 64%: Reading information from row 8 (Clone group ID 1337, clone #1)
+22:03:39.176 [main] INFO  - 64%: Generating PDG for method "testIsEqual_RI" in "org.joda.time.TestInstant_Basics"
+22:03:39.768 [main] INFO  - 64%: Reading information from row 9 (Clone group ID 1337, clone #2)
+22:03:39.769 [main] INFO  - 64%: Generating PDG for method "testIsBefore_RI" in "org.joda.time.TestInstant_Basics"
+22:03:39.772 [main] INFO  - 64%: Analyzing Clone #4 (Group 1337, Pair 1-2): org.joda.time.TestInstant_Basics#testIsEqual_RI (row 8) and org.joda.time.TestInstant_Basics#testIsBefore_RI (row 9)
+22:03:39.799 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+22:03:39.799 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+22:03:39.894 [main] INFO  - start to refactor clone pair
+22:03:39.894 [main] INFO  - CloneType: Type 2
+22:03:39.901 [main] INFO  - 82%: Reading information from row 10 (Clone group ID 1338, clone #1)
+22:03:39.902 [main] INFO  - 82%: Generating PDG for method "testIsAfter_RI" in "org.joda.time.TestInstant_Basics"
+22:03:40.221 [main] INFO  - 82%: Reading information from row 11 (Clone group ID 1338, clone #2)
+22:03:40.249 [main] INFO  - 82%: Generating PDG for method "testIsAfter" in "org.joda.time.TestMutableDateTime_Basics"
+22:03:40.276 [main] INFO  - 82%: Analyzing Clone #5 (Group 1338, Pair 1-2): org.joda.time.TestInstant_Basics#testIsAfter_RI (row 10) and org.joda.time.TestMutableDateTime_Basics#testIsAfter (row 11)
+22:03:40.322 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+22:03:40.322 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+22:03:40.488 [main] INFO  - start to refactor clone pair
+22:03:40.489 [main] INFO  - CloneType: Type 2
+22:03:40.490 [main] INFO  - Containing unrefactorable private field access: TEST_TIME1
+22:03:40.491 [main] INFO  - Containing unrefactorable private field access: TEST_TIME1
+22:03:40.491 [main] INFO  - Containing unrefactorable private field access: TEST_TIME2
+22:03:40.491 [main] INFO  - Containing unrefactorable private field access: TEST_TIME2
+22:03:40.492 [main] INFO  - Containing unrefactorable private field access: PARIS
+22:03:40.492 [main] INFO  - Containing unrefactorable private field access: TEST_TIME_NOW
+22:03:40.492 [main] INFO  - Containing unrefactorable private field access: TEST_TIME_NOW
+22:03:40.493 [main] INFO  - Containing unrefactorable private field access: TEST_TIME_NOW
+22:03:41.412 [main] INFO  - Finished testing refactorabiliy of clones in /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jodatime-2.10_small_test/joda-time-2.10-deckard-30-1.0-0-selected.xls, output file: /home/daveroar/git/JTestParametrizer/results_excludeNonTestCase/jodatime-2.10_small_test/joda-time-2.10-deckard-30-1.0-0-selected-analyzed.xls
