@@ -29,6 +29,9 @@
 
 
 ## Common launch config
+To run JTestParametrizer, open the benchmark in Eclipse and run JTestParametrizer as an application with the benchmark as its parameter. It also relies on the .xls files from clone detection being available.
+
+Note that you might get failures for some benchmarks (e.g. joda-time) if you don't previously run mvn test on that benchmark.
 
 Workspace Data Location:
 workspace
@@ -37,7 +40,7 @@ VM arguments:
 -Xms128m -Xmx8192m
 
 Working directory:
-/home/yannick/workspace/eclipse
+<put-your-homedir>/workspace/eclipse
 
 ## JFreeChart 1.0.10
 

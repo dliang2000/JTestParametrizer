@@ -64,7 +64,9 @@ public class Main implements IApplication {
             throw new RuntimeException("The project \"" + projectName + "\" is not opened in the workspace. Cannot continue.");
         }
 
-        parseJavaProject(jProject);
+        if (!parseJavaProject(jProject)) {
+            throw new RuntimeException("The project \"" + projectName + "\" has some compilation error. Cannot continue.");
+        }
 
         IProject project = jProject.getProject();
         project.setDescription(project.getDescription(), ~IProject.KEEP_HISTORY, new NullProgressMonitor());
@@ -126,7 +128,7 @@ public class Main implements IApplication {
         return jProject;
     }
 
-    private void parseJavaProject(IJavaProject jProject) {
+    private boolean parseJavaProject(IJavaProject jProject) {
         log.info("Now parsing the project");
         try {
             if (ASTReader.getSystemObject() != null && jProject.equals(ASTReader.getExaminedProject())) {
@@ -136,8 +138,10 @@ public class Main implements IApplication {
             }
         } catch (CompilationErrorDetectedException e) {
             log.info("Project contains compilation errors");
+            return false;
         }
         log.info("Finished parsing");
+        return true;
     }
 
     @Override
