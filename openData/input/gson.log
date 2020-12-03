@@ -1,0 +1,284 @@
+15:56:07.903 [main] INFO  - log file in /Users/user/Desktop/JTestParametrizer/openData/input/gson.log
+15:56:07.912 [main] INFO  - Testing refactorabiliy of clones in /Users/user/Desktop/JTestParametrizer/openData/input/gson-2.8.5-deckard-selected.xls
+15:56:08.433 [main] INFO  - 2%: Reading information from row 2 (Clone group ID 1, clone #1)
+15:56:08.467 [main] INFO  - 2%: Generating PDG for method "testMultiThreadSerialization" in "com.google.gson.functional.ConcurrencyTest"
+15:56:20.437 [main] INFO  - 2%: Reading information from row 3 (Clone group ID 1, clone #2)
+15:56:20.439 [main] INFO  - 2%: Generating PDG for method "testMultiThreadDeserialization" in "com.google.gson.functional.ConcurrencyTest"
+15:56:20.503 [main] INFO  - 2%: Analyzing Clone #1 (Group 1, Pair 1-2): com.google.gson.functional.ConcurrencyTest#testMultiThreadSerialization (row 2) and com.google.gson.functional.ConcurrencyTest#testMultiThreadDeserialization (row 3)
+15:56:20.536 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+15:56:20.536 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:20.587 [main] INFO  - Start mapping
+15:56:20.671 [main] INFO  - End mapping
+15:56:20.678 [main] INFO  - considering clone pair
+15:56:20.680 [main] INFO  - CloneType: Type 2
+15:56:20.704 [main] ERROR - CloneStructure has PDG gap node.
+15:56:20.704 [main] INFO  - marked non-refactorable: gap node
+15:56:20.705 [main] INFO  - 5%: Reading information from row 4 (Clone group ID 5, clone #1)
+15:56:20.740 [main] INFO  - Ignore method: arrayOfObjects
+15:56:20.740 [main] INFO  - 8%: Reading information from row 6 (Clone group ID 6, clone #1)
+15:56:20.781 [main] INFO  - 8%: Generating PDG for method "testRegisteredSerializerOverridesJsonAdapter" in "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest"
+15:56:21.040 [main] INFO  - 8%: Reading information from row 7 (Clone group ID 6, clone #2)
+15:56:21.042 [main] INFO  - 8%: Generating PDG for method "testRegisteredDeserializerOverridesJsonAdapter" in "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest"
+15:56:21.045 [main] INFO  - 8%: Analyzing Clone #3 (Group 6, Pair 1-2): com.google.gson.functional.JsonAdapterAnnotationOnClassesTest#testRegisteredSerializerOverridesJsonAdapter (row 6) and com.google.gson.functional.JsonAdapterAnnotationOnClassesTest#testRegisteredDeserializerOverridesJsonAdapter (row 7)
+15:56:21.080 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:21.080 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:21.135 [main] INFO  - considering clone pair
+15:56:21.135 [main] INFO  - CloneType: Type 2
+15:56:21.137 [main] ERROR - CloneStructure has PDG gap node.
+15:56:21.137 [main] INFO  - marked non-refactorable: gap node
+15:56:21.138 [main] INFO  - 11%: Reading information from row 8 (Clone group ID 7, clone #1)
+15:56:21.176 [main] INFO  - Ignore method: testForceDoublingAndRehash
+15:56:21.177 [main] INFO  - 14%: Reading information from row 10 (Clone group ID 8, clone #1)
+15:56:21.179 [main] INFO  - Ignore method: testEqualsAndHashCode
+15:56:21.179 [main] INFO  - 17%: Reading information from row 12 (Clone group ID 9, clone #1)
+15:56:21.221 [main] INFO  - 17%: Generating PDG for method "disabled_testSerializeClasses" in "com.google.gson.metrics.PerformanceTest"
+15:56:33.312 [main] INFO  - 17%: Reading information from row 13 (Clone group ID 9, clone #2)
+15:56:33.314 [main] INFO  - 17%: Generating PDG for method "disabled_testSerializeExposedClasses" in "com.google.gson.metrics.PerformanceTest"
+15:56:33.333 [main] INFO  - 17%: Analyzing Clone #6 (Group 9, Pair 1-2): com.google.gson.metrics.PerformanceTest#disabled_testSerializeClasses (row 12) and com.google.gson.metrics.PerformanceTest#disabled_testSerializeExposedClasses (row 13)
+15:56:33.362 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+15:56:33.362 [main] INFO  - CDT 1 leaves = 2, CDT 2 leaves = 2
+15:56:33.378 [main] INFO  - Start mapping
+15:56:33.453 [main] INFO  - End mapping
+15:56:33.454 [main] INFO  - considering clone pair
+15:56:33.455 [main] INFO  - Non refactorable CloneType: Type 3
+15:56:33.456 [main] INFO  - 21%: Reading information from row 14 (Clone group ID 16, clone #1)
+15:56:33.486 [main] INFO  - 21%: Generating PDG for method "testRemoveRootDoesNotDoubleUnlink" in "com.google.gson.internal.LinkedHashTreeMapTest"
+15:56:39.241 [main] INFO  - 21%: Reading information from row 15 (Clone group ID 16, clone #2)
+15:56:39.257 [main] INFO  - 21%: Generating PDG for method "testRemoveRootDoesNotDoubleUnlink" in "com.google.gson.internal.LinkedTreeMapTest"
+15:56:39.715 [main] INFO  - 21%: Analyzing Clone #7 (Group 16, Pair 1-2): com.google.gson.internal.LinkedHashTreeMapTest#testRemoveRootDoesNotDoubleUnlink (row 14) and com.google.gson.internal.LinkedTreeMapTest#testRemoveRootDoesNotDoubleUnlink (row 15)
+15:56:39.758 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:39.759 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:40.238 [main] INFO  - considering clone pair
+15:56:40.239 [main] INFO  - CloneType: Type 2
+15:56:40.258 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:56:40.258 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:56:40.259 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:56:40.259 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+15:56:40.259 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: entrySet
+15:56:40.260 [main] INFO  - different local method access: assertIterationOrder, assertIterationOrder
+15:56:40.262 [main] INFO  - marked non-refactorable
+15:56:40.262 [main] INFO  - 24%: Reading information from row 16 (Clone group ID 18, clone #1)
+15:56:40.314 [main] INFO  - 24%: Generating PDG for method "testCustomAdapterInvokedForCollectionElementDeserialization" in "com.google.gson.functional.CustomTypeAdaptersTest"
+15:56:47.273 [main] INFO  - 24%: Reading information from row 17 (Clone group ID 18, clone #2)
+15:56:47.276 [main] INFO  - 24%: Generating PDG for method "testCustomAdapterInvokedForMapElementDeserialization" in "com.google.gson.functional.CustomTypeAdaptersTest"
+15:56:49.522 [main] INFO  - 24%: Analyzing Clone #8 (Group 18, Pair 1-2): com.google.gson.functional.CustomTypeAdaptersTest#testCustomAdapterInvokedForCollectionElementDeserialization (row 16) and com.google.gson.functional.CustomTypeAdaptersTest#testCustomAdapterInvokedForMapElementDeserialization (row 17)
+15:56:49.563 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:49.563 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:49.580 [main] INFO  - considering clone pair
+15:56:49.581 [main] INFO  - CloneType: Type 2
+15:56:49.583 [main] ERROR - CloneStructure has PDG gap node.
+15:56:49.584 [main] INFO  - marked non-refactorable: gap node
+15:56:49.584 [main] INFO  - 27%: Reading information from row 18 (Clone group ID 20, clone #1)
+15:56:49.609 [main] INFO  - 27%: Generating PDG for method "testAddingNullPropertyValue" in "com.google.gson.JsonObjectTest"
+15:56:49.684 [main] INFO  - 27%: Reading information from row 19 (Clone group ID 20, clone #2)
+15:56:49.685 [main] INFO  - 27%: Generating PDG for method "testAddingBooleanProperties" in "com.google.gson.JsonObjectTest"
+15:56:49.687 [main] INFO  - 27%: Analyzing Clone #9 (Group 20, Pair 1-2): com.google.gson.JsonObjectTest#testAddingNullPropertyValue (row 18) and com.google.gson.JsonObjectTest#testAddingBooleanProperties (row 19)
+15:56:49.716 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:49.716 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:49.747 [main] INFO  - considering clone pair
+15:56:49.748 [main] INFO  - CloneType: Type 2
+15:56:49.749 [main] ERROR - CloneStructure has PDG gap node.
+15:56:49.749 [main] INFO  - marked non-refactorable: gap node
+15:56:49.749 [main] INFO  - 30%: Reading information from row 20 (Clone group ID 21, clone #1)
+15:56:49.773 [main] INFO  - Ignore method: testDefaultInnerClassExclusion
+15:56:49.773 [main] INFO  - 33%: Reading information from row 22 (Clone group ID 23, clone #1)
+15:56:49.796 [main] INFO  - Ignore method: testPutOverrides
+15:56:49.797 [main] INFO  - 37%: Reading information from row 24 (Clone group ID 24, clone #1)
+15:56:49.825 [main] INFO  - 37%: Generating PDG for method "testTwoNames" in "com.google.gson.stream.JsonWriterTest"
+15:56:50.249 [main] INFO  - 37%: Reading information from row 25 (Clone group ID 24, clone #2)
+15:56:50.251 [main] INFO  - 37%: Generating PDG for method "testNulls" in "com.google.gson.stream.JsonWriterTest"
+15:56:50.256 [main] INFO  - 37%: Analyzing Clone #12 (Group 24, Pair 1-2): com.google.gson.stream.JsonWriterTest#testTwoNames (row 24) and com.google.gson.stream.JsonWriterTest#testNulls (row 25)
+15:56:50.269 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 0
+15:56:50.270 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:50.290 [main] INFO  - considering clone pair
+15:56:50.290 [main] INFO  - Non refactorable CloneType: Type 3
+15:56:50.291 [main] INFO  - 40%: Reading information from row 26 (Clone group ID 27, clone #1)
+15:56:50.324 [main] INFO  - 40%: Generating PDG for method "disabled_testDeserializeClasses" in "com.google.gson.metrics.PerformanceTest"
+15:56:50.473 [main] INFO  - 40%: Reading information from row 27 (Clone group ID 27, clone #2)
+15:56:50.476 [main] INFO  - 40%: Generating PDG for method "disabled_testDeserializeExposedClasses" in "com.google.gson.metrics.PerformanceTest"
+15:56:50.478 [main] INFO  - 40%: Analyzing Clone #13 (Group 27, Pair 1-2): com.google.gson.metrics.PerformanceTest#disabled_testDeserializeClasses (row 26) and com.google.gson.metrics.PerformanceTest#disabled_testDeserializeExposedClasses (row 27)
+15:56:50.509 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+15:56:50.509 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:50.510 [main] INFO  - Start mapping
+15:56:50.522 [main] INFO  - End mapping
+15:56:50.522 [main] INFO  - considering clone pair
+15:56:50.522 [main] INFO  - CloneType: Type 2
+15:56:50.523 [main] INFO  - marked non-refactorable: method pair are not test cases!
+15:56:50.523 [main] INFO  - 43%: Reading information from row 28 (Clone group ID 28, clone #1)
+15:56:50.551 [main] INFO  - Ignore method: testNonstreamingFollowedByNonstreaming
+15:56:50.551 [main] INFO  - 46%: Reading information from row 30 (Clone group ID 29, clone #1)
+15:56:50.684 [main] INFO  - Ignore method: testBaseClassSerializerInvokedForBaseClassFields
+15:56:50.685 [main] INFO  - 49%: Reading information from row 32 (Clone group ID 33, clone #1)
+15:56:50.733 [main] INFO  - 49%: Generating PDG for method "testBigDecimalInASingleElementArraySerialization" in "com.google.gson.functional.PrimitiveTest"
+15:56:52.729 [main] INFO  - 49%: Reading information from row 33 (Clone group ID 33, clone #2)
+15:56:52.732 [main] INFO  - 49%: Generating PDG for method "testBigIntegerInASingleElementArraySerialization" in "com.google.gson.functional.PrimitiveTest"
+15:56:52.735 [main] INFO  - 49%: Analyzing Clone #16 (Group 33, Pair 1-2): com.google.gson.functional.PrimitiveTest#testBigDecimalInASingleElementArraySerialization (row 32) and com.google.gson.functional.PrimitiveTest#testBigIntegerInASingleElementArraySerialization (row 33)
+15:56:52.780 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:52.781 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:52.835 [main] INFO  - considering clone pair
+15:56:52.836 [main] INFO  - CloneType: Type 2
+15:56:52.837 [main] ERROR - CloneStructure has PDG gap node.
+15:56:52.837 [main] INFO  - marked non-refactorable: gap node
+15:56:52.837 [main] INFO  - 52%: Reading information from row 34 (Clone group ID 34, clone #1)
+15:56:52.855 [main] INFO  - 52%: Generating PDG for method "testValueWithoutName" in "com.google.gson.stream.JsonWriterTest"
+15:56:52.874 [main] INFO  - 52%: Reading information from row 35 (Clone group ID 34, clone #2)
+15:56:52.875 [main] INFO  - 52%: Generating PDG for method "testNullName" in "com.google.gson.stream.JsonWriterTest"
+15:56:52.876 [main] INFO  - 52%: Analyzing Clone #17 (Group 34, Pair 1-2): com.google.gson.stream.JsonWriterTest#testValueWithoutName (row 34) and com.google.gson.stream.JsonWriterTest#testNullName (row 35)
+15:56:52.894 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+15:56:52.894 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:52.896 [main] INFO  - Start mapping
+15:56:52.902 [main] INFO  - End mapping
+15:56:52.902 [main] INFO  - considering clone pair
+15:56:52.903 [main] INFO  - CloneType: Type 2
+15:56:52.903 [main] ERROR - CloneStructure has PDG gap node.
+15:56:52.904 [main] INFO  - marked non-refactorable: gap node
+15:56:52.904 [main] INFO  - 56%: Reading information from row 36 (Clone group ID 37, clone #1)
+15:56:52.906 [main] INFO  - 56%: Generating PDG for method "testBooleans" in "com.google.gson.stream.JsonWriterTest"
+15:56:52.922 [main] INFO  - 56%: Reading information from row 37 (Clone group ID 37, clone #2)
+15:56:52.924 [main] INFO  - 56%: Generating PDG for method "testRepeatedName" in "com.google.gson.stream.JsonWriterTest"
+15:56:52.930 [main] INFO  - 56%: Analyzing Clone #18 (Group 37, Pair 1-2): com.google.gson.stream.JsonWriterTest#testBooleans (row 36) and com.google.gson.stream.JsonWriterTest#testRepeatedName (row 37)
+15:56:52.944 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:52.946 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:53.004 [main] INFO  - considering clone pair
+15:56:53.005 [main] INFO  - CloneType: Type 2
+15:56:53.007 [main] INFO  - could not do a lambda with return type JsonWriter
+15:56:53.011 [main] INFO  - continue to resolve inner expression diff without creating new adapter action
+15:56:53.011 [main] INFO  - non-refactored node pair with SimpleName node: jsonWriter  <--->  jsonWriter.name("a")  (TYPE_COMPATIBLE_REPLACEMENT)
+15:56:53.012 [main] INFO  - marked non-refactorable
+15:56:53.013 [main] INFO  - 59%: Reading information from row 38 (Clone group ID 38, clone #1)
+15:56:53.039 [main] INFO  - 59%: Generating PDG for method "testAtomicIntegerArray" in "com.google.gson.functional.JavaUtilConcurrentAtomicTest"
+15:56:54.132 [main] INFO  - 59%: Reading information from row 39 (Clone group ID 38, clone #2)
+15:56:54.134 [main] INFO  - 59%: Generating PDG for method "testAtomicLongArray" in "com.google.gson.functional.JavaUtilConcurrentAtomicTest"
+15:56:54.209 [main] INFO  - 59%: Analyzing Clone #19 (Group 38, Pair 1-2): com.google.gson.functional.JavaUtilConcurrentAtomicTest#testAtomicIntegerArray (row 38) and com.google.gson.functional.JavaUtilConcurrentAtomicTest#testAtomicLongArray (row 39)
+15:56:54.236 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:54.237 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:54.257 [main] INFO  - considering clone pair
+15:56:54.257 [main] INFO  - CloneType: Type 2
+15:56:54.257 [main] ERROR - CloneStructure has PDG gap node.
+15:56:54.258 [main] INFO  - marked non-refactorable: gap node
+15:56:54.258 [main] INFO  - 62%: Reading information from row 40 (Clone group ID 40, clone #1)
+15:56:54.295 [main] INFO  - 62%: Generating PDG for method "testRegisteredTypeAdapterTakesPrecedenceOverClassAnnotationAdapter" in "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest"
+15:56:54.475 [main] INFO  - 62%: Reading information from row 41 (Clone group ID 40, clone #2)
+15:56:54.476 [main] INFO  - 62%: Generating PDG for method "testFieldAnnotationWorksForParameterizedType" in "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest"
+15:56:56.495 [main] INFO  - 62%: Analyzing Clone #20 (Group 40, Pair 1-2): com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest#testRegisteredTypeAdapterTakesPrecedenceOverClassAnnotationAdapter (row 40) and com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest#testFieldAnnotationWorksForParameterizedType (row 41)
+15:56:56.528 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:56.528 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:56.646 [main] INFO  - considering clone pair
+15:56:56.646 [main] INFO  - CloneType: Type 2
+15:56:56.647 [main] ERROR - CloneStructure has PDG gap node.
+15:56:56.647 [main] INFO  - marked non-refactorable: gap node
+15:56:56.648 [main] INFO  - 65%: Reading information from row 42 (Clone group ID 44, clone #1)
+15:56:56.678 [main] INFO  - 65%: Generating PDG for method "testClear" in "com.google.gson.internal.LinkedHashTreeMapTest"
+15:56:56.715 [main] INFO  - 65%: Reading information from row 43 (Clone group ID 44, clone #2)
+15:56:56.735 [main] INFO  - 65%: Generating PDG for method "testClear" in "com.google.gson.internal.LinkedTreeMapTest"
+15:56:56.755 [main] INFO  - 65%: Analyzing Clone #21 (Group 44, Pair 1-2): com.google.gson.internal.LinkedHashTreeMapTest#testClear (row 42) and com.google.gson.internal.LinkedTreeMapTest#testClear (row 43)
+15:56:56.799 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:56:56.799 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:56.825 [main] INFO  - considering clone pair
+15:56:56.825 [main] INFO  - CloneType: Type 2
+15:56:56.830 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:56:56.831 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:56:56.831 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:56:56.831 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: clear
+15:56:56.831 [main] INFO  - different local method access: assertIterationOrder, assertIterationOrder
+15:56:56.832 [main] INFO  - marked non-refactorable
+15:56:56.833 [main] INFO  - 68%: Reading information from row 44 (Clone group ID 48, clone #1)
+15:56:56.843 [main] INFO  - 68%: Generating PDG for method "testInterfaceInstantiation" in "com.google.gson.internal.UnsafeAllocatorInstantiationTest"
+15:56:57.026 [main] INFO  - 68%: Reading information from row 45 (Clone group ID 48, clone #2)
+15:56:57.028 [main] INFO  - 68%: Generating PDG for method "testAbstractClassInstantiation" in "com.google.gson.internal.UnsafeAllocatorInstantiationTest"
+15:56:57.029 [main] INFO  - 68%: Analyzing Clone #22 (Group 48, Pair 1-2): com.google.gson.internal.UnsafeAllocatorInstantiationTest#testInterfaceInstantiation (row 44) and com.google.gson.internal.UnsafeAllocatorInstantiationTest#testAbstractClassInstantiation (row 45)
+15:56:57.035 [main] INFO  - CDT 1 depth = 1, CDT 2 depth = 1
+15:56:57.035 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:56:57.036 [main] INFO  - Start mapping
+15:56:57.039 [main] INFO  - End mapping
+15:56:57.039 [main] INFO  - considering clone pair
+15:56:57.039 [main] INFO  - CloneType: Type 2
+15:56:57.040 [main] ERROR - CloneStructure has PDG gap node.
+15:56:57.040 [main] INFO  - marked non-refactorable: gap node
+15:56:57.040 [main] INFO  - 71%: Reading information from row 46 (Clone group ID 51, clone #1)
+15:56:57.073 [main] INFO  - 71%: Generating PDG for method "testBaseSerializedAsBaseWhenSpecifiedWithExplicitType" in "com.google.gson.functional.InheritanceTest"
+15:57:00.942 [main] INFO  - 71%: Reading information from row 47 (Clone group ID 51, clone #2)
+15:57:00.967 [main] INFO  - 71%: Generating PDG for method "testAtomicLongWithStringSerializationPolicy" in "com.google.gson.functional.JavaUtilConcurrentAtomicTest"
+15:57:01.941 [main] INFO  - 71%: Analyzing Clone #23 (Group 51, Pair 1-2): com.google.gson.functional.InheritanceTest#testBaseSerializedAsBaseWhenSpecifiedWithExplicitType (row 46) and com.google.gson.functional.JavaUtilConcurrentAtomicTest#testAtomicLongWithStringSerializationPolicy (row 47)
+15:57:01.987 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:57:01.988 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:57:02.009 [main] INFO  - considering clone pair
+15:57:02.009 [main] INFO  - Non refactorable CloneType: Type 3
+15:57:02.010 [main] INFO  - 75%: Reading information from row 48 (Clone group ID 52, clone #1)
+15:57:02.027 [main] INFO  - 75%: Generating PDG for method "testDefaultLongSerialization" in "com.google.gson.LongSerializationPolicyTest"
+15:57:02.056 [main] INFO  - 75%: Reading information from row 49 (Clone group ID 52, clone #2)
+15:57:02.058 [main] INFO  - 75%: Generating PDG for method "testStringLongSerialization" in "com.google.gson.LongSerializationPolicyTest"
+15:57:02.060 [main] INFO  - 75%: Analyzing Clone #24 (Group 52, Pair 1-2): com.google.gson.LongSerializationPolicyTest#testDefaultLongSerialization (row 48) and com.google.gson.LongSerializationPolicyTest#testStringLongSerialization (row 49)
+15:57:02.081 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:57:02.081 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:57:02.107 [main] INFO  - considering clone pair
+15:57:02.107 [main] INFO  - CloneType: Type 2
+15:57:02.108 [main] ERROR - CloneStructure has PDG gap node.
+15:57:02.108 [main] INFO  - marked non-refactorable: gap node
+15:57:02.108 [main] INFO  - 78%: Reading information from row 50 (Clone group ID 54, clone #1)
+15:57:02.131 [main] INFO  - 78%: Generating PDG for method "testIterationOrder" in "com.google.gson.internal.LinkedHashTreeMapTest"
+15:57:05.665 [main] INFO  - 78%: Reading information from row 51 (Clone group ID 54, clone #2)
+15:57:05.681 [main] INFO  - 78%: Generating PDG for method "testIterationOrder" in "com.google.gson.internal.LinkedTreeMapTest"
+15:57:05.795 [main] INFO  - 78%: Analyzing Clone #25 (Group 54, Pair 1-2): com.google.gson.internal.LinkedHashTreeMapTest#testIterationOrder (row 50) and com.google.gson.internal.LinkedTreeMapTest#testIterationOrder (row 51)
+15:57:05.831 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:57:05.832 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:57:05.860 [main] INFO  - considering clone pair
+15:57:05.861 [main] INFO  - CloneType: Type 2
+15:57:05.862 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:57:05.863 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:57:05.863 [main] INFO  - Same method found in common super class [java.util.AbstractMap<java.lang.String,java.lang.String>]: put
+15:57:05.863 [main] INFO  - different local method access: assertIterationOrder, assertIterationOrder
+15:57:05.863 [main] INFO  - different local method access: assertIterationOrder, assertIterationOrder
+15:57:05.863 [main] INFO  - marked non-refactorable
+15:57:05.864 [main] INFO  - 81%: Reading information from row 52 (Clone group ID 59, clone #1)
+15:57:05.884 [main] INFO  - Ignore method: testExceptionWithoutCause
+15:57:05.885 [main] INFO  - 84%: Reading information from row 54 (Clone group ID 63, clone #1)
+15:57:05.924 [main] INFO  - 84%: Generating PDG for method "testJsonAdapterInvokedOnlyForAnnotatedFields" in "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest"
+15:57:08.910 [main] INFO  - 84%: Reading information from row 55 (Clone group ID 63, clone #2)
+15:57:08.928 [main] INFO  - 84%: Generating PDG for method "testJsonWithNonExectuableTokenWithConfiguredGsonDeserialization" in "com.google.gson.functional.SecurityTest"
+15:57:08.969 [main] INFO  - 84%: Analyzing Clone #27 (Group 63, Pair 1-2): com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest#testJsonAdapterInvokedOnlyForAnnotatedFields (row 54) and com.google.gson.functional.SecurityTest#testJsonWithNonExectuableTokenWithConfiguredGsonDeserialization (row 55)
+15:57:09.029 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:57:09.029 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:57:09.171 [main] INFO  - considering clone pair
+15:57:09.171 [main] INFO  - CloneType: Type 2
+15:57:09.172 [main] ERROR - CloneStructure has PDG gap node.
+15:57:09.172 [main] INFO  - marked non-refactorable: gap node
+15:57:09.174 [main] INFO  - 87%: Reading information from row 56 (Clone group ID 64, clone #1)
+15:57:09.219 [main] INFO  - 87%: Generating PDG for method "testEnsureCustomDeserializerNotInvokedForNullValues" in "com.google.gson.functional.CustomTypeAdaptersTest"
+15:57:09.269 [main] INFO  - 87%: Reading information from row 57 (Clone group ID 64, clone #2)
+15:57:09.307 [main] INFO  - 87%: Generating PDG for method "testVersionedClassesSerialization" in "com.google.gson.functional.VersioningTest"
+15:57:09.375 [main] INFO  - 87%: Analyzing Clone #28 (Group 64, Pair 1-2): com.google.gson.functional.CustomTypeAdaptersTest#testEnsureCustomDeserializerNotInvokedForNullValues (row 56) and com.google.gson.functional.VersioningTest#testVersionedClassesSerialization (row 57)
+15:57:09.520 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:57:09.521 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:57:09.676 [main] INFO  - considering clone pair
+15:57:09.676 [main] INFO  - CloneType: Type 2
+15:57:09.677 [main] ERROR - CloneStructure has PDG gap node.
+15:57:09.677 [main] INFO  - marked non-refactorable: gap node
+15:57:09.678 [main] INFO  - 90%: Reading information from row 58 (Clone group ID 66, clone #1)
+15:57:09.706 [main] INFO  - 90%: Generating PDG for method "testParseString" in "com.google.gson.JsonParserTest"
+15:57:09.765 [main] INFO  - 90%: Reading information from row 59 (Clone group ID 66, clone #2)
+15:57:09.766 [main] INFO  - 90%: Generating PDG for method "testParseReader" in "com.google.gson.JsonParserTest"
+15:57:09.779 [main] INFO  - 90%: Analyzing Clone #29 (Group 66, Pair 1-2): com.google.gson.JsonParserTest#testParseString (row 58) and com.google.gson.JsonParserTest#testParseReader (row 59)
+15:57:09.805 [main] INFO  - CDT 1 depth = 0, CDT 2 depth = 0
+15:57:09.805 [main] INFO  - CDT 1 leaves = 1, CDT 2 leaves = 1
+15:57:09.812 [main] INFO  - considering clone pair
+15:57:09.812 [main] INFO  - CloneType: Type 2
+15:57:09.813 [main] ERROR - CloneStructure has PDG gap node.
+15:57:09.814 [main] INFO  - marked non-refactorable: gap node
+15:57:09.815 [main] INFO  - 94%: Reading information from row 60 (Clone group ID 68, clone #1)
+15:57:09.840 [main] INFO  - Ignore method: testAtomicInteger
+15:57:09.840 [main] INFO  - 97%: Reading information from row 62 (Clone group ID 79, clone #1)
+15:57:09.854 [main] INFO  - Ignore method: testClassAndFieldAreBehindInVersion
+15:57:11.069 [main] INFO  - Applying changes to source files
+15:57:11.070 [main] INFO  - refactoring 0 clone method pairs.
+15:57:11.070 [main] INFO  - skipping 18 clone method pairs:
+15:57:11.071 [main] INFO  - 	1 not test cases
+15:57:11.071 [main] INFO  - 	13 containing gap nodes (type3)
+15:57:11.071 [main] INFO  - 	4 not refactorable
+15:57:11.071 [main] INFO  - 	0 repeated naming
+15:57:11.071 [main] INFO  - 	0 access issues
+15:57:11.071 [main] INFO  - type1 count: 0
+15:57:11.071 [main] INFO  - type2 count: 18
+15:57:11.071 [main] INFO  - type3 count: 3
+15:57:11.073 [main] INFO  - effective refactoring ratio: 0/4 = 0.0%
+15:57:11.073 [main] INFO  - Finished testing refactorabiliy of clones in /Users/user/Desktop/JTestParametrizer/openData/input/gson-2.8.5-deckard-selected.xls, output file: /Users/user/Desktop/JTestParametrizer/openData/input/gson-2.8.5-deckard-selected-analyzed.xls
