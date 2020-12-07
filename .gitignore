@@ -3,6 +3,7 @@
 
 # Log file
 #*.log
+openData/input/gson.log
 
 # BlueJ files
 *.ctxt
